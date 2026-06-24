@@ -4,4 +4,4 @@
 
 - Regions: eu
 - Latest: eu: [0.0.0_0025](lumi.dimmer.acn002/0.0.0_0025/)
-- Versions: [0.0.0_0025](lumi.dimmer.acn002/0.0.0_0025/)
+- Versions: [0.0.0_0025](lumi.dimmer.acn002/0.0.0_0025/) (2024-07-08)

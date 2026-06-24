@@ -4,4 +4,4 @@
 
 - Regions: us
 - Latest: us: [0.0.0_0028](lumi.switch.b3n01/0.0.0_0028/)
-- Versions: [0.0.0_0028](lumi.switch.b3n01/0.0.0_0028/)
+- Versions: [0.0.0_0028](lumi.switch.b3n01/0.0.0_0028/) (2024-07-24)

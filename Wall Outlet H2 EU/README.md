@@ -4,4 +4,4 @@
 
 - Regions: eu, kr
 - Latest: eu: [0.0.0_0033](lumi.plug.aeu001/0.0.0_0033/), kr: [0.0.0_0033](lumi.plug.aeu001/0.0.0_0033/)
-- Versions: [0.0.0_0033](lumi.plug.aeu001/0.0.0_0033/)
+- Versions: [0.0.0_0033](lumi.plug.aeu001/0.0.0_0033/) (2026-01-20)

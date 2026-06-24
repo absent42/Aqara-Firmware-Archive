@@ -4,4 +4,4 @@
 
 - Regions: cn
 - Latest: cn: [0.0.0_0041](lumi.switch.acn063/0.0.0_0041/)
-- Versions: [0.0.0_0041](lumi.switch.acn063/0.0.0_0041/)
+- Versions: [0.0.0_0041](lumi.switch.acn063/0.0.0_0041/) (2025-07-24)

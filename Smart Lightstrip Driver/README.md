@@ -4,4 +4,4 @@
 
 - Regions: au, eu, kr, us
 - Latest: au: [0.0.0_0037](lumi.dimmer.rcbac1/0.0.0_0037/), eu: [0.0.0_0032](lumi.dimmer.rcbac1/0.0.0_0032/), kr: [0.0.0_0032](lumi.dimmer.rcbac1/0.0.0_0032/), us: [0.0.0_0037](lumi.dimmer.rcbac1/0.0.0_0037/)
-- Versions: [0.0.0_0032](lumi.dimmer.rcbac1/0.0.0_0032/), [0.0.0_0037](lumi.dimmer.rcbac1/0.0.0_0037/)
+- Versions: [0.0.0_0032](lumi.dimmer.rcbac1/0.0.0_0032/) (2023-09-07), [0.0.0_0037](lumi.dimmer.rcbac1/0.0.0_0037/) (2024-08-15)

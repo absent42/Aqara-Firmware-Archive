@@ -4,4 +4,4 @@
 
 - Regions: au, eu, us
 - Latest: au: [1.0.1.0](aqara.matter.4447_4104/1.0.1.0/), eu: [1.0.1.0](aqara.matter.4447_4104/1.0.1.0/), us: [1.0.1.0](aqara.matter.4447_4104/1.0.1.0/)
-- Versions: [1.0.1.0](aqara.matter.4447_4104/1.0.1.0/)
+- Versions: [1.0.1.0](aqara.matter.4447_4104/1.0.1.0/) (2025-06-03)

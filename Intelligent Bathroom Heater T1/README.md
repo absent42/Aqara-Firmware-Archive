@@ -4,4 +4,4 @@
 
 - Regions: kr, us
 - Latest: kr: [0.0.7_0734](lumi.bhf_light.acn001/0.0.7_0734/), us: [0.0.7_0734](lumi.bhf_light.acn001/0.0.7_0734/)
-- Versions: [0.0.7_0734](lumi.bhf_light.acn001/0.0.7_0734/)
+- Versions: [0.0.7_0734](lumi.bhf_light.acn001/0.0.7_0734/) (2025-11-24)

@@ -6,10 +6,10 @@ This product name covers more than one hardware model (region or revision varian
 
 - Regions: eu, us
 - Latest: eu: [1.0.3.0](aqara.matter.4447_18435/1.0.3.0/), us: [1.0.3.0](aqara.matter.4447_18435/1.0.3.0/)
-- Versions: [1.0.3.0](aqara.matter.4447_18435/1.0.3.0/)
+- Versions: [1.0.3.0](aqara.matter.4447_18435/1.0.3.0/) (2025-07-09)
 
 ## [lumi.airrtc.aeu001](lumi.airrtc.aeu001/)
 
 - Regions: eu, us
 - Latest: eu: [0.0.0_1030](lumi.airrtc.aeu001/0.0.0_1030/), us: [0.0.0_1030](lumi.airrtc.aeu001/0.0.0_1030/)
-- Versions: [0.0.0_1030](lumi.airrtc.aeu001/0.0.0_1030/)
+- Versions: [0.0.0_1030](lumi.airrtc.aeu001/0.0.0_1030/) (2025-11-11)

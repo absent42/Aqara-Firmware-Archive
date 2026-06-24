@@ -6,10 +6,10 @@ This product name covers more than one hardware model (region or revision varian
 
 - Regions: us
 - Latest: us: [1.1.1.2](aqara.matter.4447_4112/1.1.1.2/)
-- Versions: [1.1.1.2](aqara.matter.4447_4112/1.1.1.2/)
+- Versions: [1.1.1.2](aqara.matter.4447_4112/1.1.1.2/) (2025-11-27)
 
 ## [lumi.switch.aus001](lumi.switch.aus001/)
 
 - Regions: us
 - Latest: us: [0.0.0_2327](lumi.switch.aus001/0.0.0_2327/)
-- Versions: [0.0.0_2327](lumi.switch.aus001/0.0.0_2327/)
+- Versions: [0.0.0_2327](lumi.switch.aus001/0.0.0_2327/) (2025-10-21)

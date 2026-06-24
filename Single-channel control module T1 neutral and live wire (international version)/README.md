@@ -4,4 +4,4 @@
 
 - Regions: au, eu, kr, us
 - Latest: au: [0.0.0_0030](lumi.switch.n0agl1/0.0.0_0030/), eu: [0.0.0_0030](lumi.switch.n0agl1/0.0.0_0030/), kr: [0.0.0_0023](lumi.switch.n0agl1/0.0.0_0023/), us: [0.0.0_0030](lumi.switch.n0agl1/0.0.0_0030/)
-- Versions: [0.0.0_0023](lumi.switch.n0agl1/0.0.0_0023/), [0.0.0_0030](lumi.switch.n0agl1/0.0.0_0030/)
+- Versions: [0.0.0_0023](lumi.switch.n0agl1/0.0.0_0023/) (2022-01-21), [0.0.0_0030](lumi.switch.n0agl1/0.0.0_0030/) (2024-01-12)
