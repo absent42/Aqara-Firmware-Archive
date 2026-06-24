@@ -1,0 +1,15 @@
+{
+  "model": "lumi.remote.b1acn02",
+  "friendlyName": "Wireless Mini Switch T1",
+  "firmwareVersion": "0.0.0_0031",
+  "firmwareMD5": "66c1834e6fe536cf519ccd594d8d956d",
+  "fileSize": 211150,
+  "releaseNotes": "Fixes known issues.",
+  "regions": [
+    "eu",
+    "kr",
+    "ru",
+    "us"
+  ],
+  "releaseDate": "2022-11-23"
+}

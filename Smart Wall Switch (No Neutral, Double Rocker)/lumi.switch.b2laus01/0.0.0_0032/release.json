@@ -1,0 +1,15 @@
+{
+  "model": "lumi.switch.b2laus01",
+  "friendlyName": "Smart Wall Switch (No Neutral, Double Rocker)",
+  "firmwareVersion": "0.0.0_0032",
+  "firmwareMD5": "cfa5a14dfa27e44f652841771acc225a",
+  "fileSize": 270014,
+  "releaseNotes": "Bugs fixed.",
+  "regions": [
+    "au",
+    "kr",
+    "ru",
+    "us"
+  ],
+  "releaseDate": "2022-11-11"
+}

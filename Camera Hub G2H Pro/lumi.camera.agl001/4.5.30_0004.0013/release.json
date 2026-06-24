@@ -1,0 +1,16 @@
+{
+  "model": "lumi.camera.agl001",
+  "friendlyName": "Camera Hub G2H Pro",
+  "firmwareVersion": "4.5.30_0004.0013",
+  "firmwareMD5": "37a4531a6060a2726a8c020612049f4e",
+  "fileSize": 16117864,
+  "releaseNotes": "1. Fixed an issue where the cloud snapshot feature could not be turned off properly\n2. Updated Hub firmware version to support more child device types and features",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "ru",
+    "us"
+  ],
+  "releaseDate": "2026-06-01"
+}

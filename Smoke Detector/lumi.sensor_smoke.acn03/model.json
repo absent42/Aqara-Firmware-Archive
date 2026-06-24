@@ -1,0 +1,8 @@
+{
+  "model": "lumi.sensor_smoke.acn03",
+  "pid": "67294",
+  "matterPid": "",
+  "friendlyNames": [
+    "Smoke Detector"
+  ]
+}

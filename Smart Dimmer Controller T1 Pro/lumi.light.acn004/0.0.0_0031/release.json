@@ -1,0 +1,15 @@
+{
+  "model": "lumi.light.acn004",
+  "friendlyName": "Smart Dimmer Controller T1 Pro",
+  "firmwareVersion": "0.0.0_0031",
+  "firmwareMD5": "1d4c2fa417407bcd962dca27d9bb204f",
+  "fileSize": 288510,
+  "releaseNotes": "Bugs fixed",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2024-04-15"
+}

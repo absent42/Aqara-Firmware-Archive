@@ -1,0 +1,8 @@
+{
+  "model": "aqara.matter.4447_6150",
+  "pid": "6164",
+  "matterPid": "6150",
+  "friendlyNames": [
+    "LED Bulb T2 (GU10, CCT)"
+  ]
+}

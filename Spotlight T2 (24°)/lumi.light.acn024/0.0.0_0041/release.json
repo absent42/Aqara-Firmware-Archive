@@ -1,0 +1,15 @@
+{
+  "model": "lumi.light.acn024",
+  "friendlyName": "Spotlight T2 (24°)",
+  "firmwareVersion": "0.0.0_0041",
+  "firmwareMD5": "d08636241beeedcde7628cbb4420f906",
+  "fileSize": 317900,
+  "releaseNotes": "1. Fix known issues.",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2023-12-22"
+}

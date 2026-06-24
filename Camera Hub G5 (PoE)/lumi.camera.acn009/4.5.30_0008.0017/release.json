@@ -1,0 +1,12 @@
+{
+  "model": "lumi.camera.acn009",
+  "friendlyName": "Camera Hub G5 (PoE)",
+  "firmwareVersion": "4.5.30_0008.0017",
+  "firmwareMD5": "a1094ba65bc3721350e57365db7baf00",
+  "fileSize": 34879496,
+  "releaseNotes": "1. Fixed known bugs in face recognition to improve detection distance.\n2. Fixed the issue where the cloud snapshot feature cannot be turned off properly.\n3. Updated the Hub version to support more child device types and functions.\n4. Fixed the bug where lens obstruction does not trigger an event.\n5. Fixed the bug where enabling the privacy zone masking feature incorrectly identifies it as a package.\n6. Fixed the issue where the NAS cannot select the 7×24 hour detection mode in certain cases.\n7. Fixed Thread network configuration anomalies and the inability to add Matter child devices.\n8. Fixed the prompt indicating devices are not on the same LAN when syncing devices from Aqara Home to HomeKit.",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-06-09"
+}

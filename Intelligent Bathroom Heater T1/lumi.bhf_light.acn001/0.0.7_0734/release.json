@@ -1,0 +1,13 @@
+{
+  "model": "lumi.bhf_light.acn001",
+  "friendlyName": "Intelligent Bathroom Heater T1",
+  "firmwareVersion": "0.0.7_0734",
+  "firmwareMD5": "6e7128bf13cc230a38acf0ce95331af1",
+  "fileSize": 560210,
+  "releaseNotes": "1. Fix known issues and optimize user experience",
+  "regions": [
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2025-11-24"
+}

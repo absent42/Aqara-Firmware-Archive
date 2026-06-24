@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.acn080",
+  "friendlyName": "Scene Switch H1 Elite",
+  "firmwareVersion": "0.0.0_2529",
+  "firmwareMD5": "4101bcbee231966c36e42f6b3e379f95",
+  "fileSize": 788186,
+  "releaseNotes": "",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-04-02"
+}

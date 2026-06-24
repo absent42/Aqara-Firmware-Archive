@@ -1,0 +1,15 @@
+{
+  "model": "lumi.light.acn032",
+  "friendlyName": "Ceiling Light T1M",
+  "firmwareVersion": "0.0.0_0026",
+  "firmwareMD5": "8e28526a7514ee675aaaeffd7a064840",
+  "fileSize": 462258,
+  "releaseNotes": "1. Fix known issues.",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2023-12-27"
+}

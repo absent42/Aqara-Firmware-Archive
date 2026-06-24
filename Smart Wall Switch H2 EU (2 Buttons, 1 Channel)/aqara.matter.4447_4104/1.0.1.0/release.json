@@ -1,0 +1,14 @@
+{
+  "model": "aqara.matter.4447_4104",
+  "friendlyName": "Smart Wall Switch H2 EU (2 Buttons, 1 Channel)",
+  "firmwareVersion": "1.0.1.0",
+  "firmwareMD5": "89ee23a714d61813a2d69645d8218fc1",
+  "fileSize": 993484,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2025-06-03"
+}

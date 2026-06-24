@@ -1,0 +1,13 @@
+{
+  "model": "aqara.matter.4447_4270",
+  "friendlyName": "Light Switch H2 JP (2 Buttons, 1 Channel)",
+  "firmwareVersion": "1.1.1.4",
+  "firmwareMD5": "234cf26eb78d9c715494da3b5fc677dc",
+  "fileSize": 1107772,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "us"
+  ],
+  "releaseDate": "2026-01-13"
+}

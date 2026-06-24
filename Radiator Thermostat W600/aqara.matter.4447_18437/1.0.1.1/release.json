@@ -1,0 +1,12 @@
+{
+  "model": "aqara.matter.4447_18437",
+  "friendlyName": "Radiator Thermostat W600",
+  "firmwareVersion": "1.0.1.1",
+  "firmwareMD5": "7b44fa258cb0ae066c4bebdf198f20a4",
+  "fileSize": 1024716,
+  "releaseNotes": "This version update focuses on temperature control precision and operational stability, addressing key issues:\n1. Reduced temperature fluctuation range for more precise temperature control;\n2. Optimized speed for reaching temperature stability, providing more efficient response;\n3. Solved temperature fluctuation issues after small-range temperature control, ensuring smoother operation;\n4. Fixed abnormal temperature display issues with linked sensors, providing more accurate data.",
+  "regions": [
+    "eu"
+  ],
+  "releaseDate": "2026-03-02"
+}

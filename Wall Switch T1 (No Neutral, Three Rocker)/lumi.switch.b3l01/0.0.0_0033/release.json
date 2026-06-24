@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.b3l01",
+  "friendlyName": "Wall Switch T1 (No Neutral, Three Rocker)",
+  "firmwareVersion": "0.0.0_0033",
+  "firmwareMD5": "8ba8e20438347c98d4e5a7504a44e4c0",
+  "fileSize": 270894,
+  "releaseNotes": "1.Fixes known issues",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2020-04-14"
+}

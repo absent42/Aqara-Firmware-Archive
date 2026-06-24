@@ -1,0 +1,8 @@
+{
+  "model": "lumi.sensor_occupy.acn1",
+  "pid": "8205",
+  "matterPid": "",
+  "friendlyNames": [
+    "Presence Multi-Sensor FP310"
+  ]
+}

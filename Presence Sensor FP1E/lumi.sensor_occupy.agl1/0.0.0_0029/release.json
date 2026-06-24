@@ -1,0 +1,16 @@
+{
+  "model": "lumi.sensor_occupy.agl1",
+  "friendlyName": "Presence Sensor FP1E",
+  "firmwareVersion": "0.0.0_0029",
+  "firmwareMD5": "bf3b940fad83847a2217ec10c133d437",
+  "fileSize": 302938,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2025-08-27"
+}

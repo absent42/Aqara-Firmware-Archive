@@ -1,0 +1,15 @@
+{
+  "model": "aqara.matter.4447_8197",
+  "friendlyName": "Presence Multi-Sensor FP300",
+  "firmwareVersion": "1.1.3.8",
+  "firmwareMD5": "dc0bea9e3c94149b3fa5e37a43d9d9ae",
+  "fileSize": 1183324,
+  "releaseNotes": "1. Optimized radar performance and detection logic, improved resistance to False alarms\n2. Improved response speed and smoothness\n3. Added Thread automatic reconnection network mechanism\n4. Optimized无人判定 cycle logic\n5. Optimized sensor sampling logic to filter out abnormal temperature and humidity data",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-05-15"
+}

@@ -1,0 +1,12 @@
+{
+  "model": "aqara.matter.4447_4114",
+  "friendlyName": "Presence Switch H2 US (4 Buttons, 3 Channels)",
+  "firmwareVersion": "1.1.1.2",
+  "firmwareMD5": "a522f216e4c040e5f2653449bbb68a37",
+  "fileSize": 1100812,
+  "releaseNotes": "1. Fixed a bug where the LED indicator light did not match\n2. Keep HoldTime synchronized in the occupancy sensing cluster",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2025-12-23"
+}

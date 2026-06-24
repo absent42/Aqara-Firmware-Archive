@@ -1,0 +1,16 @@
+{
+  "model": "lumi.switch.acn047",
+  "friendlyName": "Dual Relay Module T2",
+  "firmwareVersion": "0.0.0_0035",
+  "firmwareMD5": "c36a554c62af712144d0e1aa0dc895e8",
+  "fileSize": 605242,
+  "releaseNotes": "1.Fix known bugs",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-01-13"
+}

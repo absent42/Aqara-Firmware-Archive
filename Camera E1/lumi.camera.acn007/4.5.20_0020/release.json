@@ -1,0 +1,12 @@
+{
+  "model": "lumi.camera.acn007",
+  "friendlyName": "Camera E1",
+  "firmwareVersion": "4.5.20_0020",
+  "firmwareMD5": "a22216a432d80e2b0b5b89872be1e088",
+  "fileSize": 27699304,
+  "releaseNotes": "1.Fix known bugs",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-04-25"
+}

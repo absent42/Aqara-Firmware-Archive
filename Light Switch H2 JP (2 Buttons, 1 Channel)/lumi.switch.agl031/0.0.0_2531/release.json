@@ -1,0 +1,13 @@
+{
+  "model": "lumi.switch.agl031",
+  "friendlyName": "Light Switch H2 JP (2 Buttons, 1 Channel)",
+  "firmwareVersion": "0.0.0_2531",
+  "firmwareMD5": "14f4eee0a5f5fd3c291e65d003eb985a",
+  "fileSize": 757546,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "us"
+  ],
+  "releaseDate": "2026-04-09"
+}

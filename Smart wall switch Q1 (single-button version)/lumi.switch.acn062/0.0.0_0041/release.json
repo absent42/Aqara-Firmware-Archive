@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.acn062",
+  "friendlyName": "Smart wall switch Q1 (single-button version)",
+  "firmwareVersion": "0.0.0_0041",
+  "firmwareMD5": "7991f85579c87889af4193f08ad10c5d",
+  "fileSize": 1190688,
+  "releaseNotes": "",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2025-07-24"
+}

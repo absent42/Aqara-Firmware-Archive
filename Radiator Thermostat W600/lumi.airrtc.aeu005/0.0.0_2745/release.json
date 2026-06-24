@@ -1,0 +1,12 @@
+{
+  "model": "lumi.airrtc.aeu005",
+  "friendlyName": "Radiator Thermostat W600",
+  "firmwareVersion": "0.0.0_2745",
+  "firmwareMD5": "70c20eb56106aa0b472079f8419bbd2e",
+  "fileSize": 648362,
+  "releaseNotes": "This version update focuses on temperature control precision and operational stability, specifically addressing:\n1. Reduced temperature fluctuation range for more precise temperature control;\n2. Optimized speed to reach temperature steady state for more efficient response;\n3. Resolved temperature fluctuation issues after small-range temperature control for smoother operation;\n4. Fixed abnormal temperature display issues with linked sensors for more accurate data.",
+  "regions": [
+    "eu"
+  ],
+  "releaseDate": "2026-03-06"
+}

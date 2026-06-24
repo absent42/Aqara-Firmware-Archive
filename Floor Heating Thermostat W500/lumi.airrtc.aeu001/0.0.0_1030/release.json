@@ -1,0 +1,13 @@
+{
+  "model": "lumi.airrtc.aeu001",
+  "friendlyName": "Floor Heating Thermostat W500",
+  "firmwareVersion": "0.0.0_1030",
+  "firmwareMD5": "5f16a5a6656f545652b46ecb66525351",
+  "fileSize": 681962,
+  "releaseNotes": "1. Newly added support for device shutdown settings after NTC disconnection\n2. Newly added support for Hold duration settings: Until the next/Forever modes\n3. Fixed known issues with smart schedule operation\n4. Optimized user experience\n5. Fixed other known issues",
+  "regions": [
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2025-11-11"
+}

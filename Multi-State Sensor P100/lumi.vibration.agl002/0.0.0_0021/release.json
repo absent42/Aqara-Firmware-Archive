@@ -1,0 +1,16 @@
+{
+  "model": "lumi.vibration.agl002",
+  "friendlyName": "Multi-State Sensor P100",
+  "firmwareVersion": "0.0.0_0021",
+  "firmwareMD5": "34545989f5537b7bb9c8bea11965fa7d",
+  "fileSize": 584766,
+  "releaseNotes": "[Important tip: After pressing upgrade in the app, press the device button once to speed up the firmware upgrade process]\n1. Optimized event detection accuracy\n2. Fixed known issues",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-02-06"
+}

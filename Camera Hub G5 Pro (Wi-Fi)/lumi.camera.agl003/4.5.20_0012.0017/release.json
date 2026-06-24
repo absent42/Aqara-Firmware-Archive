@@ -1,0 +1,12 @@
+{
+  "model": "lumi.camera.agl003",
+  "friendlyName": "Camera Hub G5 Pro (Wi-Fi)",
+  "firmwareVersion": "4.5.20_0012.0017",
+  "firmwareMD5": "3fd689575d6aca68674e0080b7e90f01",
+  "fileSize": 33862640,
+  "releaseNotes": "Bug fixes",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2026-03-23"
+}

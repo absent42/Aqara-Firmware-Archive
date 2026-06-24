@@ -1,0 +1,15 @@
+{
+  "model": "lumi.sensor_occupy.agl8",
+  "friendlyName": "Presence Multi-Sensor FP300",
+  "firmwareVersion": "0.0.0_6542",
+  "firmwareMD5": "fc435f3b2a92e2cc8d5e5f6e9b0b98de",
+  "fileSize": 799370,
+  "releaseNotes": "[Press the device body button after tapping Update in the APP to improve firmware update speed]<br>1. Optimized radar performance and monitoring logic, improved resistance to false alarms<br>2. Improved response speed and smoothness<br>3. Added Thread auto-reconnection network mechanism<br>4. Optimized logic for unoccupied determination period<br>5. Optimized sensor sampling logic, filtering out abnormal temperature and humidity data",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-05-15"
+}

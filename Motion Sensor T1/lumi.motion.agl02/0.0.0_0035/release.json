@@ -1,0 +1,14 @@
+{
+  "model": "lumi.motion.agl02",
+  "friendlyName": "Motion Sensor T1",
+  "firmwareVersion": "0.0.0_0035",
+  "firmwareMD5": "8c15fe5e01f0d176dda6130e0cd1d711",
+  "fileSize": 213662,
+  "releaseNotes": "Performance optimization.",
+  "regions": [
+    "kr",
+    "ru",
+    "us"
+  ],
+  "releaseDate": "2020-12-14"
+}

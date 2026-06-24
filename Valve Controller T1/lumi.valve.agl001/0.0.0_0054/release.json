@@ -1,0 +1,15 @@
+{
+  "model": "lumi.valve.agl001",
+  "friendlyName": "Valve Controller T1",
+  "firmwareVersion": "0.0.0_0054",
+  "firmwareMD5": "cffea79fe8c3ab8cbd179e4f76d75d28",
+  "fileSize": 512218,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2025-01-21"
+}

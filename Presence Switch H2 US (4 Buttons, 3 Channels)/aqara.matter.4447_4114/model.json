@@ -1,0 +1,8 @@
+{
+  "model": "aqara.matter.4447_4114",
+  "pid": "4144",
+  "matterPid": "4114",
+  "friendlyNames": [
+    "Presence Switch H2 US (4 Buttons, 3 Channels)"
+  ]
+}

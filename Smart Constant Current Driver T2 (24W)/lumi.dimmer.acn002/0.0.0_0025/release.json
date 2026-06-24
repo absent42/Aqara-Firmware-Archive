@@ -1,0 +1,12 @@
+{
+  "model": "lumi.dimmer.acn002",
+  "friendlyName": "Smart Constant Current Driver T2 (24W)",
+  "firmwareVersion": "0.0.0_0025",
+  "firmwareMD5": "d24ca1ed3fc834c3066ac1346f079b33",
+  "fileSize": 674918,
+  "releaseNotes": "Fix bugs.",
+  "regions": [
+    "eu"
+  ],
+  "releaseDate": "2024-07-08"
+}

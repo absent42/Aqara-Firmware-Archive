@@ -1,0 +1,16 @@
+{
+  "model": "aqara.matter.4447_8203",
+  "friendlyName": "Multi-State Sensor P100",
+  "firmwareVersion": "1.0.0.2",
+  "firmwareMD5": "ac92c918bb5c9fe75657d07a6c5a7759",
+  "fileSize": 1122160,
+  "releaseNotes": "1. Optimize the open/close automatic calibration algorithm\n2. Fix known issues",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2025-12-26"
+}

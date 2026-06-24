@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.b1nacn01",
+  "friendlyName": "Smart Wall Switch T1 (With Neutral, Single Rocker)",
+  "firmwareVersion": "0.0.0_0028",
+  "firmwareMD5": "30a98cca4c23c1459dea58b05f16306d",
+  "fileSize": 277104,
+  "releaseNotes": "1、Fix occasional offline issue for some devices\n2、Modify the device entry time to 180s",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2024-07-25"
+}

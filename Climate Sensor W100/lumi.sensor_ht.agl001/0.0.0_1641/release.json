@@ -1,0 +1,16 @@
+{
+  "model": "lumi.sensor_ht.agl001",
+  "friendlyName": "Climate Sensor W100",
+  "firmwareVersion": "0.0.0_1641",
+  "firmwareMD5": "ad1084cbff203e80c6032b81900dfd70",
+  "fileSize": 624570,
+  "releaseNotes": "1. Fix known issues and optimize user experience",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-05-18"
+}

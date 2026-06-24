@@ -1,0 +1,14 @@
+{
+  "model": "lumi.gateway.agl002",
+  "friendlyName": "Hub M1S Gen 2",
+  "firmwareVersion": "4.5.30_0013.0013",
+  "firmwareMD5": "ea60b971adeeb235a0367cb2d30011c5",
+  "fileSize": 17408104,
+  "releaseNotes": "1. Optimized device-related functions;\n2. Fixed known issues;",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-02-10"
+}

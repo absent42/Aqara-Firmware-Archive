@@ -1,0 +1,15 @@
+{
+  "model": "aqara.matter.4447_4106",
+  "friendlyName": "Dimmer Switch H2 EU",
+  "firmwareVersion": "1.0.0.0",
+  "firmwareMD5": "224f692d1d251250522870ef14e94ff9",
+  "fileSize": 990464,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2024-12-04"
+}

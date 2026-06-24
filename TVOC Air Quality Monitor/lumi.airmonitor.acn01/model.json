@@ -1,0 +1,8 @@
+{
+  "model": "lumi.airmonitor.acn01",
+  "pid": "67303",
+  "matterPid": "",
+  "friendlyNames": [
+    "TVOC Air Quality Monitor"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "model": "lumi.switch.n2acn1",
+  "friendlyName": "Wall Switch H1 (With Neutral, Double Rocker)",
+  "firmwareVersion": "15",
+  "firmwareMD5": "5a5e03c109ea5c830d8a8165d2f96eff",
+  "fileSize": 292144,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2024-07-26"
+}

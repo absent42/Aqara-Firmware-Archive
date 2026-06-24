@@ -1,0 +1,8 @@
+{
+  "model": "aqara.matter.4447_6145",
+  "pid": "6159",
+  "matterPid": "6145",
+  "friendlyNames": [
+    "LED Bulb T2 (E26, RGB CCT)"
+  ]
+}

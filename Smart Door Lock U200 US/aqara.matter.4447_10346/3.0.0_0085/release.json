@@ -1,0 +1,12 @@
+{
+  "model": "aqara.matter.4447_10346",
+  "friendlyName": "Smart Door Lock U200 US",
+  "firmwareVersion": "3.0.0_0085",
+  "firmwareMD5": "988f4e1c260644ec9f3604f449e34ca1",
+  "fileSize": 3006004,
+  "releaseNotes": "",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2026-05-28"
+}

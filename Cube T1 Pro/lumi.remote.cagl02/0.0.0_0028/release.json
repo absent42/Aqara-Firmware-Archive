@@ -1,0 +1,12 @@
+{
+  "model": "lumi.remote.cagl02",
+  "friendlyName": "Cube T1 Pro",
+  "firmwareVersion": "0.0.0_0028",
+  "firmwareMD5": "786ba828e650b1da73c3064efb4a5a4a",
+  "fileSize": 266734,
+  "releaseNotes": "Function optimization.",
+  "regions": [
+    "kr"
+  ],
+  "releaseDate": "2023-08-25"
+}

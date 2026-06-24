@@ -1,0 +1,14 @@
+{
+  "model": "aqara.matter.4447_4110",
+  "friendlyName": "Power Plug H2 UK",
+  "firmwareVersion": "0.0.7.0",
+  "firmwareMD5": "1ae7bd4bf8226ebf96a25c56285f94af",
+  "fileSize": 1100271,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2025-12-11"
+}

@@ -1,0 +1,15 @@
+{
+  "model": "lumi.light.acn003",
+  "friendlyName": "Ceiling Light L1-350",
+  "firmwareVersion": "0.0.0_0029",
+  "firmwareMD5": "652055e6738590c80706b3a9441d4a6e",
+  "fileSize": 315524,
+  "releaseNotes": "Bugs fixed.",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2023-09-05"
+}

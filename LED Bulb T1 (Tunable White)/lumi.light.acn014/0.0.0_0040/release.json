@@ -1,0 +1,14 @@
+{
+  "model": "lumi.light.acn014",
+  "friendlyName": "LED Bulb T1 (Tunable White)",
+  "firmwareVersion": "0.0.0_0040",
+  "firmwareMD5": "3d5f5d1eb1312d8518c9e9c2591e2291",
+  "fileSize": 482528,
+  "releaseNotes": "1.Fix known bugs",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2023-12-22"
+}

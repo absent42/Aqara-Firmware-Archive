@@ -1,0 +1,14 @@
+{
+  "model": "lumi.plug.aeu002",
+  "friendlyName": "Wall Outlet H2 UK (Single USB-C)",
+  "firmwareVersion": "0.0.0_0006",
+  "firmwareMD5": "25e30f56ddc354dabaf0c624548ecc9c",
+  "fileSize": 646542,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2025-12-11"
+}

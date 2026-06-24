@@ -1,0 +1,12 @@
+{
+  "model": "aqara.matter.4447_10245",
+  "friendlyName": "Smart Lock J200 Set",
+  "firmwareVersion": "3.1.0.2",
+  "firmwareMD5": "debd2048b1da4f1d74c92cc4bb461950",
+  "fileSize": 3074357,
+  "releaseNotes": "Bug fixes",
+  "regions": [
+    "au"
+  ],
+  "releaseDate": "2026-04-17"
+}

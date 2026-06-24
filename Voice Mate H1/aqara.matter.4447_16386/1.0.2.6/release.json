@@ -1,0 +1,16 @@
+{
+  "model": "aqara.matter.4447_16386",
+  "friendlyName": "Voice Mate H1",
+  "firmwareVersion": "1.0.2.6",
+  "firmwareMD5": "d2fa9cdde86a3436e6d0467805fb06b1",
+  "fileSize": 921818,
+  "releaseNotes": "1. Action recognition rate optimization\n2. Added M200 gateway support",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2025-10-16"
+}

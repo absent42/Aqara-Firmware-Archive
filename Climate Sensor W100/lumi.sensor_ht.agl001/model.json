@@ -1,0 +1,8 @@
+{
+  "model": "lumi.sensor_ht.agl001",
+  "pid": "8195",
+  "matterPid": "",
+  "friendlyNames": [
+    "Climate Sensor W100"
+  ]
+}

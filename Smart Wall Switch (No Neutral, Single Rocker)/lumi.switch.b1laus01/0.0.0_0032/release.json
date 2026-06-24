@@ -1,0 +1,14 @@
+{
+  "model": "lumi.switch.b1laus01",
+  "friendlyName": "Smart Wall Switch (No Neutral, Single Rocker)",
+  "firmwareVersion": "0.0.0_0032",
+  "firmwareMD5": "2c42979146ffa02a04a13c81af0c501f",
+  "fileSize": 268222,
+  "releaseNotes": "Function optimization.",
+  "regions": [
+    "kr",
+    "ru",
+    "us"
+  ],
+  "releaseDate": "2020-08-11"
+}

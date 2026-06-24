@@ -1,0 +1,15 @@
+{
+  "model": "aqara.feeder.acn001",
+  "friendlyName": "Smart Pet Feeder C1",
+  "firmwareVersion": "0.0.0_3833",
+  "firmwareMD5": "2064975b29951a346ade41294303dfd1",
+  "fileSize": 324224,
+  "releaseNotes": "Fixes known issues.",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2022-12-13"
+}

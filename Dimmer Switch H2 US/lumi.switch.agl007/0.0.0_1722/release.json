@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.agl007",
+  "friendlyName": "Dimmer Switch H2 US",
+  "firmwareVersion": "0.0.0_1722",
+  "firmwareMD5": "768d60daf29c8c44aa64f5ab03e82f8e",
+  "fileSize": 713290,
+  "releaseNotes": "1. The new version adds localized button operations for maximum brightness adjustment. After upgrading, you can adjust the minimum and maximum brightness range through local buttons\n2. The new version optimizes compatibility with various types of lamps",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2025-07-04"
+}

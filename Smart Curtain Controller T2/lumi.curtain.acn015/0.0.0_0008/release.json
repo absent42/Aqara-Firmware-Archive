@@ -1,0 +1,12 @@
+{
+  "model": "lumi.curtain.acn015",
+  "friendlyName": "Smart Curtain Controller T2",
+  "firmwareVersion": "0.0.0_0008",
+  "firmwareMD5": "0661c4239f8d1f5d818ad6a001a29d6f",
+  "fileSize": 610042,
+  "releaseNotes": "Fix known issues",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2025-07-28"
+}

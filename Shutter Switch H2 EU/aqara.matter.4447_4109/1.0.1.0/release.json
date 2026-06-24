@@ -1,0 +1,14 @@
+{
+  "model": "aqara.matter.4447_4109",
+  "friendlyName": "Shutter Switch H2 EU",
+  "firmwareVersion": "1.0.1.0",
+  "firmwareMD5": "b1b8838b96950418ee44dda1950d3d86",
+  "fileSize": 1050588,
+  "releaseNotes": "Fixed the BUG of equipment operation in no-stroke and passive-stroke status",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2025-09-09"
+}

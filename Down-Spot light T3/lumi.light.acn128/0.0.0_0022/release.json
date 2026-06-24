@@ -1,0 +1,14 @@
+{
+  "model": "lumi.light.acn128",
+  "friendlyName": "Down/Spot light T3",
+  "firmwareVersion": "0.0.0_0022",
+  "firmwareMD5": "ccd53ad851a3166b7d90b251b146d8f0",
+  "fileSize": 313700,
+  "releaseNotes": "1. Fix known issues.",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2023-12-22"
+}

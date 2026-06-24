@@ -1,0 +1,13 @@
+{
+  "model": "lumi.light.acn036",
+  "friendlyName": "Spotlight V1",
+  "firmwareVersion": "0.0.0_0028",
+  "firmwareMD5": "f4c9556fa84bd61f1ae9d69f0943f8ec",
+  "fileSize": 630566,
+  "releaseNotes": "",
+  "regions": [
+    "cn",
+    "kr"
+  ],
+  "releaseDate": "2025-06-12"
+}

@@ -1,0 +1,15 @@
+{
+  "model": "lumi.switch.agl003",
+  "friendlyName": "MagicPad/Panel Hub S1 Plus",
+  "firmwareVersion": "4.5.40_0011.0017",
+  "firmwareMD5": "be9669800ef43bc35327972693c3e33d",
+  "fileSize": 739371371,
+  "releaseNotes": "1. Support for device cards of switches and door locks;\n2. Fixed Matter light control issues;\n3. Fixed Polish language date format display issues;\n4. Fixed inaccurate daylight saving time display;\n5. Optimized user experience.",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-05-08"
+}

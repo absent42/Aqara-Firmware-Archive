@@ -1,0 +1,15 @@
+{
+  "model": "lumi.light.acn037",
+  "friendlyName": "Track/Rail Light V1",
+  "firmwareVersion": "0.0.0_0024",
+  "firmwareMD5": "368e74561c074bf73c4b107341290bc9",
+  "fileSize": 630374,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2025-07-18"
+}

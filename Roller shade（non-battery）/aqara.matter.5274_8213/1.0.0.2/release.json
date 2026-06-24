@@ -1,0 +1,12 @@
+{
+  "model": "aqara.matter.5274_8213",
+  "friendlyName": "Roller shade（non-battery）",
+  "firmwareVersion": "1.0.0.2",
+  "firmwareMD5": "ec0c0d334dca0059433227d16d6fc9d2",
+  "fileSize": 990912,
+  "releaseNotes": "Optimize user experience",
+  "regions": [
+    "eu"
+  ],
+  "releaseDate": "2025-12-04"
+}

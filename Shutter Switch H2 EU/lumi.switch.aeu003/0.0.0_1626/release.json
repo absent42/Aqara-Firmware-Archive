@@ -1,0 +1,14 @@
+{
+  "model": "lumi.switch.aeu003",
+  "friendlyName": "Shutter Switch H2 EU",
+  "firmwareVersion": "0.0.0_1626",
+  "firmwareMD5": "b2295b25446b184c0f4c18938df1b468",
+  "fileSize": 659562,
+  "releaseNotes": "1. Added custom no-load power settings feature;\n2. Enhanced the stability of motor control in HomeKit;\n3. Optimized the experience of the \"Do Not Disturb\" indicator light",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-03-03"
+}

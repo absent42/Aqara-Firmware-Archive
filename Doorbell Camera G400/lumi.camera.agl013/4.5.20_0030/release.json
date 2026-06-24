@@ -1,0 +1,16 @@
+{
+  "model": "lumi.camera.agl013",
+  "friendlyName": "Doorbell Camera G400",
+  "firmwareVersion": "4.5.20_0030",
+  "firmwareMD5": "eb7413917e423641b19a8162a19f0ca5",
+  "fileSize": 24647784,
+  "releaseNotes": "1. Optimized night vision image quality to enhance picture brightness<br>2. Fixed an issue where the intercom speaker produces no sound in certain scenarios<br>3. Fixed an issue where devices bound to a new account do not restore default values<br>4. Fixed an issue where pressing the doorbell does not push images to the W200 thermostat screen in certain scenarios<br>5. Fixed other known issues to improve system work stability",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-06-09"
+}

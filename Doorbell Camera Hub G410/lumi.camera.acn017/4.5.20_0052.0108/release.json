@@ -1,0 +1,12 @@
+{
+  "model": "lumi.camera.acn017",
+  "friendlyName": "Doorbell Camera Hub G410",
+  "firmwareVersion": "4.5.20_0052.0108",
+  "firmwareMD5": "a896c8192899adefc119d308f57c2095",
+  "fileSize": 32419944,
+  "releaseNotes": "1. Optimize system work stability when Battery is low\n2. Fix the issue where the indicator light does not have a Breathing effect when using wired power supply\n3. Optimize the connection performance between the outdoor unit and indoor unit under weak Wi-Fi network conditions",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-04-21"
+}

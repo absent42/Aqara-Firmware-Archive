@@ -1,0 +1,15 @@
+{
+  "model": "lumi.camera.agl005",
+  "friendlyName": "Camera G100",
+  "firmwareVersion": "4.5.45_0004",
+  "firmwareMD5": "e4be5f02930a0f3cf0143707da1176d8",
+  "fileSize": 25569384,
+  "releaseNotes": "1. Fixed an issue where the cloud snapshot feature could not be turned off properly\n2. Updated system firmware to fix other known issues",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-05-15"
+}

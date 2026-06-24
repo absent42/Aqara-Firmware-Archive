@@ -1,0 +1,15 @@
+{
+  "model": "lumi.curtain.agl001",
+  "friendlyName": "Curtain Driver E1",
+  "firmwareVersion": "0.0.0_2424",
+  "firmwareMD5": "d650642aa6f63722ae653372fe1aa302",
+  "fileSize": 288213,
+  "releaseNotes": "fixed several bugs and added group function support",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2022-05-06"
+}

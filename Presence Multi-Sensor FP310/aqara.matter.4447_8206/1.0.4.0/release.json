@@ -1,0 +1,12 @@
+{
+  "model": "aqara.matter.4447_8206",
+  "friendlyName": "Presence Multi-Sensor FP310",
+  "firmwareVersion": "1.0.4.0",
+  "firmwareMD5": "e224c4381b518c056b73c8852e807643",
+  "fileSize": 984448,
+  "releaseNotes": "1. Optimize radar performance to improve detection speed when someone is present \n2. Fix known issues",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-04-21"
+}

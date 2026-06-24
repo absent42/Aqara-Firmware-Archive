@@ -1,0 +1,12 @@
+{
+  "model": "lumi.sensor_occupy.acn1",
+  "friendlyName": "Presence Multi-Sensor FP310",
+  "firmwareVersion": "0.0.0_0027",
+  "firmwareMD5": "4921cff43657b6a3760478a848c3005d",
+  "fileSize": 605150,
+  "releaseNotes": "[After pressing Update in the APP, single press the button on the device to speed up the firmware update]\n1. Radar performance optimization to improve trigger speed when someone is detected\n2. Improved accuracy of detection range settings and target detection\n3. Fixed known issues",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-04-21"
+}

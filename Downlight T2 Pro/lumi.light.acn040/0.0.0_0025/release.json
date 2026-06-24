@@ -1,0 +1,14 @@
+{
+  "model": "lumi.light.acn040",
+  "friendlyName": "Downlight T2 Pro",
+  "firmwareVersion": "0.0.0_0025",
+  "firmwareMD5": "49eae81f787d96b60049dfc7131967c3",
+  "fileSize": 666062,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "cn",
+    "us"
+  ],
+  "releaseDate": "2026-06-15"
+}

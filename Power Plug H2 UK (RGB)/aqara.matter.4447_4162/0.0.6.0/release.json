@@ -1,0 +1,14 @@
+{
+  "model": "aqara.matter.4447_4162",
+  "friendlyName": "Power Plug H2 UK (RGB)",
+  "firmwareVersion": "0.0.6.0",
+  "firmwareMD5": "be12256216361496ba4e576ea7161b38",
+  "fileSize": 1132815,
+  "releaseNotes": "1. Fix known issues and optimize user experience",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-03-06"
+}

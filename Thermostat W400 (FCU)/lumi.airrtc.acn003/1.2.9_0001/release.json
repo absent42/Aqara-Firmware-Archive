@@ -1,0 +1,15 @@
+{
+  "model": "lumi.airrtc.acn003",
+  "friendlyName": "Thermostat W400 (FCU)",
+  "firmwareVersion": "1.2.9_0001",
+  "firmwareMD5": "dd5b93514196f80ac22df40ddbe64a97",
+  "fileSize": 27064424,
+  "releaseNotes": "1. Added support for Matter<br>2. Optimized interface interactions and fixed known issues",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-05-26"
+}

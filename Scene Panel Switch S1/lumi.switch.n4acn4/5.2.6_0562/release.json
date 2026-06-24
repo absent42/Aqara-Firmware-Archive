@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.n4acn4",
+  "friendlyName": "Scene Panel Switch S1",
+  "firmwareVersion": "5.2.6_0562",
+  "firmwareMD5": "e4302e3c9d546cb11411d85c9f776dcb",
+  "fileSize": 377918,
+  "releaseNotes": "1. Fix known issues.",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2024-01-03"
+}

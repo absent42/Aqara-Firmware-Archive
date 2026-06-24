@@ -1,0 +1,13 @@
+{
+  "model": "aqara.lock.bzacn4",
+  "friendlyName": "Smart Door Lock N100 Zigbee Edition",
+  "firmwareVersion": "3.0.0_0110",
+  "firmwareMD5": "ee536b959ec2f83cc78d9353eb6f79b0",
+  "fileSize": 653335,
+  "releaseNotes": "1. Fix the problem that the alarm only sounds once when the door is open\n2. Optimize the communication ability between cell phone and door lock",
+  "regions": [
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2022-10-18"
+}

@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.b2lacn01",
+  "friendlyName": "Smart Wall Switch T1 (No Neutral, Double Rocker)",
+  "firmwareVersion": "0.0.0_0032",
+  "firmwareMD5": "09b868c48b97eec8c0b7a1f748e148a0",
+  "fileSize": 269454,
+  "releaseNotes": "1.Fixes known issues",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2020-04-14"
+}

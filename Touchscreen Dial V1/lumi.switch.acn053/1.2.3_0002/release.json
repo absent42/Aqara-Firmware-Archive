@@ -1,0 +1,16 @@
+{
+  "model": "lumi.switch.acn053",
+  "friendlyName": "Touchscreen Dial V1",
+  "firmwareVersion": "1.2.3_0002",
+  "firmwareMD5": "44cedbd307ed9a6f5c4124dbfb3ddb36",
+  "fileSize": 23019624,
+  "releaseNotes": "Support for multiple temperature controllers, Curtain Controllers, and lighting devices",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-03-13"
+}

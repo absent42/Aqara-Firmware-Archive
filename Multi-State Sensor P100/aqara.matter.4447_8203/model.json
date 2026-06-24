@@ -1,0 +1,8 @@
+{
+  "model": "aqara.matter.4447_8203",
+  "pid": "8203",
+  "matterPid": "8203",
+  "friendlyNames": [
+    "Multi-State Sensor P100"
+  ]
+}

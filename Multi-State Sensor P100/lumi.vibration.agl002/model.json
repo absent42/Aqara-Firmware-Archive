@@ -1,0 +1,8 @@
+{
+  "model": "lumi.vibration.agl002",
+  "pid": "8202",
+  "matterPid": "",
+  "friendlyNames": [
+    "Multi-State Sensor P100"
+  ]
+}

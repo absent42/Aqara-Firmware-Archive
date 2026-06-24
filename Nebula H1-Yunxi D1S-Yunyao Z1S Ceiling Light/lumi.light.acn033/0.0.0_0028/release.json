@@ -1,0 +1,14 @@
+{
+  "model": "lumi.light.acn033",
+  "friendlyName": "Nebula H1/Yunxi D1S/Yunyao Z1S Ceiling Light",
+  "firmwareVersion": "0.0.0_0028",
+  "firmwareMD5": "36ee2b78d2b68a5608bea9a0022fe600",
+  "fileSize": 634990,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2024-11-11"
+}

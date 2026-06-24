@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.b2naus01",
+  "friendlyName": "Smart Wall Switch (With Neutral, Double Rocker)",
+  "firmwareVersion": "0.0.0_0031",
+  "firmwareMD5": "86921c829f985e47d0e892015dc784bb",
+  "fileSize": 289790,
+  "releaseNotes": "Fix the offline problem of device",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2021-12-28"
+}

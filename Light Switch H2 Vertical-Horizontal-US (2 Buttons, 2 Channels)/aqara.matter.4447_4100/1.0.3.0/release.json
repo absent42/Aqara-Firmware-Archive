@@ -1,0 +1,14 @@
+{
+  "model": "aqara.matter.4447_4100",
+  "friendlyName": "Light Switch H2 Vertical/Horizontal/US (2 Buttons, 2 Channels)",
+  "firmwareVersion": "1.0.3.0",
+  "firmwareMD5": "4b99bbb26b86d3137771d23a967feb34",
+  "fileSize": 1049804,
+  "releaseNotes": "Optimized the 3-way dual control function and fixed the bug of switch mis-triggering.",
+  "regions": [
+    "au",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2025-10-13"
+}

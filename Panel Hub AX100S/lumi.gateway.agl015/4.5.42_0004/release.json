@@ -1,0 +1,15 @@
+{
+  "model": "lumi.gateway.agl015",
+  "friendlyName": "Panel Hub AX100S",
+  "firmwareVersion": "4.5.42_0004",
+  "firmwareMD5": "2695030f2fd4372b039c556570573565",
+  "fileSize": 30730344,
+  "releaseNotes": "1. Supports connecting to the Temperature and Humidity Sensor;\n2. Optimized the PoE base experience;\n3. Supports adding child device on the screen settings page;\n4. Improved user experience.",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-04-15"
+}

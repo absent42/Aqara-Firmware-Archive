@@ -1,0 +1,16 @@
+{
+  "model": "lumi.plug.maeu01",
+  "friendlyName": "Smart Plug EU",
+  "firmwareVersion": "0.0.0_0045",
+  "firmwareMD5": "948512df62327e7c6b25217ff0958e71",
+  "fileSize": 280672,
+  "releaseNotes": "Fix known issues",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "ru",
+    "us"
+  ],
+  "releaseDate": "2024-07-19"
+}

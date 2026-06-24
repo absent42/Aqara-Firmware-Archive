@@ -1,0 +1,15 @@
+{
+  "model": "lumi.switch.agl011",
+  "friendlyName": "Dimmer Switch H2 EU",
+  "firmwareVersion": "0.0.0_1624",
+  "firmwareMD5": "46f4af7d9ecee46349c12fd89df619dd",
+  "fileSize": 718858,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-04-09"
+}

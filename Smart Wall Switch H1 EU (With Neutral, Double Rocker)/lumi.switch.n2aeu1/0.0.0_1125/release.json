@@ -1,0 +1,14 @@
+{
+  "model": "lumi.switch.n2aeu1",
+  "friendlyName": "Smart Wall Switch H1 EU (With Neutral, Double Rocker)",
+  "firmwareVersion": "0.0.0_1125",
+  "firmwareMD5": "e97c4791a6cc68054d0bc4e1ab4eabf3",
+  "fileSize": 291616,
+  "releaseNotes": "Bugs fixed",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2024-07-26"
+}

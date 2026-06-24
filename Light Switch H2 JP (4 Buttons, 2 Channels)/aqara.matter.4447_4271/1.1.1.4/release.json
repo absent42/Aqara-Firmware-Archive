@@ -1,0 +1,13 @@
+{
+  "model": "aqara.matter.4447_4271",
+  "friendlyName": "Light Switch H2 JP (4 Buttons, 2 Channels)",
+  "firmwareVersion": "1.1.1.4",
+  "firmwareMD5": "44b0793f6c46ca8744229ec6e3e7ec9a",
+  "fileSize": 1107772,
+  "releaseNotes": "Improves power-on stability of the dual-control switch function and enhances the accuracy of power metering.\nスイッチの両切替機能の起動時安定性を向上し、電力量計測の精度を改善しました。",
+  "regions": [
+    "au",
+    "us"
+  ],
+  "releaseDate": "2026-01-13"
+}

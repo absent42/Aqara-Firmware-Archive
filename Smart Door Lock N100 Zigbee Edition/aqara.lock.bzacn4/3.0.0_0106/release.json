@@ -1,0 +1,12 @@
+{
+  "model": "aqara.lock.bzacn4",
+  "friendlyName": "Smart Door Lock N100 Zigbee Edition",
+  "firmwareVersion": "3.0.0_0106",
+  "firmwareMD5": "84715c3992fbb3fec3a75e293fdefd77",
+  "fileSize": 718767,
+  "releaseNotes": "1.  Optimize the logic of the away from home mode indicator light\n2.Fix the issue that the door lock verification lock fails in some cases\n3. Fix the problem of abnormal log when turning on or off the away from home mode in some cases",
+  "regions": [
+    "au"
+  ],
+  "releaseDate": "2021-04-12"
+}

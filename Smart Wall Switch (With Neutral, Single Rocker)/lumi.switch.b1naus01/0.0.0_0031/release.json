@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.b1naus01",
+  "friendlyName": "Smart Wall Switch (With Neutral, Single Rocker)",
+  "firmwareVersion": "0.0.0_0031",
+  "firmwareMD5": "783dd0f28edafb513e7d8394a75689c8",
+  "fileSize": 270126,
+  "releaseNotes": "Fix the offline problem of device",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2021-12-28"
+}

@@ -1,0 +1,14 @@
+{
+  "model": "lumi.light.agl001",
+  "friendlyName": "LED Bulb T2 (E26, RGB CCT)",
+  "firmwareVersion": "0.0.0_0030",
+  "firmwareMD5": "4c9ec3ad7505a3972e1bc51965f7321f",
+  "fileSize": 688622,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2025-10-13"
+}

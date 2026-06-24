@@ -1,0 +1,8 @@
+{
+  "model": "aqara.matter.4447_10242",
+  "pid": "10242",
+  "matterPid": "0X2802",
+  "friendlyNames": [
+    "Smart Lock U200"
+  ]
+}

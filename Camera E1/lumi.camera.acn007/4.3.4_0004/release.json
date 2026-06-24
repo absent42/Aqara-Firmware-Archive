@@ -1,0 +1,12 @@
+{
+  "model": "lumi.camera.acn007",
+  "friendlyName": "Camera E1",
+  "firmwareVersion": "4.3.4_0004",
+  "firmwareMD5": "f9deb12c5b34efdeabcdb9a2ddd656dc",
+  "fileSize": 27842664,
+  "releaseNotes": "1. Added the feature to dynamically refresh the camera card cover image on the App every 10 seconds 2. Added the feature to record alarm messages and capture images when the security guard function is enabled (paid feature) 3. Added the feature to capture an image every 10 minutes when no event is triggered and store it in the cloud, which can be played back on the cloud recording timeline (paid feature) 4. Added the feature to configure the camera's lost mode on the App 5. Added event-linked cloud video recording 6. Fixed known issues",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2025-05-20"
+}

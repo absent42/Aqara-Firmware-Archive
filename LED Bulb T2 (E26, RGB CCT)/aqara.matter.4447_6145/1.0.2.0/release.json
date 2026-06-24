@@ -1,0 +1,14 @@
+{
+  "model": "aqara.matter.4447_6145",
+  "friendlyName": "LED Bulb T2 (E26, RGB CCT)",
+  "firmwareVersion": "1.0.2.0",
+  "firmwareMD5": "06d5b8a97fd88de1f563e4a88b5929d5",
+  "fileSize": 993296,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2024-11-23"
+}

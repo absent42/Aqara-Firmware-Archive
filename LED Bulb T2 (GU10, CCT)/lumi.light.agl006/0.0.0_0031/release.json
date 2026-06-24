@@ -1,0 +1,14 @@
+{
+  "model": "lumi.light.agl006",
+  "friendlyName": "LED Bulb T2 (GU10, CCT)",
+  "firmwareVersion": "0.0.0_0031",
+  "firmwareMD5": "d309872dff0b26908a6f0e680b9d1ec7",
+  "fileSize": 666062,
+  "releaseNotes": "Fixed known issues",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-04-07"
+}

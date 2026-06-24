@@ -1,0 +1,14 @@
+{
+  "model": "lumi.switch.agl010",
+  "friendlyName": "Light Switch H2 EU (4 Buttons, 2 Channels)",
+  "firmwareVersion": "0.0.0_2226",
+  "firmwareMD5": "8c681c02f9f75f946c99a9b268d45d0d",
+  "fileSize": 730314,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2025-09-12"
+}

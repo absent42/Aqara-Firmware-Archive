@@ -1,0 +1,15 @@
+{
+  "model": "lumi.switch.aeu001",
+  "friendlyName": "Display Switch V1 EU",
+  "firmwareVersion": "0.0.0_1345",
+  "firmwareMD5": "b64fe39326f383df312e9a402846776c",
+  "fileSize": 835046,
+  "releaseNotes": "Fix known issues.",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2025-12-10"
+}

@@ -1,0 +1,15 @@
+{
+  "model": "lumi.motion.agl001",
+  "friendlyName": "Presence Sensor FP2",
+  "firmwareVersion": "1.3.6_0003",
+  "firmwareMD5": "a691fa0e4e997831fcd9df23dac7a869",
+  "fileSize": 1605632,
+  "releaseNotes": "Fix known issues",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-04-30"
+}

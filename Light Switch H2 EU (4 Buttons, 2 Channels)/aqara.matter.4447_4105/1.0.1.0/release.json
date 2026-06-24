@@ -1,0 +1,14 @@
+{
+  "model": "aqara.matter.4447_4105",
+  "friendlyName": "Light Switch H2 EU (4 Buttons, 2 Channels)",
+  "firmwareVersion": "1.0.1.0",
+  "firmwareMD5": "f3dda1c9bd557c7ea216889d17751677",
+  "fileSize": 993484,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2025-06-03"
+}

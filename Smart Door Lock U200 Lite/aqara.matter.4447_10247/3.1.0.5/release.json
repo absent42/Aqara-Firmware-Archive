@@ -1,0 +1,15 @@
+{
+  "model": "aqara.matter.4447_10247",
+  "friendlyName": "Smart Door Lock U200 Lite",
+  "firmwareVersion": "3.1.0.5",
+  "firmwareMD5": "f910872edece02b1d143a33a870e0dc1",
+  "fileSize": 2968631,
+  "releaseNotes": "1. Optimize the Matter controller addition process in Aqara APP;\n2. Fix the user experience of the pull_spring function.",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2025-06-26"
+}

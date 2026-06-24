@@ -1,0 +1,8 @@
+{
+  "model": "lumi.valve.agl001",
+  "pid": "24577",
+  "matterPid": "",
+  "friendlyNames": [
+    "Valve Controller T1"
+  ]
+}

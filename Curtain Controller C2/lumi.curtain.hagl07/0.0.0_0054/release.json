@@ -1,0 +1,12 @@
+{
+  "model": "lumi.curtain.hagl07",
+  "friendlyName": "Curtain Controller C2",
+  "firmwareVersion": "0.0.0_0054",
+  "firmwareMD5": "3697119ed6c88369ed55ceb3a03e5603",
+  "fileSize": 289582,
+  "releaseNotes": "Fix known issues",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2025-01-17"
+}

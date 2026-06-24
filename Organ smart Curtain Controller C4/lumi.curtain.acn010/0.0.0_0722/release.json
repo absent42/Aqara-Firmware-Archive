@@ -1,0 +1,12 @@
+{
+  "model": "lumi.curtain.acn010",
+  "friendlyName": "Organ smart Curtain Controller C4",
+  "firmwareVersion": "0.0.0_0722",
+  "firmwareMD5": "f0e6460d473ef9a4b853afdf432696ed",
+  "fileSize": 745662,
+  "releaseNotes": "Fix known issues",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2025-07-19"
+}

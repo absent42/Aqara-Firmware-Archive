@@ -1,0 +1,13 @@
+{
+  "model": "aqara.matter.4447_4113",
+  "friendlyName": "Presence Switch H2 US (2 Buttons, 2 Channels)",
+  "firmwareVersion": "1.1.1.2",
+  "firmwareMD5": "23eed3b39bed6f3016f49c0a44741852",
+  "fileSize": 1100812,
+  "releaseNotes": "This update includes optimizations to indicator display and absence delay settings, improving overall stability and user experience.",
+  "regions": [
+    "au",
+    "us"
+  ],
+  "releaseDate": "2025-11-27"
+}

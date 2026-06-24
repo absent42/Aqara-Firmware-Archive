@@ -1,0 +1,8 @@
+{
+  "model": "lumi.sensor_occupy.agl8",
+  "pid": "8196",
+  "matterPid": "",
+  "friendlyNames": [
+    "Presence Multi-Sensor FP300"
+  ]
+}

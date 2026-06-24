@@ -1,0 +1,15 @@
+{
+  "model": "lumi.camera.agl004",
+  "friendlyName": "Camera Hub G5 Pro (Wi-Fi)",
+  "firmwareVersion": "4.5.30_0008.0017",
+  "firmwareMD5": "a1094ba65bc3721350e57365db7baf00",
+  "fileSize": 34879496,
+  "releaseNotes": "1. Fixed known bugs in face recognition, improving detection range\n2. Fixed an issue where the cloud snapshot feature could not be turned off normally\n3. Updated Hub firmware to support more child device types and features\n4. Fixed a bug where obstructing the lens did not trigger events\n5. Fixed a bug where enabling the privacy area masking feature caused false detection as a package\n6. Fixed an issue where NAS could not select 7×24 hr detection mode under certain conditions\n7. Fixed Thread network configuration issues and inability to add Matter child devices\n8. Fixed an issue where syncing devices from Aqara Home to HomeKit prompted errors about not being on the same LAN",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-06-10"
+}

@@ -1,0 +1,8 @@
+{
+  "model": "aqara.matter.4447_6180",
+  "pid": "6180",
+  "matterPid": "6180",
+  "friendlyNames": [
+    "LED Strip Controller H1 (RGB Spectrum)"
+  ]
+}

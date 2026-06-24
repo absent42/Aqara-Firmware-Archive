@@ -1,0 +1,15 @@
+{
+  "model": "lumi.airmonitor.acn01",
+  "friendlyName": "TVOC Air Quality Monitor",
+  "firmwareVersion": "0.0.0_0029",
+  "firmwareMD5": "0a3d134d051baaf69d57e2d1b217ec2c",
+  "fileSize": 244350,
+  "releaseNotes": "Optimize device connection",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2022-02-22"
+}

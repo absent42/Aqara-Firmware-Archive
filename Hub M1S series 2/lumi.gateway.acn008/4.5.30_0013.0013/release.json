@@ -1,0 +1,12 @@
+{
+  "model": "lumi.gateway.acn008",
+  "friendlyName": "Hub M1S series 2",
+  "firmwareVersion": "4.5.30_0013.0013",
+  "firmwareMD5": "e08e921fb3245ad7ea9f245ef84f6058",
+  "fileSize": 18104424,
+  "releaseNotes": "1. Optimize device related functions; 2. Fix known issues;",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2026-02-07"
+}

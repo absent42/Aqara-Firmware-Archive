@@ -1,0 +1,12 @@
+{
+  "model": "aqara.matter.5274_8229",
+  "friendlyName": "Roller Shade（battery）",
+  "firmwareVersion": "1.0.0.2",
+  "firmwareMD5": "cdd7837b882513977e18ae431415a561",
+  "fileSize": 990912,
+  "releaseNotes": "",
+  "regions": [
+    "eu"
+  ],
+  "releaseDate": "2025-12-05"
+}

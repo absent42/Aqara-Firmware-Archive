@@ -1,0 +1,8 @@
+{
+  "model": "lumi.motion.agl02",
+  "pid": "65766",
+  "matterPid": "",
+  "friendlyNames": [
+    "Motion Sensor T1"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "model": "aqara.matter.4447_18435",
+  "friendlyName": "Floor Heating Thermostat W500",
+  "firmwareVersion": "1.0.3.0",
+  "firmwareMD5": "2e6ac603daf4958be8c1a4bc3beb3df3",
+  "fileSize": 992332,
+  "releaseNotes": "1. Support switching temperature sources. By default, the built-in temperature sensor is used. When NTC is connected, NTC is selected as the temperature source\n2. Support setting temperature floating range",
+  "regions": [
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2025-07-09"
+}

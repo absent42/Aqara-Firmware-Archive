@@ -1,0 +1,12 @@
+{
+  "model": "lumi.curtain.acn002",
+  "friendlyName": "Roller Shade Driver E1",
+  "firmwareVersion": "0.0.0_1530",
+  "firmwareMD5": "288e4c4601af61b33c7a35c4206c9c3d",
+  "fileSize": 296304,
+  "releaseNotes": "Fixes known issues.",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2022-10-09"
+}

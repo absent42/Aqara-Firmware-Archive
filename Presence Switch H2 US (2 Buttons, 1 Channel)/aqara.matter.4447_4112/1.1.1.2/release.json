@@ -1,0 +1,12 @@
+{
+  "model": "aqara.matter.4447_4112",
+  "friendlyName": "Presence Switch H2 US (2 Buttons, 1 Channel)",
+  "firmwareVersion": "1.1.1.2",
+  "firmwareMD5": "e7aa07dc957830c2f537974b47a900d1",
+  "fileSize": 1100812,
+  "releaseNotes": "",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2025-11-27"
+}

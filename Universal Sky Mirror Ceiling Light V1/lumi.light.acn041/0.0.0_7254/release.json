@@ -1,0 +1,13 @@
+{
+  "model": "lumi.light.acn041",
+  "friendlyName": "Universal Sky Mirror Ceiling Light V1",
+  "firmwareVersion": "0.0.0_7254",
+  "firmwareMD5": "e29a0481b52c52f1400c109ab679877e",
+  "fileSize": 761226,
+  "releaseNotes": "",
+  "regions": [
+    "cn",
+    "us"
+  ],
+  "releaseDate": "2026-01-17"
+}

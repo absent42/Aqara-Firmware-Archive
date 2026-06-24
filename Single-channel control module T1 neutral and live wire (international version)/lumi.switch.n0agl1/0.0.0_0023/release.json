@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.n0agl1",
+  "friendlyName": "Single-channel control module T1 neutral and live wire (international version)",
+  "firmwareVersion": "0.0.0_0023",
+  "firmwareMD5": "8b44fb99b61f788d66173599b10717a1",
+  "fileSize": 287666,
+  "releaseNotes": "Fix the offline problem of device.",
+  "regions": [
+    "kr"
+  ],
+  "releaseDate": "2022-01-21"
+}

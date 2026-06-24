@@ -1,0 +1,8 @@
+{
+  "model": "aqara.matter.4447_8197",
+  "pid": "8200",
+  "matterPid": "8197",
+  "friendlyNames": [
+    "Presence Multi-Sensor FP300"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "model": "aqara.matter.4447_10242",
+  "friendlyName": "Smart Lock U200",
+  "firmwareVersion": "3.0.0_0085",
+  "firmwareMD5": "988f4e1c260644ec9f3604f449e34ca1",
+  "fileSize": 3006004,
+  "releaseNotes": "Update Notes:<br>1. Fixed an issue where remote periodic passwords could be lost. However, this update might cause some remote periodic passwords to become invalid. After updating the firmware, delete all remote periodic passwords and re-add them;<br>2. Fixed an issue where some lock bodies could not be calibrated;<br>3. Fixed an issue that could occur when the bolt was abnormal;<br>4. Improved the user experience of manual calibration.",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-04-11"
+}

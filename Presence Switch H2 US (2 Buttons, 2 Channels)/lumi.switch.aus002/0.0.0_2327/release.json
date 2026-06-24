@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.aus002",
+  "friendlyName": "Presence Switch H2 US (2 Buttons, 2 Channels)",
+  "firmwareVersion": "0.0.0_2327",
+  "firmwareMD5": "70d4555daa582133cdf97178c5a354a9",
+  "fileSize": 730330,
+  "releaseNotes": "Fix known issues",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2025-10-21"
+}

@@ -1,0 +1,12 @@
+{
+  "model": "lumi.camera.acn009",
+  "friendlyName": "Camera Hub G5 (PoE)",
+  "firmwareVersion": "4.3.3_0006.0017",
+  "firmwareMD5": "eacaa80b922585855a47484431a75ff4",
+  "fileSize": 32918763,
+  "releaseNotes": "1. Added support for syncing exclusive scenes or signals from Aqara Home to Home Assistant and other Matter ecosystems.\n2. Fixed an issue where targets outside the detection area could still be recognized in certain cases.\n3. Updated the hub version to improve the stability of its operation.\n4. Optimized the firmware OTA functionality.\n5. Fixed other known issues.",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2025-02-14"
+}

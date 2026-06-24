@@ -1,0 +1,12 @@
+{
+  "model": "lumi.plug.macn01",
+  "friendlyName": "Smart socket T1",
+  "firmwareVersion": "0.0.0_0031",
+  "firmwareMD5": "09dc23dd5a04fe1bfbdab0d877471b33",
+  "fileSize": 274622,
+  "releaseNotes": "1.Fixes known issues",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2020-05-13"
+}

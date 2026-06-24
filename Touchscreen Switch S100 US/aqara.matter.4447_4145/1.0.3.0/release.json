@@ -1,0 +1,14 @@
+{
+  "model": "aqara.matter.4447_4145",
+  "friendlyName": "Touchscreen Switch S100 US",
+  "firmwareVersion": "1.0.3.0",
+  "firmwareMD5": "7fad057b82c4c9e79425d43809d159b0",
+  "fileSize": 3652140,
+  "releaseNotes": "Bug fixes",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-02-28"
+}

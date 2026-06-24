@@ -1,0 +1,13 @@
+{
+  "model": "lumi.dimmer.rcbac1",
+  "friendlyName": "Smart Lightstrip Driver",
+  "firmwareVersion": "0.0.0_0037",
+  "firmwareMD5": "c4349b5a19ef5211df54a5d3fd811774",
+  "fileSize": 325102,
+  "releaseNotes": "Fix known issues",
+  "regions": [
+    "au",
+    "us"
+  ],
+  "releaseDate": "2024-08-15"
+}

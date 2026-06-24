@@ -1,0 +1,12 @@
+{
+  "model": "lumi.camera.acn005",
+  "friendlyName": "Doorbell G4",
+  "firmwareVersion": "4.0.6_0018.0068",
+  "firmwareMD5": "bae631c9efdf18d113145abb11d4d24b",
+  "fileSize": 21616744,
+  "releaseNotes": "1. Fix the issue of the doorbell not responding in certain situations\n2. Fix other known issues",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2023-12-25"
+}

@@ -1,0 +1,15 @@
+{
+  "model": "lumi.light.acn132",
+  "friendlyName": "LED Strip T1",
+  "firmwareVersion": "0.0.0_2627",
+  "firmwareMD5": "58d8d5fff30a408f9bfdbf6c8fda1c86",
+  "fileSize": 942962,
+  "releaseNotes": "1. Fix known issues",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2023-06-10"
+}

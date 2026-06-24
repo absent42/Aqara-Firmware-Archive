@@ -1,0 +1,13 @@
+{
+  "model": "lumi.dimmer.acn003",
+  "friendlyName": "Smart Constant Voltage Driver T1",
+  "firmwareVersion": "0.0.0_0025",
+  "firmwareMD5": "54cd16001c0401ef883cf56ed0817611",
+  "fileSize": 445174,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "us"
+  ],
+  "releaseDate": "2025-07-18"
+}

@@ -1,0 +1,8 @@
+{
+  "model": "lumi.sensor_occupy.agl1",
+  "pid": "8193",
+  "matterPid": "",
+  "friendlyNames": [
+    "Presence Sensor FP1E"
+  ]
+}

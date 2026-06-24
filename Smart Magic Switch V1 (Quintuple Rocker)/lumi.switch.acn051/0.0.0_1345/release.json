@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.acn051",
+  "friendlyName": "Smart Magic Switch V1 (Quintuple Rocker)",
+  "firmwareVersion": "0.0.0_1345",
+  "firmwareMD5": "b64fe39326f383df312e9a402846776c",
+  "fileSize": 835046,
+  "releaseNotes": "",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2025-12-10"
+}

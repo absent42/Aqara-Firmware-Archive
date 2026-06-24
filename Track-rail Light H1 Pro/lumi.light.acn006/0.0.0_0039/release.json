@@ -1,0 +1,14 @@
+{
+  "model": "lumi.light.acn006",
+  "friendlyName": "Track/rail Light H1 Pro",
+  "firmwareVersion": "0.0.0_0039",
+  "firmwareMD5": "9e789a17bc956dd19ebc019087216801",
+  "fileSize": 385152,
+  "releaseNotes": "Bugs fixed.",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2023-02-17"
+}

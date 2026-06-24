@@ -1,0 +1,15 @@
+{
+  "model": "lumi.motion.ac02",
+  "friendlyName": "Motion Sensor P1",
+  "firmwareVersion": "0.0.0_0010",
+  "firmwareMD5": "aca4e98a4a25e11180a9f9e852390e3d",
+  "fileSize": 196238,
+  "releaseNotes": "Fixes known issues.",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2023-01-30"
+}

@@ -1,0 +1,14 @@
+{
+  "model": "lumi.plug.aeu008",
+  "friendlyName": "Power Plug H2 UK",
+  "firmwareVersion": "0.0.0_0021",
+  "firmwareMD5": "ca6406580fcafe70a03b1c792b43059a",
+  "fileSize": 641534,
+  "releaseNotes": "1. Fix known issues and optimize user experience",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-03-18"
+}

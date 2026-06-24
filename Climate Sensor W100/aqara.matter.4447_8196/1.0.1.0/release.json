@@ -1,0 +1,12 @@
+{
+  "model": "aqara.matter.4447_8196",
+  "friendlyName": "Climate Sensor W100",
+  "firmwareVersion": "1.0.1.0",
+  "firmwareMD5": "213d3a100f490802ecba36b9c4c872ff",
+  "fileSize": 904732,
+  "releaseNotes": "1. Screen display optimization\n2. Battery power reporting optimization",
+  "regions": [
+    "kr"
+  ],
+  "releaseDate": "2024-12-13"
+}

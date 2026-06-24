@@ -1,0 +1,12 @@
+{
+  "model": "lumi.lunar.acn01",
+  "friendlyName": "Sleeping Belt",
+  "firmwareVersion": "0.0.0_0024",
+  "firmwareMD5": "b8a9352900ff7194da1e8dd020754691",
+  "fileSize": 289194,
+  "releaseNotes": "1. The time of data reporting is changed from 0 time zone to local time (to adapt to overseas environment)\n2. Optimize the rejoin mechanism",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2022-04-21"
+}

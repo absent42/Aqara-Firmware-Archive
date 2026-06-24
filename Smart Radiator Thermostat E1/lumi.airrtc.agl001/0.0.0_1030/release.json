@@ -1,0 +1,14 @@
+{
+  "model": "lumi.airrtc.agl001",
+  "friendlyName": "Smart Radiator Thermostat E1",
+  "firmwareVersion": "0.0.0_1030",
+  "firmwareMD5": "b00f89764f779c35fb91ce0710712488",
+  "fileSize": 264144,
+  "releaseNotes": "1. Add 3 new schedules.\n2. Added temperature curve in app.\n3. Notification of Valve test is off by default.\n4. Fix other known issues.",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2023-02-21"
+}

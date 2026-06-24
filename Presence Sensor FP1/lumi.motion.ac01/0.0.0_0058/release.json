@@ -1,0 +1,13 @@
+{
+  "model": "lumi.motion.ac01",
+  "friendlyName": "Presence Sensor FP1",
+  "firmwareVersion": "0.0.0_0058",
+  "firmwareMD5": "2435a7738fd40d4af65442e18390fdb9",
+  "fileSize": 319114,
+  "releaseNotes": "Change background learning time from 6 seconds to 30 seconds.",
+  "regions": [
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2023-09-25"
+}

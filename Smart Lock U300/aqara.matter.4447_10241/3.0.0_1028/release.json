@@ -1,0 +1,15 @@
+{
+  "model": "aqara.matter.4447_10241",
+  "friendlyName": "Smart Lock U300",
+  "firmwareVersion": "3.0.0_1028",
+  "firmwareMD5": "cfd7dc74445e8b7c529bf46995eccf1c",
+  "fileSize": 1351297,
+  "releaseNotes": "1. Optimized the Automation experience, low battery and sufficient battery status reporting are now supported within IF conditions\n2. Fixed other known issues",
+  "regions": [
+    "au",
+    "cn",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-05-25"
+}

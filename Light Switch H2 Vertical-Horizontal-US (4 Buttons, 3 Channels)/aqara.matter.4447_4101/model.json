@@ -1,0 +1,8 @@
+{
+  "model": "aqara.matter.4447_4101",
+  "pid": "4123",
+  "matterPid": "4101",
+  "friendlyNames": [
+    "Light Switch H2 Vertical/Horizontal/US (4 Buttons, 3 Channels)"
+  ]
+}

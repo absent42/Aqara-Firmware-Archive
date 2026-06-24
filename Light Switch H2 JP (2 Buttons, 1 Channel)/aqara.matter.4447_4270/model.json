@@ -1,0 +1,8 @@
+{
+  "model": "aqara.matter.4447_4270",
+  "pid": "4270",
+  "matterPid": "4270",
+  "friendlyNames": [
+    "Light Switch H2 JP (2 Buttons, 1 Channel)"
+  ]
+}

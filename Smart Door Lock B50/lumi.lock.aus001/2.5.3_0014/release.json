@@ -1,0 +1,13 @@
+{
+  "model": "lumi.lock.aus001",
+  "friendlyName": "Smart Door Lock B50",
+  "firmwareVersion": "2.5.3_0014",
+  "firmwareMD5": "26ac342dc7f101bfd1d995520e135a6e",
+  "fileSize": 1942204,
+  "releaseNotes": "1、WiFi certificate update.",
+  "regions": [
+    "au",
+    "us"
+  ],
+  "releaseDate": "2025-12-02"
+}

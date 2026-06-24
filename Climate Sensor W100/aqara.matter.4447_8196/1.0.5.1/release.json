@@ -1,0 +1,15 @@
+{
+  "model": "aqara.matter.4447_8196",
+  "friendlyName": "Climate Sensor W100",
+  "firmwareVersion": "1.0.5.1",
+  "firmwareMD5": "7e065b82a3594929223c2b46b2491562",
+  "fileSize": 1013516,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-01-27"
+}

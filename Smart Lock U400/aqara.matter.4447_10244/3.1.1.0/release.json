@@ -1,0 +1,13 @@
+{
+  "model": "aqara.matter.4447_10244",
+  "friendlyName": "Smart Lock U400",
+  "firmwareVersion": "3.1.1.0",
+  "firmwareMD5": "cb47f12571cfd76392dc64e59235eff7",
+  "fileSize": 3486276,
+  "releaseNotes": "New features:\n1. Added locking of LED indicator light and notification sound\n2. Added Aqara Home UWB settings\n3. Increased battery level reporting frequency during charging\n\nExperience optimizations:\n1. Enhanced motor torque, suitable for high-resistance installations\n2. Optimized Aqara M3 Hub Matter binding\n3. Extended door lock LED illumination to 6 seconds after door closing\n4. Fixed issue where battery couldn't be fully charged through door lock",
+  "regions": [
+    "au",
+    "us"
+  ],
+  "releaseDate": "2026-03-13"
+}

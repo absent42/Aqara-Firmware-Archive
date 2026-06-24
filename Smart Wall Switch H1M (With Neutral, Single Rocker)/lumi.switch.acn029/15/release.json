@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.acn029",
+  "friendlyName": "Smart Wall Switch H1M (With Neutral, Single Rocker)",
+  "firmwareVersion": "15",
+  "firmwareMD5": "9ab263275ebf1e13ab89046ccb2877fd",
+  "fileSize": 288094,
+  "releaseNotes": "",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2025-04-02"
+}

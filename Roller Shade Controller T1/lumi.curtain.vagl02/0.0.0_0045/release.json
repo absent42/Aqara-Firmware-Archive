@@ -1,0 +1,15 @@
+{
+  "model": "lumi.curtain.vagl02",
+  "friendlyName": "Roller Shade Controller T1",
+  "firmwareVersion": "0.0.0_0045",
+  "firmwareMD5": "9957ed1f40544e2cbbf2b43a5551b012",
+  "fileSize": 290990,
+  "releaseNotes": "Fix known issues",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2024-12-31"
+}

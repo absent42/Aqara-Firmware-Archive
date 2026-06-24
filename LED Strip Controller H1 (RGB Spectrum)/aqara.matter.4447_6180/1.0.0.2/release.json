@@ -1,0 +1,12 @@
+{
+  "model": "aqara.matter.4447_6180",
+  "friendlyName": "LED Strip Controller H1 (RGB Spectrum)",
+  "firmwareVersion": "1.0.0.2",
+  "firmwareMD5": "3fe373c2cf4e87602ed8cb8549995484",
+  "fileSize": 1123088,
+  "releaseNotes": "",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-06-02"
+}

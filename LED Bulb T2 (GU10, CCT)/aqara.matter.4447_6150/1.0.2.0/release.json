@@ -1,0 +1,14 @@
+{
+  "model": "aqara.matter.4447_6150",
+  "friendlyName": "LED Bulb T2 (GU10, CCT)",
+  "firmwareVersion": "1.0.2.0",
+  "firmwareMD5": "ec3c2348bb2d06692a3c75a88e6df7e1",
+  "fileSize": 980256,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2024-11-23"
+}

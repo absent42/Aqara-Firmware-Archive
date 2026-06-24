@@ -1,0 +1,12 @@
+{
+  "model": "lumi.plug.acn005",
+  "friendlyName": "Smart Wall Socket H2",
+  "firmwareVersion": "0.0.0_0032",
+  "firmwareMD5": "c74a4cb3167c82a5043b128b6fda5e0e",
+  "fileSize": 609442,
+  "releaseNotes": "",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2025-06-13"
+}

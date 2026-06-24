@@ -1,0 +1,12 @@
+{
+  "model": "lumi.curtain.fngl02",
+  "friendlyName": "Roller Shade（battery）",
+  "firmwareVersion": "0.0.0_0032",
+  "firmwareMD5": "08ca899558f88b1a2ee09a6283304749",
+  "fileSize": 631694,
+  "releaseNotes": "",
+  "regions": [
+    "eu"
+  ],
+  "releaseDate": "2026-04-28"
+}
