@@ -1,0 +1,76 @@
+name: Firmware Request
+description: Request that a device's firmware be added to the archive
+title: "[Firmware Request]: "
+labels: ["firmware request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to request firmware for a device that is not yet in the
+        archive, or to ask for an updated version of a device already listed.
+
+        Important: older or superseded versions are not normally obtainable, 
+        so a request for a specific past version cannot be fulfilled 
+        even if it once existed.
+
+        Please check the archive INDEX before opening a request to confirm the
+        firmware is not already present.
+  - type: input
+    id: device-name
+    attributes:
+      label: Device name
+      description: The product/marketing name (for example "Camera G100", "Hub M3").
+      placeholder: Camera G100
+    validations:
+      required: true
+  - type: input
+    id: model
+    attributes:
+      label: Model identifier
+      description: >
+        The model id if you know it (for example lumi.camera.agl005 or
+        aqara.matter.4447_4145). Leave blank if unknown.
+      placeholder: lumi.camera.agl005
+    validations:
+      required: false
+  - type: dropdown
+    id: region
+    attributes:
+      label: Region
+      description: The region whose firmware you are requesting.
+      options:
+        - Unknown / any
+        - Australia (au)
+        - China (cn)
+        - Europe (eu)
+        - Korea (kr)
+        - Russia (ru)
+        - United States (us)
+    validations:
+      required: true
+  - type: input
+    id: firmware-version
+    attributes:
+      label: Firmware version
+      description: >
+        The version you are after, if known. Requests for old
+        firmware versions cannot be fulfilled.
+      placeholder: 4.5.45_0004
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes
+      description: Anything else that helps identify the device (pid, Matter pid, where it is sold, links).
+    validations:
+      required: false
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Confirmations
+      options:
+        - label: I have checked the archive INDEX and the firmware is not already present.
+          required: true
+        - label: I understand that only the firmware version currently served by Aqara can be obtained.
+          required: true
