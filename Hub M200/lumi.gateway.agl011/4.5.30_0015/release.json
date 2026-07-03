@@ -1,0 +1,16 @@
+{
+  "model": "lumi.gateway.agl011",
+  "friendlyName": "Hub M200",
+  "firmwareVersion": "4.5.30_0015",
+  "firmwareMD5": "d1c3fbf0a2705e08f521004d6b641b0e",
+  "fileSize": 21821544,
+  "releaseNotes": "1. Optimize device related functions; 2. Fix known issues;",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-01-28"
+}

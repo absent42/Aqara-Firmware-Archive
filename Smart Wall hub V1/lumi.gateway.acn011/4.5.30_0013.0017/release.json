@@ -1,0 +1,12 @@
+{
+  "model": "lumi.gateway.acn011",
+  "friendlyName": "Smart Wall hub V1",
+  "firmwareVersion": "4.5.30_0013.0017",
+  "firmwareMD5": "574dbe65f7ed35e14cd8e99127b96aef",
+  "fileSize": 17418344,
+  "releaseNotes": "1. Optimize device related functions; 2. Fix known issues;",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-02-05"
+}

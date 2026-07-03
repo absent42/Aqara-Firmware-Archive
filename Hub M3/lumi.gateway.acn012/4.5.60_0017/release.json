@@ -1,0 +1,12 @@
+{
+  "model": "lumi.gateway.acn012",
+  "friendlyName": "Hub M3",
+  "firmwareVersion": "4.5.60_0017",
+  "firmwareMD5": "79d9381f1d8e568f0192c25d1584e252",
+  "fileSize": 32952424,
+  "releaseNotes": "1. Optimize device-related functions \n2. Fix known issues",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-06-25"
+}

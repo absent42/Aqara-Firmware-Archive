@@ -1,0 +1,15 @@
+{
+  "model": "lumi.airrtc.acn002",
+  "friendlyName": "Thermostat W400 (VRF)",
+  "firmwareVersion": "1.2.9_0002",
+  "firmwareMD5": "7e2dcf7fc1f3b577ee62035bdd0e6717",
+  "fileSize": 27064424,
+  "releaseNotes": "1. Fixed known issues\n2. Optimized user experience",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-06-26"
+}

@@ -11,5 +11,5 @@ This product name covers more than one hardware model (region or revision varian
 ## [lumi.light.agl003](lumi.light.agl003/)
 
 - Regions: au, cn, eu, us
-- Latest: au: [0.0.0_0030](lumi.light.agl003/0.0.0_0030/), cn: [0.0.0_0030](lumi.light.agl003/0.0.0_0030/), eu: [0.0.0_0030](lumi.light.agl003/0.0.0_0030/), us: [0.0.0_0030](lumi.light.agl003/0.0.0_0030/)
-- Versions: [0.0.0_0030](lumi.light.agl003/0.0.0_0030/) (2025-10-13)
+- Latest: au: [0.0.0_0030](lumi.light.agl003/0.0.0_0030/), cn: [0.0.0_0030](lumi.light.agl003/0.0.0_0030/), eu: [0.0.0_0031](lumi.light.agl003/0.0.0_0031/), us: [0.0.0_0030](lumi.light.agl003/0.0.0_0030/)
+- Versions: [0.0.0_0030](lumi.light.agl003/0.0.0_0030/) (2025-10-13), [0.0.0_0031](lumi.light.agl003/0.0.0_0031/) (2026-06-08)

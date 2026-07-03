@@ -3,5 +3,5 @@
 ## [lumi.gateway.agl011](lumi.gateway.agl011/)
 
 - Regions: au, cn, eu, kr, us
-- Latest: au: [4.5.50_0025](lumi.gateway.agl011/4.5.50_0025/), cn: [4.5.50_0025](lumi.gateway.agl011/4.5.50_0025/), eu: [4.5.50_0025](lumi.gateway.agl011/4.5.50_0025/), kr: [4.5.50_0025](lumi.gateway.agl011/4.5.50_0025/), us: [4.5.50_0025](lumi.gateway.agl011/4.5.50_0025/)
-- Versions: [4.5.50_0025](lumi.gateway.agl011/4.5.50_0025/) (2026-06-02)
+- Latest: au: [4.5.30_0015](lumi.gateway.agl011/4.5.30_0015/), cn: [4.5.30_0015](lumi.gateway.agl011/4.5.30_0015/), eu: [4.5.30_0015](lumi.gateway.agl011/4.5.30_0015/), kr: [4.5.30_0015](lumi.gateway.agl011/4.5.30_0015/), us: [4.5.30_0015](lumi.gateway.agl011/4.5.30_0015/)
+- Versions: [4.5.30_0015](lumi.gateway.agl011/4.5.30_0015/) (2026-01-28), [4.5.50_0025](lumi.gateway.agl011/4.5.50_0025/) (2026-06-02)

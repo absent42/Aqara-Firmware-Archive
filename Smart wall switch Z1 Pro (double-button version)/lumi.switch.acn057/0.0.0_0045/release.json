@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.acn057",
+  "friendlyName": "Smart wall switch Z1 Pro (double-button version)",
+  "firmwareVersion": "0.0.0_0045",
+  "firmwareMD5": "4eb3a85a70b9ed115ed6004807702027",
+  "fileSize": 577290,
+  "releaseNotes": "",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-06-23"
+}

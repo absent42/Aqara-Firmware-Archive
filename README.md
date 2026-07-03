@@ -2,10 +2,6 @@
 
 Community archive of firmware OTA updates for Aqara IoT devices.
 
-- **Devices**: 157
-- **Models (hardware SKUs)**: 196
-- **Firmware files**: 215
-
 ## Layout
 
 ```
@@ -18,12 +14,8 @@ Community archive of firmware OTA updates for Aqara IoT devices.
 ## Notes
 
 - The model id (e.g. lumi.camera.agl005) is the reliable identifier, one device name may cover several hardware models.
-- For a given model and version the binary can be identical across regions, so
-  region is recorded in release.json rather than duplicated as folders. Identical 
-  firmware version are established through MD5 file hashes.
-- Region here reflects the OTA serving cloud. Some devices are region locked
-  at the account or factory-image layer even when the OTA binary matches, so
-  an identical image does not guarantee cross-region interchangeability.
+- For a given model and version the binary can be identical across regions, so region is recorded in release.json rather than duplicated as folders. Identical firmware version are established through MD5 file hashes.
+- Region here reflects the OTA serving cloud. Some devices are region locked at the account or factory-image layer even when the OTA binary matches, so an identical image does not guarantee cross-region interchangeability.
 
 See [INDEX.md](INDEX.md) for the A-Z list and [REGIONS.md](REGIONS.md) to browse by region.
 
