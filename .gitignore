@@ -2,6 +2,7 @@
 CLAUDE.md
 .claude/
 /tools/
+/docs/
 
 # Python
 __pycache__/
@@ -11,3 +12,4 @@ __pycache__/
 .coverage
 # Local test virtualenv
 .venv/
+/.*
