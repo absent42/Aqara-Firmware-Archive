@@ -4,6 +4,9 @@ CLAUDE.md
 /tools/
 /docs/
 
+# Generated per-run change log (scratch for writing commit messages)
+/logs/
+
 # Python
 __pycache__/
 
