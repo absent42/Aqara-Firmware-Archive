@@ -1,6 +1,10 @@
 # Aqara Firmware Archive
 
-Community archive of firmware OTA updates for Aqara IoT devices. To request an Aqara firmware image not currently in the archive, please open a issue using the [firmware request form](https://github.com/absent42/Aqara-Firmware-Archive/issues/new?template=firmware-request.yml).
+Community archive of firmware OTA updates for Aqara IoT devices.
+
+To request an Aqara firmware image not currently in the archive, please open a issue using the [firmware request form](https://github.com/absent42/Aqara-Firmware-Archive/issues/new?template=firmware-request.yml).
+
+To contribute a firmware image you have please open a [pull request](https://github.com/absent42/Aqara-Firmware-Archive/pulls).
 
 ## Layout
 
