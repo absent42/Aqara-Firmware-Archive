@@ -4,8 +4,10 @@
   "firmwareVersion": "0.0.0_0031",
   "firmwareMD5": "d84b3af55b02a6a0042996ebfd8c63cf",
   "fileSize": 688398,
-  "releaseNotes": "",
+  "releaseNotes": "Fixed known issues",
   "regions": [
+    "au",
+    "kr",
     "us"
   ],
   "releaseDate": "2026-06-08"

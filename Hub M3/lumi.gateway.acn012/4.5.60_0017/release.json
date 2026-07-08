@@ -6,7 +6,8 @@
   "fileSize": 32952424,
   "releaseNotes": "1. Optimize device-related functions \n2. Fix known issues",
   "regions": [
-    "cn"
+    "cn",
+    "us"
   ],
   "releaseDate": "2026-06-25"
 }

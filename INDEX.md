@@ -1,6 +1,6 @@
 # Firmware Archive Index
 
-157 device names, 196 models.
+158 device names, 197 models.
 
 | Device | Models | Regions |
 | --- | --- | --- |
@@ -107,6 +107,7 @@
 | [Smart Lightstrip Driver](Smart%20Lightstrip%20Driver/) | lumi.dimmer.rcbac1 | au, eu, kr, us |
 | [Smart Lock J200](Smart%20Lock%20J200/) | aqara.matter.4447_10253 | au |
 | [Smart Lock J200 Set](Smart%20Lock%20J200%20Set/) | aqara.matter.4447_10245 | au |
+| [Smart Lock L100 SE](Smart%20Lock%20L100%20SE/) | aqara.lock.akr012 | kr |
 | [Smart Lock U200](Smart%20Lock%20U200/) | aqara.matter.4447_10242 | au, cn, eu, kr, us |
 | [Smart Lock U300](Smart%20Lock%20U300/) | aqara.matter.4447_10241 | au, cn, kr, us |
 | [Smart Lock U400](Smart%20Lock%20U400/) | aqara.matter.4447_10244 | au, us |

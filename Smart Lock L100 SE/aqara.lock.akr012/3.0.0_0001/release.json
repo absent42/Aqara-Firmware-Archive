@@ -1,0 +1,12 @@
+{
+  "model": "aqara.lock.akr012",
+  "friendlyName": "Smart Lock L100 SE",
+  "firmwareVersion": "3.0.0_0001",
+  "firmwareMD5": "6af07634819345259fbf831a8e98b2e2",
+  "fileSize": 826396,
+  "releaseNotes": "",
+  "regions": [
+    "kr"
+  ],
+  "releaseDate": "2026-07-03"
+}
