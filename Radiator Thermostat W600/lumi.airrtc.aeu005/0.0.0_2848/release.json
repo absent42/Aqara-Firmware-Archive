@@ -1,0 +1,12 @@
+{
+  "model": "lumi.airrtc.aeu005",
+  "friendlyName": "Radiator Thermostat W600",
+  "firmwareVersion": "0.0.0_2848",
+  "firmwareMD5": "570ab91a0e4e9f0e200fb4fe9f071869",
+  "fileSize": 662650,
+  "releaseNotes": "1. Fix known issues and optimize user experience",
+  "regions": [
+    "eu"
+  ],
+  "releaseDate": "2026-06-26"
+}

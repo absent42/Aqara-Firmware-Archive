@@ -11,5 +11,5 @@ This product name covers more than one hardware model (region or revision varian
 ## [lumi.airrtc.aeu005](lumi.airrtc.aeu005/)
 
 - Regions: eu
-- Latest: eu: [0.0.0_2745](lumi.airrtc.aeu005/0.0.0_2745/)
-- Versions: [0.0.0_2745](lumi.airrtc.aeu005/0.0.0_2745/) (2026-03-06)
+- Latest: eu: [0.0.0_2848](lumi.airrtc.aeu005/0.0.0_2848/)
+- Versions: [0.0.0_2745](lumi.airrtc.aeu005/0.0.0_2745/) (2026-03-06), [0.0.0_2848](lumi.airrtc.aeu005/0.0.0_2848/) (2026-06-26)

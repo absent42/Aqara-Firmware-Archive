@@ -1,0 +1,12 @@
+{
+  "model": "lumi.curtain.acn018",
+  "friendlyName": "Curtain Controller C200",
+  "firmwareVersion": "0.0.0_0011",
+  "firmwareMD5": "6b1d84be4038000414a1b5e266a49385",
+  "fileSize": 694034,
+  "releaseNotes": "Fixed known issues",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-07-07"
+}

@@ -140,7 +140,7 @@
 | [Ceiling Light L1-350](Ceiling%20Light%20L1-350/lumi.light.acn003/0.0.0_0029/) | lumi.light.acn003 | 0.0.0_0029 | 2023-09-05 |
 | [Climate Sensor W100](Climate%20Sensor%20W100/aqara.matter.4447_8196/1.0.5.1/) | aqara.matter.4447_8196 | 1.0.5.1 | 2026-01-27 |
 | [Climate Sensor W100](Climate%20Sensor%20W100/lumi.sensor_ht.agl001/0.0.0_1641/) | lumi.sensor_ht.agl001 | 0.0.0_1641 | 2026-05-18 |
-| [Curtain Controller C200](Curtain%20Controller%20C200/lumi.curtain.acn018/0.0.0_0005/) | lumi.curtain.acn018 | 0.0.0_0005 | 2025-07-17 |
+| [Curtain Controller C200](Curtain%20Controller%20C200/lumi.curtain.acn018/0.0.0_0011/) | lumi.curtain.acn018 | 0.0.0_0011 | 2026-07-07 |
 | [Doorbell Camera G400](Doorbell%20Camera%20G400/lumi.camera.agl013/4.5.20_0030/) | lumi.camera.agl013 | 4.5.20_0030 | 2026-06-09 |
 | [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.acn017/4.5.20_0052.0108/) | lumi.camera.acn017 | 4.5.20_0052.0108 | 2026-04-21 |
 | [Downlight T2 Pro](Downlight%20T2%20Pro/lumi.light.acn040/0.0.0_0025/) | lumi.light.acn040 | 0.0.0_0025 | 2026-06-15 |
@@ -259,7 +259,7 @@
 | [Presence Sensor FP1E](Presence%20Sensor%20FP1E/lumi.sensor_occupy.agl1/0.0.0_0029/) | lumi.sensor_occupy.agl1 | 0.0.0_0029 | 2025-08-27 |
 | [Presence Sensor FP2](Presence%20Sensor%20FP2/lumi.motion.agl001/1.3.6_0003/) | lumi.motion.agl001 | 1.3.6_0003 | 2026-04-30 |
 | [Radiator Thermostat W600](Radiator%20Thermostat%20W600/aqara.matter.4447_18437/1.0.1.1/) | aqara.matter.4447_18437 | 1.0.1.1 | 2026-03-02 |
-| [Radiator Thermostat W600](Radiator%20Thermostat%20W600/lumi.airrtc.aeu005/0.0.0_2745/) | lumi.airrtc.aeu005 | 0.0.0_2745 | 2026-03-06 |
+| [Radiator Thermostat W600](Radiator%20Thermostat%20W600/lumi.airrtc.aeu005/0.0.0_2848/) | lumi.airrtc.aeu005 | 0.0.0_2848 | 2026-06-26 |
 | [Roller Shade Controller T1](Roller%20Shade%20Controller%20T1/lumi.curtain.vagl02/0.0.0_0045/) | lumi.curtain.vagl02 | 0.0.0_0045 | 2024-12-31 |
 | [Roller Shade Driver E1](Roller%20Shade%20Driver%20E1/lumi.curtain.acn002/0.0.0_1532/) | lumi.curtain.acn002 | 0.0.0_1532 | 2024-06-24 |
 | [Roller Shade（battery）](Roller%20Shade%EF%BC%88battery%EF%BC%89/aqara.matter.5274_8229/1.0.0.2/) | aqara.matter.5274_8229 | 1.0.0.2 | 2025-12-05 |
