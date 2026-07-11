@@ -12,4 +12,4 @@ This product name covers more than one hardware model (region or revision varian
 
 - Regions: au, eu, kr, us
 - Latest: au: [0.0.0_6542](lumi.sensor_occupy.agl8/0.0.0_6542/), eu: [0.0.0_6542](lumi.sensor_occupy.agl8/0.0.0_6542/), kr: [0.0.0_6542](lumi.sensor_occupy.agl8/0.0.0_6542/), us: [0.0.0_6542](lumi.sensor_occupy.agl8/0.0.0_6542/)
-- Versions: [0.0.0_6542](lumi.sensor_occupy.agl8/0.0.0_6542/) (2026-05-15)
+- Versions: [0.0.0_5841](lumi.sensor_occupy.agl8/0.0.0_5841/) (2026-01-05), [0.0.0_6542](lumi.sensor_occupy.agl8/0.0.0_6542/) (2026-05-15)

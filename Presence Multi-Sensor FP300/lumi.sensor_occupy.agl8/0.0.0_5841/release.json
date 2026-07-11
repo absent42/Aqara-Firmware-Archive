@@ -1,0 +1,12 @@
+{
+  "model": "lumi.sensor_occupy.agl8",
+  "friendlyName": "Presence Multi-Sensor FP300",
+  "firmwareVersion": "0.0.0_5841",
+  "firmwareMD5": "cd642fa05adff50ad266330fdc8c0c5c",
+  "fileSize": 783338,
+  "releaseNotes": "",
+  "regions": [
+    "eu"
+  ],
+  "releaseDate": "2026-01-05"
+}
