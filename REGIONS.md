@@ -26,10 +26,10 @@
 | [Downlight T2 (60°)](Downlight%20T2%20%2860%C2%B0%29/lumi.light.acn026/0.0.0_0041/) | lumi.light.acn026 | 0.0.0_0041 | 2023-12-22 |
 | [Downlight T2 Pro](Downlight%20T2%20Pro/lumi.light.acn040/0.0.0_0025/) | lumi.light.acn040 | 0.0.0_0025 | 2026-06-15 |
 | [Dual Relay Module T2](Dual%20Relay%20Module%20T2/lumi.switch.acn047/0.0.0_0035/) | lumi.switch.acn047 | 0.0.0_0035 | 2026-01-13 |
-| [Hub M100](Hub%20M100/lumi.gateway.agl008/4.5.30_0013.0017/) | lumi.gateway.agl008 | 4.5.30_0013.0017 | 2026-02-04 |
+| [Hub M100](Hub%20M100/lumi.gateway.agl008/4.5.60_0019.0017/) | lumi.gateway.agl008 | 4.5.60_0019.0017 | 2026-06-30 |
 | [Hub M1S Gen 2](Hub%20M1S%20Gen%202/lumi.gateway.agl002/4.5.30_0013.0013/) | lumi.gateway.agl002 | 4.5.30_0013.0013 | 2026-02-10 |
 | [Hub M2](Hub%20M2/lumi.gateway.agl001/4.5.30_0013.0654/) | lumi.gateway.agl001 | 4.5.30_0013.0654 | 2026-01-30 |
-| [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.30_0015/) | lumi.gateway.agl011 | 4.5.30_0015 | 2026-01-28 |
+| [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.60_0019/) | lumi.gateway.agl011 | 4.5.60_0019 | 2026-06-30 |
 | [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.60_0017/) | lumi.gateway.agl004 | 4.5.60_0017 | 2026-06-25 |
 | [LED Bulb T1 (Tunable White)](LED%20Bulb%20T1%20%28Tunable%20White%29/lumi.light.acn014/0.0.0_0040/) | lumi.light.acn014 | 0.0.0_0040 | 2023-12-22 |
 | [LED Bulb T2 (E26, CCT)](LED%20Bulb%20T2%20%28E26%2C%20CCT%29/aqara.matter.4447_6146/1.0.2.0/) | aqara.matter.4447_6146 | 1.0.2.0 | 2024-11-27 |
@@ -62,7 +62,7 @@
 | [MagicPad/Panel Hub S1 Plus](MagicPad-Panel%20Hub%20S1%20Plus/lumi.switch.agl003/4.5.40_0011.0017/) | lumi.switch.agl003 | 4.5.40_0011.0017 | 2026-05-08 |
 | [Motion Sensor P1](Motion%20Sensor%20P1/lumi.motion.ac02/0.0.0_0010/) | lumi.motion.ac02 | 0.0.0_0010 | 2023-01-30 |
 | [Multi-State Sensor P100](Multi-State%20Sensor%20P100/aqara.matter.4447_8203/1.0.0.2/) | aqara.matter.4447_8203 | 1.0.0.2 | 2025-12-26 |
-| [Multi-State Sensor P100](Multi-State%20Sensor%20P100/lumi.vibration.agl002/0.0.0_0021/) | lumi.vibration.agl002 | 0.0.0_0021 | 2026-02-06 |
+| [Multi-State Sensor P100](Multi-State%20Sensor%20P100/lumi.vibration.agl002/0.0.0_0024/) | lumi.vibration.agl002 | 0.0.0_0024 | 2026-06-15 |
 | [Nebula H1/Yunxi D1S/Yunyao Z1S Ceiling Light](Nebula%20H1-Yunxi%20D1S-Yunyao%20Z1S%20Ceiling%20Light/lumi.light.acn033/0.0.0_0028/) | lumi.light.acn033 | 0.0.0_0028 | 2024-11-11 |
 | [Panel Hub AX100S](Panel%20Hub%20AX100S/lumi.gateway.agl015/4.5.42_0004/) | lumi.gateway.agl015 | 4.5.42_0004 | 2026-04-15 |
 | [Panel Switch S100](Panel%20Switch%20S100/lumi.switch.acn066/1.2.0_0002/) | lumi.switch.acn066 | 1.2.0_0002 | 2026-06-26 |
@@ -155,7 +155,7 @@
 | [LED Strip Controller H1 (RGB Spectrum)](LED%20Strip%20Controller%20H1%20%28RGB%20Spectrum%29/aqara.matter.4447_6180/1.0.0.2/) | aqara.matter.4447_6180 | 1.0.0.2 | 2026-06-02 |
 | [MagicPad S1](MagicPad%20S1/lumi.controller.a4acn1/4.5.30_0010.0013/) | lumi.controller.a4acn1 | 4.5.30_0010.0013 | 2026-01-28 |
 | [Multi-State Sensor P100](Multi-State%20Sensor%20P100/aqara.matter.4447_8203/1.0.0.2/) | aqara.matter.4447_8203 | 1.0.0.2 | 2025-12-26 |
-| [Multi-State Sensor P100](Multi-State%20Sensor%20P100/lumi.vibration.agl002/0.0.0_0021/) | lumi.vibration.agl002 | 0.0.0_0021 | 2026-02-06 |
+| [Multi-State Sensor P100](Multi-State%20Sensor%20P100/lumi.vibration.agl002/0.0.0_0024/) | lumi.vibration.agl002 | 0.0.0_0024 | 2026-06-15 |
 | [Nebula H1/Yunxi D1S/Yunyao Z1S Ceiling Light](Nebula%20H1-Yunxi%20D1S-Yunyao%20Z1S%20Ceiling%20Light/lumi.light.acn033/0.0.0_0025/) | lumi.light.acn033 | 0.0.0_0025 | 2024-01-17 |
 | [Organ smart Curtain Controller C4](Organ%20smart%20Curtain%20Controller%20C4/lumi.curtain.acn010/0.0.0_0722/) | lumi.curtain.acn010 | 0.0.0_0722 | 2025-07-19 |
 | [Panel Hub AX100S](Panel%20Hub%20AX100S/lumi.gateway.agl015/4.5.42_0004/) | lumi.gateway.agl015 | 4.5.42_0004 | 2026-04-15 |
@@ -177,10 +177,10 @@
 | [Smart wall switch Q1 (double-button version)](Smart%20wall%20switch%20Q1%20%28double-button%20version%29/lumi.switch.acn063/0.0.0_0041/) | lumi.switch.acn063 | 0.0.0_0041 | 2025-07-24 |
 | [Smart wall switch Q1 (four-button version)](Smart%20wall%20switch%20Q1%20%28four-button%20version%29/lumi.switch.acn065/0.0.0_0041/) | lumi.switch.acn065 | 0.0.0_0041 | 2025-07-24 |
 | [Smart wall switch Q1 (single-button version)](Smart%20wall%20switch%20Q1%20%28single-button%20version%29/lumi.switch.acn062/0.0.0_0041/) | lumi.switch.acn062 | 0.0.0_0041 | 2025-07-24 |
-| [Smart wall switch Z1 Pro (double-button version)](Smart%20wall%20switch%20Z1%20Pro%20%28double-button%20version%29/lumi.switch.acn057/0.0.0_0045/) | lumi.switch.acn057 | 0.0.0_0045 | 2026-06-23 |
-| [Smart wall switch Z1 Pro (four-button version)](Smart%20wall%20switch%20Z1%20Pro%20%28four-button%20version%29/lumi.switch.acn059/0.0.0_0045/) | lumi.switch.acn059 | 0.0.0_0045 | 2026-06-23 |
-| [Smart wall switch Z1 Pro (single button version)](Smart%20wall%20switch%20Z1%20Pro%20%28single%20button%20version%29/lumi.switch.acn056/0.0.0_0045/) | lumi.switch.acn056 | 0.0.0_0045 | 2026-06-23 |
-| [Smart wall switch Z1 Pro (three-button version)](Smart%20wall%20switch%20Z1%20Pro%20%28three-button%20version%29/lumi.switch.acn058/0.0.0_0045/) | lumi.switch.acn058 | 0.0.0_0045 | 2026-06-23 |
+| [Smart wall switch Z1 Pro (double-button version)](Smart%20wall%20switch%20Z1%20Pro%20%28double-button%20version%29/lumi.switch.acn057/0.0.0_0040/) | lumi.switch.acn057 | 0.0.0_0040 | 2025-08-05 |
+| [Smart wall switch Z1 Pro (four-button version)](Smart%20wall%20switch%20Z1%20Pro%20%28four-button%20version%29/lumi.switch.acn059/0.0.0_0040/) | lumi.switch.acn059 | 0.0.0_0040 | 2025-08-05 |
+| [Smart wall switch Z1 Pro (single button version)](Smart%20wall%20switch%20Z1%20Pro%20%28single%20button%20version%29/lumi.switch.acn056/0.0.0_0040/) | lumi.switch.acn056 | 0.0.0_0040 | 2025-08-01 |
+| [Smart wall switch Z1 Pro (three-button version)](Smart%20wall%20switch%20Z1%20Pro%20%28three-button%20version%29/lumi.switch.acn058/0.0.0_0040/) | lumi.switch.acn058 | 0.0.0_0040 | 2025-08-05 |
 | [Spotlight V1](Spotlight%20V1/lumi.light.acn036/0.0.0_0028/) | lumi.light.acn036 | 0.0.0_0028 | 2025-06-12 |
 | [Thermostat W400 (FCU)](Thermostat%20W400%20%28FCU%29/lumi.airrtc.acn003/1.2.9_0002/) | lumi.airrtc.acn003 | 1.2.9_0002 | 2026-06-26 |
 | [Thermostat W400 (VRF)](Thermostat%20W400%20%28VRF%29/lumi.airrtc.acn002/1.2.9_0002/) | lumi.airrtc.acn002 | 1.2.9_0002 | 2026-06-26 |
@@ -241,7 +241,7 @@
 | [MagicPad/Panel Hub S1 Plus](MagicPad-Panel%20Hub%20S1%20Plus/lumi.switch.agl003/4.5.40_0011.0017/) | lumi.switch.agl003 | 4.5.40_0011.0017 | 2026-05-08 |
 | [Motion Sensor P1](Motion%20Sensor%20P1/lumi.motion.ac02/0.0.0_0010/) | lumi.motion.ac02 | 0.0.0_0010 | 2023-01-30 |
 | [Multi-State Sensor P100](Multi-State%20Sensor%20P100/aqara.matter.4447_8203/1.0.0.2/) | aqara.matter.4447_8203 | 1.0.0.2 | 2025-12-26 |
-| [Multi-State Sensor P100](Multi-State%20Sensor%20P100/lumi.vibration.agl002/0.0.0_0021/) | lumi.vibration.agl002 | 0.0.0_0021 | 2026-02-06 |
+| [Multi-State Sensor P100](Multi-State%20Sensor%20P100/lumi.vibration.agl002/0.0.0_0024/) | lumi.vibration.agl002 | 0.0.0_0024 | 2026-06-15 |
 | [Nebula H1/Yunxi D1S/Yunyao Z1S Ceiling Light](Nebula%20H1-Yunxi%20D1S-Yunyao%20Z1S%20Ceiling%20Light/lumi.light.acn033/0.0.0_0028/) | lumi.light.acn033 | 0.0.0_0028 | 2024-11-11 |
 | [Panel Hub AX100S](Panel%20Hub%20AX100S/lumi.gateway.agl015/4.5.42_0004/) | lumi.gateway.agl015 | 4.5.42_0004 | 2026-04-15 |
 | [Panel Switch S100](Panel%20Switch%20S100/lumi.switch.acn066/1.2.0_0002/) | lumi.switch.acn066 | 1.2.0_0002 | 2026-06-26 |
@@ -327,7 +327,7 @@
 | [Dual Relay Module T2](Dual%20Relay%20Module%20T2/lumi.switch.acn047/0.0.0_0035/) | lumi.switch.acn047 | 0.0.0_0035 | 2026-01-13 |
 | [Hub M100](Hub%20M100/lumi.gateway.agl008/4.5.30_0013.0017/) | lumi.gateway.agl008 | 4.5.30_0013.0017 | 2026-02-04 |
 | [Hub M2](Hub%20M2/lumi.gateway.agl001/4.5.30_0013.0654/) | lumi.gateway.agl001 | 4.5.30_0013.0654 | 2026-01-30 |
-| [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.30_0015/) | lumi.gateway.agl011 | 4.5.30_0015 | 2026-01-28 |
+| [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.60_0019/) | lumi.gateway.agl011 | 4.5.60_0019 | 2026-06-30 |
 | [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.60_0017/) | lumi.gateway.agl004 | 4.5.60_0017 | 2026-06-25 |
 | [Intelligent Bathroom Heater T1](Intelligent%20Bathroom%20Heater%20T1/lumi.bhf_light.acn001/0.0.7_0734/) | lumi.bhf_light.acn001 | 0.0.7_0734 | 2025-11-24 |
 | [LED Bulb T2 (E26, CCT)](LED%20Bulb%20T2%20%28E26%2C%20CCT%29/aqara.matter.4447_6146/1.0.2.0/) | aqara.matter.4447_6146 | 1.0.2.0 | 2024-11-27 |
@@ -345,7 +345,7 @@
 | [Motion Sensor P1](Motion%20Sensor%20P1/lumi.motion.ac02/0.0.0_0010/) | lumi.motion.ac02 | 0.0.0_0010 | 2023-01-30 |
 | [Motion Sensor T1](Motion%20Sensor%20T1/lumi.motion.agl02/0.0.0_0035/) | lumi.motion.agl02 | 0.0.0_0035 | 2020-12-14 |
 | [Multi-State Sensor P100](Multi-State%20Sensor%20P100/aqara.matter.4447_8203/1.0.0.2/) | aqara.matter.4447_8203 | 1.0.0.2 | 2025-12-26 |
-| [Multi-State Sensor P100](Multi-State%20Sensor%20P100/lumi.vibration.agl002/0.0.0_0021/) | lumi.vibration.agl002 | 0.0.0_0021 | 2026-02-06 |
+| [Multi-State Sensor P100](Multi-State%20Sensor%20P100/lumi.vibration.agl002/0.0.0_0024/) | lumi.vibration.agl002 | 0.0.0_0024 | 2026-06-15 |
 | [Presence Multi-Sensor FP300](Presence%20Multi-Sensor%20FP300/aqara.matter.4447_8197/1.1.3.8/) | aqara.matter.4447_8197 | 1.1.3.8 | 2026-05-15 |
 | [Presence Multi-Sensor FP300](Presence%20Multi-Sensor%20FP300/lumi.sensor_occupy.agl8/0.0.0_6542/) | lumi.sensor_occupy.agl8 | 0.0.0_6542 | 2026-05-15 |
 | [Presence Sensor FP1](Presence%20Sensor%20FP1/lumi.motion.ac01/0.0.0_0058/) | lumi.motion.ac01 | 0.0.0_0058 | 2023-09-25 |
@@ -473,7 +473,7 @@
 | [Motion Sensor P1](Motion%20Sensor%20P1/lumi.motion.ac02/0.0.0_0010/) | lumi.motion.ac02 | 0.0.0_0010 | 2023-01-30 |
 | [Motion Sensor T1](Motion%20Sensor%20T1/lumi.motion.agl02/0.0.0_0035/) | lumi.motion.agl02 | 0.0.0_0035 | 2020-12-14 |
 | [Multi-State Sensor P100](Multi-State%20Sensor%20P100/aqara.matter.4447_8203/1.0.0.2/) | aqara.matter.4447_8203 | 1.0.0.2 | 2025-12-26 |
-| [Multi-State Sensor P100](Multi-State%20Sensor%20P100/lumi.vibration.agl002/0.0.0_0021/) | lumi.vibration.agl002 | 0.0.0_0021 | 2026-02-06 |
+| [Multi-State Sensor P100](Multi-State%20Sensor%20P100/lumi.vibration.agl002/0.0.0_0024/) | lumi.vibration.agl002 | 0.0.0_0024 | 2026-06-15 |
 | [Nebula H1/Yunxi D1S/Yunyao Z1S Ceiling Light](Nebula%20H1-Yunxi%20D1S-Yunyao%20Z1S%20Ceiling%20Light/lumi.light.acn033/0.0.0_0028/) | lumi.light.acn033 | 0.0.0_0028 | 2024-11-11 |
 | [Panel Hub AX100S](Panel%20Hub%20AX100S/lumi.gateway.agl015/4.5.42_0004/) | lumi.gateway.agl015 | 4.5.42_0004 | 2026-04-15 |
 | [Panel Switch S100](Panel%20Switch%20S100/lumi.switch.acn066/1.2.0_0002/) | lumi.switch.acn066 | 1.2.0_0002 | 2026-06-26 |
