@@ -128,7 +128,7 @@
 | [Wall Switch H1 (With Neutral, Double Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Double%20Rocker%29/lumi.switch.n2acn1/15/) | lumi.switch.n2acn1 | 15 | 2024-07-26 |
 | [Wall Switch H1 (With Neutral, Single Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Single%20Rocker%29/lumi.switch.n1acn1/15/) | lumi.switch.n1acn1 | 15 | 2024-07-26 |
 
-## cn (57 current firmwares)
+## cn (59 current firmwares)
 
 | Device | Model | Version | Released |
 | --- | --- | --- | --- |
@@ -189,6 +189,8 @@
 | [Universal Sky Mirror Ceiling Light V1](Universal%20Sky%20Mirror%20Ceiling%20Light%20V1/lumi.light.acn041/0.0.0_7254/) | lumi.light.acn041 | 0.0.0_7254 | 2026-01-17 |
 | [Valve Controller T1](Valve%20Controller%20T1/lumi.valve.agl001/0.0.0_0054/) | lumi.valve.agl001 | 0.0.0_0054 | 2025-01-21 |
 | [Voice Mate H1](Voice%20Mate%20H1/aqara.matter.4447_16386/1.0.2.6/) | aqara.matter.4447_16386 | 1.0.2.6 | 2025-10-16 |
+| [Wall Switch H1 (With Neutral, Double Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Double%20Rocker%29/lumi.switch.n2acn1/15/) | lumi.switch.n2acn1 | 15 | 2024-07-26 |
+| [Wall Switch H1 (With Neutral, Single Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Single%20Rocker%29/lumi.switch.n1acn1/15/) | lumi.switch.n1acn1 | 15 | 2024-07-26 |
 
 ## eu (107 current firmwares)
 
@@ -325,7 +327,7 @@
 | [Doorbell G4](Doorbell%20G4/lumi.camera.agl002/4.0.6_0018.0068/) | lumi.camera.agl002 | 4.0.6_0018.0068 | 2023-12-25 |
 | [Downlight T2 (60°)](Downlight%20T2%20%2860%C2%B0%29/lumi.light.acn026/0.0.0_0041/) | lumi.light.acn026 | 0.0.0_0041 | 2023-12-22 |
 | [Dual Relay Module T2](Dual%20Relay%20Module%20T2/lumi.switch.acn047/0.0.0_0035/) | lumi.switch.acn047 | 0.0.0_0035 | 2026-01-13 |
-| [Hub M100](Hub%20M100/lumi.gateway.agl008/4.5.30_0013.0017/) | lumi.gateway.agl008 | 4.5.30_0013.0017 | 2026-02-04 |
+| [Hub M100](Hub%20M100/lumi.gateway.agl008/4.5.60_0019.0017/) | lumi.gateway.agl008 | 4.5.60_0019.0017 | 2026-06-30 |
 | [Hub M2](Hub%20M2/lumi.gateway.agl001/4.5.30_0013.0654/) | lumi.gateway.agl001 | 4.5.30_0013.0654 | 2026-01-30 |
 | [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.60_0019/) | lumi.gateway.agl011 | 4.5.60_0019 | 2026-06-30 |
 | [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.60_0017/) | lumi.gateway.agl004 | 4.5.60_0017 | 2026-06-25 |
