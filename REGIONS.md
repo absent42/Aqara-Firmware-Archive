@@ -94,8 +94,8 @@
 | [Smart Door Lock N100 Zigbee Edition](Smart%20Door%20Lock%20N100%20Zigbee%20Edition/aqara.lock.bzacn4/3.0.0_0106/) | aqara.lock.bzacn4 | 3.0.0_0106 | 2021-04-12 |
 | [Smart Door Lock U200 Lite](Smart%20Door%20Lock%20U200%20Lite/aqara.matter.4447_10247/3.1.0.5/) | aqara.matter.4447_10247 | 3.1.0.5 | 2025-06-26 |
 | [Smart Lightstrip Driver](Smart%20Lightstrip%20Driver/lumi.dimmer.rcbac1/0.0.0_0037/) | lumi.dimmer.rcbac1 | 0.0.0_0037 | 2024-08-15 |
-| [Smart Lock J200](Smart%20Lock%20J200/aqara.matter.4447_10253/3.1.0.2/) | aqara.matter.4447_10253 | 3.1.0.2 | 2026-04-17 |
-| [Smart Lock J200 Set](Smart%20Lock%20J200%20Set/aqara.matter.4447_10245/3.1.0.2/) | aqara.matter.4447_10245 | 3.1.0.2 | 2026-04-17 |
+| [Smart Lock J200](Smart%20Lock%20J200/aqara.matter.4447_10253/3.1.0.5/) | aqara.matter.4447_10253 | 3.1.0.5 | 2026-06-03 |
+| [Smart Lock J200 Set](Smart%20Lock%20J200%20Set/aqara.matter.4447_10245/3.1.0.5/) | aqara.matter.4447_10245 | 3.1.0.5 | 2026-06-03 |
 | [Smart Lock U200](Smart%20Lock%20U200/aqara.matter.4447_10242/3.0.0_0085/) | aqara.matter.4447_10242 | 3.0.0_0085 | 2026-04-11 |
 | [Smart Lock U300](Smart%20Lock%20U300/aqara.matter.4447_10241/3.0.0_1028/) | aqara.matter.4447_10241 | 3.0.0_1028 | 2026-05-25 |
 | [Smart Lock U400](Smart%20Lock%20U400/aqara.matter.4447_10244/3.1.1.0/) | aqara.matter.4447_10244 | 3.1.1.0 | 2026-03-13 |
@@ -147,7 +147,7 @@
 | [Dual Relay Module T2](Dual%20Relay%20Module%20T2/lumi.switch.acn047/0.0.0_0035/) | lumi.switch.acn047 | 0.0.0_0035 | 2026-01-13 |
 | [Hub M100](Hub%20M100/lumi.gateway.agl010/4.5.60_0019.0017/) | lumi.gateway.agl010 | 4.5.60_0019.0017 | 2026-06-30 |
 | [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.60_0019/) | lumi.gateway.agl011 | 4.5.60_0019 | 2026-06-30 |
-| [Hub M3](Hub%20M3/lumi.gateway.acn012/4.5.60_0017/) | lumi.gateway.acn012 | 4.5.60_0017 | 2026-06-25 |
+| [Hub M3](Hub%20M3/lumi.gateway.acn012/4.5.70_0011/) | lumi.gateway.acn012 | 4.5.70_0011 | 2026-07-25 |
 | [LED Bulb T2 (E27, CCT)](LED%20Bulb%20T2%20%28E27%2C%20CCT%29/aqara.matter.4447_6148/1.0.2.0/) | aqara.matter.4447_6148 | 1.0.2.0 | 2024-11-23 |
 | [LED Bulb T2 (E27, CCT)](LED%20Bulb%20T2%20%28E27%2C%20CCT%29/lumi.light.agl004/0.0.0_0031/) | lumi.light.agl004 | 0.0.0_0031 | 2026-04-09 |
 | [LED Bulb T2 (E27, RGB CCT)](LED%20Bulb%20T2%20%28E27%2C%20RGB%20CCT%29/aqara.matter.4447_6147/1.0.2.0/) | aqara.matter.4447_6147 | 1.0.2.0 | 2024-11-23 |
@@ -163,7 +163,7 @@
 | [Presence Multi-Sensor FP310](Presence%20Multi-Sensor%20FP310/aqara.matter.4447_8206/1.0.4.0/) | aqara.matter.4447_8206 | 1.0.4.0 | 2026-04-21 |
 | [Presence Multi-Sensor FP310](Presence%20Multi-Sensor%20FP310/lumi.sensor_occupy.acn1/0.0.0_0027/) | lumi.sensor_occupy.acn1 | 0.0.0_0027 | 2026-04-21 |
 | [Presence Sensor FP1E](Presence%20Sensor%20FP1E/lumi.sensor_occupy.agl1/0.0.0_0029/) | lumi.sensor_occupy.agl1 | 0.0.0_0029 | 2025-08-27 |
-| [RGB Spectrum LED Strip Driver H1](RGB%20Spectrum%20LED%20Strip%20Driver%20H1/lumi.models.4447_6209/0018/) | lumi.models.4447_6209 | 0018 | 2026-05-28 |
+| [RGB Spectrum LED Strip Driver H1](RGB%20Spectrum%20LED%20Strip%20Driver%20H1/lumi.models.4447_6209/0019/) | lumi.models.4447_6209 | 0019 | 2026-07-27 |
 | [Roller Shade Driver E1](Roller%20Shade%20Driver%20E1/lumi.curtain.acn002/0.0.0_1532/) | lumi.curtain.acn002 | 0.0.0_1532 | 2024-06-24 |
 | [Scene Switch H1 Elite](Scene%20Switch%20H1%20Elite/lumi.switch.acn080/0.0.0_2533/) | lumi.switch.acn080 | 0.0.0_2533 | 2026-05-30 |
 | [Smart Constant Current Driver T2](Smart%20Constant%20Current%20Driver%20T2/lumi.dimmer.acn001/0.0.0_0025/) | lumi.dimmer.acn001 | 0.0.0_0025 | 2024-07-08 |
@@ -225,7 +225,7 @@
 | [Hub M1S Gen 2](Hub%20M1S%20Gen%202/lumi.gateway.agl002/4.5.30_0013.0013/) | lumi.gateway.agl002 | 4.5.30_0013.0013 | 2026-02-10 |
 | [Hub M2](Hub%20M2/lumi.gateway.agl001/4.5.30_0013.0654/) | lumi.gateway.agl001 | 4.5.30_0013.0654 | 2026-01-30 |
 | [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.60_0019/) | lumi.gateway.agl011 | 4.5.60_0019 | 2026-06-30 |
-| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.60_0017/) | lumi.gateway.agl004 | 4.5.60_0017 | 2026-06-25 |
+| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.70_0011/) | lumi.gateway.agl004 | 4.5.70_0011 | 2026-07-25 |
 | [LED Bulb T1 (Tunable White)](LED%20Bulb%20T1%20%28Tunable%20White%29/lumi.light.acn014/0.0.0_0040/) | lumi.light.acn014 | 0.0.0_0040 | 2023-12-22 |
 | [LED Bulb T2 (E27, CCT)](LED%20Bulb%20T2%20%28E27%2C%20CCT%29/aqara.matter.4447_6148/1.0.2.0/) | aqara.matter.4447_6148 | 1.0.2.0 | 2024-11-23 |
 | [LED Bulb T2 (E27, CCT)](LED%20Bulb%20T2%20%28E27%2C%20CCT%29/lumi.light.agl004/0.0.0_0031/) | lumi.light.agl004 | 0.0.0_0031 | 2026-04-09 |
@@ -441,7 +441,7 @@
 | [Hub M2 2022](Hub%20M2%202022/lumi.gateway.iragl8/4.5.30_0013.0013/) | lumi.gateway.iragl8 | 4.5.30_0013.0013 | 2026-02-03 |
 | [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.60_0019/) | lumi.gateway.agl011 | 4.5.60_0019 | 2026-06-30 |
 | [Hub M3](Hub%20M3/lumi.gateway.acn012/4.5.60_0017/) | lumi.gateway.acn012 | 4.5.60_0017 | 2026-06-25 |
-| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.60_0017/) | lumi.gateway.agl004 | 4.5.60_0017 | 2026-06-25 |
+| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.70_0011/) | lumi.gateway.agl004 | 4.5.70_0011 | 2026-07-25 |
 | [Intelligent Bathroom Heater T1](Intelligent%20Bathroom%20Heater%20T1/lumi.bhf_light.acn001/0.0.7_0734/) | lumi.bhf_light.acn001 | 0.0.7_0734 | 2025-11-24 |
 | [LED Bulb T1 (Tunable White)](LED%20Bulb%20T1%20%28Tunable%20White%29/lumi.light.acn014/0.0.0_0040/) | lumi.light.acn014 | 0.0.0_0040 | 2023-12-22 |
 | [LED Bulb T2 (E26, CCT)](LED%20Bulb%20T2%20%28E26%2C%20CCT%29/aqara.matter.4447_6146/1.0.2.0/) | aqara.matter.4447_6146 | 1.0.2.0 | 2024-11-27 |

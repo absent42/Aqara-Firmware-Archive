@@ -1,0 +1,12 @@
+{
+  "model": "lumi.models.4447_6209",
+  "friendlyName": "RGB Spectrum LED Strip Driver H1",
+  "firmwareVersion": "0019",
+  "firmwareMD5": "11e46dcd9133dcdf28661ebc4b539c9e",
+  "fileSize": 669470,
+  "releaseNotes": "",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-07-27"
+}

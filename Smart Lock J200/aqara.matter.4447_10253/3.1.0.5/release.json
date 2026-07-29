@@ -1,0 +1,12 @@
+{
+  "model": "aqara.matter.4447_10253",
+  "friendlyName": "Smart Lock J200",
+  "firmwareVersion": "3.1.0.5",
+  "firmwareMD5": "4e5577019f6b844db661c7379803ed81",
+  "fileSize": 967628,
+  "releaseNotes": "1. Optimized the Matter pairing experience. If you first pair with Apple Home, you can directly pair with the Aqara Matter controller in Aqara without generating a pairing code through Apple Home;<br>2. Optimized the device indicator light. After pairing to Matter, a single press of the Set button causes the device light to flash white twice and a single beep;<br>3. Improved the dual-lock experience for a single door and fixed known issues;<br>4. Improved the guidance prompt for the door status on the home screen when it shows [Unknown status];<br>5. Fixed other known issues;",
+  "regions": [
+    "au"
+  ],
+  "releaseDate": "2026-06-03"
+}
