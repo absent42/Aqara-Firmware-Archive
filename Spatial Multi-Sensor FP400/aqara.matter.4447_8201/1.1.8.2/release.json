@@ -1,0 +1,12 @@
+{
+  "model": "aqara.matter.4447_8201",
+  "friendlyName": "Spatial Multi-Sensor FP400",
+  "firmwareVersion": "1.1.8.2",
+  "firmwareMD5": "bff569ca2414f8142aff329c1ee9b63e",
+  "fileSize": 2472716,
+  "releaseNotes": "Optimize performance; Fix known issues.",
+  "regions": [
+    "eu"
+  ],
+  "releaseDate": "2026-06-04"
+}

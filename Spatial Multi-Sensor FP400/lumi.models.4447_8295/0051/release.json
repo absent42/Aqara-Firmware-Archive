@@ -1,0 +1,12 @@
+{
+  "model": "lumi.models.4447_8295",
+  "friendlyName": "Spatial Multi-Sensor FP400",
+  "firmwareVersion": "0051",
+  "firmwareMD5": "8bee6b7b943bc5f5bdad0fde3de553fe",
+  "fileSize": 2012874,
+  "releaseNotes": "Optimize performance; Fix known issues.",
+  "regions": [
+    "eu"
+  ],
+  "releaseDate": "2026-07-24"
+}

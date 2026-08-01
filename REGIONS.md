@@ -192,7 +192,7 @@
 | [Wall Switch H1 (With Neutral, Double Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Double%20Rocker%29/lumi.switch.n2acn1/15/) | lumi.switch.n2acn1 | 15 | 2024-07-26 |
 | [Wall Switch H1 (With Neutral, Single Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Single%20Rocker%29/lumi.switch.n1acn1/15/) | lumi.switch.n1acn1 | 15 | 2024-07-26 |
 
-## eu (107 current firmwares)
+## eu (109 current firmwares)
 
 | Device | Model | Version | Released |
 | --- | --- | --- | --- |
@@ -288,6 +288,8 @@
 | [Smart wall switch Z1 Pro (single button version)](Smart%20wall%20switch%20Z1%20Pro%20%28single%20button%20version%29/lumi.switch.acn056/0.0.0_0031/) | lumi.switch.acn056 | 0.0.0_0031 | 2023-11-06 |
 | [Smart wall switch Z1 Pro (three-button version)](Smart%20wall%20switch%20Z1%20Pro%20%28three-button%20version%29/lumi.switch.acn058/0.0.0_0031/) | lumi.switch.acn058 | 0.0.0_0031 | 2023-11-06 |
 | [Smoke Detector](Smoke%20Detector/lumi.sensor_smoke.acn03/0.0.0_0017/) | lumi.sensor_smoke.acn03 | 0.0.0_0017 | 2022-07-18 |
+| [Spatial Multi-Sensor FP400](Spatial%20Multi-Sensor%20FP400/aqara.matter.4447_8201/1.1.8.2/) | aqara.matter.4447_8201 | 1.1.8.2 | 2026-06-04 |
+| [Spatial Multi-Sensor FP400](Spatial%20Multi-Sensor%20FP400/lumi.models.4447_8295/0051/) | lumi.models.4447_8295 | 0051 | 2026-07-24 |
 | [Spotlight T2 (15°)](Spotlight%20T2%20%2815%C2%B0%29/lumi.light.acn023/0.0.0_0041/) | lumi.light.acn023 | 0.0.0_0041 | 2023-12-22 |
 | [Spotlight T2 (24°)](Spotlight%20T2%20%2824%C2%B0%29/lumi.light.acn024/0.0.0_0041/) | lumi.light.acn024 | 0.0.0_0041 | 2023-12-22 |
 | [Spotlight T2 (36°)](Spotlight%20T2%20%2836%C2%B0%29/lumi.light.acn025/0.0.0_0041/) | lumi.light.acn025 | 0.0.0_0041 | 2023-12-22 |
