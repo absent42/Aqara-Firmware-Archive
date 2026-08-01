@@ -141,7 +141,7 @@
 | [Smart wall switch Z1 Pro (single button version)](Smart%20wall%20switch%20Z1%20Pro%20%28single%20button%20version%29/) | lumi.switch.acn056 | au, cn, eu, us |
 | [Smart wall switch Z1 Pro (three-button version)](Smart%20wall%20switch%20Z1%20Pro%20%28three-button%20version%29/) | lumi.switch.acn058 | au, cn, eu, us |
 | [Smoke Detector](Smoke%20Detector/) | lumi.sensor_smoke.acn03 | au, eu, kr, us |
-| [Spatial Multi-Sensor FP400](Spatial%20Multi-Sensor%20FP400/) | aqara.matter.4447_8201, lumi.models.4447_8295 | eu |
+| [Spatial Multi-Sensor FP400](Spatial%20Multi-Sensor%20FP400/) | aqara.matter.4447_8201, lumi.models.4447_8295 | au, cn, eu, kr, us |
 | [Spotlight T2 (15°)](Spotlight%20T2%20%2815%C2%B0%29/) | lumi.light.acn023 | au, eu, kr, us |
 | [Spotlight T2 (24°)](Spotlight%20T2%20%2824%C2%B0%29/) | lumi.light.acn024 | au, eu, kr, us |
 | [Spotlight T2 (36°)](Spotlight%20T2%20%2836%C2%B0%29/) | lumi.light.acn025 | au, eu, kr, us |
