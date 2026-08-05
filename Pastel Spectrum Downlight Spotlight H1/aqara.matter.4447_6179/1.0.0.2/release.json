@@ -1,0 +1,13 @@
+{
+  "model": "aqara.matter.4447_6179",
+  "friendlyName": "Pastel Spectrum Downlight Spotlight H1",
+  "firmwareVersion": "1.0.0.2",
+  "firmwareMD5": "396438b94599d7d0cc23b8ebb238b626",
+  "fileSize": 1123088,
+  "releaseNotes": "",
+  "regions": [
+    "cn",
+    "us"
+  ],
+  "releaseDate": "2026-06-02"
+}

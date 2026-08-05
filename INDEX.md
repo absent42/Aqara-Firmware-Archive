@@ -1,6 +1,6 @@
 # Firmware Archive Index
 
-159 device names, 199 models.
+161 device names, 202 models.
 
 | Device | Models | Regions |
 | --- | --- | --- |
@@ -68,6 +68,7 @@
 | [Organ smart Curtain Controller C4](Organ%20smart%20Curtain%20Controller%20C4/) | lumi.curtain.acn010 | cn |
 | [Panel Hub AX100S](Panel%20Hub%20AX100S/) | lumi.gateway.agl015 | au, cn, eu, us |
 | [Panel Switch S100](Panel%20Switch%20S100/) | lumi.switch.acn066 | au, cn, eu, us |
+| [Pastel Spectrum Downlight Spotlight H1](Pastel%20Spectrum%20Downlight%20Spotlight%20H1/) | aqara.matter.4447_6179, lumi.models.4447_6208 | cn, us |
 | [Power Plug H2 EU](Power%20Plug%20H2%20EU/) | aqara.matter.4447_4152, lumi.plug.aeu004 | au, eu, us |
 | [Power Plug H2 EU (RGB)](Power%20Plug%20H2%20EU%20%28RGB%29/) | aqara.matter.4447_4154, lumi.plug.aeu005 | au, eu, us |
 | [Power Plug H2 UK](Power%20Plug%20H2%20UK/) | aqara.matter.4447_4110, aqara.matter.4447_4160, lumi.plug.aeu008 | au, eu, us |
@@ -98,6 +99,7 @@
 | [Smart Constant Voltage Driver T1（120W)](Smart%20Constant%20Voltage%20Driver%20T1%EF%BC%88120W%29/) | lumi.dimmer.acn004 | au, us |
 | [Smart Constant Voltage Driver T1（240W)](Smart%20Constant%20Voltage%20Driver%20T1%EF%BC%88240W%29/) | lumi.dimmer.acn005 | au, us |
 | [Smart Curtain Controller T2](Smart%20Curtain%20Controller%20T2/) | lumi.curtain.acn015 | cn |
+| [Smart Day and Night Honeycomb Shade](Smart%20Day%20and%20Night%20Honeycomb%20Shade/) | lumi.models.4447_14470 | cn |
 | [Smart Dimmer Controller T1 Pro](Smart%20Dimmer%20Controller%20T1%20Pro/) | lumi.light.acn004 | au, eu, kr, us |
 | [Smart Door Lock B50](Smart%20Door%20Lock%20B50/) | lumi.lock.aus001 | au, us |
 | [Smart Door Lock N100 Zigbee Edition](Smart%20Door%20Lock%20N100%20Zigbee%20Edition/) | aqara.lock.bzacn4 | au, eu, us |

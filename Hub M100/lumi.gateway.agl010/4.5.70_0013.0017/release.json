@@ -1,0 +1,12 @@
+{
+  "model": "lumi.gateway.agl010",
+  "friendlyName": "Hub M100",
+  "firmwareVersion": "4.5.70_0013.0017",
+  "firmwareMD5": "b29be1a071392308f12cc8a60676b34d",
+  "fileSize": 20951144,
+  "releaseNotes": "1. Optimized device-related functions\n2. Fixed known issues",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-08-03"
+}
