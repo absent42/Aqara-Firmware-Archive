@@ -1,0 +1,12 @@
+{
+  "model": "lumi.gateway.iragl8",
+  "friendlyName": "Hub M2 2022",
+  "firmwareVersion": "4.5.60_0025.0013",
+  "firmwareMD5": "857194294c07147723360358763dc2e7",
+  "fileSize": 17797224,
+  "releaseNotes": "1. Optimize device related functions; 2. Fix known issues;",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2026-07-31"
+}

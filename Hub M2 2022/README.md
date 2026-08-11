@@ -3,5 +3,5 @@
 ## [lumi.gateway.iragl8](lumi.gateway.iragl8/)
 
 - Regions: us
-- Latest: us: [4.5.30_0013.0013](lumi.gateway.iragl8/4.5.30_0013.0013/)
-- Versions: [4.5.30_0013.0013](lumi.gateway.iragl8/4.5.30_0013.0013/) (2026-02-03)
+- Latest: us: [4.5.60_0025.0013](lumi.gateway.iragl8/4.5.60_0025.0013/)
+- Versions: [4.5.30_0013.0013](lumi.gateway.iragl8/4.5.30_0013.0013/) (2026-02-03), [4.5.60_0025.0013](lumi.gateway.iragl8/4.5.60_0025.0013/) (2026-07-31)

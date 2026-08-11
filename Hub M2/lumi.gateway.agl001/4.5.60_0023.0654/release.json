@@ -1,0 +1,13 @@
+{
+  "model": "lumi.gateway.agl001",
+  "friendlyName": "Hub M2",
+  "firmwareVersion": "4.5.60_0023.0654",
+  "firmwareMD5": "435c137feb974753db0580f363a03e4d",
+  "fileSize": 16742504,
+  "releaseNotes": "1. Optimized device-related functions 2. Fixed known issues",
+  "regions": [
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-07-31"
+}

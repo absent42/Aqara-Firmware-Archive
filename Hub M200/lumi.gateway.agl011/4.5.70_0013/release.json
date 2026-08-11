@@ -4,9 +4,11 @@
   "firmwareVersion": "4.5.70_0013",
   "firmwareMD5": "f553c8094d0fec83e7525e53c4561f22",
   "fileSize": 20940904,
-  "releaseNotes": "",
+  "releaseNotes": "1. Optimized device-related functions\n2. Fixed known issues",
   "regions": [
-    "cn"
+    "cn",
+    "eu",
+    "us"
   ],
   "releaseDate": "2026-08-03"
 }

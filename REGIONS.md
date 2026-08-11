@@ -136,7 +136,7 @@
 | --- | --- | --- | --- |
 | [Camera E1](Camera%20E1/lumi.camera.acn007/4.5.20_0020/) | lumi.camera.acn007 | 4.5.20_0020 | 2026-04-25 |
 | [Camera G100](Camera%20G100/lumi.camera.acn016/4.5.45_0004/) | lumi.camera.acn016 | 4.5.45_0004 | 2026-05-12 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.21_0004.0017/) | lumi.camera.agl010 | 4.5.21_0004.0017 | 2026-04-09 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.70_0002.0017/) | lumi.camera.agl010 | 4.5.70_0002.0017 | 2026-08-04 |
 | [Camera Hub G5 (PoE)](Camera%20Hub%20G5%20%28PoE%29/lumi.camera.acn009/4.5.30_0008.0017/) | lumi.camera.acn009 | 4.5.30_0008.0017 | 2026-06-09 |
 | [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl003/4.5.30_0008.0017/) | lumi.camera.agl003 | 4.5.30_0008.0017 | 2026-06-10 |
 | [Ceiling Light L1-350](Ceiling%20Light%20L1-350/lumi.light.acn003/0.0.0_0029/) | lumi.light.acn003 | 0.0.0_0029 | 2023-09-05 |
@@ -206,7 +206,7 @@
 | [Camera E1](Camera%20E1/lumi.camera.acn006/4.5.20_0020/) | lumi.camera.acn006 | 4.5.20_0020 | 2026-04-25 |
 | [Camera G100](Camera%20G100/lumi.camera.agl005/4.5.45_0004/) | lumi.camera.agl005 | 4.5.45_0004 | 2026-05-15 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.agl001/4.5.30_0004.0013/) | lumi.camera.agl001 | 4.5.30_0004.0013 | 2026-06-01 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.21_0004.0017/) | lumi.camera.agl010 | 4.5.21_0004.0017 | 2026-04-09 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.70_0002.0017/) | lumi.camera.agl010 | 4.5.70_0002.0017 | 2026-08-04 |
 | [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.30_0008.0017/) | lumi.camera.acn010 | 4.5.30_0008.0017 | 2026-06-10 |
 | [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl004/4.5.30_0008.0017/) | lumi.camera.agl004 | 4.5.30_0008.0017 | 2026-06-10 |
 | [Ceiling Light L1-350](Ceiling%20Light%20L1-350/lumi.light.acn003/0.0.0_0029/) | lumi.light.acn003 | 0.0.0_0029 | 2023-09-05 |
@@ -230,8 +230,8 @@
 | [Floor Heating Thermostat W500](Floor%20Heating%20Thermostat%20W500/lumi.airrtc.aeu001/0.0.0_1030/) | lumi.airrtc.aeu001 | 0.0.0_1030 | 2025-11-11 |
 | [Hub M100](Hub%20M100/lumi.gateway.agl008/4.5.70_0013.0017/) | lumi.gateway.agl008 | 4.5.70_0013.0017 | 2026-08-03 |
 | [Hub M1S Gen 2](Hub%20M1S%20Gen%202/lumi.gateway.agl002/4.5.30_0013.0013/) | lumi.gateway.agl002 | 4.5.30_0013.0013 | 2026-02-10 |
-| [Hub M2](Hub%20M2/lumi.gateway.agl001/4.5.30_0013.0654/) | lumi.gateway.agl001 | 4.5.30_0013.0654 | 2026-01-30 |
-| [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.60_0019/) | lumi.gateway.agl011 | 4.5.60_0019 | 2026-06-30 |
+| [Hub M2](Hub%20M2/lumi.gateway.agl001/4.5.60_0023.0654/) | lumi.gateway.agl001 | 4.5.60_0023.0654 | 2026-07-31 |
+| [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.70_0013/) | lumi.gateway.agl011 | 4.5.70_0013 | 2026-08-03 |
 | [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.70_0011/) | lumi.gateway.agl004 | 4.5.70_0011 | 2026-07-25 |
 | [LED Bulb T1 (Tunable White)](LED%20Bulb%20T1%20%28Tunable%20White%29/lumi.light.acn014/0.0.0_0040/) | lumi.light.acn014 | 0.0.0_0040 | 2023-12-22 |
 | [LED Bulb T2 (E27, CCT)](LED%20Bulb%20T2%20%28E27%2C%20CCT%29/aqara.matter.4447_6148/1.0.2.0/) | aqara.matter.4447_6148 | 1.0.2.0 | 2024-11-23 |
@@ -320,7 +320,7 @@
 | [Camera E1](Camera%20E1/lumi.camera.acn006/4.5.20_0020/) | lumi.camera.acn006 | 4.5.20_0020 | 2026-04-25 |
 | [Camera G100](Camera%20G100/lumi.camera.agl005/4.5.45_0004/) | lumi.camera.agl005 | 4.5.45_0004 | 2026-05-15 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.agl001/4.5.30_0004.0013/) | lumi.camera.agl001 | 4.5.30_0004.0013 | 2026-06-01 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.21_0004.0017/) | lumi.camera.agl010 | 4.5.21_0004.0017 | 2026-04-09 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.70_0002.0017/) | lumi.camera.agl010 | 4.5.70_0002.0017 | 2026-08-04 |
 | [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.30_0008.0017/) | lumi.camera.acn010 | 4.5.30_0008.0017 | 2026-06-10 |
 | [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl004/4.5.30_0008.0017/) | lumi.camera.agl004 | 4.5.30_0008.0017 | 2026-06-10 |
 | [Ceiling Light T1M](Ceiling%20Light%20T1M/lumi.light.acn032/0.0.0_0026/) | lumi.light.acn032 | 0.0.0_0026 | 2023-12-27 |
@@ -412,7 +412,7 @@
 | [Camera G100](Camera%20G100/lumi.camera.agl005/4.5.45_0004/) | lumi.camera.agl005 | 4.5.45_0004 | 2026-05-15 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.acn003/4.5.30_0004.0013/) | lumi.camera.acn003 | 4.5.30_0004.0013 | 2026-06-01 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.agl001/4.5.30_0004.0013/) | lumi.camera.agl001 | 4.5.30_0004.0013 | 2026-06-01 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.21_0004.0017/) | lumi.camera.agl010 | 4.5.21_0004.0017 | 2026-04-09 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.70_0002.0017/) | lumi.camera.agl010 | 4.5.70_0002.0017 | 2026-08-04 |
 | [Camera Hub G5 (PoE)](Camera%20Hub%20G5%20%28PoE%29/lumi.camera.acn009/4.3.3_0006.0017/) | lumi.camera.acn009 | 4.3.3_0006.0017 | 2025-02-14 |
 | [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.30_0008.0017/) | lumi.camera.acn010 | 4.5.30_0008.0017 | 2026-06-10 |
 | [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl003/4.5.20_0012.0017/) | lumi.camera.agl003 | 4.5.20_0012.0017 | 2026-03-23 |
@@ -448,9 +448,9 @@
 | [Hub M100](Hub%20M100/lumi.gateway.agl008/4.5.70_0013.0017/) | lumi.gateway.agl008 | 4.5.70_0013.0017 | 2026-08-03 |
 | [Hub M1S Gen 2](Hub%20M1S%20Gen%202/lumi.gateway.agl002/4.5.30_0013.0013/) | lumi.gateway.agl002 | 4.5.30_0013.0013 | 2026-02-10 |
 | [Hub M1S series 2](Hub%20M1S%20series%202/lumi.gateway.acn008/4.5.30_0013.0013/) | lumi.gateway.acn008 | 4.5.30_0013.0013 | 2026-02-07 |
-| [Hub M2](Hub%20M2/lumi.gateway.agl001/4.5.30_0013.0654/) | lumi.gateway.agl001 | 4.5.30_0013.0654 | 2026-01-30 |
-| [Hub M2 2022](Hub%20M2%202022/lumi.gateway.iragl8/4.5.30_0013.0013/) | lumi.gateway.iragl8 | 4.5.30_0013.0013 | 2026-02-03 |
-| [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.60_0019/) | lumi.gateway.agl011 | 4.5.60_0019 | 2026-06-30 |
+| [Hub M2](Hub%20M2/lumi.gateway.agl001/4.5.60_0023.0654/) | lumi.gateway.agl001 | 4.5.60_0023.0654 | 2026-07-31 |
+| [Hub M2 2022](Hub%20M2%202022/lumi.gateway.iragl8/4.5.60_0025.0013/) | lumi.gateway.iragl8 | 4.5.60_0025.0013 | 2026-07-31 |
+| [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.70_0013/) | lumi.gateway.agl011 | 4.5.70_0013 | 2026-08-03 |
 | [Hub M3](Hub%20M3/lumi.gateway.acn012/4.5.60_0017/) | lumi.gateway.acn012 | 4.5.60_0017 | 2026-06-25 |
 | [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.70_0011/) | lumi.gateway.agl004 | 4.5.70_0011 | 2026-07-25 |
 | [Intelligent Bathroom Heater T1](Intelligent%20Bathroom%20Heater%20T1/lumi.bhf_light.acn001/0.0.7_0734/) | lumi.bhf_light.acn001 | 0.0.7_0734 | 2025-11-24 |
