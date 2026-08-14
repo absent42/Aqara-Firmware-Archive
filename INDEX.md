@@ -149,8 +149,8 @@
 | [Spotlight T2 (36°)](Spotlight%20T2%20%2836%C2%B0%29/) | lumi.light.acn025 | au, eu, kr, us |
 | [Spotlight V1](Spotlight%20V1/) | lumi.light.acn036 | cn, kr |
 | [TVOC Air Quality Monitor](TVOC%20Air%20Quality%20Monitor/) | lumi.airmonitor.acn01 | au, eu, kr, us |
-| [Thermostat W400 (FCU)](Thermostat%20W400%20%28FCU%29/) | lumi.airrtc.acn003 | au, cn, eu, us |
-| [Thermostat W400 (VRF)](Thermostat%20W400%20%28VRF%29/) | lumi.airrtc.acn002 | au, cn, eu, us |
+| [Thermostat W400 (FCU)](Thermostat%20W400%20%28FCU%29/) | lumi.airrtc.acn003 | au, cn, eu, kr, us |
+| [Thermostat W400 (VRF)](Thermostat%20W400%20%28VRF%29/) | lumi.airrtc.acn002 | au, cn, eu, kr, us |
 | [Touchscreen Dial V1](Touchscreen%20Dial%20V1/) | lumi.switch.acn053 | au, cn, eu, kr, us |
 | [Touchscreen Switch S100 US](Touchscreen%20Switch%20S100%20US/) | aqara.matter.4447_4145 | au, eu, us |
 | [Track/Rail Light V1](Track-Rail%20Light%20V1/) | lumi.light.acn037 | au, cn, eu, us |

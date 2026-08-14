@@ -7,6 +7,7 @@
   "releaseNotes": "1. Optimized device-related functions\n2. Fixed known issues",
   "regions": [
     "eu",
+    "kr",
     "us"
   ],
   "releaseDate": "2026-08-03"

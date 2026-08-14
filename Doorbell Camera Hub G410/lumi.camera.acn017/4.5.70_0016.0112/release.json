@@ -1,0 +1,12 @@
+{
+  "model": "lumi.camera.acn017",
+  "friendlyName": "Doorbell Camera Hub G410",
+  "firmwareVersion": "4.5.70_0016.0112",
+  "firmwareMD5": "0efbc2d0a2c8be8211bd62f85d447aca",
+  "fileSize": 26019944,
+  "releaseNotes": "1. Optimize the radar's false alarm issue in rainy conditions<br>2. Update the Hub system version to fix other known issues",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-08-10"
+}

@@ -1,0 +1,14 @@
+{
+  "model": "lumi.camera.agl006",
+  "friendlyName": "Doorbell Camera Hub G410",
+  "firmwareVersion": "4.5.70_0016.0112",
+  "firmwareMD5": "b4e79b20d879bf01da4c2d2a4aa4c7bc",
+  "fileSize": 26020118,
+  "releaseNotes": "1. The Hub is updated to support connecting new child device models.<br>2. Radar version is updated to optimize false triggers and power consumption.",
+  "regions": [
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-08-07"
+}

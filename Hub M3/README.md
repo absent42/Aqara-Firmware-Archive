@@ -5,7 +5,7 @@ This product name covers more than one hardware model (region or revision varian
 ## [lumi.gateway.acn012](lumi.gateway.acn012/)
 
 - Regions: cn, us
-- Latest: cn: [4.5.70_0011](lumi.gateway.acn012/4.5.70_0011/), us: [4.5.60_0017](lumi.gateway.acn012/4.5.60_0017/)
+- Latest: cn: [4.5.70_0011](lumi.gateway.acn012/4.5.70_0011/), us: [4.5.70_0011](lumi.gateway.acn012/4.5.70_0011/)
 - Versions: [4.5.20_0019](lumi.gateway.acn012/4.5.20_0019/) (2025-11-04), [4.5.50_0019](lumi.gateway.acn012/4.5.50_0019/) (2026-05-21), [4.5.60_0017](lumi.gateway.acn012/4.5.60_0017/) (2026-06-25), [4.5.70_0011](lumi.gateway.acn012/4.5.70_0011/) (2026-07-25)
 
 ## [lumi.gateway.agl004](lumi.gateway.agl004/)
