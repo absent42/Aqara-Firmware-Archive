@@ -144,7 +144,7 @@
 | [Climate Sensor W100](Climate%20Sensor%20W100/lumi.sensor_ht.agl001/0.0.0_1641/) | lumi.sensor_ht.agl001 | 0.0.0_1641 | 2026-05-18 |
 | [Curtain Controller C200](Curtain%20Controller%20C200/lumi.curtain.acn018/0.0.0_0011/) | lumi.curtain.acn018 | 0.0.0_0011 | 2026-07-07 |
 | [Doorbell Camera G400](Doorbell%20Camera%20G400/lumi.camera.agl013/4.5.20_0030/) | lumi.camera.agl013 | 4.5.20_0030 | 2026-06-09 |
-| [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.acn017/4.5.70_0016.0112/) | lumi.camera.acn017 | 4.5.70_0016.0112 | 2026-08-10 |
+| [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.acn017/4.5.20_0052.0108/) | lumi.camera.acn017 | 4.5.20_0052.0108 | 2026-04-21 |
 | [Downlight T2 Pro](Downlight%20T2%20Pro/lumi.light.acn040/0.0.0_0025/) | lumi.light.acn040 | 0.0.0_0025 | 2026-06-15 |
 | [Dual Relay Module T2](Dual%20Relay%20Module%20T2/lumi.switch.acn047/0.0.0_0035/) | lumi.switch.acn047 | 0.0.0_0035 | 2026-01-13 |
 | [Hub M100](Hub%20M100/lumi.gateway.agl010/4.5.70_0013.0017/) | lumi.gateway.agl010 | 4.5.70_0013.0017 | 2026-08-03 |
@@ -220,7 +220,7 @@
 | [Dimmer Switch H2 EU](Dimmer%20Switch%20H2%20EU/lumi.switch.agl011/0.0.0_1624/) | lumi.switch.agl011 | 0.0.0_1624 | 2026-04-09 |
 | [Display Switch V1 EU](Display%20Switch%20V1%20EU/lumi.switch.aeu001/0.0.0_1345/) | lumi.switch.aeu001 | 0.0.0_1345 | 2025-12-10 |
 | [Doorbell Camera G400](Doorbell%20Camera%20G400/lumi.camera.agl013/4.5.20_0030/) | lumi.camera.agl013 | 4.5.20_0030 | 2026-06-09 |
-| [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.agl006/4.5.70_0016.0112/) | lumi.camera.agl006 | 4.5.70_0016.0112 | 2026-08-07 |
+| [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.agl006/4.5.20_0052.0108/) | lumi.camera.agl006 | 4.5.20_0052.0108 | 2026-04-30 |
 | [Doorbell G4](Doorbell%20G4/lumi.camera.agl002/4.0.6_0018.0068/) | lumi.camera.agl002 | 4.0.6_0018.0068 | 2023-12-25 |
 | [Down/Spot light T3](Down-Spot%20light%20T3/lumi.light.acn128/0.0.0_0022/) | lumi.light.acn128 | 0.0.0_0022 | 2023-12-22 |
 | [Downlight T2 (60°)](Downlight%20T2%20%2860%C2%B0%29/lumi.light.acn026/0.0.0_0041/) | lumi.light.acn026 | 0.0.0_0041 | 2023-12-22 |
@@ -265,7 +265,7 @@
 | [Power Plug H2 UK (RGB)](Power%20Plug%20H2%20UK%20%28RGB%29/lumi.plug.aeu009/0.0.0_0021/) | lumi.plug.aeu009 | 0.0.0_0021 | 2026-03-18 |
 | [Presence Multi-Sensor FP300](Presence%20Multi-Sensor%20FP300/aqara.matter.4447_8197/1.1.3.8/) | aqara.matter.4447_8197 | 1.1.3.8 | 2026-05-15 |
 | [Presence Multi-Sensor FP300](Presence%20Multi-Sensor%20FP300/lumi.sensor_occupy.agl8/0.0.0_6542/) | lumi.sensor_occupy.agl8 | 0.0.0_6542 | 2026-05-15 |
-| [Presence Sensor FP1E](Presence%20Sensor%20FP1E/lumi.sensor_occupy.agl1/0.0.0_0029/) | lumi.sensor_occupy.agl1 | 0.0.0_0029 | 2025-08-27 |
+| [Presence Sensor FP1E](Presence%20Sensor%20FP1E/lumi.sensor_occupy.agl1/0.0.0_0035/) | lumi.sensor_occupy.agl1 | 0.0.0_0035 | 2026-07-22 |
 | [Presence Sensor FP2](Presence%20Sensor%20FP2/lumi.motion.agl001/1.3.6_0003/) | lumi.motion.agl001 | 1.3.6_0003 | 2026-04-30 |
 | [Radiator Thermostat W600](Radiator%20Thermostat%20W600/aqara.matter.4447_18437/1.0.1.1/) | aqara.matter.4447_18437 | 1.0.1.1 | 2026-03-02 |
 | [Radiator Thermostat W600](Radiator%20Thermostat%20W600/lumi.airrtc.aeu005/0.0.0_2848/) | lumi.airrtc.aeu005 | 0.0.0_2848 | 2026-06-26 |
@@ -332,7 +332,7 @@
 | [Dimmer Switch H2 EU](Dimmer%20Switch%20H2%20EU/lumi.switch.agl011/0.0.0_1624/) | lumi.switch.agl011 | 0.0.0_1624 | 2026-04-09 |
 | [Display Switch V1 EU](Display%20Switch%20V1%20EU/lumi.switch.aeu001/0.0.0_1345/) | lumi.switch.aeu001 | 0.0.0_1345 | 2025-12-10 |
 | [Doorbell Camera G400](Doorbell%20Camera%20G400/lumi.camera.agl013/4.5.20_0030/) | lumi.camera.agl013 | 4.5.20_0030 | 2026-06-09 |
-| [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.agl006/4.5.70_0016.0112/) | lumi.camera.agl006 | 4.5.70_0016.0112 | 2026-08-07 |
+| [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.agl006/4.5.20_0052.0108/) | lumi.camera.agl006 | 4.5.20_0052.0108 | 2026-04-30 |
 | [Doorbell G4](Doorbell%20G4/lumi.camera.agl002/4.0.6_0018.0068/) | lumi.camera.agl002 | 4.0.6_0018.0068 | 2023-12-25 |
 | [Downlight T2 (60°)](Downlight%20T2%20%2860%C2%B0%29/lumi.light.acn026/0.0.0_0041/) | lumi.light.acn026 | 0.0.0_0041 | 2023-12-22 |
 | [Dual Relay Module T2](Dual%20Relay%20Module%20T2/lumi.switch.acn047/0.0.0_0035/) | lumi.switch.acn047 | 0.0.0_0035 | 2026-01-13 |
@@ -438,7 +438,7 @@
 | [Display Switch V1 EU](Display%20Switch%20V1%20EU/lumi.switch.aeu001/0.0.0_1345/) | lumi.switch.aeu001 | 0.0.0_1345 | 2025-12-10 |
 | [Doorbell Camera G400](Doorbell%20Camera%20G400/lumi.camera.agl013/4.5.20_0030/) | lumi.camera.agl013 | 4.5.20_0030 | 2026-06-09 |
 | [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.acn017/4.3.4_0028.0056/) | lumi.camera.acn017 | 4.3.4_0028.0056 | 2025-04-02 |
-| [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.agl006/4.5.70_0016.0112/) | lumi.camera.agl006 | 4.5.70_0016.0112 | 2026-08-07 |
+| [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.agl006/4.5.20_0052.0108/) | lumi.camera.agl006 | 4.5.20_0052.0108 | 2026-04-30 |
 | [Doorbell G4](Doorbell%20G4/lumi.camera.acn005/4.0.6_0018.0068/) | lumi.camera.acn005 | 4.0.6_0018.0068 | 2023-12-25 |
 | [Doorbell G4](Doorbell%20G4/lumi.camera.agl002/4.0.6_0018.0068/) | lumi.camera.agl002 | 4.0.6_0018.0068 | 2023-12-25 |
 | [Down/Spot light T3](Down-Spot%20light%20T3/lumi.light.acn128/0.0.0_0022/) | lumi.light.acn128 | 0.0.0_0022 | 2023-12-22 |
@@ -506,7 +506,7 @@
 | [Presence Multi-Sensor FP300](Presence%20Multi-Sensor%20FP300/aqara.matter.4447_8197/1.1.3.8/) | aqara.matter.4447_8197 | 1.1.3.8 | 2026-05-15 |
 | [Presence Multi-Sensor FP300](Presence%20Multi-Sensor%20FP300/lumi.sensor_occupy.agl8/0.0.0_6542/) | lumi.sensor_occupy.agl8 | 0.0.0_6542 | 2026-05-15 |
 | [Presence Sensor FP1](Presence%20Sensor%20FP1/lumi.motion.ac01/0.0.0_0058/) | lumi.motion.ac01 | 0.0.0_0058 | 2023-09-25 |
-| [Presence Sensor FP1E](Presence%20Sensor%20FP1E/lumi.sensor_occupy.agl1/0.0.0_0029/) | lumi.sensor_occupy.agl1 | 0.0.0_0029 | 2025-08-27 |
+| [Presence Sensor FP1E](Presence%20Sensor%20FP1E/lumi.sensor_occupy.agl1/0.0.0_0035/) | lumi.sensor_occupy.agl1 | 0.0.0_0035 | 2026-07-22 |
 | [Presence Sensor FP2](Presence%20Sensor%20FP2/lumi.motion.agl001/1.3.6_0003/) | lumi.motion.agl001 | 1.3.6_0003 | 2026-04-30 |
 | [Presence Switch H2 US (2 Buttons, 1 Channel)](Presence%20Switch%20H2%20US%20%282%20Buttons%2C%201%20Channel%29/aqara.matter.4447_4112/1.1.1.2/) | aqara.matter.4447_4112 | 1.1.1.2 | 2025-11-27 |
 | [Presence Switch H2 US (2 Buttons, 1 Channel)](Presence%20Switch%20H2%20US%20%282%20Buttons%2C%201%20Channel%29/lumi.switch.aus001/0.0.0_2327/) | lumi.switch.aus001 | 0.0.0_2327 | 2025-10-21 |
