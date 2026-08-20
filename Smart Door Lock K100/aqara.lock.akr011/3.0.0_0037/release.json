@@ -1,0 +1,12 @@
+{
+  "model": "aqara.lock.akr011",
+  "friendlyName": "Smart Door Lock K100",
+  "firmwareVersion": "3.0.0_0037",
+  "firmwareMD5": "28b3f7e92dcc5859c43c045628433948",
+  "fileSize": 839000,
+  "releaseNotes": "1. Added system Log recording<br>2. Other performance improvements",
+  "regions": [
+    "kr"
+  ],
+  "releaseDate": "2026-05-11"
+}

@@ -6,6 +6,7 @@
   "fileSize": 823119,
   "releaseNotes": "1.  Remove automation limits on the door lock device, and relax the conditions.",
   "regions": [
+    "au",
     "eu",
     "us"
   ],

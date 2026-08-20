@@ -1,0 +1,12 @@
+{
+  "model": "aqara.lock.akr001",
+  "friendlyName": "Smart Door Lock L100",
+  "firmwareVersion": "3.0.0_0007",
+  "firmwareMD5": "7ffdcca8f668567478b79715c7ea0b00",
+  "fileSize": 835797,
+  "releaseNotes": "1. Lock the door immediately after shutting it.\n2. Fix known issues.",
+  "regions": [
+    "kr"
+  ],
+  "releaseDate": "2025-08-19"
+}

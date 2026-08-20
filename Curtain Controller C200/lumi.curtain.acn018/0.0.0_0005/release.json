@@ -4,10 +4,10 @@
   "firmwareVersion": "0.0.0_0005",
   "firmwareMD5": "d6c2b4ca8d38a6f1107cb2214546887f",
   "fileSize": 611246,
-  "releaseNotes": "",
+  "releaseNotes": "Fix known issues!",
   "regions": [
     "cn",
     "us"
   ],
-  "releaseDate": "2025-07-17"
+  "releaseDate": "2025-12-29"
 }

@@ -4,11 +4,11 @@
   "firmwareVersion": "0.0.7.0",
   "firmwareMD5": "1ae7bd4bf8226ebf96a25c56285f94af",
   "fileSize": 1100271,
-  "releaseNotes": "",
+  "releaseNotes": "Fixed known issues.",
   "regions": [
     "au",
     "eu",
     "us"
   ],
-  "releaseDate": "2025-12-11"
+  "releaseDate": "2025-12-15"
 }

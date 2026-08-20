@@ -6,8 +6,10 @@
   "fileSize": 778726,
   "releaseNotes": "1. Optimize tamper alarm function\n2. Fix some known issues",
   "regions": [
+    "au",
     "eu",
+    "ru",
     "us"
   ],
-  "releaseDate": "2026-01-12"
+  "releaseDate": "2026-01-26"
 }

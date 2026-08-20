@@ -1,0 +1,12 @@
+{
+  "model": "lumi.airer.acn001",
+  "friendlyName": "Smart Clothes Drying Rack H1",
+  "firmwareVersion": "0.0.5_0629",
+  "firmwareMD5": "a70819a530d7cb0382e9e77268f560ce",
+  "fileSize": 418484,
+  "releaseNotes": "1. Fix known problems.",
+  "regions": [
+    "au"
+  ],
+  "releaseDate": "2025-04-22"
+}

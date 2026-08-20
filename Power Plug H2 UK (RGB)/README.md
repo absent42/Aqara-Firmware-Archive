@@ -12,4 +12,4 @@ This product name covers more than one hardware model (region or revision varian
 
 - Regions: au, eu, us
 - Latest: au: [0.0.0_0021](lumi.plug.aeu009/0.0.0_0021/), eu: [0.0.0_0021](lumi.plug.aeu009/0.0.0_0021/), us: [0.0.0_0021](lumi.plug.aeu009/0.0.0_0021/)
-- Versions: [0.0.0_0021](lumi.plug.aeu009/0.0.0_0021/) (2026-03-18)
+- Versions: [0.0.0_0021](lumi.plug.aeu009/0.0.0_0021/) (2026-03-25)

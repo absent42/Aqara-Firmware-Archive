@@ -12,4 +12,4 @@ This product name covers more than one hardware model (region or revision varian
 
 - Regions: au, kr, us
 - Latest: au: [0.0.0_2327](lumi.switch.agl006/0.0.0_2327/), kr: [0.0.0_2327](lumi.switch.agl006/0.0.0_2327/), us: [0.0.0_2327](lumi.switch.agl006/0.0.0_2327/)
-- Versions: [0.0.0_2327](lumi.switch.agl006/0.0.0_2327/) (2025-10-21)
+- Versions: [0.0.0_2327](lumi.switch.agl006/0.0.0_2327/) (2025-10-28)

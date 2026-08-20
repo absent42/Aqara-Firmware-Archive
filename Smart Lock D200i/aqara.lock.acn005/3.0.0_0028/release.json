@@ -6,7 +6,8 @@
   "fileSize": 14578628,
   "releaseNotes": "1. Fix known issues, optimize user experience",
   "regions": [
+    "au",
     "us"
   ],
-  "releaseDate": "2026-03-11"
+  "releaseDate": "2026-04-15"
 }

@@ -6,8 +6,9 @@
   "fileSize": 680212,
   "releaseNotes": "1.  Remove automation limits on the door lock device, and relax the conditions.",
   "regions": [
+    "au",
     "eu",
     "us"
   ],
-  "releaseDate": "2025-10-09"
+  "releaseDate": "2025-11-24"
 }
