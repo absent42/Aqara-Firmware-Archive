@@ -6,6 +6,9 @@
   "fileSize": 289582,
   "releaseNotes": "Fix known issues",
   "regions": [
+    "cn",
+    "eu",
+    "kr",
     "us"
   ],
   "releaseDate": "2025-03-11"

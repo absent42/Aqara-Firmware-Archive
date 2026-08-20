@@ -1,0 +1,12 @@
+{
+  "model": "lumi.curtain.vagl02",
+  "friendlyName": "Roller Shade Controller T1",
+  "firmwareVersion": "0.0.0_0043",
+  "firmwareMD5": "ca35d86919d7b924e09c232df5b32955",
+  "fileSize": 290926,
+  "releaseNotes": "1. Fix known issues;\n2. Add Ark Tech functionality.",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2024-10-08"
+}

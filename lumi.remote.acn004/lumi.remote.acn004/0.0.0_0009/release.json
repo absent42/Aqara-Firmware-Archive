@@ -1,0 +1,12 @@
+{
+  "model": "lumi.remote.acn004",
+  "friendlyName": "lumi.remote.acn004",
+  "firmwareVersion": "0.0.0_0009",
+  "firmwareMD5": "aa65fb03ce4be17b8cb31c3fc8a1576c",
+  "fileSize": 162896,
+  "releaseNotes": "1.Fix known problems",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2022-12-19"
+}

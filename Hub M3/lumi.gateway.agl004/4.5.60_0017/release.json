@@ -7,9 +7,10 @@
   "releaseNotes": "1. Optimize device-related functions \n2. Fix known issues",
   "regions": [
     "au",
+    "cn",
     "eu",
     "kr",
     "us"
   ],
-  "releaseDate": "2026-06-25"
+  "releaseDate": "2026-07-07"
 }

@@ -1,0 +1,12 @@
+{
+  "model": "aqara.lock.acn002",
+  "friendlyName": "Fully Automatic Smart Door Lock with Camera",
+  "firmwareVersion": "2.3.1_0029",
+  "firmwareMD5": "3128df6ab95dc6cafad7b8d9c10f5253",
+  "fileSize": 34030678,
+  "releaseNotes": "1. Fixed the issue of abnormal lock status display on the home page card\n2. Fixed other experience issues",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-05-06"
+}

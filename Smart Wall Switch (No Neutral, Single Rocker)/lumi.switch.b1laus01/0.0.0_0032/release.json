@@ -6,6 +6,8 @@
   "fileSize": 268222,
   "releaseNotes": "Function optimization.",
   "regions": [
+    "cn",
+    "eu",
     "kr",
     "ru",
     "us"

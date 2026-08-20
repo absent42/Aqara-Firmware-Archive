@@ -1,0 +1,12 @@
+{
+  "model": "lumi.valve.agl001",
+  "friendlyName": "Valve Controller T1",
+  "firmwareVersion": "0.0.0_0048",
+  "firmwareMD5": "9b7f2b71e6f4a324074200e2782e8436",
+  "fileSize": 511918,
+  "releaseNotes": "1. Added self check and self check prompt functions\n2. Optimize the issue of fast device power consumption",
+  "regions": [
+    "kr"
+  ],
+  "releaseDate": "2024-09-10"
+}

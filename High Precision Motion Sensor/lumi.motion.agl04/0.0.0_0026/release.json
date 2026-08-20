@@ -1,0 +1,12 @@
+{
+  "model": "lumi.motion.agl04",
+  "friendlyName": "High Precision Motion Sensor",
+  "firmwareVersion": "0.0.0_0026",
+  "firmwareMD5": "66e366a38cea37bc892d4a40ee561ad0",
+  "fileSize": 215070,
+  "releaseNotes": "1. Device stability was increased.",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2021-01-15"
+}

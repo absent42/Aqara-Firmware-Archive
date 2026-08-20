@@ -1,0 +1,12 @@
+{
+  "model": "lumi.lock.acn04",
+  "friendlyName": "lumi.lock.acn04",
+  "firmwareVersion": "12.130.124",
+  "firmwareMD5": "7805947a9f61c30569d559dca4f2feb7",
+  "fileSize": 591181,
+  "releaseNotes": "",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2020-11-16"
+}

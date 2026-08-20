@@ -1,0 +1,12 @@
+{
+  "model": "lumi.lock.acn006",
+  "friendlyName": "Smart Door V100",
+  "firmwareVersion": "4.0.4_0022",
+  "firmwareMD5": "298e0380756b28cf048c818d428f1cc1",
+  "fileSize": 785522706,
+  "releaseNotes": "修复已知问题，优化使用体验",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2024-04-01"
+}

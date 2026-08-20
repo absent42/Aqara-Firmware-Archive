@@ -2,6 +2,6 @@
 
 ## [lumi.light.acn031](lumi.light.acn031/)
 
-- Regions: au, eu, us
-- Latest: au: [0.0.0_0026](lumi.light.acn031/0.0.0_0026/), eu: [0.0.0_0026](lumi.light.acn031/0.0.0_0026/), us: [0.0.0_0026](lumi.light.acn031/0.0.0_0026/)
+- Regions: au, cn, eu, us
+- Latest: au: [0.0.0_0026](lumi.light.acn031/0.0.0_0026/), cn: [0.0.0_0026](lumi.light.acn031/0.0.0_0026/), eu: [0.0.0_0026](lumi.light.acn031/0.0.0_0026/), us: [0.0.0_0026](lumi.light.acn031/0.0.0_0026/)
 - Versions: [0.0.0_0026](lumi.light.acn031/0.0.0_0026/) (2024-01-05)

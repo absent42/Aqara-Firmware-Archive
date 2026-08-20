@@ -6,6 +6,7 @@
   "fileSize": 681962,
   "releaseNotes": "1. Newly added support for device shutdown settings after NTC disconnection\n2. Newly added support for Hold duration settings: Until the next/Forever modes\n3. Fixed known issues with smart schedule operation\n4. Optimized user experience\n5. Fixed other known issues",
   "regions": [
+    "cn",
     "eu",
     "us"
   ],

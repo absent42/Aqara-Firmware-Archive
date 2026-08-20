@@ -1,0 +1,12 @@
+{
+  "model": "aqara.tow_w.acn001",
+  "friendlyName": "Smart Towel Warmer H1",
+  "firmwareVersion": "0.0.0_2530",
+  "firmwareMD5": "760b78f7b476a5b3c25b10a979635aa7",
+  "fileSize": 321764,
+  "releaseNotes": "Fix the problem of repeated reporting of device logs.",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2022-01-14"
+}

@@ -1,0 +1,12 @@
+{
+  "model": "lumi.vibration.agl01",
+  "friendlyName": "Vibration Sensor T1",
+  "firmwareVersion": "0.0.0_0025",
+  "firmwareMD5": "15d7b096cea52f5b974b869ee6f8c40c",
+  "fileSize": 242382,
+  "releaseNotes": "",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2020-11-16"
+}

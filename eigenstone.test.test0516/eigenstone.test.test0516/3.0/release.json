@@ -1,0 +1,12 @@
+{
+  "model": "eigenstone.test.test0516",
+  "friendlyName": "eigenstone.test.test0516",
+  "firmwareVersion": "3.0",
+  "firmwareMD5": "5e8874e0fcdb2afa32a2ab0138b99db5",
+  "fileSize": 12482664,
+  "releaseNotes": "222",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2022-08-31"
+}

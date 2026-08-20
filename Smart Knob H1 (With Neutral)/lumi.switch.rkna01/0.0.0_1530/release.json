@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.rkna01",
+  "friendlyName": "Smart Knob H1 (With Neutral)",
+  "firmwareVersion": "0.0.0_1530",
+  "firmwareMD5": "d7209b39adab0cd33a5b2f25b244a66b",
+  "fileSize": 291520,
+  "releaseNotes": "",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2025-01-03"
+}

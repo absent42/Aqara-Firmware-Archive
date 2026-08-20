@@ -1,0 +1,12 @@
+{
+  "model": "lumi.light.acn015",
+  "friendlyName": "Light Art Skylight H1",
+  "firmwareVersion": "0.0.0_0024",
+  "firmwareMD5": "288e7d3455fa5205e606ce2b59cd0e56",
+  "fileSize": 297616,
+  "releaseNotes": "Bugs fixed.",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2023-03-13"
+}

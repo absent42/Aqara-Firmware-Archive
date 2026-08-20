@@ -1,0 +1,12 @@
+{
+  "model": "lumi.airrtc.pcacn2",
+  "friendlyName": "Thermostat S3",
+  "firmwareVersion": "0.2.6_1118",
+  "firmwareMD5": "131a84050b6be3ec53604edcd04fde11",
+  "fileSize": 19352548,
+  "releaseNotes": "fix some problem",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2023-11-28"
+}

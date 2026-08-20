@@ -1,0 +1,12 @@
+{
+  "model": "lumi.sensor_smoke.acn05",
+  "friendlyName": "lumi.sensor_smoke.acn05",
+  "firmwareVersion": "0.0.0_0017",
+  "firmwareMD5": "ac2c2c727114f702608cf7039b2d069d",
+  "fileSize": 222094,
+  "releaseNotes": "1.Optimized the power consumption",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2022-07-21"
+}

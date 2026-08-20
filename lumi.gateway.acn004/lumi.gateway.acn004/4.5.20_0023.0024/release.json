@@ -1,0 +1,12 @@
+{
+  "model": "lumi.gateway.acn004",
+  "friendlyName": "lumi.gateway.acn004",
+  "firmwareVersion": "4.5.20_0023.0024",
+  "firmwareMD5": "8d733d5ac66b640399fbe18f8d2984c8",
+  "fileSize": 15452264,
+  "releaseNotes": "1. Optimize equipment-related functions; \n2. Fix known issues;",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2025-12-08"
+}

@@ -1,0 +1,12 @@
+{
+  "model": "aqara.lock.dacn03",
+  "friendlyName": "Smart Peephole Door Lock H100",
+  "firmwareVersion": "2.3.1_0039",
+  "firmwareMD5": "b734292bad32881ee1b6f8f2f6ca8987",
+  "fileSize": 33742473,
+  "releaseNotes": "1. Add mute setting for \"Away Mode\" volume;\n2. Remove automation limits on the door lock device, and relax the conditions.",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2025-10-24"
+}

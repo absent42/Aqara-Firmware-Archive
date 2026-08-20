@@ -1,0 +1,8 @@
+{
+  "model": "lumi.vibration.agl01",
+  "pid": "68894",
+  "matterPid": "",
+  "friendlyNames": [
+    "Vibration Sensor T1"
+  ]
+}

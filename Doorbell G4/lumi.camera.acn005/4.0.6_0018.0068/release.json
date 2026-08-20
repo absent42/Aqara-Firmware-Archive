@@ -6,6 +6,7 @@
   "fileSize": 21616744,
   "releaseNotes": "1. Fix the issue of the doorbell not responding in certain situations\n2. Fix other known issues",
   "regions": [
+    "cn",
     "us"
   ],
   "releaseDate": "2023-12-25"

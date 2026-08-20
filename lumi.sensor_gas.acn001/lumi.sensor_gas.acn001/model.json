@@ -1,0 +1,8 @@
+{
+  "model": "lumi.sensor_gas.acn001",
+  "pid": "73330",
+  "matterPid": "",
+  "friendlyNames": [
+    "lumi.sensor_gas.acn001"
+  ]
+}

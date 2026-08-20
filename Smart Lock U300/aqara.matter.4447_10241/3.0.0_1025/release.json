@@ -1,0 +1,12 @@
+{
+  "model": "aqara.matter.4447_10241",
+  "friendlyName": "Smart Lock U300",
+  "firmwareVersion": "3.0.0_1025",
+  "firmwareMD5": "f776d3a8c04b60bbc24c058434696900",
+  "fileSize": 1346225,
+  "releaseNotes": "1. Added delay locking function\n2. Added G4 doorbell linkage function\n3. Added door status detection function based on Bluetooth",
+  "regions": [
+    "eu"
+  ],
+  "releaseDate": "2025-01-17"
+}

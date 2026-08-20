@@ -6,6 +6,8 @@
   "fileSize": 392462,
   "releaseNotes": "1. Optimize the quick double-control function\n2. Fix known bugs",
   "regions": [
+    "au",
+    "eu",
     "us"
   ],
   "releaseDate": "2024-01-23"

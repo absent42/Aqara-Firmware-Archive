@@ -6,7 +6,9 @@
   "fileSize": 653335,
   "releaseNotes": "1. Fix the problem that the alarm only sounds once when the door is open\n2. Optimize the communication ability between cell phone and door lock",
   "regions": [
+    "cn",
     "eu",
+    "kr",
     "us"
   ],
   "releaseDate": "2022-10-26"

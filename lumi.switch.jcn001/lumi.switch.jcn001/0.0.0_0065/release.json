@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.jcn001",
+  "friendlyName": "lumi.switch.jcn001",
+  "firmwareVersion": "0.0.0_0065",
+  "firmwareMD5": "97578362fc451b6e456f7018acfbcb19",
+  "fileSize": 187246,
+  "releaseNotes": "Fix the offline problem of device",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2022-01-06"
+}

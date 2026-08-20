@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.acn048",
+  "friendlyName": "Canon Smart Wall Switch Z1(Single Rocker)",
+  "firmwareVersion": "0.0.0_0040",
+  "firmwareMD5": "3c864c661ec6e29bba73f50005c48d9a",
+  "fileSize": 579630,
+  "releaseNotes": "1. Fix known issues and optimize user experience",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2025-08-29"
+}

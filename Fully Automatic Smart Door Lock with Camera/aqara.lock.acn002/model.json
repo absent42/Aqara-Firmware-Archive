@@ -1,0 +1,8 @@
+{
+  "model": "aqara.lock.acn002",
+  "pid": "A0009",
+  "matterPid": "",
+  "friendlyNames": [
+    "Fully Automatic Smart Door Lock with Camera"
+  ]
+}

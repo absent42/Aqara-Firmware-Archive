@@ -6,6 +6,7 @@
   "fileSize": 289194,
   "releaseNotes": "1. The time of data reporting is changed from 0 time zone to local time (to adapt to overseas environment)\n2. Optimize the rejoin mechanism",
   "regions": [
+    "eu",
     "us"
   ],
   "releaseDate": "2024-09-26"

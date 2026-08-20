@@ -1,0 +1,12 @@
+{
+  "model": "aqara.toilet.acn002",
+  "friendlyName": "Smart Toilet T1",
+  "firmwareVersion": "0.0.0_1233",
+  "firmwareMD5": "acf63fb8a7d82c4f216869929a35594d",
+  "fileSize": 86722,
+  "releaseNotes": "1. Fix the issue of some parameters not being able to take effect properly when setting the flushing delay cover/circle;\n2. Repair implementation: If the APP is in the \"use children's toilet seat\" open state and the seat is flushed within 1 ± 0.1 minutes, the lid and seat can be closed/only closed with a delay",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2023-07-05"
+}

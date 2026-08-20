@@ -7,6 +7,7 @@
   "releaseNotes": "1. Fix known issues",
   "regions": [
     "au",
+    "cn",
     "eu",
     "kr",
     "us"

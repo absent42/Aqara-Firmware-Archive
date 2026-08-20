@@ -1,0 +1,12 @@
+{
+  "model": "aqara.lock.acn001",
+  "friendlyName": "Smart Lock A100 Pro",
+  "firmwareVersion": "3.0.0_0043",
+  "firmwareMD5": "2f48807ac131efdd1f3f08cd3e1bb444",
+  "fileSize": 778233,
+  "releaseNotes": "1. Fix known issues and optimize user experience",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-05-06"
+}

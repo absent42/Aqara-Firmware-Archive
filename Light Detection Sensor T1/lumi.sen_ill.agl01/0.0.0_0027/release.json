@@ -1,0 +1,12 @@
+{
+  "model": "lumi.sen_ill.agl01",
+  "friendlyName": "Light Detection Sensor T1",
+  "firmwareVersion": "0.0.0_0027",
+  "firmwareMD5": "9e4bf2d6d8e93e9fc8f03a490ae8f7e2",
+  "fileSize": 215886,
+  "releaseNotes": "Function optimization.",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2023-01-31"
+}

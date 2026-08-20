@@ -1,0 +1,8 @@
+{
+  "model": "lumi.sensor_gas.acn02",
+  "pid": "67295",
+  "matterPid": "",
+  "friendlyNames": [
+    "Smart Natural Gas Detector"
+  ]
+}

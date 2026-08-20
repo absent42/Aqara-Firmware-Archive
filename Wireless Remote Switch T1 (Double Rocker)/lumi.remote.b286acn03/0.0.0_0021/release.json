@@ -1,0 +1,12 @@
+{
+  "model": "lumi.remote.b286acn03",
+  "friendlyName": "Wireless Remote Switch T1 (Double Rocker)",
+  "firmwareVersion": "0.0.0_0021",
+  "firmwareMD5": "208483d7ffb6bff38f13004341db61fa",
+  "fileSize": 209006,
+  "releaseNotes": "",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2020-10-23"
+}

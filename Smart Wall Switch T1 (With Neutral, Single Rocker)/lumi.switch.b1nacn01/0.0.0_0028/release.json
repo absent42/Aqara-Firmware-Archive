@@ -6,6 +6,10 @@
   "fileSize": 277104,
   "releaseNotes": "1、Fix occasional offline issue for some devices\n2、Modify the device entry time to 180s",
   "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
     "us"
   ],
   "releaseDate": "2024-08-26"

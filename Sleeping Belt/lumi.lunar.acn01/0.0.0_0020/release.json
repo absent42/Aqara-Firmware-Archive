@@ -1,0 +1,12 @@
+{
+  "model": "lumi.lunar.acn01",
+  "friendlyName": "Sleeping Belt",
+  "firmwareVersion": "0.0.0_0020",
+  "firmwareMD5": "67cdd70c3591e99f38c5b966df9e86cf",
+  "fileSize": 287418,
+  "releaseNotes": "1.优化算法",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2021-02-09"
+}

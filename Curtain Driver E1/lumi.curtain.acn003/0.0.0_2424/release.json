@@ -1,0 +1,12 @@
+{
+  "model": "lumi.curtain.acn003",
+  "friendlyName": "Curtain Driver E1",
+  "firmwareVersion": "0.0.0_2424",
+  "firmwareMD5": "d650642aa6f63722ae653372fe1aa302",
+  "fileSize": 288213,
+  "releaseNotes": "内测用户版本\n内测用户版本\n内测用户版本",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2022-05-20"
+}

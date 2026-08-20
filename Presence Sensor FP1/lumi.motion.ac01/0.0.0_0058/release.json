@@ -6,6 +6,9 @@
   "fileSize": 319114,
   "releaseNotes": "Change background learning time from 6 seconds to 30 seconds.",
   "regions": [
+    "au",
+    "cn",
+    "eu",
     "kr",
     "us"
   ],

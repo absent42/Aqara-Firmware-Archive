@@ -1,0 +1,12 @@
+{
+  "model": "lumi.curtain.acn014",
+  "friendlyName": "Smart Curtain Controller E1",
+  "firmwareVersion": "2.2.3_0009",
+  "firmwareMD5": "4e9b4e912f5a61fb9552fe588c5ba2b9",
+  "fileSize": 1057440,
+  "releaseNotes": "Fixes known issues.",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2023-04-03"
+}

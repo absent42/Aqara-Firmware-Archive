@@ -2,6 +2,6 @@
 
 ## [lumi.valve.agl001](lumi.valve.agl001/)
 
-- Regions: au, cn, eu, us
-- Latest: au: [0.0.0_0054](lumi.valve.agl001/0.0.0_0054/), cn: [0.0.0_0054](lumi.valve.agl001/0.0.0_0054/), eu: [0.0.0_0054](lumi.valve.agl001/0.0.0_0054/), us: [0.0.0_0054](lumi.valve.agl001/0.0.0_0054/)
-- Versions: [0.0.0_0054](lumi.valve.agl001/0.0.0_0054/) (2025-02-05)
+- Regions: au, cn, eu, kr, us
+- Latest: au: [0.0.0_0054](lumi.valve.agl001/0.0.0_0054/), cn: [0.0.0_0054](lumi.valve.agl001/0.0.0_0054/), eu: [0.0.0_0054](lumi.valve.agl001/0.0.0_0054/), kr: [0.0.0_0048](lumi.valve.agl001/0.0.0_0048/), us: [0.0.0_0054](lumi.valve.agl001/0.0.0_0054/)
+- Versions: [0.0.0_0048](lumi.valve.agl001/0.0.0_0048/) (2024-09-10), [0.0.0_0054](lumi.valve.agl001/0.0.0_0054/) (2025-02-05)

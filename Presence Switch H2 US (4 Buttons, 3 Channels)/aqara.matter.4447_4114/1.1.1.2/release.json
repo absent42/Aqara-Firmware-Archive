@@ -7,6 +7,7 @@
   "releaseNotes": "1. Fixed a bug where the LED indicator light did not match\n2. Keep HoldTime synchronized in the occupancy sensing cluster",
   "regions": [
     "au",
+    "cn",
     "us"
   ],
   "releaseDate": "2025-12-23"

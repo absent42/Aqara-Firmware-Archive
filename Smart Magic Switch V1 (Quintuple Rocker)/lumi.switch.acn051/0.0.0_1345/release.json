@@ -6,6 +6,10 @@
   "fileSize": 835046,
   "releaseNotes": "",
   "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
     "us"
   ],
   "releaseDate": "2025-12-18"

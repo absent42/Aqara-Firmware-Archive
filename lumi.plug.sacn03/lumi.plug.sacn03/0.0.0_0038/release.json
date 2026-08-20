@@ -1,0 +1,12 @@
+{
+  "model": "lumi.plug.sacn03",
+  "friendlyName": "lumi.plug.sacn03",
+  "firmwareVersion": "0.0.0_0038",
+  "firmwareMD5": "b99dd93a450498237b3876db3539ccf1",
+  "fileSize": 281550,
+  "releaseNotes": "Fix known issues",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2024-08-20"
+}

@@ -4,8 +4,10 @@
   "firmwareVersion": "0.0.0_0039",
   "firmwareMD5": "e7810bab41424ff01deefdb9156dcd12",
   "fileSize": 287646,
-  "releaseNotes": "Fix the offline problem of device.",
+  "releaseNotes": "Fix device offline issue.",
   "regions": [
+    "eu",
+    "kr",
     "us"
   ],
   "releaseDate": "2022-02-10"

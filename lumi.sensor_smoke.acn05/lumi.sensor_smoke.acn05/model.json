@@ -1,0 +1,8 @@
+{
+  "model": "lumi.sensor_smoke.acn05",
+  "pid": "73329",
+  "matterPid": "",
+  "friendlyNames": [
+    "lumi.sensor_smoke.acn05"
+  ]
+}

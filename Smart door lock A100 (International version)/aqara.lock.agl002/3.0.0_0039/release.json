@@ -1,0 +1,12 @@
+{
+  "model": "aqara.lock.agl002",
+  "friendlyName": "Smart door lock A100 (International version)",
+  "firmwareVersion": "3.0.0_0039",
+  "firmwareMD5": "40cb140909dca08bd7fd787e8aec77e5",
+  "fileSize": 776377,
+  "releaseNotes": "Fixed known issues",
+  "regions": [
+    "kr"
+  ],
+  "releaseDate": "2023-07-19"
+}

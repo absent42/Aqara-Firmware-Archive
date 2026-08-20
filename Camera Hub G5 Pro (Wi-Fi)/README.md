@@ -10,6 +10,6 @@ This product name covers more than one hardware model (region or revision varian
 
 ## [lumi.camera.agl004](lumi.camera.agl004/)
 
-- Regions: au, eu, kr, us
-- Latest: au: [4.5.30_0008.0017](lumi.camera.agl004/4.5.30_0008.0017/), eu: [4.5.30_0008.0017](lumi.camera.agl004/4.5.30_0008.0017/), kr: [4.5.30_0008.0017](lumi.camera.agl004/4.5.30_0008.0017/), us: [4.5.30_0008.0017](lumi.camera.agl004/4.5.30_0008.0017/)
+- Regions: au, cn, eu, kr, us
+- Latest: au: [4.5.30_0008.0017](lumi.camera.agl004/4.5.30_0008.0017/), cn: [4.5.30_0008.0017](lumi.camera.agl004/4.5.30_0008.0017/), eu: [4.5.30_0008.0017](lumi.camera.agl004/4.5.30_0008.0017/), kr: [4.5.30_0008.0017](lumi.camera.agl004/4.5.30_0008.0017/), us: [4.5.30_0008.0017](lumi.camera.agl004/4.5.30_0008.0017/)
 - Versions: [4.5.30_0008.0017](lumi.camera.agl004/4.5.30_0008.0017/) (2026-06-12)

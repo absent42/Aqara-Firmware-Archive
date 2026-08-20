@@ -1,0 +1,8 @@
+{
+  "model": "lumi.motion.agl04",
+  "pid": "68767",
+  "matterPid": "",
+  "friendlyNames": [
+    "High Precision Motion Sensor"
+  ]
+}

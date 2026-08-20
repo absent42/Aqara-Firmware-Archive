@@ -1,0 +1,12 @@
+{
+  "model": "lumi.airm.fhac01",
+  "friendlyName": "Air Quality Monitor S1",
+  "firmwareVersion": "0.0.0_0026",
+  "firmwareMD5": "5a74ca1fd1688a01090f11c12ebedf49",
+  "fileSize": 274750,
+  "releaseNotes": "1.Optimized the CO2 concentration display mechanism",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2022-09-21"
+}

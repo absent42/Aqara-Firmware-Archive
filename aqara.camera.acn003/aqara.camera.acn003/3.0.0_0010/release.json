@@ -1,0 +1,12 @@
+{
+  "model": "aqara.camera.acn003",
+  "friendlyName": "aqara.camera.acn003",
+  "firmwareVersion": "3.0.0_0010",
+  "firmwareMD5": "d11fd6aab6838e84bdb4da5bf3ff07ab",
+  "fileSize": 731108,
+  "releaseNotes": "1. Fix known problems\n2. Optimize function experience",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2023-01-05"
+}

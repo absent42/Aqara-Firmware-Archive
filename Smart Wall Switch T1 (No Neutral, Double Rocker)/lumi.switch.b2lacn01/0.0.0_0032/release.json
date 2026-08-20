@@ -6,6 +6,9 @@
   "fileSize": 269454,
   "releaseNotes": "1.Fixes known issues",
   "regions": [
+    "cn",
+    "eu",
+    "kr",
     "us"
   ],
   "releaseDate": "2020-07-02"

@@ -1,0 +1,12 @@
+{
+  "model": "lumi.controller.acn002",
+  "friendlyName": "MagicPad S1 Pro",
+  "firmwareVersion": "4.1.2_0018.0000",
+  "firmwareMD5": "6e92bbd33037de8f82f71968e507b45d",
+  "fileSize": 982971963,
+  "releaseNotes": "1. Added support for multiple lights, curtains, thermostats, doorbells and other devices.",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-03-11"
+}

@@ -6,6 +6,7 @@
   "fileSize": 992332,
   "releaseNotes": "1. Support switching temperature sources. By default, the built-in temperature sensor is used. When NTC is connected, NTC is selected as the temperature source\n2. Support setting temperature floating range",
   "regions": [
+    "cn",
     "eu",
     "us"
   ],

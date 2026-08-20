@@ -1,0 +1,12 @@
+{
+  "model": "lumi.airrtc.agl001",
+  "friendlyName": "Smart Radiator Thermostat E1",
+  "firmwareVersion": "0.0.0_0925",
+  "firmwareMD5": "6ca654b75bc2b40a63be51b072a6c469",
+  "fileSize": 261468,
+  "releaseNotes": "1. Optimize the button logic;\n2. Optimize the notification of abnormal temperature control;\n3. Fix known bugs.",
+  "regions": [
+    "kr"
+  ],
+  "releaseDate": "2022-12-12"
+}

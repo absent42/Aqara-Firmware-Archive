@@ -1,0 +1,12 @@
+{
+  "model": "aqara.airrtc.ecn001",
+  "friendlyName": "VRF Controller T1/Lite",
+  "firmwareVersion": "0.0.0_0035",
+  "firmwareMD5": "fb01cdd9e0ba164b8df318d2e4249c9f",
+  "fileSize": 309794,
+  "releaseNotes": "1. Fix known bugs",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2023-04-20"
+}

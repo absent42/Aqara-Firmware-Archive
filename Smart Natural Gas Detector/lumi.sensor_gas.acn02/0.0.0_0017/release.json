@@ -1,0 +1,12 @@
+{
+  "model": "lumi.sensor_gas.acn02",
+  "friendlyName": "Smart Natural Gas Detector",
+  "firmwareVersion": "0.0.0_0017",
+  "firmwareMD5": "26141457730b9dd0bba0c679e13f1eaa",
+  "fileSize": 274110,
+  "releaseNotes": "Function optimization.",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2023-05-19"
+}

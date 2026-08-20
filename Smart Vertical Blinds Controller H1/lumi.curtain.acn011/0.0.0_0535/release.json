@@ -1,0 +1,12 @@
+{
+  "model": "lumi.curtain.acn011",
+  "friendlyName": "Smart Vertical Blinds Controller H1",
+  "firmwareVersion": "0.0.0_0535",
+  "firmwareMD5": "dada6bfa368c00f107551f09da64f6c8",
+  "fileSize": 394092,
+  "releaseNotes": "Fixes known issues.",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2023-09-18"
+}

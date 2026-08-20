@@ -7,6 +7,7 @@
   "releaseNotes": "1. Optimized radar performance and detection logic, improved resistance to False alarms\n2. Improved response speed and smoothness\n3. Added Thread automatic reconnection network mechanism\n4. Optimized无人判定 cycle logic\n5. Optimized sensor sampling logic to filter out abnormal temperature and humidity data",
   "regions": [
     "au",
+    "cn",
     "eu",
     "kr",
     "us"

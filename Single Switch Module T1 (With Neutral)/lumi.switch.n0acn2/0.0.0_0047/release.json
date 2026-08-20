@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.n0acn2",
+  "friendlyName": "Single Switch Module T1 (With Neutral)",
+  "firmwareVersion": "0.0.0_0047",
+  "firmwareMD5": "ee2b8e96b1bebfddeb3110fc80623d54",
+  "fileSize": 288166,
+  "releaseNotes": "1.Fix known bugs",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-08-17"
+}

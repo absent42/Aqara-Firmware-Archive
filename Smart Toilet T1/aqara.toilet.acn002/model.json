@@ -1,0 +1,8 @@
+{
+  "model": "aqara.toilet.acn002",
+  "pid": "X0008",
+  "matterPid": "",
+  "friendlyNames": [
+    "Smart Toilet T1"
+  ]
+}

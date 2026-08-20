@@ -7,7 +7,9 @@
   "releaseNotes": "1.Fix known bugs",
   "regions": [
     "au",
+    "cn",
     "eu",
+    "kr",
     "us"
   ],
   "releaseDate": "2024-01-03"

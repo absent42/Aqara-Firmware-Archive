@@ -6,6 +6,9 @@
   "fileSize": 289790,
   "releaseNotes": "Fix the offline problem of device",
   "regions": [
+    "cn",
+    "eu",
+    "kr",
     "us"
   ],
   "releaseDate": "2022-01-05"

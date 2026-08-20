@@ -1,0 +1,12 @@
+{
+  "model": "lumi.remote.b28ac1",
+  "friendlyName": "Wireless Remote Switch H1 (Double Rocker)",
+  "firmwareVersion": "0.0.0_0023",
+  "firmwareMD5": "e041efffa968867d6eba56b8c305d11f",
+  "fileSize": 214446,
+  "releaseNotes": "1. Fixed known issues\n2. Changed device pairing time to 180s;\n3. Support for private attribute function switch;",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-01-27"
+}

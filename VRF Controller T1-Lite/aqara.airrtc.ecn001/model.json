@@ -1,0 +1,8 @@
+{
+  "model": "aqara.airrtc.ecn001",
+  "pid": "EA012CNW01",
+  "matterPid": "",
+  "friendlyNames": [
+    "VRF Controller T1/Lite"
+  ]
+}

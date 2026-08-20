@@ -1,0 +1,12 @@
+{
+  "model": "aqara.lock.acn004",
+  "friendlyName": "Smart Door Lock D200",
+  "firmwareVersion": "3.0.0_0027",
+  "firmwareMD5": "fa8d823c7a014f5cf20499c17fdb5e52",
+  "fileSize": 14578626,
+  "releaseNotes": "1.Fix known issues and optimize user experience.",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-03-18"
+}

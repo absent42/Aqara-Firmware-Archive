@@ -6,7 +6,8 @@
   "fileSize": 418484,
   "releaseNotes": "1. Fix known problems.",
   "regions": [
-    "au"
+    "au",
+    "cn"
   ],
   "releaseDate": "2025-04-22"
 }

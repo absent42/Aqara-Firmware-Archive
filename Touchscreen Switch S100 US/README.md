@@ -2,6 +2,6 @@
 
 ## [aqara.matter.4447_4145](aqara.matter.4447_4145/)
 
-- Regions: au, eu, us
-- Latest: au: [1.0.3.0](aqara.matter.4447_4145/1.0.3.0/), eu: [1.0.3.0](aqara.matter.4447_4145/1.0.3.0/), us: [1.0.3.0](aqara.matter.4447_4145/1.0.3.0/)
+- Regions: au, eu, kr, us
+- Latest: au: [1.0.3.0](aqara.matter.4447_4145/1.0.3.0/), eu: [1.0.3.0](aqara.matter.4447_4145/1.0.3.0/), kr: [1.0.3.0](aqara.matter.4447_4145/1.0.3.0/), us: [1.0.3.0](aqara.matter.4447_4145/1.0.3.0/)
 - Versions: [1.0.3.0](aqara.matter.4447_4145/1.0.3.0/) (2026-03-02)

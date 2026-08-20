@@ -1,0 +1,12 @@
+{
+  "model": "lumi.curtain.acn04",
+  "friendlyName": "Smart Curtain Controller C3",
+  "firmwareVersion": "0.0.0_0015",
+  "firmwareMD5": "ae014e2cc3cf87c4d3370a94fa1b73b3",
+  "fileSize": 421126,
+  "releaseNotes": "Fix known issues.",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2024-01-22"
+}

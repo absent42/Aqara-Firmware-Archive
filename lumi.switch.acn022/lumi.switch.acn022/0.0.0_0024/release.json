@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.acn022",
+  "friendlyName": "lumi.switch.acn022",
+  "firmwareVersion": "0.0.0_0024",
+  "firmwareMD5": "479961f8cdf55129438fbb14f8f0999b",
+  "fileSize": 49048,
+  "releaseNotes": "1.Optimize system stability.",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2022-06-13"
+}

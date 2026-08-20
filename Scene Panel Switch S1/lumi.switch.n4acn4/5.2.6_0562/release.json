@@ -6,6 +6,10 @@
   "fileSize": 377918,
   "releaseNotes": "1. Fix known issues.",
   "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
     "us"
   ],
   "releaseDate": "2024-01-29"

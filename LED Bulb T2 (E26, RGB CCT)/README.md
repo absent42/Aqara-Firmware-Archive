@@ -4,12 +4,12 @@ This product name covers more than one hardware model (region or revision varian
 
 ## [aqara.matter.4447_6145](aqara.matter.4447_6145/)
 
-- Regions: au, kr, us
-- Latest: au: [1.0.2.0](aqara.matter.4447_6145/1.0.2.0/), kr: [1.0.2.0](aqara.matter.4447_6145/1.0.2.0/), us: [1.0.2.0](aqara.matter.4447_6145/1.0.2.0/)
+- Regions: au, cn, kr, us
+- Latest: au: [1.0.2.0](aqara.matter.4447_6145/1.0.2.0/), cn: [1.0.2.0](aqara.matter.4447_6145/1.0.2.0/), kr: [1.0.2.0](aqara.matter.4447_6145/1.0.2.0/), us: [1.0.2.0](aqara.matter.4447_6145/1.0.2.0/)
 - Versions: [1.0.2.0](aqara.matter.4447_6145/1.0.2.0/) (2024-11-27)
 
 ## [lumi.light.agl001](lumi.light.agl001/)
 
-- Regions: au, kr, us
-- Latest: au: [0.0.0_0031](lumi.light.agl001/0.0.0_0031/), kr: [0.0.0_0031](lumi.light.agl001/0.0.0_0031/), us: [0.0.0_0031](lumi.light.agl001/0.0.0_0031/)
+- Regions: au, cn, kr, us
+- Latest: au: [0.0.0_0031](lumi.light.agl001/0.0.0_0031/), cn: [0.0.0_0031](lumi.light.agl001/0.0.0_0031/), kr: [0.0.0_0031](lumi.light.agl001/0.0.0_0031/), us: [0.0.0_0031](lumi.light.agl001/0.0.0_0031/)
 - Versions: [0.0.0_0030](lumi.light.agl001/0.0.0_0030/) (2025-10-13), [0.0.0_0031](lumi.light.agl001/0.0.0_0031/) (2026-07-07)

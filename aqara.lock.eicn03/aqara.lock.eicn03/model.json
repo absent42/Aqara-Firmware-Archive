@@ -1,0 +1,8 @@
+{
+  "model": "aqara.lock.eicn03",
+  "pid": "E0011",
+  "matterPid": "",
+  "friendlyNames": [
+    "aqara.lock.eicn03"
+  ]
+}

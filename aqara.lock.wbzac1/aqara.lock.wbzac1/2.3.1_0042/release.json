@@ -1,0 +1,12 @@
+{
+  "model": "aqara.lock.wbzac1",
+  "friendlyName": "aqara.lock.wbzac1",
+  "firmwareVersion": "2.3.1_0042",
+  "firmwareMD5": "0f786ebfa37186ff2f23c000260f9f5e",
+  "fileSize": 31117620,
+  "releaseNotes": "Fix known issues",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2023-05-11"
+}
