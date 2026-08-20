@@ -24,7 +24,7 @@
 | [Curtain Controller C200](Curtain%20Controller%20C200/) | lumi.curtain.acn018 | cn, us |
 | [Curtain Driver E1](Curtain%20Driver%20E1/) | lumi.curtain.agl001 | au, eu, kr, us |
 | [Dimmer Switch H2 EU](Dimmer%20Switch%20H2%20EU/) | aqara.matter.4447_4106, lumi.switch.agl011 | au, eu, kr, us |
-| [Dimmer Switch H2 US](Dimmer%20Switch%20H2%20US/) | aqara.matter.4447_4102, lumi.switch.agl007 | us |
+| [Dimmer Switch H2 US](Dimmer%20Switch%20H2%20US/) | aqara.matter.4447_4102, lumi.switch.agl007 | au, us |
 | [Display Switch V1 EU](Display%20Switch%20V1%20EU/) | lumi.switch.aeu001 | au, eu, kr, us |
 | [Doorbell Camera G400](Doorbell%20Camera%20G400/) | lumi.camera.agl013 | au, cn, eu, kr, us |
 | [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/) | lumi.camera.acn017, lumi.camera.agl006 | au, cn, eu, kr, us |
@@ -49,7 +49,7 @@
 | [LED Bulb T2 (E27, RGB CCT)](LED%20Bulb%20T2%20%28E27%2C%20RGB%20CCT%29/) | aqara.matter.4447_6147, lumi.light.agl003 | au, cn, eu, us |
 | [LED Bulb T2 (GU10, CCT)](LED%20Bulb%20T2%20%28GU10%2C%20CCT%29/) | aqara.matter.4447_6150, lumi.light.agl006 | au, eu, us |
 | [LED Bulb T2 (GU10, RGB CCT)](LED%20Bulb%20T2%20%28GU10%2C%20RGB%20CCT%29/) | aqara.matter.4447_6149, lumi.light.agl005 | au, eu, us |
-| [LED Strip Controller H1 (RGB Spectrum)](LED%20Strip%20Controller%20H1%20%28RGB%20Spectrum%29/) | aqara.matter.4447_6180 | cn |
+| [LED Strip Controller H1 (RGB Spectrum)](LED%20Strip%20Controller%20H1%20%28RGB%20Spectrum%29/) | aqara.matter.4447_6180 | au, cn |
 | [LED Strip T1](LED%20Strip%20T1/) | lumi.light.acn132 | au, eu, kr, us |
 | [Light Switch H2 EU (2 Buttons, 1 Channel)](Light%20Switch%20H2%20EU%20%282%20Buttons%2C%201%20Channel%29/) | lumi.switch.agl009 | au, eu, us |
 | [Light Switch H2 EU (4 Buttons, 2 Channels)](Light%20Switch%20H2%20EU%20%284%20Buttons%2C%202%20Channels%29/) | aqara.matter.4447_4105, lumi.switch.agl010 | au, eu, us |
@@ -68,7 +68,7 @@
 | [Organ smart Curtain Controller C4](Organ%20smart%20Curtain%20Controller%20C4/) | lumi.curtain.acn010 | cn |
 | [Panel Hub AX100S](Panel%20Hub%20AX100S/) | lumi.gateway.agl015 | au, cn, eu, us |
 | [Panel Switch S100](Panel%20Switch%20S100/) | lumi.switch.acn066 | au, cn, eu, us |
-| [Pastel Spectrum Downlight Spotlight H1](Pastel%20Spectrum%20Downlight%20Spotlight%20H1/) | aqara.matter.4447_6179, lumi.models.4447_6208 | cn, us |
+| [Pastel Spectrum Downlight Spotlight H1](Pastel%20Spectrum%20Downlight%20Spotlight%20H1/) | aqara.matter.4447_6179, lumi.models.4447_6208 | au, cn, us |
 | [Power Plug H2 EU](Power%20Plug%20H2%20EU/) | aqara.matter.4447_4152, lumi.plug.aeu004 | au, eu, us |
 | [Power Plug H2 EU (RGB)](Power%20Plug%20H2%20EU%20%28RGB%29/) | aqara.matter.4447_4154, lumi.plug.aeu005 | au, eu, us |
 | [Power Plug H2 UK](Power%20Plug%20H2%20UK/) | aqara.matter.4447_4110, aqara.matter.4447_4160, lumi.plug.aeu008 | au, eu, us |
@@ -78,10 +78,10 @@
 | [Presence Sensor FP1](Presence%20Sensor%20FP1/) | lumi.motion.ac01 | kr, us |
 | [Presence Sensor FP1E](Presence%20Sensor%20FP1E/) | lumi.sensor_occupy.agl1 | au, cn, eu, kr, us |
 | [Presence Sensor FP2](Presence%20Sensor%20FP2/) | lumi.motion.agl001 | au, eu, kr, us |
-| [Presence Switch H2 US (2 Buttons, 1 Channel)](Presence%20Switch%20H2%20US%20%282%20Buttons%2C%201%20Channel%29/) | aqara.matter.4447_4112, lumi.switch.aus001 | us |
+| [Presence Switch H2 US (2 Buttons, 1 Channel)](Presence%20Switch%20H2%20US%20%282%20Buttons%2C%201%20Channel%29/) | aqara.matter.4447_4112, lumi.switch.aus001 | au, us |
 | [Presence Switch H2 US (2 Buttons, 2 Channels)](Presence%20Switch%20H2%20US%20%282%20Buttons%2C%202%20Channels%29/) | aqara.matter.4447_4113, lumi.switch.aus002 | au, us |
-| [Presence Switch H2 US (4 Buttons, 3 Channels)](Presence%20Switch%20H2%20US%20%284%20Buttons%2C%203%20Channels%29/) | aqara.matter.4447_4114, lumi.switch.aus003 | us |
-| [RGB Spectrum LED Strip Driver H1](RGB%20Spectrum%20LED%20Strip%20Driver%20H1/) | lumi.models.4447_6209 | cn |
+| [Presence Switch H2 US (4 Buttons, 3 Channels)](Presence%20Switch%20H2%20US%20%284%20Buttons%2C%203%20Channels%29/) | aqara.matter.4447_4114, lumi.switch.aus003 | au, us |
+| [RGB Spectrum LED Strip Driver H1](RGB%20Spectrum%20LED%20Strip%20Driver%20H1/) | lumi.models.4447_6209 | au, cn |
 | [Radiator Thermostat W600](Radiator%20Thermostat%20W600/) | aqara.matter.4447_18437, lumi.airrtc.aeu005 | eu |
 | [Roller Shade Controller T1](Roller%20Shade%20Controller%20T1/) | lumi.curtain.vagl02 | au, eu, kr, us |
 | [Roller Shade Driver E1](Roller%20Shade%20Driver%20E1/) | lumi.curtain.acn002 | au, cn, eu, kr, us |
@@ -155,10 +155,10 @@
 | [Touchscreen Switch S100 US](Touchscreen%20Switch%20S100%20US/) | aqara.matter.4447_4145 | au, eu, us |
 | [Track/Rail Light V1](Track-Rail%20Light%20V1/) | lumi.light.acn037 | au, cn, eu, us |
 | [Track/rail Light H1 Pro](Track-rail%20Light%20H1%20Pro/) | lumi.light.acn006 | au, eu, us |
-| [Universal Sky Mirror Ceiling Light V1](Universal%20Sky%20Mirror%20Ceiling%20Light%20V1/) | lumi.light.acn041 | cn, us |
+| [Universal Sky Mirror Ceiling Light V1](Universal%20Sky%20Mirror%20Ceiling%20Light%20V1/) | lumi.light.acn041 | au, cn, us |
 | [Valve Controller T1](Valve%20Controller%20T1/) | lumi.valve.agl001 | au, cn, eu, us |
 | [Voice Mate H1](Voice%20Mate%20H1/) | aqara.matter.4447_16386 | au, cn, eu, kr, us |
-| [Wall Outlet H2 EU](Wall%20Outlet%20H2%20EU/) | lumi.plug.aeu001 | eu, kr |
+| [Wall Outlet H2 EU](Wall%20Outlet%20H2%20EU/) | lumi.plug.aeu001 | au, eu, kr |
 | [Wall Outlet H2 UK (Single USB-C)](Wall%20Outlet%20H2%20UK%20%28Single%20USB-C%29/) | lumi.plug.aeu002 | au, eu, us |
 | [Wall Switch H1 (With Neutral, Double Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Double%20Rocker%29/) | lumi.switch.n2acn1 | au, cn, kr, us |
 | [Wall Switch H1 (With Neutral, Single Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Single%20Rocker%29/) | lumi.switch.n1acn1 | au, cn, kr, us |

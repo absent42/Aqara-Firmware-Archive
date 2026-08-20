@@ -1,13 +1,13 @@
 # Firmware by Region
 
-## au (125 current firmwares)
+## au (138 current firmwares)
 
 | Device | Model | Version | Released |
 | --- | --- | --- | --- |
 | [Camera E1](Camera%20E1/lumi.camera.acn006/4.5.20_0020/) | lumi.camera.acn006 | 4.5.20_0020 | 2026-04-25 |
 | [Camera G100](Camera%20G100/lumi.camera.agl005/4.5.45_0004/) | lumi.camera.agl005 | 4.5.45_0004 | 2026-05-15 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.agl001/4.5.30_0004.0013/) | lumi.camera.agl001 | 4.5.30_0004.0013 | 2026-06-01 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.21_0004.0017/) | lumi.camera.agl010 | 4.5.21_0004.0017 | 2026-04-09 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.70_0002.0017/) | lumi.camera.agl010 | 4.5.70_0002.0017 | 2026-08-04 |
 | [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.30_0008.0017/) | lumi.camera.acn010 | 4.5.30_0008.0017 | 2026-06-10 |
 | [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl004/4.5.30_0008.0017/) | lumi.camera.agl004 | 4.5.30_0008.0017 | 2026-06-10 |
 | [Ceiling Light L1-350](Ceiling%20Light%20L1-350/lumi.light.acn003/0.0.0_0029/) | lumi.light.acn003 | 0.0.0_0029 | 2023-09-05 |
@@ -18,6 +18,8 @@
 | [Curtain Driver E1](Curtain%20Driver%20E1/lumi.curtain.agl001/0.0.0_2424/) | lumi.curtain.agl001 | 0.0.0_2424 | 2022-05-06 |
 | [Dimmer Switch H2 EU](Dimmer%20Switch%20H2%20EU/aqara.matter.4447_4106/1.0.0.0/) | aqara.matter.4447_4106 | 1.0.0.0 | 2024-12-04 |
 | [Dimmer Switch H2 EU](Dimmer%20Switch%20H2%20EU/lumi.switch.agl011/0.0.0_1624/) | lumi.switch.agl011 | 0.0.0_1624 | 2026-04-09 |
+| [Dimmer Switch H2 US](Dimmer%20Switch%20H2%20US/aqara.matter.4447_4102/1.0.6.0/) | aqara.matter.4447_4102 | 1.0.6.0 | 2025-07-03 |
+| [Dimmer Switch H2 US](Dimmer%20Switch%20H2%20US/lumi.switch.agl007/0.0.0_1722/) | lumi.switch.agl007 | 0.0.0_1722 | 2025-07-04 |
 | [Display Switch V1 EU](Display%20Switch%20V1%20EU/lumi.switch.aeu001/0.0.0_1345/) | lumi.switch.aeu001 | 0.0.0_1345 | 2025-12-10 |
 | [Doorbell Camera G400](Doorbell%20Camera%20G400/lumi.camera.agl013/4.5.20_0030/) | lumi.camera.agl013 | 4.5.20_0030 | 2026-06-09 |
 | [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.agl006/4.5.20_0052.0108/) | lumi.camera.agl006 | 4.5.20_0052.0108 | 2026-04-30 |
@@ -26,11 +28,11 @@
 | [Downlight T2 (60°)](Downlight%20T2%20%2860%C2%B0%29/lumi.light.acn026/0.0.0_0041/) | lumi.light.acn026 | 0.0.0_0041 | 2023-12-22 |
 | [Downlight T2 Pro](Downlight%20T2%20Pro/lumi.light.acn040/0.0.0_0025/) | lumi.light.acn040 | 0.0.0_0025 | 2026-06-15 |
 | [Dual Relay Module T2](Dual%20Relay%20Module%20T2/lumi.switch.acn047/0.0.0_0035/) | lumi.switch.acn047 | 0.0.0_0035 | 2026-01-13 |
-| [Hub M100](Hub%20M100/lumi.gateway.agl008/4.5.60_0019.0017/) | lumi.gateway.agl008 | 4.5.60_0019.0017 | 2026-06-30 |
+| [Hub M100](Hub%20M100/lumi.gateway.agl008/4.5.70_0013.0017/) | lumi.gateway.agl008 | 4.5.70_0013.0017 | 2026-08-03 |
 | [Hub M1S Gen 2](Hub%20M1S%20Gen%202/lumi.gateway.agl002/4.5.30_0013.0013/) | lumi.gateway.agl002 | 4.5.30_0013.0013 | 2026-02-10 |
 | [Hub M2](Hub%20M2/lumi.gateway.agl001/4.5.30_0013.0654/) | lumi.gateway.agl001 | 4.5.30_0013.0654 | 2026-01-30 |
-| [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.60_0019/) | lumi.gateway.agl011 | 4.5.60_0019 | 2026-06-30 |
-| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.60_0017/) | lumi.gateway.agl004 | 4.5.60_0017 | 2026-06-25 |
+| [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.70_0013/) | lumi.gateway.agl011 | 4.5.70_0013 | 2026-08-03 |
+| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.70_0011/) | lumi.gateway.agl004 | 4.5.70_0011 | 2026-07-25 |
 | [LED Bulb T1 (Tunable White)](LED%20Bulb%20T1%20%28Tunable%20White%29/lumi.light.acn014/0.0.0_0040/) | lumi.light.acn014 | 0.0.0_0040 | 2023-12-22 |
 | [LED Bulb T2 (E26, CCT)](LED%20Bulb%20T2%20%28E26%2C%20CCT%29/aqara.matter.4447_6146/1.0.2.0/) | aqara.matter.4447_6146 | 1.0.2.0 | 2024-11-27 |
 | [LED Bulb T2 (E26, CCT)](LED%20Bulb%20T2%20%28E26%2C%20CCT%29/lumi.light.agl002/0.0.0_0031/) | lumi.light.agl002 | 0.0.0_0031 | 2026-04-09 |
@@ -44,6 +46,7 @@
 | [LED Bulb T2 (GU10, CCT)](LED%20Bulb%20T2%20%28GU10%2C%20CCT%29/lumi.light.agl006/0.0.0_0031/) | lumi.light.agl006 | 0.0.0_0031 | 2026-04-07 |
 | [LED Bulb T2 (GU10, RGB CCT)](LED%20Bulb%20T2%20%28GU10%2C%20RGB%20CCT%29/aqara.matter.4447_6149/1.0.2.0/) | aqara.matter.4447_6149 | 1.0.2.0 | 2024-11-23 |
 | [LED Bulb T2 (GU10, RGB CCT)](LED%20Bulb%20T2%20%28GU10%2C%20RGB%20CCT%29/lumi.light.agl005/0.0.0_0031/) | lumi.light.agl005 | 0.0.0_0031 | 2026-06-08 |
+| [LED Strip Controller H1 (RGB Spectrum)](LED%20Strip%20Controller%20H1%20%28RGB%20Spectrum%29/aqara.matter.4447_6180/1.0.0.2/) | aqara.matter.4447_6180 | 1.0.0.2 | 2026-06-02 |
 | [LED Strip T1](LED%20Strip%20T1/lumi.light.acn132/0.0.0_2627/) | lumi.light.acn132 | 0.0.0_2627 | 2023-06-10 |
 | [Light Switch H2 EU (2 Buttons, 1 Channel)](Light%20Switch%20H2%20EU%20%282%20Buttons%2C%201%20Channel%29/lumi.switch.agl009/0.0.0_2226/) | lumi.switch.agl009 | 0.0.0_2226 | 2025-09-12 |
 | [Light Switch H2 EU (4 Buttons, 2 Channels)](Light%20Switch%20H2%20EU%20%284%20Buttons%2C%202%20Channels%29/aqara.matter.4447_4105/1.0.1.0/) | aqara.matter.4447_4105 | 1.0.1.0 | 2025-06-03 |
@@ -65,7 +68,9 @@
 | [Multi-State Sensor P100](Multi-State%20Sensor%20P100/lumi.vibration.agl002/0.0.0_0024/) | lumi.vibration.agl002 | 0.0.0_0024 | 2026-06-15 |
 | [Nebula H1/Yunxi D1S/Yunyao Z1S Ceiling Light](Nebula%20H1-Yunxi%20D1S-Yunyao%20Z1S%20Ceiling%20Light/lumi.light.acn033/0.0.0_0028/) | lumi.light.acn033 | 0.0.0_0028 | 2024-11-11 |
 | [Panel Hub AX100S](Panel%20Hub%20AX100S/lumi.gateway.agl015/4.5.42_0004/) | lumi.gateway.agl015 | 4.5.42_0004 | 2026-04-15 |
-| [Panel Switch S100](Panel%20Switch%20S100/lumi.switch.acn066/1.2.0_0002/) | lumi.switch.acn066 | 1.2.0_0002 | 2026-06-26 |
+| [Panel Switch S100](Panel%20Switch%20S100/lumi.switch.acn066/1.2.0_0003/) | lumi.switch.acn066 | 1.2.0_0003 | 2026-08-08 |
+| [Pastel Spectrum Downlight Spotlight H1](Pastel%20Spectrum%20Downlight%20Spotlight%20H1/aqara.matter.4447_6179/1.0.0.2/) | aqara.matter.4447_6179 | 1.0.0.2 | 2026-06-02 |
+| [Pastel Spectrum Downlight Spotlight H1](Pastel%20Spectrum%20Downlight%20Spotlight%20H1/lumi.models.4447_6208/0015/) | lumi.models.4447_6208 | 0015 | 2026-07-27 |
 | [Power Plug H2 EU](Power%20Plug%20H2%20EU/aqara.matter.4447_4152/0.0.6.0/) | aqara.matter.4447_4152 | 0.0.6.0 | 2026-03-06 |
 | [Power Plug H2 EU](Power%20Plug%20H2%20EU/lumi.plug.aeu004/0.0.0_0021/) | lumi.plug.aeu004 | 0.0.0_0021 | 2026-03-18 |
 | [Power Plug H2 EU (RGB)](Power%20Plug%20H2%20EU%20%28RGB%29/aqara.matter.4447_4154/0.0.6.0/) | aqara.matter.4447_4154 | 0.0.6.0 | 2026-03-06 |
@@ -77,9 +82,15 @@
 | [Power Plug H2 UK (RGB)](Power%20Plug%20H2%20UK%20%28RGB%29/lumi.plug.aeu009/0.0.0_0021/) | lumi.plug.aeu009 | 0.0.0_0021 | 2026-03-18 |
 | [Presence Multi-Sensor FP300](Presence%20Multi-Sensor%20FP300/aqara.matter.4447_8197/1.1.3.8/) | aqara.matter.4447_8197 | 1.1.3.8 | 2026-05-15 |
 | [Presence Multi-Sensor FP300](Presence%20Multi-Sensor%20FP300/lumi.sensor_occupy.agl8/0.0.0_6542/) | lumi.sensor_occupy.agl8 | 0.0.0_6542 | 2026-05-15 |
-| [Presence Sensor FP1E](Presence%20Sensor%20FP1E/lumi.sensor_occupy.agl1/0.0.0_0029/) | lumi.sensor_occupy.agl1 | 0.0.0_0029 | 2025-08-27 |
+| [Presence Sensor FP1E](Presence%20Sensor%20FP1E/lumi.sensor_occupy.agl1/0.0.0_0035/) | lumi.sensor_occupy.agl1 | 0.0.0_0035 | 2026-07-22 |
 | [Presence Sensor FP2](Presence%20Sensor%20FP2/lumi.motion.agl001/1.3.6_0003/) | lumi.motion.agl001 | 1.3.6_0003 | 2026-04-30 |
+| [Presence Switch H2 US (2 Buttons, 1 Channel)](Presence%20Switch%20H2%20US%20%282%20Buttons%2C%201%20Channel%29/aqara.matter.4447_4112/1.1.1.2/) | aqara.matter.4447_4112 | 1.1.1.2 | 2025-11-27 |
+| [Presence Switch H2 US (2 Buttons, 1 Channel)](Presence%20Switch%20H2%20US%20%282%20Buttons%2C%201%20Channel%29/lumi.switch.aus001/0.0.0_2327/) | lumi.switch.aus001 | 0.0.0_2327 | 2025-10-21 |
 | [Presence Switch H2 US (2 Buttons, 2 Channels)](Presence%20Switch%20H2%20US%20%282%20Buttons%2C%202%20Channels%29/aqara.matter.4447_4113/1.1.1.2/) | aqara.matter.4447_4113 | 1.1.1.2 | 2025-11-27 |
+| [Presence Switch H2 US (2 Buttons, 2 Channels)](Presence%20Switch%20H2%20US%20%282%20Buttons%2C%202%20Channels%29/lumi.switch.aus002/0.0.0_2327/) | lumi.switch.aus002 | 0.0.0_2327 | 2025-10-21 |
+| [Presence Switch H2 US (4 Buttons, 3 Channels)](Presence%20Switch%20H2%20US%20%284%20Buttons%2C%203%20Channels%29/aqara.matter.4447_4114/1.1.1.2/) | aqara.matter.4447_4114 | 1.1.1.2 | 2025-12-23 |
+| [Presence Switch H2 US (4 Buttons, 3 Channels)](Presence%20Switch%20H2%20US%20%284%20Buttons%2C%203%20Channels%29/lumi.switch.aus003/0.0.0_2327/) | lumi.switch.aus003 | 0.0.0_2327 | 2025-10-20 |
+| [RGB Spectrum LED Strip Driver H1](RGB%20Spectrum%20LED%20Strip%20Driver%20H1/lumi.models.4447_6209/0019/) | lumi.models.4447_6209 | 0019 | 2026-07-27 |
 | [Roller Shade Controller T1](Roller%20Shade%20Controller%20T1/lumi.curtain.vagl02/0.0.0_0045/) | lumi.curtain.vagl02 | 0.0.0_0045 | 2024-12-31 |
 | [Roller Shade Driver E1](Roller%20Shade%20Driver%20E1/lumi.curtain.acn002/0.0.0_1532/) | lumi.curtain.acn002 | 0.0.0_1532 | 2024-06-24 |
 | [Shutter Switch H2 EU](Shutter%20Switch%20H2%20EU/aqara.matter.4447_4109/1.0.1.0/) | aqara.matter.4447_4109 | 1.0.1.0 | 2025-09-09 |
@@ -120,12 +131,14 @@
 | [TVOC Air Quality Monitor](TVOC%20Air%20Quality%20Monitor/lumi.airmonitor.acn01/0.0.0_0029/) | lumi.airmonitor.acn01 | 0.0.0_0029 | 2022-02-22 |
 | [Thermostat W400 (FCU)](Thermostat%20W400%20%28FCU%29/lumi.airrtc.acn003/1.2.9_0002/) | lumi.airrtc.acn003 | 1.2.9_0002 | 2026-06-26 |
 | [Thermostat W400 (VRF)](Thermostat%20W400%20%28VRF%29/lumi.airrtc.acn002/1.2.9_0002/) | lumi.airrtc.acn002 | 1.2.9_0002 | 2026-06-26 |
-| [Touchscreen Dial V1](Touchscreen%20Dial%20V1/lumi.switch.acn053/1.2.3_0002/) | lumi.switch.acn053 | 1.2.3_0002 | 2026-03-13 |
+| [Touchscreen Dial V1](Touchscreen%20Dial%20V1/lumi.switch.acn053/1.2.4_0016/) | lumi.switch.acn053 | 1.2.4_0016 | 2026-08-08 |
 | [Touchscreen Switch S100 US](Touchscreen%20Switch%20S100%20US/aqara.matter.4447_4145/1.0.3.0/) | aqara.matter.4447_4145 | 1.0.3.0 | 2026-02-28 |
 | [Track/Rail Light V1](Track-Rail%20Light%20V1/lumi.light.acn037/0.0.0_0024/) | lumi.light.acn037 | 0.0.0_0024 | 2025-07-18 |
 | [Track/rail Light H1 Pro](Track-rail%20Light%20H1%20Pro/lumi.light.acn006/0.0.0_0039/) | lumi.light.acn006 | 0.0.0_0039 | 2023-02-17 |
+| [Universal Sky Mirror Ceiling Light V1](Universal%20Sky%20Mirror%20Ceiling%20Light%20V1/lumi.light.acn041/0.0.0_7254/) | lumi.light.acn041 | 0.0.0_7254 | 2026-01-17 |
 | [Valve Controller T1](Valve%20Controller%20T1/lumi.valve.agl001/0.0.0_0054/) | lumi.valve.agl001 | 0.0.0_0054 | 2025-01-21 |
 | [Voice Mate H1](Voice%20Mate%20H1/aqara.matter.4447_16386/1.0.2.6/) | aqara.matter.4447_16386 | 1.0.2.6 | 2025-10-16 |
+| [Wall Outlet H2 EU](Wall%20Outlet%20H2%20EU/lumi.plug.aeu001/0.0.0_0033/) | lumi.plug.aeu001 | 0.0.0_0033 | 2026-01-20 |
 | [Wall Outlet H2 UK (Single USB-C)](Wall%20Outlet%20H2%20UK%20%28Single%20USB-C%29/lumi.plug.aeu002/0.0.0_0006/) | lumi.plug.aeu002 | 0.0.0_0006 | 2025-12-11 |
 | [Wall Switch H1 (With Neutral, Double Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Double%20Rocker%29/lumi.switch.n2acn1/15/) | lumi.switch.n2acn1 | 15 | 2024-07-26 |
 | [Wall Switch H1 (With Neutral, Single Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Single%20Rocker%29/lumi.switch.n1acn1/15/) | lumi.switch.n1acn1 | 15 | 2024-07-26 |
@@ -360,13 +373,13 @@
 | [Presence Multi-Sensor FP300](Presence%20Multi-Sensor%20FP300/aqara.matter.4447_8197/1.1.3.8/) | aqara.matter.4447_8197 | 1.1.3.8 | 2026-05-15 |
 | [Presence Multi-Sensor FP300](Presence%20Multi-Sensor%20FP300/lumi.sensor_occupy.agl8/0.0.0_6542/) | lumi.sensor_occupy.agl8 | 0.0.0_6542 | 2026-05-15 |
 | [Presence Sensor FP1](Presence%20Sensor%20FP1/lumi.motion.ac01/0.0.0_0058/) | lumi.motion.ac01 | 0.0.0_0058 | 2023-09-25 |
-| [Presence Sensor FP1E](Presence%20Sensor%20FP1E/lumi.sensor_occupy.agl1/0.0.0_0029/) | lumi.sensor_occupy.agl1 | 0.0.0_0029 | 2025-08-27 |
+| [Presence Sensor FP1E](Presence%20Sensor%20FP1E/lumi.sensor_occupy.agl1/0.0.0_0035/) | lumi.sensor_occupy.agl1 | 0.0.0_0035 | 2026-07-22 |
 | [Presence Sensor FP2](Presence%20Sensor%20FP2/lumi.motion.agl001/1.3.6_0003/) | lumi.motion.agl001 | 1.3.6_0003 | 2026-04-30 |
 | [Roller Shade Controller T1](Roller%20Shade%20Controller%20T1/lumi.curtain.vagl02/0.0.0_0045/) | lumi.curtain.vagl02 | 0.0.0_0045 | 2024-12-31 |
 | [Roller Shade Driver E1](Roller%20Shade%20Driver%20E1/lumi.curtain.acn002/0.0.0_1532/) | lumi.curtain.acn002 | 0.0.0_1532 | 2024-06-24 |
 | [Single-channel control module T1 neutral and live wire (international version)](Single-channel%20control%20module%20T1%20neutral%20and%20live%20wire%20%28international%20version%29/lumi.switch.n0agl1/0.0.0_0023/) | lumi.switch.n0agl1 | 0.0.0_0023 | 2022-01-21 |
 | [Smart Dimmer Controller T1 Pro](Smart%20Dimmer%20Controller%20T1%20Pro/lumi.light.acn004/0.0.0_0031/) | lumi.light.acn004 | 0.0.0_0031 | 2024-04-15 |
-| [Smart Lightstrip Driver](Smart%20Lightstrip%20Driver/lumi.dimmer.rcbac1/0.0.0_0032/) | lumi.dimmer.rcbac1 | 0.0.0_0032 | 2023-09-07 |
+| [Smart Lightstrip Driver](Smart%20Lightstrip%20Driver/lumi.dimmer.rcbac1/0.0.0_0037/) | lumi.dimmer.rcbac1 | 0.0.0_0037 | 2024-08-15 |
 | [Smart Lock L100 SE](Smart%20Lock%20L100%20SE/aqara.lock.akr012/3.0.0_0001/) | aqara.lock.akr012 | 3.0.0_0001 | 2026-07-03 |
 | [Smart Lock U200](Smart%20Lock%20U200/aqara.matter.4447_10242/3.0.0_0085/) | aqara.matter.4447_10242 | 3.0.0_0085 | 2026-04-11 |
 | [Smart Lock U300](Smart%20Lock%20U300/aqara.matter.4447_10241/3.0.0_1028/) | aqara.matter.4447_10241 | 3.0.0_1028 | 2026-05-25 |

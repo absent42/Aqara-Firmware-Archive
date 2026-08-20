@@ -6,6 +6,7 @@
   "fileSize": 713290,
   "releaseNotes": "1. The new version adds localized button operations for maximum brightness adjustment. After upgrading, you can adjust the minimum and maximum brightness range through local buttons\n2. The new version optimizes compatibility with various types of lamps",
   "regions": [
+    "au",
     "us"
   ],
   "releaseDate": "2025-07-04"

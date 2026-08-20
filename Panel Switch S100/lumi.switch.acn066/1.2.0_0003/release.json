@@ -6,6 +6,7 @@
   "fileSize": 26695784,
   "releaseNotes": "1.Fix known issues and optimize user experience.",
   "regions": [
+    "au",
     "cn",
     "eu",
     "us"

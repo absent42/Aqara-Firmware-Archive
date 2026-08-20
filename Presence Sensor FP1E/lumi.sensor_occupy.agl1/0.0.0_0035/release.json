@@ -6,8 +6,10 @@
   "fileSize": 305610,
   "releaseNotes": "Bug Fixes",
   "regions": [
+    "au",
     "cn",
     "eu",
+    "kr",
     "us"
   ],
   "releaseDate": "2026-07-22"

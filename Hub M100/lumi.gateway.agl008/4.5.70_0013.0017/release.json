@@ -6,6 +6,7 @@
   "fileSize": 20951144,
   "releaseNotes": "1. Optimized device-related functions\n2. Fixed known issues",
   "regions": [
+    "au",
     "eu",
     "kr",
     "us"
