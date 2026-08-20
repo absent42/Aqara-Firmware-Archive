@@ -1,0 +1,8 @@
+{
+  "model": "aqara.lock.acn005",
+  "pid": "A0022",
+  "matterPid": "",
+  "friendlyNames": [
+    "Smart Lock D200i"
+  ]
+}

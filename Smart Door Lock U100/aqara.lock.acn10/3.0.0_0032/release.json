@@ -1,0 +1,13 @@
+{
+  "model": "aqara.lock.acn10",
+  "friendlyName": "Smart Door Lock U100",
+  "firmwareVersion": "3.0.0_0032",
+  "firmwareMD5": "e922a5b55f36ae978d9c1e5763c94da7",
+  "fileSize": 823119,
+  "releaseNotes": "1.  Remove automation limits on the door lock device, and relax the conditions.",
+  "regions": [
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2025-10-09"
+}

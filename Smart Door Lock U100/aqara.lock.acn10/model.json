@@ -1,0 +1,8 @@
+{
+  "model": "aqara.lock.acn10",
+  "pid": "A0021",
+  "matterPid": "",
+  "friendlyNames": [
+    "Smart Door Lock U100"
+  ]
+}

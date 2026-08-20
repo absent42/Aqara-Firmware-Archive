@@ -212,7 +212,7 @@
 | [Wall Switch H1 (With Neutral, Double Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Double%20Rocker%29/lumi.switch.n2acn1/15/) | lumi.switch.n2acn1 | 15 | 2024-07-26 |
 | [Wall Switch H1 (With Neutral, Single Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Single%20Rocker%29/lumi.switch.n1acn1/15/) | lumi.switch.n1acn1 | 15 | 2024-07-26 |
 
-## eu (109 current firmwares)
+## eu (113 current firmwares)
 
 | Device | Model | Version | Released |
 | --- | --- | --- | --- |
@@ -291,10 +291,13 @@
 | [Shutter Switch H2 EU](Shutter%20Switch%20H2%20EU/aqara.matter.4447_4109/1.0.1.0/) | aqara.matter.4447_4109 | 1.0.1.0 | 2025-09-09 |
 | [Shutter Switch H2 EU](Shutter%20Switch%20H2%20EU/lumi.switch.aeu003/0.0.0_1626/) | lumi.switch.aeu003 | 0.0.0_1626 | 2026-03-03 |
 | [Single-channel control module T1 neutral and live wire (international version)](Single-channel%20control%20module%20T1%20neutral%20and%20live%20wire%20%28international%20version%29/lumi.switch.n0agl1/0.0.0_0030/) | lumi.switch.n0agl1 | 0.0.0_0030 | 2024-01-12 |
+| [Smart Automatic Door Lock D100 (International Version)](Smart%20Automatic%20Door%20Lock%20D100%20%28International%20Version%29/aqara.lock.aqgl01/3.0.0_0018/) | aqara.lock.aqgl01 | 3.0.0_0018 | 2026-06-04 |
 | [Smart Constant Current Driver T2 (24W)](Smart%20Constant%20Current%20Driver%20T2%20%2824W%29/lumi.dimmer.acn002/0.0.0_0025/) | lumi.dimmer.acn002 | 0.0.0_0025 | 2024-07-08 |
 | [Smart Dimmer Controller T1 Pro](Smart%20Dimmer%20Controller%20T1%20Pro/lumi.light.acn004/0.0.0_0031/) | lumi.light.acn004 | 0.0.0_0031 | 2024-04-15 |
 | [Smart Door Lock N100 Zigbee Edition](Smart%20Door%20Lock%20N100%20Zigbee%20Edition/aqara.lock.bzacn4/3.0.0_0110/) | aqara.lock.bzacn4 | 3.0.0_0110 | 2022-10-18 |
+| [Smart Door Lock U100](Smart%20Door%20Lock%20U100/aqara.lock.acn10/3.0.0_0032/) | aqara.lock.acn10 | 3.0.0_0032 | 2025-10-09 |
 | [Smart Door Lock U200 Lite](Smart%20Door%20Lock%20U200%20Lite/aqara.matter.4447_10247/3.1.0.5/) | aqara.matter.4447_10247 | 3.1.0.5 | 2025-06-26 |
+| [Smart Door Lock U50](Smart%20Door%20Lock%20U50/aqara.lock.aus001/3.0.0_0008/) | aqara.lock.aus001 | 3.0.0_0008 | 2025-10-09 |
 | [Smart Lightstrip Driver](Smart%20Lightstrip%20Driver/lumi.dimmer.rcbac1/0.0.0_0032/) | lumi.dimmer.rcbac1 | 0.0.0_0032 | 2023-09-07 |
 | [Smart Lock U200](Smart%20Lock%20U200/aqara.matter.4447_10242/3.0.0_0085/) | aqara.matter.4447_10242 | 3.0.0_0085 | 2026-04-11 |
 | [Smart Pet Feeder C1](Smart%20Pet%20Feeder%20C1/aqara.feeder.acn001/0.0.0_3833/) | aqara.feeder.acn001 | 0.0.0_3833 | 2022-12-13 |
@@ -303,6 +306,7 @@
 | [Smart Wall Switch H1 EU (With Neutral, Double Rocker)](Smart%20Wall%20Switch%20H1%20EU%20%28With%20Neutral%2C%20Double%20Rocker%29/lumi.switch.n2aeu1/0.0.0_1125/) | lumi.switch.n2aeu1 | 0.0.0_1125 | 2024-07-26 |
 | [Smart Wall Switch H1 EU (With Neutral, Single Rocker)](Smart%20Wall%20Switch%20H1%20EU%20%28With%20Neutral%2C%20Single%20Rocker%29/lumi.switch.n1aeu1/0.0.0_1125/) | lumi.switch.n1aeu1 | 0.0.0_1125 | 2024-07-26 |
 | [Smart Wall Switch H2 EU (2 Buttons, 1 Channel)](Smart%20Wall%20Switch%20H2%20EU%20%282%20Buttons%2C%201%20Channel%29/aqara.matter.4447_4104/1.0.1.0/) | aqara.matter.4447_4104 | 1.0.1.0 | 2025-06-03 |
+| [Smart door lock A100 (International version)](Smart%20door%20lock%20A100%20%28International%20version%29/aqara.lock.agl002/3.0.0_0046/) | aqara.lock.agl002 | 3.0.0_0046 | 2026-01-12 |
 | [Smart wall switch Z1 Pro (double-button version)](Smart%20wall%20switch%20Z1%20Pro%20%28double-button%20version%29/lumi.switch.acn057/0.0.0_0031/) | lumi.switch.acn057 | 0.0.0_0031 | 2023-11-06 |
 | [Smart wall switch Z1 Pro (four-button version)](Smart%20wall%20switch%20Z1%20Pro%20%28four-button%20version%29/lumi.switch.acn059/0.0.0_0031/) | lumi.switch.acn059 | 0.0.0_0031 | 2023-11-06 |
 | [Smart wall switch Z1 Pro (single button version)](Smart%20wall%20switch%20Z1%20Pro%20%28single%20button%20version%29/lumi.switch.acn056/0.0.0_0031/) | lumi.switch.acn056 | 0.0.0_0031 | 2023-11-06 |
@@ -417,7 +421,7 @@
 | [Smart Wall Switch (No Neutral, Single Rocker)](Smart%20Wall%20Switch%20%28No%20Neutral%2C%20Single%20Rocker%29/lumi.switch.b1laus01/0.0.0_0032/) | lumi.switch.b1laus01 | 0.0.0_0032 | 2020-08-11 |
 | [Wireless Mini Switch T1](Wireless%20Mini%20Switch%20T1/lumi.remote.b1acn02/0.0.0_0031/) | lumi.remote.b1acn02 | 0.0.0_0031 | 2022-11-23 |
 
-## us (175 current firmwares)
+## us (180 current firmwares)
 
 | Device | Model | Version | Released |
 | --- | --- | --- | --- |
@@ -535,6 +539,7 @@
 | [Single Switch Module T1 (With Neutral)](Single%20Switch%20Module%20T1%20%28With%20Neutral%29/lumi.switch.n0acn2/0.0.0_0039/) | lumi.switch.n0acn2 | 0.0.0_0039 | 2022-01-18 |
 | [Single-channel control module T1 neutral and live wire (international version)](Single-channel%20control%20module%20T1%20neutral%20and%20live%20wire%20%28international%20version%29/lumi.switch.n0agl1/0.0.0_0030/) | lumi.switch.n0agl1 | 0.0.0_0030 | 2024-01-12 |
 | [Sleeping Belt](Sleeping%20Belt/lumi.lunar.acn01/0.0.0_0024/) | lumi.lunar.acn01 | 0.0.0_0024 | 2022-04-21 |
+| [Smart Automatic Door Lock D100 (International Version)](Smart%20Automatic%20Door%20Lock%20D100%20%28International%20Version%29/aqara.lock.aqgl01/3.0.0_0018/) | aqara.lock.aqgl01 | 3.0.0_0018 | 2026-06-04 |
 | [Smart Constant Current Driver T2](Smart%20Constant%20Current%20Driver%20T2/lumi.dimmer.acn001/0.0.0_0025/) | lumi.dimmer.acn001 | 0.0.0_0025 | 2024-07-08 |
 | [Smart Constant Voltage Driver T1](Smart%20Constant%20Voltage%20Driver%20T1/lumi.dimmer.acn003/0.0.0_0025/) | lumi.dimmer.acn003 | 0.0.0_0025 | 2025-07-18 |
 | [Smart Constant Voltage Driver T1（120W)](Smart%20Constant%20Voltage%20Driver%20T1%EF%BC%88120W%29/lumi.dimmer.acn004/0.0.0_0025/) | lumi.dimmer.acn004 | 0.0.0_0025 | 2025-07-18 |
@@ -542,10 +547,13 @@
 | [Smart Dimmer Controller T1 Pro](Smart%20Dimmer%20Controller%20T1%20Pro/lumi.light.acn004/0.0.0_0031/) | lumi.light.acn004 | 0.0.0_0031 | 2024-04-15 |
 | [Smart Door Lock B50](Smart%20Door%20Lock%20B50/lumi.lock.aus001/2.5.3_0014/) | lumi.lock.aus001 | 2.5.3_0014 | 2025-12-02 |
 | [Smart Door Lock N100 Zigbee Edition](Smart%20Door%20Lock%20N100%20Zigbee%20Edition/aqara.lock.bzacn4/3.0.0_0110/) | aqara.lock.bzacn4 | 3.0.0_0110 | 2022-10-18 |
+| [Smart Door Lock U100](Smart%20Door%20Lock%20U100/aqara.lock.acn10/3.0.0_0032/) | aqara.lock.acn10 | 3.0.0_0032 | 2025-10-09 |
 | [Smart Door Lock U200 Lite](Smart%20Door%20Lock%20U200%20Lite/aqara.matter.4447_10247/3.1.0.5/) | aqara.matter.4447_10247 | 3.1.0.5 | 2025-06-26 |
 | [Smart Door Lock U200 US](Smart%20Door%20Lock%20U200%20US/aqara.matter.4447_10346/3.0.0_0085/) | aqara.matter.4447_10346 | 3.0.0_0085 | 2026-05-28 |
+| [Smart Door Lock U50](Smart%20Door%20Lock%20U50/aqara.lock.aus001/3.0.0_0008/) | aqara.lock.aus001 | 3.0.0_0008 | 2025-10-09 |
 | [Smart Knob H1 (With Neutral)](Smart%20Knob%20H1%20%28With%20Neutral%29/lumi.switch.rkna01/0.0.0_1420/) | lumi.switch.rkna01 | 0.0.0_1420 | 2020-06-23 |
 | [Smart Lightstrip Driver](Smart%20Lightstrip%20Driver/lumi.dimmer.rcbac1/0.0.0_0037/) | lumi.dimmer.rcbac1 | 0.0.0_0037 | 2024-08-15 |
+| [Smart Lock D200i](Smart%20Lock%20D200i/aqara.lock.acn005/3.0.0_0028/) | aqara.lock.acn005 | 3.0.0_0028 | 2026-03-11 |
 | [Smart Lock U200](Smart%20Lock%20U200/aqara.matter.4447_10242/3.0.0_0085/) | aqara.matter.4447_10242 | 3.0.0_0085 | 2026-04-11 |
 | [Smart Lock U300](Smart%20Lock%20U300/aqara.matter.4447_10241/3.0.0_1028/) | aqara.matter.4447_10241 | 3.0.0_1028 | 2026-05-25 |
 | [Smart Lock U400](Smart%20Lock%20U400/aqara.matter.4447_10244/3.1.1.0/) | aqara.matter.4447_10244 | 3.1.1.0 | 2026-03-13 |
@@ -569,6 +577,7 @@
 | [Smart Wall Switch T1 (With Neutral, Double Rocker)](Smart%20Wall%20Switch%20T1%20%28With%20Neutral%2C%20Double%20Rocker%29/lumi.switch.b2nacn01/0.0.0_0028/) | lumi.switch.b2nacn01 | 0.0.0_0028 | 2024-08-26 |
 | [Smart Wall Switch T1 (With Neutral, Single Rocker)](Smart%20Wall%20Switch%20T1%20%28With%20Neutral%2C%20Single%20Rocker%29/lumi.switch.b1nacn01/0.0.0_0028/) | lumi.switch.b1nacn01 | 0.0.0_0028 | 2024-07-25 |
 | [Smart Wall hub V1](Smart%20Wall%20hub%20V1/lumi.gateway.acn011/4.5.20_0023.0017/) | lumi.gateway.acn011 | 4.5.20_0023.0017 | 2025-11-20 |
+| [Smart door lock A100 (International version)](Smart%20door%20lock%20A100%20%28International%20version%29/aqara.lock.agl002/3.0.0_0046/) | aqara.lock.agl002 | 3.0.0_0046 | 2026-01-12 |
 | [Smart socket T1](Smart%20socket%20T1/lumi.plug.macn01/0.0.0_0031/) | lumi.plug.macn01 | 0.0.0_0031 | 2020-05-13 |
 | [Smart wall switch Z1 Pro (double-button version)](Smart%20wall%20switch%20Z1%20Pro%20%28double-button%20version%29/lumi.switch.acn057/0.0.0_0040/) | lumi.switch.acn057 | 0.0.0_0040 | 2025-08-05 |
 | [Smart wall switch Z1 Pro (four-button version)](Smart%20wall%20switch%20Z1%20Pro%20%28four-button%20version%29/lumi.switch.acn059/0.0.0_0040/) | lumi.switch.acn059 | 0.0.0_0040 | 2025-08-05 |

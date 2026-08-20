@@ -1,0 +1,12 @@
+{
+  "model": "aqara.lock.acn005",
+  "friendlyName": "Smart Lock D200i",
+  "firmwareVersion": "3.0.0_0028",
+  "firmwareMD5": "ca5d5a29a2d0ed5f836b68f1069af315",
+  "fileSize": 14578628,
+  "releaseNotes": "1. Fix known issues, optimize user experience",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2026-03-11"
+}

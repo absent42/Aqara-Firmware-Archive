@@ -1,0 +1,13 @@
+{
+  "model": "aqara.lock.aqgl01",
+  "friendlyName": "Smart Automatic Door Lock D100 (International Version)",
+  "firmwareVersion": "3.0.0_0018",
+  "firmwareMD5": "ec4728792d3dcaa7f6916c634dcd0e1b",
+  "fileSize": 786112,
+  "releaseNotes": "1. Optimize tamper alarm function\n2. Fix some known issues",
+  "regions": [
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-06-04"
+}

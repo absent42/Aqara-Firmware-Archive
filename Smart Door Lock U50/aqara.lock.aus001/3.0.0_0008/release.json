@@ -1,0 +1,13 @@
+{
+  "model": "aqara.lock.aus001",
+  "friendlyName": "Smart Door Lock U50",
+  "firmwareVersion": "3.0.0_0008",
+  "firmwareMD5": "2c1cd82fdeb6bdfe3aaa1dcebd9275d4",
+  "fileSize": 680212,
+  "releaseNotes": "1.  Remove automation limits on the door lock device, and relax the conditions.",
+  "regions": [
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2025-10-09"
+}

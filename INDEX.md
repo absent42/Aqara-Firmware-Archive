@@ -1,6 +1,6 @@
 # Firmware Archive Index
 
-161 device names, 202 models.
+166 device names, 207 models.
 
 | Device | Models | Regions |
 | --- | --- | --- |
@@ -93,6 +93,7 @@
 | [Single Switch Module T1 (With Neutral)](Single%20Switch%20Module%20T1%20%28With%20Neutral%29/) | lumi.switch.n0acn2 | us |
 | [Single-channel control module T1 neutral and live wire (international version)](Single-channel%20control%20module%20T1%20neutral%20and%20live%20wire%20%28international%20version%29/) | lumi.switch.n0agl1 | au, eu, kr, us |
 | [Sleeping Belt](Sleeping%20Belt/) | lumi.lunar.acn01 | us |
+| [Smart Automatic Door Lock D100 (International Version)](Smart%20Automatic%20Door%20Lock%20D100%20%28International%20Version%29/) | aqara.lock.aqgl01 | eu, us |
 | [Smart Constant Current Driver T2](Smart%20Constant%20Current%20Driver%20T2/) | lumi.dimmer.acn001 | au, cn, us |
 | [Smart Constant Current Driver T2 (24W)](Smart%20Constant%20Current%20Driver%20T2%20%2824W%29/) | lumi.dimmer.acn002 | eu |
 | [Smart Constant Voltage Driver T1](Smart%20Constant%20Voltage%20Driver%20T1/) | lumi.dimmer.acn003 | au, us |
@@ -103,10 +104,13 @@
 | [Smart Dimmer Controller T1 Pro](Smart%20Dimmer%20Controller%20T1%20Pro/) | lumi.light.acn004 | au, eu, kr, us |
 | [Smart Door Lock B50](Smart%20Door%20Lock%20B50/) | lumi.lock.aus001 | au, us |
 | [Smart Door Lock N100 Zigbee Edition](Smart%20Door%20Lock%20N100%20Zigbee%20Edition/) | aqara.lock.bzacn4 | au, eu, us |
+| [Smart Door Lock U100](Smart%20Door%20Lock%20U100/) | aqara.lock.acn10 | eu, us |
 | [Smart Door Lock U200 Lite](Smart%20Door%20Lock%20U200%20Lite/) | aqara.matter.4447_10247 | au, cn, eu, us |
 | [Smart Door Lock U200 US](Smart%20Door%20Lock%20U200%20US/) | aqara.matter.4447_10346 | us |
+| [Smart Door Lock U50](Smart%20Door%20Lock%20U50/) | aqara.lock.aus001 | eu, us |
 | [Smart Knob H1 (With Neutral)](Smart%20Knob%20H1%20%28With%20Neutral%29/) | lumi.switch.rkna01 | us |
 | [Smart Lightstrip Driver](Smart%20Lightstrip%20Driver/) | lumi.dimmer.rcbac1 | au, eu, kr, us |
+| [Smart Lock D200i](Smart%20Lock%20D200i/) | aqara.lock.acn005 | us |
 | [Smart Lock J200](Smart%20Lock%20J200/) | aqara.matter.4447_10253 | au |
 | [Smart Lock J200 Set](Smart%20Lock%20J200%20Set/) | aqara.matter.4447_10245 | au |
 | [Smart Lock L100 SE](Smart%20Lock%20L100%20SE/) | aqara.lock.akr012 | kr |
@@ -134,6 +138,7 @@
 | [Smart Wall Switch T1 (With Neutral, Double Rocker)](Smart%20Wall%20Switch%20T1%20%28With%20Neutral%2C%20Double%20Rocker%29/) | lumi.switch.b2nacn01 | us |
 | [Smart Wall Switch T1 (With Neutral, Single Rocker)](Smart%20Wall%20Switch%20T1%20%28With%20Neutral%2C%20Single%20Rocker%29/) | lumi.switch.b1nacn01 | us |
 | [Smart Wall hub V1](Smart%20Wall%20hub%20V1/) | lumi.gateway.acn011 | cn, us |
+| [Smart door lock A100 (International version)](Smart%20door%20lock%20A100%20%28International%20version%29/) | aqara.lock.agl002 | eu, us |
 | [Smart socket T1](Smart%20socket%20T1/) | lumi.plug.macn01 | us |
 | [Smart wall switch Q1 (double-button version)](Smart%20wall%20switch%20Q1%20%28double-button%20version%29/) | lumi.switch.acn063 | cn |
 | [Smart wall switch Q1 (four-button version)](Smart%20wall%20switch%20Q1%20%28four-button%20version%29/) | lumi.switch.acn065 | cn |
