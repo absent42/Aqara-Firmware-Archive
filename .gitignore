@@ -7,6 +7,10 @@ CLAUDE.md
 # Generated per-run change log (scratch for writing commit messages)
 /logs/
 
+# Firmware for devices no region catalogue lists yet (unreleased/beta hardware).
+# Promoted into the archive automatically once a catalogue lists the device.
+/unreleased/
+
 # Python
 __pycache__/
 
