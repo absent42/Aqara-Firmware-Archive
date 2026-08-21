@@ -3,6 +3,7 @@
   "pid": "A0017",
   "matterPid": "",
   "friendlyNames": [
+    "Camera T1",
     "aqara.camera.acn002"
   ]
 }

@@ -3,6 +3,7 @@
   "pid": "E0011",
   "matterPid": "",
   "friendlyNames": [
+    "Smart Lock J1",
     "aqara.lock.eicn03"
   ]
 }

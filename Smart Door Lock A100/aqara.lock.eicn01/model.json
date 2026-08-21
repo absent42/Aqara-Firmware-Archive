@@ -3,6 +3,7 @@
   "pid": "E0009",
   "matterPid": "",
   "friendlyNames": [
+    "Smart Door Lock A100",
     "aqara.lock.eicn01"
   ]
 }

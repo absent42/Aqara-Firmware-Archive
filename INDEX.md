@@ -219,8 +219,8 @@
 | [Wall Switch T1 (No Neutral, Three Rocker)](Wall%20Switch%20T1%20%28No%20Neutral%2C%20Three%20Rocker%29/) | lumi.switch.b3l01 | cn, eu, kr, us |
 | [Wall Switch T1 (With Neutral, Three Rocker)](Wall%20Switch%20T1%20%28With%20Neutral%2C%20Three%20Rocker%29/) | lumi.switch.b3n01 | au, cn, eu, kr, us |
 | [Water Leak Sensor E1](Water%20Leak%20Sensor%20E1/) | lumi.flood.acn001 | cn, us |
+| [Wireless Mini Switch E1](Wireless%20Mini%20Switch%20E1/) | lumi.remote.acn007 | cn |
 | [Wireless Mini Switch T1](Wireless%20Mini%20Switch%20T1/) | lumi.remote.b1acn02 | cn, eu, kr, ru, us |
-| [Wireless Mini Wwitch E1](Wireless%20Mini%20Wwitch%20E1/) | lumi.remote.acn007 | cn |
 | [Wireless Remote Switch E1 (double rocker)](Wireless%20Remote%20Switch%20E1%20%28double%20rocker%29/) | lumi.remote.acn004 | cn |
 | [Wireless Remote Switch E1 (single rocker)](Wireless%20Remote%20Switch%20E1%20%28single%20rocker%29/) | lumi.remote.acn003 | cn |
 | [Wireless Remote Switch H1 (Double Rocker)](Wireless%20Remote%20Switch%20H1%20%28Double%20Rocker%29/) | lumi.remote.b28ac1 | cn |

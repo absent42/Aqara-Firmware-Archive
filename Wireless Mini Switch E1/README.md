@@ -1,4 +1,4 @@
-# Wireless Mini Wwitch E1
+# Wireless Mini Switch E1
 
 ## [lumi.remote.acn007](lumi.remote.acn007/)
 

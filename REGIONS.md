@@ -363,8 +363,8 @@
 | [Wall Switch T1 (No Neutral, Three Rocker)](Wall%20Switch%20T1%20%28No%20Neutral%2C%20Three%20Rocker%29/lumi.switch.b3l01/0.0.0_0033/) | lumi.switch.b3l01 | 0.0.0_0033 | 2020-07-02 |
 | [Wall Switch T1 (With Neutral, Three Rocker)](Wall%20Switch%20T1%20%28With%20Neutral%2C%20Three%20Rocker%29/lumi.switch.b3n01/0.0.0_0028/) | lumi.switch.b3n01 | 0.0.0_0028 | 2024-08-26 |
 | [Water Leak Sensor E1](Water%20Leak%20Sensor%20E1/lumi.flood.acn001/0.0.0_0009/) | lumi.flood.acn001 | 0.0.0_0009 | 2022-12-19 |
+| [Wireless Mini Switch E1](Wireless%20Mini%20Switch%20E1/lumi.remote.acn007/0.0.0_0009/) | lumi.remote.acn007 | 0.0.0_0009 | 2022-12-19 |
 | [Wireless Mini Switch T1](Wireless%20Mini%20Switch%20T1/lumi.remote.b1acn02/0.0.0_0031/) | lumi.remote.b1acn02 | 0.0.0_0031 | 2022-12-27 |
-| [Wireless Mini Wwitch E1](Wireless%20Mini%20Wwitch%20E1/lumi.remote.acn007/0.0.0_0009/) | lumi.remote.acn007 | 0.0.0_0009 | 2022-12-19 |
 | [Wireless Remote Switch E1 (double rocker)](Wireless%20Remote%20Switch%20E1%20%28double%20rocker%29/lumi.remote.acn004/0.0.0_0009/) | lumi.remote.acn004 | 0.0.0_0009 | 2022-12-19 |
 | [Wireless Remote Switch E1 (single rocker)](Wireless%20Remote%20Switch%20E1%20%28single%20rocker%29/lumi.remote.acn003/0.0.0_0009/) | lumi.remote.acn003 | 0.0.0_0009 | 2022-12-19 |
 | [Wireless Remote Switch H1 (Double Rocker)](Wireless%20Remote%20Switch%20H1%20%28Double%20Rocker%29/lumi.remote.b28ac1/0.0.0_0023/) | lumi.remote.b28ac1 | 0.0.0_0023 | 2026-01-27 |
