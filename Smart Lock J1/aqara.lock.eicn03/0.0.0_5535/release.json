@@ -1,0 +1,12 @@
+{
+  "model": "aqara.lock.eicn03",
+  "friendlyName": "Smart Lock J1",
+  "firmwareVersion": "0.0.0_5535",
+  "firmwareMD5": "8a5b11b1dfa1c2b96f61f753c4d94325",
+  "fileSize": 396096,
+  "releaseNotes": "1. Brands of new fans: BROAN, MENRED, BROWN, Honeywell, HOLTOP  and other models\n2. Fix the problem of repeatedly prompting OTA",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2023-02-13"
+}

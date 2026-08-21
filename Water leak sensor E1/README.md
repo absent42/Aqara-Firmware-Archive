@@ -1,4 +1,4 @@
-# Water leak sensor E1
+# Water Leak Sensor E1
 
 ## [lumi.flood.acn001](lumi.flood.acn001/)
 

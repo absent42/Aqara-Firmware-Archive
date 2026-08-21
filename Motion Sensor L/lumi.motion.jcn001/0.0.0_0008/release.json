@@ -1,0 +1,12 @@
+{
+  "model": "lumi.motion.jcn001",
+  "friendlyName": "Motion Sensor L",
+  "firmwareVersion": "0.0.0_0008",
+  "firmwareMD5": "466932e967bdf8031311ceb9b2a0e551",
+  "fileSize": 161088,
+  "releaseNotes": "Optimize known problems",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2022-02-17"
+}

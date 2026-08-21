@@ -1,0 +1,12 @@
+{
+  "model": "aqara.camera.acn002",
+  "friendlyName": "Camera T1",
+  "firmwareVersion": "5.3.2_230106",
+  "firmwareMD5": "f15d4c787ae273ca8c7b3d21e3364f99",
+  "fileSize": 723505,
+  "releaseNotes": "Fix known issues",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2023-03-23"
+}

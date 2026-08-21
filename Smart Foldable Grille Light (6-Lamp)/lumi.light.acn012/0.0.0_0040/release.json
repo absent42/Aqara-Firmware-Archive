@@ -1,0 +1,12 @@
+{
+  "model": "lumi.light.acn012",
+  "friendlyName": "Smart Foldable Grille Light (6-Lamp)",
+  "firmwareVersion": "0.0.0_0040",
+  "firmwareMD5": "ac72a18dc05a81a83b2bfd5e3e83f4be",
+  "fileSize": 314596,
+  "releaseNotes": "Bugs fixed.",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2024-01-03"
+}
