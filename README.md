@@ -61,11 +61,11 @@ Details: https://project-chip.github.io/connectedhomeip-doc/guides/software_upda
 
 ### Hub/Camera
 
-May not work for all devices
+May not work for all devices.
 
 1. Download the `.ota`/`.bin` file for your device's model and version.
-2. Format an SD Card to FAT 32.
-3. Extract the OTA file content to the SD card root using [7-Zip](https://www.7-zip.org/)
+2. Format an SD card to FAT 32.
+3. Extract the OTA file content to the SD card root using [7-Zip](https://www.7-zip.org/), there will files such as `rootfs.bin`
 4. With the device powered off put the SD card into the device SD card slot.
 5. Hold down the button on the device.
 6. Power on the device whilst still holding the button down.
