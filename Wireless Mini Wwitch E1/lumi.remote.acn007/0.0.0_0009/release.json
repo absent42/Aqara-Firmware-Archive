@@ -1,0 +1,12 @@
+{
+  "model": "lumi.remote.acn007",
+  "friendlyName": "Wireless Mini Wwitch E1",
+  "firmwareVersion": "0.0.0_0009",
+  "firmwareMD5": "b3692056dcfe95d80eaf300a3c19e3b9",
+  "fileSize": 161856,
+  "releaseNotes": "1.Fix known problems",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2022-12-19"
+}

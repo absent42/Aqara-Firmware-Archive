@@ -191,6 +191,7 @@
 | [Curtain Driver E1](Curtain%20Driver%20E1/lumi.curtain.acn003/0.0.0_2424/) | lumi.curtain.acn003 | 0.0.0_2424 | 2022-05-20 |
 | [Curtain Driver E1](Curtain%20Driver%20E1/lumi.curtain.agl001/0.0.0_2424/) | lumi.curtain.agl001 | 0.0.0_2424 | 2022-05-09 |
 | [Display Switch V1 EU](Display%20Switch%20V1%20EU/lumi.switch.aeu001/0.0.0_1345/) | lumi.switch.aeu001 | 0.0.0_1345 | 2025-12-18 |
+| [Door and Window Sensor E1](Door%20and%20Window%20Sensor%20E1/lumi.magnet.acn001/0.0.0_0009/) | lumi.magnet.acn001 | 0.0.0_0009 | 2022-12-15 |
 | [Doorbell Camera G400](Doorbell%20Camera%20G400/lumi.camera.agl013/4.5.20_0030/) | lumi.camera.agl013 | 4.5.20_0030 | 2026-06-25 |
 | [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.acn017/4.5.20_0052.0108/) | lumi.camera.acn017 | 4.5.20_0052.0108 | 2026-05-08 |
 | [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.agl006/4.5.20_0052.0108/) | lumi.camera.agl006 | 4.5.20_0052.0108 | 2026-05-08 |
@@ -234,6 +235,7 @@
 | [MagicPad S1](MagicPad%20S1/lumi.controller.a4acn1/4.5.30_0010.0013/) | lumi.controller.a4acn1 | 4.5.30_0010.0013 | 2026-02-02 |
 | [MagicPad S1 Pro](MagicPad%20S1%20Pro/lumi.controller.acn002/4.1.2_0018.0000/) | lumi.controller.acn002 | 4.1.2_0018.0000 | 2026-03-11 |
 | [MagicPad/Panel Hub S1 Plus](MagicPad-Panel%20Hub%20S1%20Plus/lumi.switch.acn034/4.5.40_0011.0017/) | lumi.switch.acn034 | 4.5.40_0011.0017 | 2026-05-19 |
+| [Motion Sensor E1](Motion%20Sensor%20E1/lumi.motion.acn001/0.0.0_0010/) | lumi.motion.acn001 | 0.0.0_0010 | 2022-12-19 |
 | [Motion Sensor P1](Motion%20Sensor%20P1/lumi.motion.ac02/0.0.0_0010/) | lumi.motion.ac02 | 0.0.0_0010 | 2023-02-17 |
 | [Motion Sensor T1](Motion%20Sensor%20T1/lumi.motion.agl02/0.0.0_0035/) | lumi.motion.agl02 | 0.0.0_0035 | 2021-11-22 |
 | [Multi-State Sensor P100](Multi-State%20Sensor%20P100/aqara.matter.4447_8203/1.0.0.2/) | aqara.matter.4447_8203 | 1.0.0.2 | 2025-12-29 |
@@ -294,10 +296,17 @@
 | [Smart Toilet T1](Smart%20Toilet%20T1/aqara.toilet.acn002/0.0.0_1233/) | aqara.toilet.acn002 | 0.0.0_1233 | 2023-07-05 |
 | [Smart Towel Warmer H1](Smart%20Towel%20Warmer%20H1/aqara.tow_w.acn001/0.0.0_2530/) | aqara.tow_w.acn001 | 0.0.0_2530 | 2022-01-14 |
 | [Smart Vertical Blinds Controller H1](Smart%20Vertical%20Blinds%20Controller%20H1/lumi.curtain.acn011/0.0.0_0535/) | lumi.curtain.acn011 | 0.0.0_0535 | 2023-09-18 |
+| [Smart Wall Outlet H1 (USB)](Smart%20Wall%20Outlet%20H1%20%28USB%29/lumi.plug.sacn03/0.0.0_0038/) | lumi.plug.sacn03 | 0.0.0_0038 | 2024-08-20 |
+| [Smart Wall Outlet T1](Smart%20Wall%20Outlet%20T1/lumi.plug.sacn02/0.0.0_0052/) | lumi.plug.sacn02 | 0.0.0_0052 | 2024-08-20 |
 | [Smart Wall Socket H2](Smart%20Wall%20Socket%20H2/lumi.plug.acn005/0.0.0_0032/) | lumi.plug.acn005 | 0.0.0_0032 | 2025-10-21 |
 | [Smart Wall Switch (No Neutral, Single Rocker)](Smart%20Wall%20Switch%20%28No%20Neutral%2C%20Single%20Rocker%29/lumi.switch.b1laus01/0.0.0_0032/) | lumi.switch.b1laus01 | 0.0.0_0032 | 2020-08-31 |
 | [Smart Wall Switch (With Neutral, Double Rocker)](Smart%20Wall%20Switch%20%28With%20Neutral%2C%20Double%20Rocker%29/lumi.switch.b2naus01/0.0.0_0031/) | lumi.switch.b2naus01 | 0.0.0_0031 | 2022-01-05 |
 | [Smart Wall Switch (With Neutral, Single Rocker)](Smart%20Wall%20Switch%20%28With%20Neutral%2C%20Single%20Rocker%29/lumi.switch.b1naus01/0.0.0_0031/) | lumi.switch.b1naus01 | 0.0.0_0031 | 2022-01-05 |
+| [Smart Wall Switch E1 (no neutral, double rocker)](Smart%20Wall%20Switch%20E1%20%28no%20neutral%2C%20double%20rocker%29/lumi.switch.b2lc04/0.0.0_0023/) | lumi.switch.b2lc04 | 0.0.0_0023 | 2022-08-19 |
+| [Smart Wall Switch E1 (no neutral, single rocker)](Smart%20Wall%20Switch%20E1%20%28no%20neutral%2C%20single%20rocker%29/lumi.switch.b1lc04/0.0.0_0023/) | lumi.switch.b1lc04 | 0.0.0_0023 | 2022-08-19 |
+| [Smart Wall Switch E1 (with neutral, double rocker)](Smart%20Wall%20Switch%20E1%20%28with%20neutral%2C%20double%20rocker%29/lumi.switch.b2nc01/0.0.0_0029/) | lumi.switch.b2nc01 | 0.0.0_0029 | 2025-01-03 |
+| [Smart Wall Switch E1 (with neutral, single rocker)](Smart%20Wall%20Switch%20E1%20%28with%20neutral%2C%20single%20rocker%29/lumi.switch.b1nc01/0.0.0_0029/) | lumi.switch.b1nc01 | 0.0.0_0029 | 2025-01-03 |
+| [Smart Wall Switch E1 (with neutral, triple rocker)](Smart%20Wall%20Switch%20E1%20%28with%20neutral%2C%20triple%20rocker%29/lumi.switch.acn040/0.0.0_0029/) | lumi.switch.acn040 | 0.0.0_0029 | 2025-01-03 |
 | [Smart Wall Switch H1 (With Neutral, Triple Rocker)](Smart%20Wall%20Switch%20H1%20%28With%20Neutral%2C%20Triple%20Rocker%29/lumi.switch.n3acn1/15/) | lumi.switch.n3acn1 | 15 | 2024-07-26 |
 | [Smart Wall Switch T1 (No Neutral, Double Rocker)](Smart%20Wall%20Switch%20T1%20%28No%20Neutral%2C%20Double%20Rocker%29/lumi.switch.b2lacn01/0.0.0_0032/) | lumi.switch.b2lacn01 | 0.0.0_0032 | 2020-07-02 |
 | [Smart Wall Switch T1 (No Neutral, Single Rocker)](Smart%20Wall%20Switch%20T1%20%28No%20Neutral%2C%20Single%20Rocker%29/lumi.switch.b1lacn01/0.0.0_0032/) | lumi.switch.b1lacn01 | 0.0.0_0032 | 2020-07-02 |
@@ -335,7 +344,11 @@
 | [Wall Switch H1 (With Neutral, Single Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Single%20Rocker%29/lumi.switch.n1acn1/15/) | lumi.switch.n1acn1 | 15 | 2024-07-26 |
 | [Wall Switch T1 (No Neutral, Three Rocker)](Wall%20Switch%20T1%20%28No%20Neutral%2C%20Three%20Rocker%29/lumi.switch.b3l01/0.0.0_0033/) | lumi.switch.b3l01 | 0.0.0_0033 | 2020-07-02 |
 | [Wall Switch T1 (With Neutral, Three Rocker)](Wall%20Switch%20T1%20%28With%20Neutral%2C%20Three%20Rocker%29/lumi.switch.b3n01/0.0.0_0028/) | lumi.switch.b3n01 | 0.0.0_0028 | 2024-08-26 |
+| [Water leak sensor E1](Water%20leak%20sensor%20E1/lumi.flood.acn001/0.0.0_0009/) | lumi.flood.acn001 | 0.0.0_0009 | 2022-12-19 |
 | [Wireless Mini Switch T1](Wireless%20Mini%20Switch%20T1/lumi.remote.b1acn02/0.0.0_0031/) | lumi.remote.b1acn02 | 0.0.0_0031 | 2022-12-27 |
+| [Wireless Mini Wwitch E1](Wireless%20Mini%20Wwitch%20E1/lumi.remote.acn007/0.0.0_0009/) | lumi.remote.acn007 | 0.0.0_0009 | 2022-12-19 |
+| [Wireless Remote Switch E1 (double rocker)](Wireless%20Remote%20Switch%20E1%20%28double%20rocker%29/lumi.remote.acn004/0.0.0_0009/) | lumi.remote.acn004 | 0.0.0_0009 | 2022-12-19 |
+| [Wireless Remote Switch E1 (single rocker)](Wireless%20Remote%20Switch%20E1%20%28single%20rocker%29/lumi.remote.acn003/0.0.0_0009/) | lumi.remote.acn003 | 0.0.0_0009 | 2022-12-19 |
 | [Wireless Remote Switch H1 (Double Rocker)](Wireless%20Remote%20Switch%20H1%20%28Double%20Rocker%29/lumi.remote.b28ac1/0.0.0_0023/) | lumi.remote.b28ac1 | 0.0.0_0023 | 2026-01-27 |
 | [Wireless Remote Switch T1 (Double Rocker)](Wireless%20Remote%20Switch%20T1%20%28Double%20Rocker%29/lumi.remote.b286acn03/0.0.0_0021/) | lumi.remote.b286acn03 | 0.0.0_0021 | 2020-10-23 |
 | [aqara.camera.acn002](aqara.camera.acn002/aqara.camera.acn002/5.3.2_230106/) | aqara.camera.acn002 | 5.3.2_230106 | 2023-03-23 |
@@ -344,7 +357,6 @@
 | [aqara.lock.eicn03](aqara.lock.eicn03/aqara.lock.eicn03/0.0.0_5535/) | aqara.lock.eicn03 | 0.0.0_5535 | 2023-02-13 |
 | [aqara.lock.wbzac1](aqara.lock.wbzac1/aqara.lock.wbzac1/2.3.1_0042/) | aqara.lock.wbzac1 | 2.3.1_0042 | 2023-05-11 |
 | [eigenstone.test.test0516](eigenstone.test.test0516/eigenstone.test.test0516/3.0/) | eigenstone.test.test0516 | 3.0 | 2022-08-31 |
-| [lumi.flood.acn001](lumi.flood.acn001/lumi.flood.acn001/0.0.0_0009/) | lumi.flood.acn001 | 0.0.0_0009 | 2022-12-19 |
 | [lumi.gateway.acn004](lumi.gateway.acn004/lumi.gateway.acn004/4.5.20_0023.0024/) | lumi.gateway.acn004 | 4.5.20_0023.0024 | 2025-12-08 |
 | [lumi.light.acn007](lumi.light.acn007/lumi.light.acn007/0.0.0_0040/) | lumi.light.acn007 | 0.0.0_0040 | 2024-01-03 |
 | [lumi.light.acn008](lumi.light.acn008/lumi.light.acn008/0.0.0_0040/) | lumi.light.acn008 | 0.0.0_0040 | 2024-01-03 |
@@ -354,25 +366,13 @@
 | [lumi.light.acn012](lumi.light.acn012/lumi.light.acn012/0.0.0_0040/) | lumi.light.acn012 | 0.0.0_0040 | 2024-01-03 |
 | [lumi.light.acn013](lumi.light.acn013/lumi.light.acn013/0.0.0_0040/) | lumi.light.acn013 | 0.0.0_0040 | 2024-01-03 |
 | [lumi.lock.acn04](lumi.lock.acn04/lumi.lock.acn04/12.130.124/) | lumi.lock.acn04 | 12.130.124 | 2020-11-16 |
-| [lumi.magnet.acn001](lumi.magnet.acn001/lumi.magnet.acn001/0.0.0_0009/) | lumi.magnet.acn001 | 0.0.0_0009 | 2022-12-15 |
 | [lumi.magnet.jcn002](lumi.magnet.jcn002/lumi.magnet.jcn002/0.0.0_0008/) | lumi.magnet.jcn002 | 0.0.0_0008 | 2022-02-17 |
 | [lumi.mirror.acn001](lumi.mirror.acn001/lumi.mirror.acn001/0.0.0_0021/) | lumi.mirror.acn001 | 0.0.0_0021 | 2022-04-01 |
-| [lumi.motion.acn001](lumi.motion.acn001/lumi.motion.acn001/0.0.0_0010/) | lumi.motion.acn001 | 0.0.0_0010 | 2022-12-19 |
 | [lumi.motion.jcn001](lumi.motion.jcn001/lumi.motion.jcn001/0.0.0_0008/) | lumi.motion.jcn001 | 0.0.0_0008 | 2022-02-17 |
-| [lumi.plug.sacn02](lumi.plug.sacn02/lumi.plug.sacn02/0.0.0_0052/) | lumi.plug.sacn02 | 0.0.0_0052 | 2024-08-20 |
-| [lumi.plug.sacn03](lumi.plug.sacn03/lumi.plug.sacn03/0.0.0_0038/) | lumi.plug.sacn03 | 0.0.0_0038 | 2024-08-20 |
-| [lumi.remote.acn003](lumi.remote.acn003/lumi.remote.acn003/0.0.0_0009/) | lumi.remote.acn003 | 0.0.0_0009 | 2022-12-19 |
-| [lumi.remote.acn004](lumi.remote.acn004/lumi.remote.acn004/0.0.0_0009/) | lumi.remote.acn004 | 0.0.0_0009 | 2022-12-19 |
-| [lumi.remote.acn007](lumi.remote.acn007/lumi.remote.acn007/0.0.0_0009/) | lumi.remote.acn007 | 0.0.0_0009 | 2022-12-19 |
 | [lumi.sensor_gas.acn001](lumi.sensor_gas.acn001/lumi.sensor_gas.acn001/0.0.0_0014/) | lumi.sensor_gas.acn001 | 0.0.0_0014 | 2022-11-02 |
 | [lumi.sensor_smoke.acn05](lumi.sensor_smoke.acn05/lumi.sensor_smoke.acn05/0.0.0_0017/) | lumi.sensor_smoke.acn05 | 0.0.0_0017 | 2022-07-21 |
 | [lumi.sensor_smoke.jcn01](lumi.sensor_smoke.jcn01/lumi.sensor_smoke.jcn01/0.0.0_0017/) | lumi.sensor_smoke.jcn01 | 0.0.0_0017 | 2022-07-21 |
 | [lumi.switch.acn022](lumi.switch.acn022/lumi.switch.acn022/0.0.0_0024/) | lumi.switch.acn022 | 0.0.0_0024 | 2022-06-13 |
-| [lumi.switch.acn040](lumi.switch.acn040/lumi.switch.acn040/0.0.0_0029/) | lumi.switch.acn040 | 0.0.0_0029 | 2025-01-03 |
-| [lumi.switch.b1lc04](lumi.switch.b1lc04/lumi.switch.b1lc04/0.0.0_0023/) | lumi.switch.b1lc04 | 0.0.0_0023 | 2022-08-19 |
-| [lumi.switch.b1nc01](lumi.switch.b1nc01/lumi.switch.b1nc01/0.0.0_0029/) | lumi.switch.b1nc01 | 0.0.0_0029 | 2025-01-03 |
-| [lumi.switch.b2lc04](lumi.switch.b2lc04/lumi.switch.b2lc04/0.0.0_0023/) | lumi.switch.b2lc04 | 0.0.0_0023 | 2022-08-19 |
-| [lumi.switch.b2nc01](lumi.switch.b2nc01/lumi.switch.b2nc01/0.0.0_0029/) | lumi.switch.b2nc01 | 0.0.0_0029 | 2025-01-03 |
 | [lumi.switch.jcn001](lumi.switch.jcn001/lumi.switch.jcn001/0.0.0_0065/) | lumi.switch.jcn001 | 0.0.0_0065 | 2022-01-06 |
 | [lumi.switch.jcn002](lumi.switch.jcn002/lumi.switch.jcn002/0.0.0_0066/) | lumi.switch.jcn002 | 0.0.0_0066 | 2022-01-06 |
 
@@ -683,6 +683,7 @@
 | [Dimmer Switch H2 US](Dimmer%20Switch%20H2%20US/aqara.matter.4447_4102/1.0.6.0/) | aqara.matter.4447_4102 | 1.0.6.0 | 2025-07-07 |
 | [Dimmer Switch H2 US](Dimmer%20Switch%20H2%20US/lumi.switch.agl007/0.0.0_1722/) | lumi.switch.agl007 | 0.0.0_1722 | 2025-07-07 |
 | [Display Switch V1 EU](Display%20Switch%20V1%20EU/lumi.switch.aeu001/0.0.0_1345/) | lumi.switch.aeu001 | 0.0.0_1345 | 2025-12-18 |
+| [Door and Window Sensor E1](Door%20and%20Window%20Sensor%20E1/lumi.magnet.acn001/0.0.0_0005/) | lumi.magnet.acn001 | 0.0.0_0005 | 2021-10-18 |
 | [Doorbell Camera G400](Doorbell%20Camera%20G400/lumi.camera.agl013/4.5.20_0030/) | lumi.camera.agl013 | 4.5.20_0030 | 2026-06-25 |
 | [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.acn017/4.3.4_0028.0056/) | lumi.camera.acn017 | 4.3.4_0028.0056 | 2025-04-02 |
 | [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.agl006/4.5.20_0052.0108/) | lumi.camera.agl006 | 4.5.20_0052.0108 | 2026-05-08 |
@@ -836,6 +837,5 @@
 | [Wall Switch H1 (With Neutral, Single Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Single%20Rocker%29/lumi.switch.n1acn1/15/) | lumi.switch.n1acn1 | 15 | 2024-07-26 |
 | [Wall Switch T1 (No Neutral, Three Rocker)](Wall%20Switch%20T1%20%28No%20Neutral%2C%20Three%20Rocker%29/lumi.switch.b3l01/0.0.0_0033/) | lumi.switch.b3l01 | 0.0.0_0033 | 2020-07-02 |
 | [Wall Switch T1 (With Neutral, Three Rocker)](Wall%20Switch%20T1%20%28With%20Neutral%2C%20Three%20Rocker%29/lumi.switch.b3n01/0.0.0_0028/) | lumi.switch.b3n01 | 0.0.0_0028 | 2024-08-26 |
+| [Water leak sensor E1](Water%20leak%20sensor%20E1/lumi.flood.acn001/0.0.0_0009/) | lumi.flood.acn001 | 0.0.0_0009 | 2022-12-19 |
 | [Wireless Mini Switch T1](Wireless%20Mini%20Switch%20T1/lumi.remote.b1acn02/0.0.0_0031/) | lumi.remote.b1acn02 | 0.0.0_0031 | 2022-12-27 |
-| [lumi.flood.acn001](lumi.flood.acn001/lumi.flood.acn001/0.0.0_0009/) | lumi.flood.acn001 | 0.0.0_0009 | 2022-12-19 |
-| [lumi.magnet.acn001](lumi.magnet.acn001/lumi.magnet.acn001/0.0.0_0005/) | lumi.magnet.acn001 | 0.0.0_0005 | 2021-10-18 |

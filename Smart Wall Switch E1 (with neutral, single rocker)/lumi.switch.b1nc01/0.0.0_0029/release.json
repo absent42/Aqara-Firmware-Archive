@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.b1nc01",
+  "friendlyName": "Smart Wall Switch E1 (with neutral, single rocker)",
+  "firmwareVersion": "0.0.0_0029",
+  "firmwareMD5": "c14667f73aca013520beafc17269827e",
+  "fileSize": 289744,
+  "releaseNotes": "Bugs fixed.",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2025-01-03"
+}

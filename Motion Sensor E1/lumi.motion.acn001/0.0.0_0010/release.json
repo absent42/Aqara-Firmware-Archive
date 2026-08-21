@@ -1,0 +1,12 @@
+{
+  "model": "lumi.motion.acn001",
+  "friendlyName": "Motion Sensor E1",
+  "firmwareVersion": "0.0.0_0010",
+  "firmwareMD5": "5df940163cac62de28511c9e396788ee",
+  "fileSize": 163968,
+  "releaseNotes": "1.Fix known problems",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2022-12-19"
+}

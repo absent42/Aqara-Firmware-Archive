@@ -27,6 +27,7 @@
 | [Dimmer Switch H2 EU](Dimmer%20Switch%20H2%20EU/) | aqara.matter.4447_4106, lumi.switch.agl011 | au, eu, kr, us |
 | [Dimmer Switch H2 US](Dimmer%20Switch%20H2%20US/) | aqara.matter.4447_4102, lumi.switch.agl007 | au, eu, us |
 | [Display Switch V1 EU](Display%20Switch%20V1%20EU/) | lumi.switch.aeu001 | au, cn, eu, kr, us |
+| [Door and Window Sensor E1](Door%20and%20Window%20Sensor%20E1/) | lumi.magnet.acn001 | cn, us |
 | [Doorbell Camera G400](Doorbell%20Camera%20G400/) | lumi.camera.agl013 | au, cn, eu, kr, us |
 | [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/) | lumi.camera.acn017, lumi.camera.agl006 | au, cn, eu, kr, us |
 | [Doorbell G4](Doorbell%20G4/) | lumi.camera.acn005, lumi.camera.agl002 | au, cn, eu, kr, us |
@@ -67,6 +68,7 @@
 | [MagicPad S1](MagicPad%20S1/) | lumi.controller.a4acn1 | cn |
 | [MagicPad S1 Pro](MagicPad%20S1%20Pro/) | lumi.controller.acn002 | cn |
 | [MagicPad/Panel Hub S1 Plus](MagicPad-Panel%20Hub%20S1%20Plus/) | lumi.switch.acn034, lumi.switch.agl003 | au, cn, eu, kr, us |
+| [Motion Sensor E1](Motion%20Sensor%20E1/) | lumi.motion.acn001 | cn |
 | [Motion Sensor P1](Motion%20Sensor%20P1/) | lumi.motion.ac02 | au, cn, eu, kr, us |
 | [Motion Sensor T1](Motion%20Sensor%20T1/) | lumi.motion.agl02 | cn, eu, kr, ru, us |
 | [Multi-State Sensor P100](Multi-State%20Sensor%20P100/) | aqara.matter.4447_8203, lumi.vibration.agl002 | au, cn, eu, kr, us |
@@ -140,11 +142,18 @@
 | [Smart Toilet T1](Smart%20Toilet%20T1/) | aqara.toilet.acn002 | cn |
 | [Smart Towel Warmer H1](Smart%20Towel%20Warmer%20H1/) | aqara.tow_w.acn001 | cn |
 | [Smart Vertical Blinds Controller H1](Smart%20Vertical%20Blinds%20Controller%20H1/) | lumi.curtain.acn011 | cn |
+| [Smart Wall Outlet H1 (USB)](Smart%20Wall%20Outlet%20H1%20%28USB%29/) | lumi.plug.sacn03 | cn |
+| [Smart Wall Outlet T1](Smart%20Wall%20Outlet%20T1/) | lumi.plug.sacn02 | cn |
 | [Smart Wall Socket H2](Smart%20Wall%20Socket%20H2/) | lumi.plug.acn005 | cn |
 | [Smart Wall Switch (No Neutral, Double Rocker)](Smart%20Wall%20Switch%20%28No%20Neutral%2C%20Double%20Rocker%29/) | lumi.switch.b2laus01 | au, kr, ru, us |
 | [Smart Wall Switch (No Neutral, Single Rocker)](Smart%20Wall%20Switch%20%28No%20Neutral%2C%20Single%20Rocker%29/) | lumi.switch.b1laus01 | cn, eu, kr, ru, us |
 | [Smart Wall Switch (With Neutral, Double Rocker)](Smart%20Wall%20Switch%20%28With%20Neutral%2C%20Double%20Rocker%29/) | lumi.switch.b2naus01 | cn, eu, kr, us |
 | [Smart Wall Switch (With Neutral, Single Rocker)](Smart%20Wall%20Switch%20%28With%20Neutral%2C%20Single%20Rocker%29/) | lumi.switch.b1naus01 | cn, eu, kr, us |
+| [Smart Wall Switch E1 (no neutral, double rocker)](Smart%20Wall%20Switch%20E1%20%28no%20neutral%2C%20double%20rocker%29/) | lumi.switch.b2lc04 | cn |
+| [Smart Wall Switch E1 (no neutral, single rocker)](Smart%20Wall%20Switch%20E1%20%28no%20neutral%2C%20single%20rocker%29/) | lumi.switch.b1lc04 | cn |
+| [Smart Wall Switch E1 (with neutral, double rocker)](Smart%20Wall%20Switch%20E1%20%28with%20neutral%2C%20double%20rocker%29/) | lumi.switch.b2nc01 | cn |
+| [Smart Wall Switch E1 (with neutral, single rocker)](Smart%20Wall%20Switch%20E1%20%28with%20neutral%2C%20single%20rocker%29/) | lumi.switch.b1nc01 | cn |
+| [Smart Wall Switch E1 (with neutral, triple rocker)](Smart%20Wall%20Switch%20E1%20%28with%20neutral%2C%20triple%20rocker%29/) | lumi.switch.acn040 | cn |
 | [Smart Wall Switch H1 (With Neutral, Triple Rocker)](Smart%20Wall%20Switch%20H1%20%28With%20Neutral%2C%20Triple%20Rocker%29/) | lumi.switch.n3acn1 | au, cn, kr, us |
 | [Smart Wall Switch H1 EU (With Neutral, Double Rocker)](Smart%20Wall%20Switch%20H1%20EU%20%28With%20Neutral%2C%20Double%20Rocker%29/) | lumi.switch.n2aeu1 | au, eu, kr, us |
 | [Smart Wall Switch H1 EU (With Neutral, Single Rocker)](Smart%20Wall%20Switch%20H1%20EU%20%28With%20Neutral%2C%20Single%20Rocker%29/) | lumi.switch.n1aeu1 | au, eu, kr, us |
@@ -191,7 +200,11 @@
 | [Wall Switch H1 (With Neutral, Single Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Single%20Rocker%29/) | lumi.switch.n1acn1 | au, cn, kr, us |
 | [Wall Switch T1 (No Neutral, Three Rocker)](Wall%20Switch%20T1%20%28No%20Neutral%2C%20Three%20Rocker%29/) | lumi.switch.b3l01 | cn, eu, kr, us |
 | [Wall Switch T1 (With Neutral, Three Rocker)](Wall%20Switch%20T1%20%28With%20Neutral%2C%20Three%20Rocker%29/) | lumi.switch.b3n01 | au, cn, eu, kr, us |
+| [Water leak sensor E1](Water%20leak%20sensor%20E1/) | lumi.flood.acn001 | cn, us |
 | [Wireless Mini Switch T1](Wireless%20Mini%20Switch%20T1/) | lumi.remote.b1acn02 | cn, eu, kr, ru, us |
+| [Wireless Mini Wwitch E1](Wireless%20Mini%20Wwitch%20E1/) | lumi.remote.acn007 | cn |
+| [Wireless Remote Switch E1 (double rocker)](Wireless%20Remote%20Switch%20E1%20%28double%20rocker%29/) | lumi.remote.acn004 | cn |
+| [Wireless Remote Switch E1 (single rocker)](Wireless%20Remote%20Switch%20E1%20%28single%20rocker%29/) | lumi.remote.acn003 | cn |
 | [Wireless Remote Switch H1 (Double Rocker)](Wireless%20Remote%20Switch%20H1%20%28Double%20Rocker%29/) | lumi.remote.b28ac1 | cn |
 | [Wireless Remote Switch T1 (Double Rocker)](Wireless%20Remote%20Switch%20T1%20%28Double%20Rocker%29/) | lumi.remote.b286acn03 | cn |
 | [aqara.camera.acn002](aqara.camera.acn002/) | aqara.camera.acn002 | cn |
@@ -200,7 +213,6 @@
 | [aqara.lock.eicn03](aqara.lock.eicn03/) | aqara.lock.eicn03 | cn |
 | [aqara.lock.wbzac1](aqara.lock.wbzac1/) | aqara.lock.wbzac1 | cn |
 | [eigenstone.test.test0516](eigenstone.test.test0516/) | eigenstone.test.test0516 | cn |
-| [lumi.flood.acn001](lumi.flood.acn001/) | lumi.flood.acn001 | cn, us |
 | [lumi.gateway.acn004](lumi.gateway.acn004/) | lumi.gateway.acn004 | cn |
 | [lumi.light.acn007](lumi.light.acn007/) | lumi.light.acn007 | cn |
 | [lumi.light.acn008](lumi.light.acn008/) | lumi.light.acn008 | cn |
@@ -210,24 +222,12 @@
 | [lumi.light.acn012](lumi.light.acn012/) | lumi.light.acn012 | cn |
 | [lumi.light.acn013](lumi.light.acn013/) | lumi.light.acn013 | cn |
 | [lumi.lock.acn04](lumi.lock.acn04/) | lumi.lock.acn04 | cn |
-| [lumi.magnet.acn001](lumi.magnet.acn001/) | lumi.magnet.acn001 | cn, us |
 | [lumi.magnet.jcn002](lumi.magnet.jcn002/) | lumi.magnet.jcn002 | cn |
 | [lumi.mirror.acn001](lumi.mirror.acn001/) | lumi.mirror.acn001 | cn |
-| [lumi.motion.acn001](lumi.motion.acn001/) | lumi.motion.acn001 | cn |
 | [lumi.motion.jcn001](lumi.motion.jcn001/) | lumi.motion.jcn001 | cn |
-| [lumi.plug.sacn02](lumi.plug.sacn02/) | lumi.plug.sacn02 | cn |
-| [lumi.plug.sacn03](lumi.plug.sacn03/) | lumi.plug.sacn03 | cn |
-| [lumi.remote.acn003](lumi.remote.acn003/) | lumi.remote.acn003 | cn |
-| [lumi.remote.acn004](lumi.remote.acn004/) | lumi.remote.acn004 | cn |
-| [lumi.remote.acn007](lumi.remote.acn007/) | lumi.remote.acn007 | cn |
 | [lumi.sensor_gas.acn001](lumi.sensor_gas.acn001/) | lumi.sensor_gas.acn001 | cn |
 | [lumi.sensor_smoke.acn05](lumi.sensor_smoke.acn05/) | lumi.sensor_smoke.acn05 | cn |
 | [lumi.sensor_smoke.jcn01](lumi.sensor_smoke.jcn01/) | lumi.sensor_smoke.jcn01 | cn |
 | [lumi.switch.acn022](lumi.switch.acn022/) | lumi.switch.acn022 | cn |
-| [lumi.switch.acn040](lumi.switch.acn040/) | lumi.switch.acn040 | cn |
-| [lumi.switch.b1lc04](lumi.switch.b1lc04/) | lumi.switch.b1lc04 | cn |
-| [lumi.switch.b1nc01](lumi.switch.b1nc01/) | lumi.switch.b1nc01 | cn |
-| [lumi.switch.b2lc04](lumi.switch.b2lc04/) | lumi.switch.b2lc04 | cn |
-| [lumi.switch.b2nc01](lumi.switch.b2nc01/) | lumi.switch.b2nc01 | cn |
 | [lumi.switch.jcn001](lumi.switch.jcn001/) | lumi.switch.jcn001 | cn |
 | [lumi.switch.jcn002](lumi.switch.jcn002/) | lumi.switch.jcn002 | cn |

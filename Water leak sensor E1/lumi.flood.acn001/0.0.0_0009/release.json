@@ -1,0 +1,13 @@
+{
+  "model": "lumi.flood.acn001",
+  "friendlyName": "Water leak sensor E1",
+  "firmwareVersion": "0.0.0_0009",
+  "firmwareMD5": "abbc3afd37443a1784054524ca3c5564",
+  "fileSize": 163152,
+  "releaseNotes": "1.Fix known problems",
+  "regions": [
+    "cn",
+    "us"
+  ],
+  "releaseDate": "2022-12-19"
+}

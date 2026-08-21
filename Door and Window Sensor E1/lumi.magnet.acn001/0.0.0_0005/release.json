@@ -1,0 +1,12 @@
+{
+  "model": "lumi.magnet.acn001",
+  "friendlyName": "Door and Window Sensor E1",
+  "firmwareVersion": "0.0.0_0005",
+  "firmwareMD5": "98fb2c5bc736a5260b48547dbff3db8b",
+  "fileSize": 157424,
+  "releaseNotes": "Optimize the user experience",
+  "regions": [
+    "us"
+  ],
+  "releaseDate": "2021-10-18"
+}
