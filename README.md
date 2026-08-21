@@ -59,6 +59,19 @@ Details: https://github.com/matter-js/matterjs-server
 
 Details: https://project-chip.github.io/connectedhomeip-doc/guides/software_update.html
 
+### Hub/Camera
+
+May not work for all devices
+
+1. Download the `.ota`/`.bin` file for your device's model and version.
+2. Format an SD Card to FAT 32.
+3. Extract the OTA file content to the SD card root using [7-Zip](https://www.7-zip.org/)
+4. With the device powered off put the SD card into the device SD card slot.
+5. Hold down the button on the device.
+6. Power on the device whilst still holding the button down.
+7. Wait about 3 seconds then release the button.
+8. The device LED should flash red if the firmware starts to update.
+
 ## Disclaimer
 
 - Not affiliated with, endorsed by, or supported by Aqara.
