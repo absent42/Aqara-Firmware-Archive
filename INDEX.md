@@ -56,7 +56,7 @@
 | [LED Bulb T2 (E27, RGB CCT)](LED%20Bulb%20T2%20%28E27%2C%20RGB%20CCT%29/) | aqara.matter.4447_6147, lumi.light.agl003 | au, cn, eu, us |
 | [LED Bulb T2 (GU10, CCT)](LED%20Bulb%20T2%20%28GU10%2C%20CCT%29/) | aqara.matter.4447_6150, lumi.light.agl006 | au, cn, eu, us |
 | [LED Bulb T2 (GU10, RGB CCT)](LED%20Bulb%20T2%20%28GU10%2C%20RGB%20CCT%29/) | aqara.matter.4447_6149, lumi.light.agl005 | au, cn, eu, us |
-| [LED Strip Controller H1 (RGB Spectrum)](LED%20Strip%20Controller%20H1%20%28RGB%20Spectrum%29/) | aqara.matter.4447_6180 | au, cn |
+| [LED Strip Controller H1 (RGB Spectrum)](LED%20Strip%20Controller%20H1%20%28RGB%20Spectrum%29/) | aqara.matter.4447_6180 | au, cn, us |
 | [LED Strip T1](LED%20Strip%20T1/) | lumi.light.acn132 | au, cn, eu, kr, us |
 | [Light Art Skylight H1](Light%20Art%20Skylight%20H1/) | lumi.light.acn015 | cn |
 | [Light Detection Sensor T1](Light%20Detection%20Sensor%20T1/) | lumi.sen_ill.agl01 | cn |
@@ -94,7 +94,7 @@
 | [Presence Switch H2 US (2 Buttons, 1 Channel)](Presence%20Switch%20H2%20US%20%282%20Buttons%2C%201%20Channel%29/) | aqara.matter.4447_4112, lumi.switch.aus001 | au, cn, us |
 | [Presence Switch H2 US (2 Buttons, 2 Channels)](Presence%20Switch%20H2%20US%20%282%20Buttons%2C%202%20Channels%29/) | aqara.matter.4447_4113, lumi.switch.aus002 | au, cn, us |
 | [Presence Switch H2 US (4 Buttons, 3 Channels)](Presence%20Switch%20H2%20US%20%284%20Buttons%2C%203%20Channels%29/) | aqara.matter.4447_4114, lumi.switch.aus003 | au, cn, us |
-| [RGB Spectrum LED Strip Driver H1](RGB%20Spectrum%20LED%20Strip%20Driver%20H1/) | lumi.models.4447_6209 | au, cn |
+| [RGB Spectrum LED Strip Driver H1](RGB%20Spectrum%20LED%20Strip%20Driver%20H1/) | lumi.models.4447_6209 | au, cn, us |
 | [Radiator Thermostat W600](Radiator%20Thermostat%20W600/) | aqara.matter.4447_18437, lumi.airrtc.aeu005 | cn, eu, us |
 | [Roller Shade Controller T1](Roller%20Shade%20Controller%20T1/) | lumi.curtain.vagl02 | au, cn, eu, kr, us |
 | [Roller Shade Driver E1](Roller%20Shade%20Driver%20E1/) | lumi.curtain.acn002 | au, cn, eu, kr, us |

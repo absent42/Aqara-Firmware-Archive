@@ -1,0 +1,16 @@
+{
+  "model": "aqara.matter.4447_8203",
+  "friendlyName": "Multi-State Sensor P100",
+  "firmwareVersion": "1.0.0.4",
+  "firmwareMD5": "893a9b768c70de9d6808db6bb010f6b6",
+  "fileSize": 1132992,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-08-24"
+}
