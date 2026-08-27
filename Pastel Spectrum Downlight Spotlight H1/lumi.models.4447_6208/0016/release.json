@@ -1,0 +1,14 @@
+{
+  "model": "lumi.models.4447_6208",
+  "friendlyName": "Pastel Spectrum Downlight Spotlight H1",
+  "firmwareVersion": "0016",
+  "firmwareMD5": "8d5b4f3f553d7de40a6c871a1af561f3",
+  "fileSize": 675262,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "cn",
+    "us"
+  ],
+  "releaseDate": "2026-08-25"
+}

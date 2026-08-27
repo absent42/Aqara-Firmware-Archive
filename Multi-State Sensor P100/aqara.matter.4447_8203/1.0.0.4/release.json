@@ -4,7 +4,7 @@
   "firmwareVersion": "1.0.0.4",
   "firmwareMD5": "893a9b768c70de9d6808db6bb010f6b6",
   "fileSize": 1132992,
-  "releaseNotes": "",
+  "releaseNotes": "1. Added remote calibration feature<br>2. Added diagnostic Log",
   "regions": [
     "au",
     "cn",

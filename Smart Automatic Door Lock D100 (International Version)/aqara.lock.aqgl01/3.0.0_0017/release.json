@@ -1,0 +1,13 @@
+{
+  "model": "aqara.lock.aqgl01",
+  "friendlyName": "Smart Automatic Door Lock D100 (International Version)",
+  "firmwareVersion": "3.0.0_0017",
+  "firmwareMD5": "9f3ac5390544fce88de4fefeabe1f655",
+  "fileSize": 791276,
+  "releaseNotes": "Remove the lock restriction for Alexa and adjust the Alexa lock description to third-party unlocking.",
+  "regions": [
+    "au",
+    "us"
+  ],
+  "releaseDate": "2025-11-17"
+}
