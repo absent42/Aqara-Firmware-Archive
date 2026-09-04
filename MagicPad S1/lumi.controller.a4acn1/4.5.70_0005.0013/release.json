@@ -1,0 +1,12 @@
+{
+  "model": "lumi.controller.a4acn1",
+  "friendlyName": "MagicPad S1",
+  "firmwareVersion": "4.5.70_0005.0013",
+  "firmwareMD5": "8512dee39f32d0c8e2d6e135cbda8af2",
+  "fileSize": 425061684,
+  "releaseNotes": "1. Hub version iterative update;<br>\n2. Fix Ethernet IP acquisition issue;<br>\n3. Optimize user experience.",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-09-03"
+}

@@ -1,0 +1,12 @@
+{
+  "model": "lumi.camera.acn017",
+  "friendlyName": "Doorbell Camera Hub G410",
+  "firmwareVersion": "4.5.70_0018.0114",
+  "firmwareMD5": "9f6ac63bf38d95f793d3265f11e5a76e",
+  "fileSize": 26050664,
+  "releaseNotes": "1. Fixed an issue where the doorbell could be accidentally activated, recording invalid videos in certain situations\n2. Upgraded the Hub version to support binding more child devices",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-09-02"
+}

@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.l3acn1",
+  "friendlyName": "Wall Switch H1 (No Neutral, Three Rocker)",
+  "firmwareVersion": "0.0.0_1437",
+  "firmwareMD5": "9ac764d646564a4454a66e08ed65e799",
+  "fileSize": 301800,
+  "releaseNotes": "",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-09-03"
+}

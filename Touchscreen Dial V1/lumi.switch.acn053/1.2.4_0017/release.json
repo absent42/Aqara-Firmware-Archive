@@ -1,0 +1,16 @@
+{
+  "model": "lumi.switch.acn053",
+  "friendlyName": "Touchscreen Dial V1",
+  "firmwareVersion": "1.2.4_0017",
+  "firmwareMD5": "36254d9eaf717c0b22dbd9e911c89b16",
+  "fileSize": 23060584,
+  "releaseNotes": "1. Supports connecting to the Spotlight T2 Pro;<br>2. Fixed known issues and optimized user experience.",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-09-02"
+}

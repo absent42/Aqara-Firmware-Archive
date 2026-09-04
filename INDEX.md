@@ -1,12 +1,13 @@
 # Firmware Archive Index
 
-227 device names, 270 models.
+235 device names, 279 models.
 
 | Device | Models | Regions |
 | --- | --- | --- |
 | [Air Quality Monitor S1](Air%20Quality%20Monitor%20S1/) | lumi.airm.fhac01 | cn |
 | [Camera E1](Camera%20E1/) | lumi.camera.acn006, lumi.camera.acn007 | au, cn, eu, kr, us |
 | [Camera G100](Camera%20G100/) | lumi.camera.acn016, lumi.camera.agl005 | au, cn, eu, kr, us |
+| [Camera G510 (Battery)](Camera%20G510%20%28Battery%29/) | lumi.models.4447_12324 | cn |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/) | lumi.camera.acn003, lumi.camera.agl001 | au, cn, eu, kr, ru, us |
 | [Camera Hub G350](Camera%20Hub%20G350/) | lumi.camera.agl010 | au, cn, eu, kr, us |
 | [Camera Hub G5 (PoE)](Camera%20Hub%20G5%20%28PoE%29/) | lumi.camera.acn009 | cn, us |
@@ -22,6 +23,7 @@
 | [Ceiling Light T1M](Ceiling%20Light%20T1M/) | lumi.light.acn032 | au, cn, eu, kr, us |
 | [Climate Sensor W100](Climate%20Sensor%20W100/) | aqara.matter.4447_8196, lumi.sensor_ht.agl001 | au, cn, eu, kr, us |
 | [Cube T1 Pro](Cube%20T1%20Pro/) | lumi.remote.cagl02 | cn, eu, kr |
+| [Curtain Controller C100](Curtain%20Controller%20C100/) | aqara.matter.4447_14386, lumi.models.4447_14469 | au, cn |
 | [Curtain Controller C2](Curtain%20Controller%20C2/) | lumi.curtain.hagl07 | cn, eu, kr, us |
 | [Curtain Controller C200](Curtain%20Controller%20C200/) | lumi.curtain.acn018 | cn, us |
 | [Curtain Driver E1](Curtain%20Driver%20E1/) | lumi.curtain.acn003, lumi.curtain.agl001 | au, cn, eu, kr, us |
@@ -40,6 +42,7 @@
 | [Floor Heating Thermostat W500](Floor%20Heating%20Thermostat%20W500/) | aqara.matter.4447_18435, lumi.airrtc.aeu001 | cn, eu, us |
 | [Fully Automatic Smart Door Lock with Camera](Fully%20Automatic%20Smart%20Door%20Lock%20with%20Camera/) | aqara.lock.acn002 | cn |
 | [High Precision Motion Sensor](High%20Precision%20Motion%20Sensor/) | lumi.motion.agl04 | cn |
+| [Home Guardian Hub M410](Home%20Guardian%20Hub%20M410/) | lumi.models.4447_2096 | cn |
 | [Hub M100](Hub%20M100/) | lumi.gateway.agl008, lumi.gateway.agl010 | au, cn, eu, kr, us |
 | [Hub M1S 2022 (China)](Hub%20M1S%202022%20%28China%29/) | lumi.gateway.acn004 | cn |
 | [Hub M1S Gen 2](Hub%20M1S%20Gen%202/) | lumi.gateway.agl002 | au, cn, eu, kr, us |
@@ -79,6 +82,7 @@
 | [Multi-State Sensor P100](Multi-State%20Sensor%20P100/) | aqara.matter.4447_8203, lumi.vibration.agl002 | au, cn, eu, kr, us |
 | [Nebula H1/Yunxi D1S/Yunyao Z1S Ceiling Light](Nebula%20H1-Yunxi%20D1S-Yunyao%20Z1S%20Ceiling%20Light/) | lumi.light.acn033 | au, cn, eu, us |
 | [Organ smart Curtain Controller C4](Organ%20smart%20Curtain%20Controller%20C4/) | lumi.curtain.acn010 | cn |
+| [Outdoor Camera G510](Outdoor%20Camera%20G510/) | lumi.camera.agl017 | au, cn, eu, kr, us |
 | [Panel Hub AX100S](Panel%20Hub%20AX100S/) | lumi.gateway.agl015 | au, cn, eu, us |
 | [Panel Switch S100](Panel%20Switch%20S100/) | lumi.switch.acn066 | au, cn, eu, us |
 | [Pastel Spectrum Downlight Spotlight H1](Pastel%20Spectrum%20Downlight%20Spotlight%20H1/) | aqara.matter.4447_6179, lumi.models.4447_6208 | au, cn, us |
@@ -102,6 +106,7 @@
 | [Roller shade（non-battery）](Roller%20shade%EF%BC%88non-battery%EF%BC%89/) | aqara.matter.5274_8213, lumi.curtain.fngl01 | eu |
 | [Scene Panel Switch S1](Scene%20Panel%20Switch%20S1/) | lumi.switch.n4acn4 | au, cn, eu, kr, us |
 | [Scene Switch H1 Elite](Scene%20Switch%20H1%20Elite/) | lumi.switch.acn080 | cn |
+| [Security Hub M410](Security%20Hub%20M410/) | lumi.gateway.agl014 | cn, eu, kr, us |
 | [Shutter Switch H2 EU](Shutter%20Switch%20H2%20EU/) | aqara.matter.4447_4109, lumi.switch.aeu003 | au, eu, us |
 | [Single Switch Module T1 (With Neutral)](Single%20Switch%20Module%20T1%20%28With%20Neutral%29/) | lumi.switch.n0acn2 | cn, eu, kr, us |
 | [Single-channel control module T1 neutral and live wire (international version)](Single-channel%20control%20module%20T1%20neutral%20and%20live%20wire%20%28international%20version%29/) | lumi.switch.n0agl1 | au, cn, eu, kr, us |
@@ -214,6 +219,9 @@
 | [Voice Mate H1](Voice%20Mate%20H1/) | aqara.matter.4447_16386 | au, cn, eu, kr, us |
 | [Wall Outlet H2 EU](Wall%20Outlet%20H2%20EU/) | lumi.plug.aeu001 | au, eu, kr |
 | [Wall Outlet H2 UK (Single USB-C)](Wall%20Outlet%20H2%20UK%20%28Single%20USB-C%29/) | lumi.plug.aeu002 | au, eu, us |
+| [Wall Switch H1 (No Neutral, Double Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Double%20Rocker%29/) | lumi.switch.l2acn1 | cn |
+| [Wall Switch H1 (No Neutral, Single Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Single%20Rocker%29/) | lumi.switch.l1acn1 | cn |
+| [Wall Switch H1 (No Neutral, Three Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Three%20Rocker%29/) | lumi.switch.l3acn1 | cn |
 | [Wall Switch H1 (With Neutral, Double Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Double%20Rocker%29/) | lumi.switch.n2acn1 | au, cn, kr, us |
 | [Wall Switch H1 (With Neutral, Single Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Single%20Rocker%29/) | lumi.switch.n1acn1 | au, cn, kr, us |
 | [Wall Switch T1 (No Neutral, Three Rocker)](Wall%20Switch%20T1%20%28No%20Neutral%2C%20Three%20Rocker%29/) | lumi.switch.b3l01 | cn, eu, kr, us |

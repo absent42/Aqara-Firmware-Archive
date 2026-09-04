@@ -1,0 +1,13 @@
+{
+  "model": "aqara.matter.4447_14386",
+  "friendlyName": "Curtain Controller C100",
+  "firmwareVersion": "1.0.0.5",
+  "firmwareMD5": "4ae3662f1f1288db8d265ed3b1e3910d",
+  "fileSize": 1237420,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "cn"
+  ],
+  "releaseDate": "2026-08-13"
+}

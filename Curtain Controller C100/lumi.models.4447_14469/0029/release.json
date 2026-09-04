@@ -1,0 +1,13 @@
+{
+  "model": "lumi.models.4447_14469",
+  "friendlyName": "Curtain Controller C100",
+  "firmwareVersion": "0029",
+  "firmwareMD5": "e02ea63ea2dcb19711505d71cf5e0ac1",
+  "fileSize": 830890,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "cn"
+  ],
+  "releaseDate": "2026-08-13"
+}

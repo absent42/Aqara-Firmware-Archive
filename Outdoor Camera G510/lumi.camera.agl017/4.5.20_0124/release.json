@@ -1,0 +1,16 @@
+{
+  "model": "lumi.camera.agl017",
+  "friendlyName": "Outdoor Camera G510",
+  "firmwareVersion": "4.5.20_0124",
+  "firmwareMD5": "71191b3736c1cbb1eef106f807201b9f",
+  "fileSize": 25385064,
+  "releaseNotes": "1. Optimized issue where device fails to recover from offline status\n2. Reduced false alerts caused by lens obstruction",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-07-30"
+}

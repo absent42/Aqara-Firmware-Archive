@@ -1,0 +1,14 @@
+{
+  "model": "lumi.gateway.agl014",
+  "friendlyName": "Security Hub M410",
+  "firmwareVersion": "4.5.50_0070",
+  "firmwareMD5": "b562758c88ad095b16d6936aab95b9f1",
+  "fileSize": 33229078,
+  "releaseNotes": "Fixed known issues",
+  "regions": [
+    "cn",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-08-05"
+}
