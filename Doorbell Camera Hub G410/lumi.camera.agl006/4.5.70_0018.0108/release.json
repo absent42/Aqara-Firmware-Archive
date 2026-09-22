@@ -1,0 +1,15 @@
+{
+  "model": "lumi.camera.agl006",
+  "friendlyName": "Doorbell Camera Hub G410",
+  "firmwareVersion": "4.5.70_0018.0108",
+  "firmwareMD5": "26bd687d75804530884188736578e996",
+  "fileSize": 20725864,
+  "releaseNotes": "Bug fixes",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-09-21"
+}

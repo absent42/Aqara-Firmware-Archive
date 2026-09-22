@@ -1,0 +1,16 @@
+{
+  "model": "lumi.switch.acn053",
+  "friendlyName": "Touchscreen Dial V1",
+  "firmwareVersion": "1.2.4_0018",
+  "firmwareMD5": "d4d99709d7cb2ef7fd8fad89c52beb30",
+  "fileSize": 23070824,
+  "releaseNotes": "[New] Supports switching and socket-type devices",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-09-21"
+}

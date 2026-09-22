@@ -1,0 +1,16 @@
+{
+  "model": "lumi.vibration.agl002",
+  "friendlyName": "Multi-State Sensor P100",
+  "firmwareVersion": "0.0.0_0025",
+  "firmwareMD5": "f1cc11a169c48baf80b05351040832b8",
+  "fileSize": 607582,
+  "releaseNotes": "1. Optimized power consumption collection logic\n2. Fixed the issue where the red indicator light does not flash when powered on at low battery\n3. Remote calibration supports sleep-time delivery\n4. Optimized door or window opening detection algorithm, added multi-time calibration adaptive sensitivity",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-09-20"
+}

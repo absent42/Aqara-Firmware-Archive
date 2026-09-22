@@ -1,0 +1,15 @@
+{
+  "model": "lumi.camera.acn010",
+  "friendlyName": "Camera Hub G5 Pro (PoE)",
+  "firmwareVersion": "4.5.70_0018.0017",
+  "firmwareMD5": "03c39ce74f0cc9c359827546c9058835",
+  "fileSize": 35420195,
+  "releaseNotes": "1. When the audio recording shield feature is enabled, live streaming and intercom audio features are disabled simultaneously; requires the app to be updated to V6.4.2 for support\n2. Upgrade the Hub firmware to support binding more child devices",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-09-20"
+}

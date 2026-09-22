@@ -1,0 +1,16 @@
+{
+  "model": "lumi.camera.agl010",
+  "friendlyName": "Camera Hub G350",
+  "firmwareVersion": "4.5.70_0004.0017",
+  "firmwareMD5": "9fc3de90495c605ed82998b9950f5ec7",
+  "fileSize": 33423464,
+  "releaseNotes": "1. Fixed an issue where the device could not be discovered from the app after resetting the camera in certain cases<br>2. Fixed an issue where Matter child devices could not be added after resetting the camera in certain cases<br>3. Fixed an issue where gesture recognition could not be triggered in certain cases<br>4. Updated the Hub system version to fix other known issues",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-09-18"
+}

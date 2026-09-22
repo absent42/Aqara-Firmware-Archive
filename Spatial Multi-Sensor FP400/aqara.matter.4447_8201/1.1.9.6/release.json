@@ -1,0 +1,16 @@
+{
+  "model": "aqara.matter.4447_8201",
+  "friendlyName": "Spatial Multi-Sensor FP400",
+  "firmwareVersion": "1.1.9.6",
+  "firmwareMD5": "03f95b6245d768ebe5095ef7ff36aecd",
+  "fileSize": 2479164,
+  "releaseNotes": "1. Optimized radar algorithm to fix abnormal detection in corner, wall mounting, lying in bed, or pendant light scenarios; optimized coordinate jitter and positioning packet loss issues\n2. Current count is enabled by default; supports the latest Matter specification, including count statistics and real-time area current count capability\n3. Optimized parameter synchronization and retry logic for下发; improved stability of area configuration and initialization synchronization\n4. Adjusted height unit and entry/exit logic for areas; optimized device sleep to reduce reporting duration",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-09-17"
+}

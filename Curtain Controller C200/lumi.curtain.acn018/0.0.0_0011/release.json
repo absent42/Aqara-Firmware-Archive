@@ -6,7 +6,8 @@
   "fileSize": 694034,
   "releaseNotes": "Fixed known issues",
   "regions": [
-    "cn"
+    "cn",
+    "us"
   ],
   "releaseDate": "2026-07-20"
 }

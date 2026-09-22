@@ -1,0 +1,16 @@
+{
+  "model": "lumi.models.4447_8295",
+  "friendlyName": "Spatial Multi-Sensor FP400",
+  "firmwareVersion": "0060",
+  "firmwareMD5": "27474cc27d5b4f2b67fe886d618f0793",
+  "fileSize": 2012458,
+  "releaseNotes": "1. Optimized radar algorithm to fix abnormal detection in corner, wall mounting, seated on bed, and chandelier scenarios, resolving coordinate jitter and packet loss issues<br>2. Added current count reporting (enabled by default)<br>3. Fixed known issues",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-09-17"
+}

@@ -7,7 +7,7 @@
 | [Air Quality Monitor S1](Air%20Quality%20Monitor%20S1/) | lumi.airm.fhac01 | cn |
 | [Camera E1](Camera%20E1/) | lumi.camera.acn006, lumi.camera.acn007 | au, cn, eu, kr, us |
 | [Camera G100](Camera%20G100/) | lumi.camera.acn016, lumi.camera.agl005 | au, cn, eu, kr, us |
-| [Camera G510 (Battery)](Camera%20G510%20%28Battery%29/) | lumi.models.4447_12324 | cn |
+| [Camera G510 (Battery)](Camera%20G510%20%28Battery%29/) | lumi.models.4447_12324 | au, cn, eu, kr, us |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/) | lumi.camera.acn003, lumi.camera.agl001 | au, cn, eu, kr, ru, us |
 | [Camera Hub G350](Camera%20Hub%20G350/) | lumi.camera.agl010 | au, cn, eu, kr, us |
 | [Camera Hub G5 (PoE)](Camera%20Hub%20G5%20%28PoE%29/) | lumi.camera.acn009 | cn, us |
@@ -122,7 +122,7 @@
 | [Smart Curtain Controller C3](Smart%20Curtain%20Controller%20C3/) | lumi.curtain.acn04 | cn |
 | [Smart Curtain Controller E1](Smart%20Curtain%20Controller%20E1/) | lumi.curtain.acn014 | cn |
 | [Smart Curtain Controller T2](Smart%20Curtain%20Controller%20T2/) | lumi.curtain.acn015 | cn |
-| [Smart Day and Night Honeycomb Shade](Smart%20Day%20and%20Night%20Honeycomb%20Shade/) | lumi.models.4447_14470 | cn, us |
+| [Smart Day and Night Honeycomb Shade](Smart%20Day%20and%20Night%20Honeycomb%20Shade/) | lumi.models.4447_14470 | au, cn, us |
 | [Smart Dimmer Controller T1 Pro](Smart%20Dimmer%20Controller%20T1%20Pro/) | lumi.light.acn004 | au, cn, eu, kr, us |
 | [Smart Door Lock A100](Smart%20Door%20Lock%20A100/) | aqara.lock.eicn01 | cn |
 | [Smart Door Lock B50](Smart%20Door%20Lock%20B50/) | lumi.lock.aus001 | au, us |

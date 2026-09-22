@@ -1,0 +1,14 @@
+{
+  "model": "aqara.lock.aqgl01",
+  "friendlyName": "Smart Automatic Door Lock D100 (International Version)",
+  "firmwareVersion": "3.0.0_0019",
+  "firmwareMD5": "b4f3d99141c69dc634b320b89ab92ac6",
+  "fileSize": 786193,
+  "releaseNotes": "Fix legacy issues in firmware version v3.0.0_0018",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-09-17"
+}

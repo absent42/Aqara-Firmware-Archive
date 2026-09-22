@@ -1,0 +1,13 @@
+{
+  "model": "lumi.models.4447_14470",
+  "friendlyName": "Smart Day and Night Honeycomb Shade",
+  "firmwareVersion": "0018",
+  "firmwareMD5": "6268c8b918032145f33705421dd726f5",
+  "fileSize": 623678,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "cn"
+  ],
+  "releaseDate": "2026-09-21"
+}
