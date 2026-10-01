@@ -4,10 +4,12 @@
   "firmwareVersion": "1.0.0.5",
   "firmwareMD5": "4ae3662f1f1288db8d265ed3b1e3910d",
   "fileSize": 1237420,
-  "releaseNotes": "",
+  "releaseNotes": "C100 Smart Curtain Controller New Product",
   "regions": [
     "au",
-    "cn"
+    "cn",
+    "eu",
+    "us"
   ],
   "releaseDate": "2026-08-13"
 }

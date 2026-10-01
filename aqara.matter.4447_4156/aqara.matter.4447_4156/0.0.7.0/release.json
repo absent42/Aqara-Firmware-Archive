@@ -1,0 +1,14 @@
+{
+  "model": "aqara.matter.4447_4156",
+  "friendlyName": "aqara.matter.4447_4156",
+  "firmwareVersion": "0.0.7.0",
+  "firmwareMD5": "3c5025f83c181ef2c4aafddf3e98ddb4",
+  "fileSize": 1133039,
+  "releaseNotes": "1. Fix known issues and optimize user experience",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-03-31"
+}

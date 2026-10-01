@@ -4,10 +4,12 @@
   "firmwareVersion": "0029",
   "firmwareMD5": "e02ea63ea2dcb19711505d71cf5e0ac1",
   "fileSize": 830890,
-  "releaseNotes": "",
+  "releaseNotes": "Curtain Controller C100",
   "regions": [
     "au",
-    "cn"
+    "cn",
+    "eu",
+    "us"
   ],
   "releaseDate": "2026-08-13"
 }

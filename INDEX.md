@@ -1,6 +1,6 @@
 # Firmware Archive Index
 
-235 device names, 279 models.
+239 device names, 283 models.
 
 | Device | Models | Regions |
 | --- | --- | --- |
@@ -23,7 +23,7 @@
 | [Ceiling Light T1M](Ceiling%20Light%20T1M/) | lumi.light.acn032 | au, cn, eu, kr, us |
 | [Climate Sensor W100](Climate%20Sensor%20W100/) | aqara.matter.4447_8196, lumi.sensor_ht.agl001 | au, cn, eu, kr, us |
 | [Cube T1 Pro](Cube%20T1%20Pro/) | lumi.remote.cagl02 | cn, eu, kr |
-| [Curtain Controller C100](Curtain%20Controller%20C100/) | aqara.matter.4447_14386, lumi.models.4447_14469 | au, cn |
+| [Curtain Controller C100](Curtain%20Controller%20C100/) | aqara.matter.4447_14386, lumi.models.4447_14469 | au, cn, eu, us |
 | [Curtain Controller C2](Curtain%20Controller%20C2/) | lumi.curtain.hagl07 | cn, eu, kr, us |
 | [Curtain Controller C200](Curtain%20Controller%20C200/) | lumi.curtain.acn018 | cn, us |
 | [Curtain Driver E1](Curtain%20Driver%20E1/) | lumi.curtain.acn003, lumi.curtain.agl001 | au, cn, eu, kr, us |
@@ -42,7 +42,7 @@
 | [Floor Heating Thermostat W500](Floor%20Heating%20Thermostat%20W500/) | aqara.matter.4447_18435, lumi.airrtc.aeu001 | cn, eu, us |
 | [Fully Automatic Smart Door Lock with Camera](Fully%20Automatic%20Smart%20Door%20Lock%20with%20Camera/) | aqara.lock.acn002 | cn |
 | [High Precision Motion Sensor](High%20Precision%20Motion%20Sensor/) | lumi.motion.agl04 | cn |
-| [Home Guardian Hub M410](Home%20Guardian%20Hub%20M410/) | lumi.models.4447_2096 | cn |
+| [Home Guardian Hub M410](Home%20Guardian%20Hub%20M410/) | lumi.models.4447_2096 | au, cn, eu, kr, us |
 | [Hub M100](Hub%20M100/) | lumi.gateway.agl008, lumi.gateway.agl010 | au, cn, eu, kr, us |
 | [Hub M1S 2022 (China)](Hub%20M1S%202022%20%28China%29/) | lumi.gateway.acn004 | cn |
 | [Hub M1S Gen 2](Hub%20M1S%20Gen%202/) | lumi.gateway.agl002 | au, cn, eu, kr, us |
@@ -235,7 +235,11 @@
 | [Wireless Remote Switch T1 (Double Rocker)](Wireless%20Remote%20Switch%20T1%20%28Double%20Rocker%29/) | lumi.remote.b286acn03 | cn |
 | [aqara.camera.acn003](aqara.camera.acn003/) | aqara.camera.acn003 | cn |
 | [aqara.lock.wbzac1](aqara.lock.wbzac1/) | aqara.lock.wbzac1 | cn |
+| [aqara.matter.4447_4156](aqara.matter.4447_4156/) | aqara.matter.4447_4156 | au, eu, us |
+| [aqara.matter.4447_4158](aqara.matter.4447_4158/) | aqara.matter.4447_4158 | au, eu, us |
 | [eigenstone.test.test0516](eigenstone.test.test0516/) | eigenstone.test.test0516 | cn |
 | [lumi.lock.acn04](lumi.lock.acn04/) | lumi.lock.acn04 | cn |
+| [lumi.plug.aeu006](lumi.plug.aeu006/) | lumi.plug.aeu006 | au, eu, us |
+| [lumi.plug.aeu007](lumi.plug.aeu007/) | lumi.plug.aeu007 | au, eu, us |
 | [lumi.switch.jcn001](lumi.switch.jcn001/) | lumi.switch.jcn001 | cn |
 | [lumi.switch.jcn002](lumi.switch.jcn002/) | lumi.switch.jcn002 | cn |
