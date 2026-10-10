@@ -13,6 +13,11 @@ body:
         so a request for a specific past version cannot be fulfilled 
         even if it once existed.
 
+        Firmware can only be obtained if Aqara is actively pushing updated 
+        firmware to users. Current retail devices sometimes have firmware newer than 
+        older releases, this does not mean that an update has been made available 
+        for older releases.
+
         Please check the archive INDEX before opening a request to confirm the
         firmware is not already present.
   - type: input
