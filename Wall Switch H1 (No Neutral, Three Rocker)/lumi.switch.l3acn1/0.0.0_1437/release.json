@@ -6,7 +6,9 @@
   "fileSize": 301800,
   "releaseNotes": "",
   "regions": [
-    "cn"
+    "au",
+    "cn",
+    "us"
   ],
-  "releaseDate": "2026-09-03"
+  "releaseDate": "2026-10-08"
 }

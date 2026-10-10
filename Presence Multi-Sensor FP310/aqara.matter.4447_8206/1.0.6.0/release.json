@@ -1,0 +1,12 @@
+{
+  "model": "aqara.matter.4447_8206",
+  "friendlyName": "Presence Multi-Sensor FP310",
+  "firmwareVersion": "1.0.6.0",
+  "firmwareMD5": "1ecfd57dd9358ff7291fc47ecbe7f467",
+  "fileSize": 991760,
+  "releaseNotes": "",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-10-09"
+}

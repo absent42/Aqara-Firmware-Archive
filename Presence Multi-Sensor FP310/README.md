@@ -5,8 +5,8 @@ This product name covers more than one hardware model (region or revision varian
 ## [aqara.matter.4447_8206](aqara.matter.4447_8206/)
 
 - Regions: cn
-- Latest: cn: [1.0.4.0](aqara.matter.4447_8206/1.0.4.0/)
-- Versions: [1.0.4.0](aqara.matter.4447_8206/1.0.4.0/) (2026-05-06)
+- Latest: cn: [1.0.6.0](aqara.matter.4447_8206/1.0.6.0/)
+- Versions: [1.0.4.0](aqara.matter.4447_8206/1.0.4.0/) (2026-05-06), [1.0.6.0](aqara.matter.4447_8206/1.0.6.0/) (2026-10-09)
 
 ## [lumi.sensor_occupy.acn1](lumi.sensor_occupy.acn1/)
 

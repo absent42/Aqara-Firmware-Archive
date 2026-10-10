@@ -218,10 +218,10 @@
 | [Vibration Sensor T1](Vibration%20Sensor%20T1/) | lumi.vibration.agl01 | cn |
 | [Voice Mate H1](Voice%20Mate%20H1/) | aqara.matter.4447_16386 | au, cn, eu, kr, us |
 | [Wall Outlet H2 EU](Wall%20Outlet%20H2%20EU/) | lumi.plug.aeu001 | au, eu, kr |
-| [Wall Outlet H2 UK (Single USB-C)](Wall%20Outlet%20H2%20UK%20%28Single%20USB-C%29/) | lumi.plug.aeu002 | au, eu, us |
-| [Wall Switch H1 (No Neutral, Double Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Double%20Rocker%29/) | lumi.switch.l2acn1 | cn |
-| [Wall Switch H1 (No Neutral, Single Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Single%20Rocker%29/) | lumi.switch.l1acn1 | cn |
-| [Wall Switch H1 (No Neutral, Three Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Three%20Rocker%29/) | lumi.switch.l3acn1 | cn |
+| [Wall Outlet H2 UK](Wall%20Outlet%20H2%20UK/) | lumi.plug.aeu002 | au, eu, us |
+| [Wall Switch H1 (No Neutral, Double Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Double%20Rocker%29/) | lumi.switch.l2acn1 | au, cn, kr, us |
+| [Wall Switch H1 (No Neutral, Single Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Single%20Rocker%29/) | lumi.switch.l1acn1 | au, cn, kr, us |
+| [Wall Switch H1 (No Neutral, Three Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Three%20Rocker%29/) | lumi.switch.l3acn1 | au, cn, us |
 | [Wall Switch H1 (With Neutral, Double Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Double%20Rocker%29/) | lumi.switch.n2acn1 | au, cn, kr, us |
 | [Wall Switch H1 (With Neutral, Single Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Single%20Rocker%29/) | lumi.switch.n1acn1 | au, cn, kr, us |
 | [Wall Switch T1 (No Neutral, Three Rocker)](Wall%20Switch%20T1%20%28No%20Neutral%2C%20Three%20Rocker%29/) | lumi.switch.b3l01 | cn, eu, kr, us |

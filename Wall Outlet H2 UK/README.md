@@ -1,4 +1,4 @@
-# Wall Outlet H2 UK (Single USB-C)
+# Wall Outlet H2 UK
 
 ## [lumi.plug.aeu002](lumi.plug.aeu002/)
 

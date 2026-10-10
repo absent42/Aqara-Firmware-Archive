@@ -1,0 +1,15 @@
+{
+  "model": "lumi.switch.acn066",
+  "friendlyName": "Panel Switch S100",
+  "firmwareVersion": "1.2.0_0005",
+  "firmwareMD5": "4ddf4b1b12324ae2f8a4ded04d497a80",
+  "fileSize": 26695784,
+  "releaseNotes": "Fix known issues, optimize user experience",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-10-08"
+}

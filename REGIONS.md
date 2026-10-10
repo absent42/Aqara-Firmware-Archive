@@ -1,6 +1,6 @@
 # Firmware by Region
 
-## au (165 current firmwares)
+## au (168 current firmwares)
 
 | Device | Model | Version | Released |
 | --- | --- | --- | --- |
@@ -8,7 +8,7 @@
 | [Camera G100](Camera%20G100/lumi.camera.agl005/4.5.45_0004/) | lumi.camera.agl005 | 4.5.45_0004 | 2026-05-29 |
 | [Camera G510 (Battery)](Camera%20G510%20%28Battery%29/lumi.models.4447_12324/4.5.60_0068/) | lumi.models.4447_12324 | 4.5.60_0068 | 2026-09-29 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.agl001/4.5.30_0004.0013/) | lumi.camera.agl001 | 4.5.30_0004.0013 | 2026-06-22 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.70_0004.0017/) | lumi.camera.agl010 | 4.5.70_0004.0017 | 2026-09-18 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.80_0002.0017/) | lumi.camera.agl010 | 4.5.80_0002.0017 | 2026-10-08 |
 | [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.30_0008.0017/) | lumi.camera.acn010 | 4.5.30_0008.0017 | 2026-06-12 |
 | [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl004/4.5.30_0008.0017/) | lumi.camera.agl004 | 4.5.30_0008.0017 | 2026-06-12 |
 | [Canon Smart Wall Switch Z1(Double Rocker)](Canon%20Smart%20Wall%20Switch%20Z1%28Double%20Rocker%29/lumi.switch.acn049/0.0.0_0031/) | lumi.switch.acn049 | 0.0.0_0031 | 2024-01-23 |
@@ -29,7 +29,7 @@
 | [Dimmer Switch H2 US](Dimmer%20Switch%20H2%20US/lumi.switch.agl007/0.0.0_1722/) | lumi.switch.agl007 | 0.0.0_1722 | 2025-07-07 |
 | [Display Switch V1 EU](Display%20Switch%20V1%20EU/lumi.switch.aeu001/0.0.0_1345/) | lumi.switch.aeu001 | 0.0.0_1345 | 2025-12-18 |
 | [Doorbell Camera G400](Doorbell%20Camera%20G400/lumi.camera.agl013/4.5.20_0030/) | lumi.camera.agl013 | 4.5.20_0030 | 2026-06-25 |
-| [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.agl006/4.5.70_0018.0108/) | lumi.camera.agl006 | 4.5.70_0018.0108 | 2026-09-21 |
+| [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.agl006/4.5.80_0002.0108/) | lumi.camera.agl006 | 4.5.80_0002.0108 | 2026-10-08 |
 | [Doorbell G4](Doorbell%20G4/lumi.camera.agl002/4.0.6_0018.0068/) | lumi.camera.agl002 | 4.0.6_0018.0068 | 2023-12-25 |
 | [Down/Spot light T3](Down-Spot%20light%20T3/lumi.light.acn128/0.0.0_0022/) | lumi.light.acn128 | 0.0.0_0022 | 2025-05-19 |
 | [Downlight T2 (60°)](Downlight%20T2%20%2860%C2%B0%29/lumi.light.acn026/0.0.0_0041/) | lumi.light.acn026 | 0.0.0_0041 | 2024-01-03 |
@@ -77,7 +77,7 @@
 | [Nebula H1/Yunxi D1S/Yunyao Z1S Ceiling Light](Nebula%20H1-Yunxi%20D1S-Yunyao%20Z1S%20Ceiling%20Light/lumi.light.acn033/0.0.0_0028/) | lumi.light.acn033 | 0.0.0_0028 | 2025-05-19 |
 | [Outdoor Camera G510](Outdoor%20Camera%20G510/lumi.camera.agl017/4.5.20_0124/) | lumi.camera.agl017 | 4.5.20_0124 | 2026-07-30 |
 | [Panel Hub AX100S](Panel%20Hub%20AX100S/lumi.gateway.agl015/4.5.42_0004/) | lumi.gateway.agl015 | 4.5.42_0004 | 2026-04-27 |
-| [Panel Switch S100](Panel%20Switch%20S100/lumi.switch.acn066/1.2.0_0003/) | lumi.switch.acn066 | 1.2.0_0003 | 2026-08-20 |
+| [Panel Switch S100](Panel%20Switch%20S100/lumi.switch.acn066/1.2.0_0005/) | lumi.switch.acn066 | 1.2.0_0005 | 2026-10-08 |
 | [Pastel Spectrum Downlight Spotlight H1](Pastel%20Spectrum%20Downlight%20Spotlight%20H1/aqara.matter.4447_6179/1.0.0.2/) | aqara.matter.4447_6179 | 1.0.0.2 | 2026-08-03 |
 | [Pastel Spectrum Downlight Spotlight H1](Pastel%20Spectrum%20Downlight%20Spotlight%20H1/lumi.models.4447_6208/0016/) | lumi.models.4447_6208 | 0016 | 2026-08-25 |
 | [Power Plug H2 EU](Power%20Plug%20H2%20EU/aqara.matter.4447_4152/0.0.6.0/) | aqara.matter.4447_4152 | 0.0.6.0 | 2026-03-31 |
@@ -161,7 +161,10 @@
 | [Valve Controller T1](Valve%20Controller%20T1/lumi.valve.agl001/0.0.0_0054/) | lumi.valve.agl001 | 0.0.0_0054 | 2025-02-05 |
 | [Voice Mate H1](Voice%20Mate%20H1/aqara.matter.4447_16386/1.0.2.6/) | aqara.matter.4447_16386 | 1.0.2.6 | 2025-11-19 |
 | [Wall Outlet H2 EU](Wall%20Outlet%20H2%20EU/lumi.plug.aeu001/0.0.0_0033/) | lumi.plug.aeu001 | 0.0.0_0033 | 2026-01-26 |
-| [Wall Outlet H2 UK (Single USB-C)](Wall%20Outlet%20H2%20UK%20%28Single%20USB-C%29/lumi.plug.aeu002/0.0.0_0006/) | lumi.plug.aeu002 | 0.0.0_0006 | 2025-12-15 |
+| [Wall Outlet H2 UK](Wall%20Outlet%20H2%20UK/lumi.plug.aeu002/0.0.0_0006/) | lumi.plug.aeu002 | 0.0.0_0006 | 2025-12-15 |
+| [Wall Switch H1 (No Neutral, Double Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Double%20Rocker%29/lumi.switch.l2acn1/0.0.0_1437/) | lumi.switch.l2acn1 | 0.0.0_1437 | 2026-10-08 |
+| [Wall Switch H1 (No Neutral, Single Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Single%20Rocker%29/lumi.switch.l1acn1/0.0.0_1437/) | lumi.switch.l1acn1 | 0.0.0_1437 | 2026-10-08 |
+| [Wall Switch H1 (No Neutral, Three Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Three%20Rocker%29/lumi.switch.l3acn1/0.0.0_1437/) | lumi.switch.l3acn1 | 0.0.0_1437 | 2026-10-08 |
 | [Wall Switch H1 (With Neutral, Double Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Double%20Rocker%29/lumi.switch.n2acn1/15/) | lumi.switch.n2acn1 | 15 | 2024-07-26 |
 | [Wall Switch H1 (With Neutral, Single Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Single%20Rocker%29/lumi.switch.n1acn1/15/) | lumi.switch.n1acn1 | 15 | 2024-07-26 |
 | [Wall Switch T1 (With Neutral, Three Rocker)](Wall%20Switch%20T1%20%28With%20Neutral%2C%20Three%20Rocker%29/lumi.switch.b3n01/0.0.0_0028/) | lumi.switch.b3n01 | 0.0.0_0028 | 2024-08-26 |
@@ -182,7 +185,7 @@
 | [Camera G510 (Battery)](Camera%20G510%20%28Battery%29/lumi.models.4447_12324/4.5.60_0068/) | lumi.models.4447_12324 | 4.5.60_0068 | 2026-09-29 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.acn003/4.5.30_0004.0013/) | lumi.camera.acn003 | 4.5.30_0004.0013 | 2026-06-22 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.agl001/4.5.30_0004.0013/) | lumi.camera.agl001 | 4.5.30_0004.0013 | 2026-06-22 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.70_0004.0017/) | lumi.camera.agl010 | 4.5.70_0004.0017 | 2026-09-18 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.80_0002.0017/) | lumi.camera.agl010 | 4.5.80_0002.0017 | 2026-10-08 |
 | [Camera Hub G5 (PoE)](Camera%20Hub%20G5%20%28PoE%29/lumi.camera.acn009/4.5.30_0008.0017/) | lumi.camera.acn009 | 4.5.30_0008.0017 | 2026-06-12 |
 | [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.30_0008.0017/) | lumi.camera.acn010 | 4.5.30_0008.0017 | 2026-06-12 |
 | [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl003/4.5.30_0008.0017/) | lumi.camera.agl003 | 4.5.30_0008.0017 | 2026-06-12 |
@@ -208,7 +211,7 @@
 | [Door and Window Sensor E1](Door%20and%20Window%20Sensor%20E1/lumi.magnet.acn001/0.0.0_0009/) | lumi.magnet.acn001 | 0.0.0_0009 | 2022-12-15 |
 | [Door and Window Sensor L](Door%20and%20Window%20Sensor%20L/lumi.magnet.jcn002/0.0.0_0008/) | lumi.magnet.jcn002 | 0.0.0_0008 | 2022-02-17 |
 | [Doorbell Camera G400](Doorbell%20Camera%20G400/lumi.camera.agl013/4.5.20_0030/) | lumi.camera.agl013 | 4.5.20_0030 | 2026-06-25 |
-| [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.acn017/4.5.70_0018.0108/) | lumi.camera.acn017 | 4.5.70_0018.0108 | 2026-09-21 |
+| [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.acn017/4.5.80_0002.0108/) | lumi.camera.acn017 | 4.5.80_0002.0108 | 2026-10-08 |
 | [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.agl006/4.5.20_0052.0108/) | lumi.camera.agl006 | 4.5.20_0052.0108 | 2026-05-08 |
 | [Doorbell G4](Doorbell%20G4/lumi.camera.acn005/4.0.6_0018.0068/) | lumi.camera.acn005 | 4.0.6_0018.0068 | 2023-12-25 |
 | [Doorbell G4](Doorbell%20G4/lumi.camera.agl002/4.0.6_0018.0068/) | lumi.camera.agl002 | 4.0.6_0018.0068 | 2023-12-25 |
@@ -263,12 +266,12 @@
 | [Organ smart Curtain Controller C4](Organ%20smart%20Curtain%20Controller%20C4/lumi.curtain.acn010/0.0.0_0722/) | lumi.curtain.acn010 | 0.0.0_0722 | 2025-08-11 |
 | [Outdoor Camera G510](Outdoor%20Camera%20G510/lumi.camera.agl017/4.5.20_0124/) | lumi.camera.agl017 | 4.5.20_0124 | 2026-07-30 |
 | [Panel Hub AX100S](Panel%20Hub%20AX100S/lumi.gateway.agl015/4.5.42_0004/) | lumi.gateway.agl015 | 4.5.42_0004 | 2026-04-27 |
-| [Panel Switch S100](Panel%20Switch%20S100/lumi.switch.acn066/1.2.0_0003/) | lumi.switch.acn066 | 1.2.0_0003 | 2026-08-20 |
+| [Panel Switch S100](Panel%20Switch%20S100/lumi.switch.acn066/1.2.0_0005/) | lumi.switch.acn066 | 1.2.0_0005 | 2026-10-08 |
 | [Pastel Spectrum Downlight Spotlight H1](Pastel%20Spectrum%20Downlight%20Spotlight%20H1/aqara.matter.4447_6179/1.0.0.2/) | aqara.matter.4447_6179 | 1.0.0.2 | 2026-08-03 |
 | [Pastel Spectrum Downlight Spotlight H1](Pastel%20Spectrum%20Downlight%20Spotlight%20H1/lumi.models.4447_6208/0016/) | lumi.models.4447_6208 | 0016 | 2026-08-25 |
 | [Presence Multi-Sensor FP300](Presence%20Multi-Sensor%20FP300/aqara.matter.4447_8197/1.1.3.8/) | aqara.matter.4447_8197 | 1.1.3.8 | 2026-05-26 |
 | [Presence Multi-Sensor FP300](Presence%20Multi-Sensor%20FP300/lumi.sensor_occupy.agl8/0.0.0_6542/) | lumi.sensor_occupy.agl8 | 0.0.0_6542 | 2026-05-26 |
-| [Presence Multi-Sensor FP310](Presence%20Multi-Sensor%20FP310/aqara.matter.4447_8206/1.0.4.0/) | aqara.matter.4447_8206 | 1.0.4.0 | 2026-05-06 |
+| [Presence Multi-Sensor FP310](Presence%20Multi-Sensor%20FP310/aqara.matter.4447_8206/1.0.6.0/) | aqara.matter.4447_8206 | 1.0.6.0 | 2026-10-09 |
 | [Presence Multi-Sensor FP310](Presence%20Multi-Sensor%20FP310/lumi.sensor_occupy.acn1/0.0.0_0027/) | lumi.sensor_occupy.acn1 | 0.0.0_0027 | 2026-05-06 |
 | [Presence Sensor FP1](Presence%20Sensor%20FP1/lumi.motion.ac01/0.0.0_0058/) | lumi.motion.ac01 | 0.0.0_0058 | 2024-01-03 |
 | [Presence Sensor FP1E](Presence%20Sensor%20FP1E/lumi.sensor_occupy.agl1/0.0.0_0035/) | lumi.sensor_occupy.agl1 | 0.0.0_0035 | 2026-08-19 |
@@ -374,9 +377,9 @@
 | [Valve Controller T1](Valve%20Controller%20T1/lumi.valve.agl001/0.0.0_0054/) | lumi.valve.agl001 | 0.0.0_0054 | 2025-02-05 |
 | [Vibration Sensor T1](Vibration%20Sensor%20T1/lumi.vibration.agl01/0.0.0_0025/) | lumi.vibration.agl01 | 0.0.0_0025 | 2020-11-16 |
 | [Voice Mate H1](Voice%20Mate%20H1/aqara.matter.4447_16386/1.0.2.6/) | aqara.matter.4447_16386 | 1.0.2.6 | 2025-11-19 |
-| [Wall Switch H1 (No Neutral, Double Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Double%20Rocker%29/lumi.switch.l2acn1/0.0.0_1437/) | lumi.switch.l2acn1 | 0.0.0_1437 | 2026-09-03 |
-| [Wall Switch H1 (No Neutral, Single Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Single%20Rocker%29/lumi.switch.l1acn1/0.0.0_1437/) | lumi.switch.l1acn1 | 0.0.0_1437 | 2026-09-03 |
-| [Wall Switch H1 (No Neutral, Three Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Three%20Rocker%29/lumi.switch.l3acn1/0.0.0_1437/) | lumi.switch.l3acn1 | 0.0.0_1437 | 2026-09-03 |
+| [Wall Switch H1 (No Neutral, Double Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Double%20Rocker%29/lumi.switch.l2acn1/0.0.0_1437/) | lumi.switch.l2acn1 | 0.0.0_1437 | 2026-10-08 |
+| [Wall Switch H1 (No Neutral, Single Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Single%20Rocker%29/lumi.switch.l1acn1/0.0.0_1437/) | lumi.switch.l1acn1 | 0.0.0_1437 | 2026-10-08 |
+| [Wall Switch H1 (No Neutral, Three Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Three%20Rocker%29/lumi.switch.l3acn1/0.0.0_1437/) | lumi.switch.l3acn1 | 0.0.0_1437 | 2026-10-08 |
 | [Wall Switch H1 (With Neutral, Double Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Double%20Rocker%29/lumi.switch.n2acn1/15/) | lumi.switch.n2acn1 | 15 | 2024-07-26 |
 | [Wall Switch H1 (With Neutral, Single Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Single%20Rocker%29/lumi.switch.n1acn1/15/) | lumi.switch.n1acn1 | 15 | 2024-07-26 |
 | [Wall Switch T1 (No Neutral, Three Rocker)](Wall%20Switch%20T1%20%28No%20Neutral%2C%20Three%20Rocker%29/lumi.switch.b3l01/0.0.0_0033/) | lumi.switch.b3l01 | 0.0.0_0033 | 2020-07-02 |
@@ -404,7 +407,7 @@
 | [Camera G100](Camera%20G100/lumi.camera.agl005/4.5.45_0004/) | lumi.camera.agl005 | 4.5.45_0004 | 2026-05-29 |
 | [Camera G510 (Battery)](Camera%20G510%20%28Battery%29/lumi.models.4447_12324/4.5.60_0068/) | lumi.models.4447_12324 | 4.5.60_0068 | 2026-09-29 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.agl001/4.5.30_0004.0013/) | lumi.camera.agl001 | 4.5.30_0004.0013 | 2026-06-22 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.70_0004.0017/) | lumi.camera.agl010 | 4.5.70_0004.0017 | 2026-09-18 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.80_0002.0017/) | lumi.camera.agl010 | 4.5.80_0002.0017 | 2026-10-08 |
 | [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.30_0008.0017/) | lumi.camera.acn010 | 4.5.30_0008.0017 | 2026-06-12 |
 | [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl004/4.5.30_0008.0017/) | lumi.camera.agl004 | 4.5.30_0008.0017 | 2026-06-12 |
 | [Canon Smart Wall Switch Z1(Double Rocker)](Canon%20Smart%20Wall%20Switch%20Z1%28Double%20Rocker%29/lumi.switch.acn049/0.0.0_0031/) | lumi.switch.acn049 | 0.0.0_0031 | 2024-01-23 |
@@ -427,7 +430,7 @@
 | [Dimmer Switch H2 US](Dimmer%20Switch%20H2%20US/lumi.switch.agl007/0.0.0_1620/) | lumi.switch.agl007 | 0.0.0_1620 | 2025-03-25 |
 | [Display Switch V1 EU](Display%20Switch%20V1%20EU/lumi.switch.aeu001/0.0.0_1345/) | lumi.switch.aeu001 | 0.0.0_1345 | 2025-12-18 |
 | [Doorbell Camera G400](Doorbell%20Camera%20G400/lumi.camera.agl013/4.5.20_0030/) | lumi.camera.agl013 | 4.5.20_0030 | 2026-06-25 |
-| [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.agl006/4.5.70_0018.0108/) | lumi.camera.agl006 | 4.5.70_0018.0108 | 2026-09-21 |
+| [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.agl006/4.5.80_0002.0108/) | lumi.camera.agl006 | 4.5.80_0002.0108 | 2026-10-08 |
 | [Doorbell G4](Doorbell%20G4/lumi.camera.agl002/4.0.6_0018.0068/) | lumi.camera.agl002 | 4.0.6_0018.0068 | 2023-12-25 |
 | [Down/Spot light T3](Down-Spot%20light%20T3/lumi.light.acn128/0.0.0_0022/) | lumi.light.acn128 | 0.0.0_0022 | 2025-05-19 |
 | [Downlight T2 (60°)](Downlight%20T2%20%2860%C2%B0%29/lumi.light.acn026/0.0.0_0041/) | lumi.light.acn026 | 0.0.0_0041 | 2024-01-03 |
@@ -469,7 +472,7 @@
 | [Nebula H1/Yunxi D1S/Yunyao Z1S Ceiling Light](Nebula%20H1-Yunxi%20D1S-Yunyao%20Z1S%20Ceiling%20Light/lumi.light.acn033/0.0.0_0028/) | lumi.light.acn033 | 0.0.0_0028 | 2025-05-19 |
 | [Outdoor Camera G510](Outdoor%20Camera%20G510/lumi.camera.agl017/4.5.20_0124/) | lumi.camera.agl017 | 4.5.20_0124 | 2026-07-30 |
 | [Panel Hub AX100S](Panel%20Hub%20AX100S/lumi.gateway.agl015/4.5.42_0004/) | lumi.gateway.agl015 | 4.5.42_0004 | 2026-04-27 |
-| [Panel Switch S100](Panel%20Switch%20S100/lumi.switch.acn066/1.2.0_0003/) | lumi.switch.acn066 | 1.2.0_0003 | 2026-08-20 |
+| [Panel Switch S100](Panel%20Switch%20S100/lumi.switch.acn066/1.2.0_0005/) | lumi.switch.acn066 | 1.2.0_0005 | 2026-10-08 |
 | [Power Plug H2 EU](Power%20Plug%20H2%20EU/aqara.matter.4447_4152/0.0.6.0/) | aqara.matter.4447_4152 | 0.0.6.0 | 2026-03-31 |
 | [Power Plug H2 EU](Power%20Plug%20H2%20EU/lumi.plug.aeu004/0.0.0_0021/) | lumi.plug.aeu004 | 0.0.0_0021 | 2026-03-30 |
 | [Power Plug H2 EU (RGB)](Power%20Plug%20H2%20EU%20%28RGB%29/aqara.matter.4447_4154/0.0.6.0/) | aqara.matter.4447_4154 | 0.0.6.0 | 2026-03-31 |
@@ -549,7 +552,7 @@
 | [Valve Controller T1](Valve%20Controller%20T1/lumi.valve.agl001/0.0.0_0054/) | lumi.valve.agl001 | 0.0.0_0054 | 2025-02-05 |
 | [Voice Mate H1](Voice%20Mate%20H1/aqara.matter.4447_16386/1.0.2.6/) | aqara.matter.4447_16386 | 1.0.2.6 | 2025-11-19 |
 | [Wall Outlet H2 EU](Wall%20Outlet%20H2%20EU/lumi.plug.aeu001/0.0.0_0033/) | lumi.plug.aeu001 | 0.0.0_0033 | 2026-01-26 |
-| [Wall Outlet H2 UK (Single USB-C)](Wall%20Outlet%20H2%20UK%20%28Single%20USB-C%29/lumi.plug.aeu002/0.0.0_0006/) | lumi.plug.aeu002 | 0.0.0_0006 | 2025-12-15 |
+| [Wall Outlet H2 UK](Wall%20Outlet%20H2%20UK/lumi.plug.aeu002/0.0.0_0006/) | lumi.plug.aeu002 | 0.0.0_0006 | 2025-12-15 |
 | [Wall Switch T1 (No Neutral, Three Rocker)](Wall%20Switch%20T1%20%28No%20Neutral%2C%20Three%20Rocker%29/lumi.switch.b3l01/0.0.0_0033/) | lumi.switch.b3l01 | 0.0.0_0033 | 2020-07-02 |
 | [Wall Switch T1 (With Neutral, Three Rocker)](Wall%20Switch%20T1%20%28With%20Neutral%2C%20Three%20Rocker%29/lumi.switch.b3n01/0.0.0_0028/) | lumi.switch.b3n01 | 0.0.0_0028 | 2024-08-26 |
 | [Wireless Mini Switch T1](Wireless%20Mini%20Switch%20T1/lumi.remote.b1acn02/0.0.0_0031/) | lumi.remote.b1acn02 | 0.0.0_0031 | 2022-12-27 |
@@ -558,7 +561,7 @@
 | [lumi.plug.aeu006](lumi.plug.aeu006/lumi.plug.aeu006/0.0.0_0021/) | lumi.plug.aeu006 | 0.0.0_0021 | 2026-03-30 |
 | [lumi.plug.aeu007](lumi.plug.aeu007/lumi.plug.aeu007/0.0.0_0021/) | lumi.plug.aeu007 | 0.0.0_0021 | 2026-03-31 |
 
-## kr (108 current firmwares)
+## kr (110 current firmwares)
 
 | Device | Model | Version | Released |
 | --- | --- | --- | --- |
@@ -566,7 +569,7 @@
 | [Camera G100](Camera%20G100/lumi.camera.agl005/4.5.45_0004/) | lumi.camera.agl005 | 4.5.45_0004 | 2026-05-29 |
 | [Camera G510 (Battery)](Camera%20G510%20%28Battery%29/lumi.models.4447_12324/4.5.60_0068/) | lumi.models.4447_12324 | 4.5.60_0068 | 2026-09-29 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.agl001/4.5.30_0004.0013/) | lumi.camera.agl001 | 4.5.30_0004.0013 | 2026-06-22 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.70_0004.0017/) | lumi.camera.agl010 | 4.5.70_0004.0017 | 2026-09-18 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.80_0002.0017/) | lumi.camera.agl010 | 4.5.80_0002.0017 | 2026-10-08 |
 | [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.30_0008.0017/) | lumi.camera.acn010 | 4.5.30_0008.0017 | 2026-06-12 |
 | [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl004/4.5.30_0008.0017/) | lumi.camera.agl004 | 4.5.30_0008.0017 | 2026-06-12 |
 | [Canon Smart Wall Switch Z1(Triple Rocker)](Canon%20Smart%20Wall%20Switch%20Z1%28Triple%20Rocker%29/lumi.switch.acn054/0.0.0_0031/) | lumi.switch.acn054 | 0.0.0_0031 | 2024-01-23 |
@@ -581,7 +584,7 @@
 | [Dimmer Switch H2 EU](Dimmer%20Switch%20H2%20EU/lumi.switch.agl011/0.0.0_1624/) | lumi.switch.agl011 | 0.0.0_1624 | 2026-05-11 |
 | [Display Switch V1 EU](Display%20Switch%20V1%20EU/lumi.switch.aeu001/0.0.0_1345/) | lumi.switch.aeu001 | 0.0.0_1345 | 2025-12-18 |
 | [Doorbell Camera G400](Doorbell%20Camera%20G400/lumi.camera.agl013/4.5.20_0030/) | lumi.camera.agl013 | 4.5.20_0030 | 2026-06-25 |
-| [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.agl006/4.5.70_0018.0108/) | lumi.camera.agl006 | 4.5.70_0018.0108 | 2026-09-21 |
+| [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.agl006/4.5.80_0002.0108/) | lumi.camera.agl006 | 4.5.80_0002.0108 | 2026-10-08 |
 | [Doorbell G4](Doorbell%20G4/lumi.camera.agl002/4.0.6_0018.0068/) | lumi.camera.agl002 | 4.0.6_0018.0068 | 2023-12-25 |
 | [Downlight T2 (60°)](Downlight%20T2%20%2860%C2%B0%29/lumi.light.acn026/0.0.0_0041/) | lumi.light.acn026 | 0.0.0_0041 | 2024-01-03 |
 | [Downlight T2 Pro](Downlight%20T2%20Pro/lumi.light.acn040/0.0.0_0025/) | lumi.light.acn040 | 0.0.0_0025 | 2026-06-25 |
@@ -665,6 +668,8 @@
 | [Valve Controller T1](Valve%20Controller%20T1/lumi.valve.agl001/0.0.0_0048/) | lumi.valve.agl001 | 0.0.0_0048 | 2024-09-10 |
 | [Voice Mate H1](Voice%20Mate%20H1/aqara.matter.4447_16386/1.0.2.6/) | aqara.matter.4447_16386 | 1.0.2.6 | 2025-11-19 |
 | [Wall Outlet H2 EU](Wall%20Outlet%20H2%20EU/lumi.plug.aeu001/0.0.0_0033/) | lumi.plug.aeu001 | 0.0.0_0033 | 2026-01-26 |
+| [Wall Switch H1 (No Neutral, Double Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Double%20Rocker%29/lumi.switch.l2acn1/0.0.0_1437/) | lumi.switch.l2acn1 | 0.0.0_1437 | 2026-10-08 |
+| [Wall Switch H1 (No Neutral, Single Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Single%20Rocker%29/lumi.switch.l1acn1/0.0.0_1437/) | lumi.switch.l1acn1 | 0.0.0_1437 | 2026-10-08 |
 | [Wall Switch H1 (With Neutral, Double Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Double%20Rocker%29/lumi.switch.n2acn1/15/) | lumi.switch.n2acn1 | 15 | 2024-07-26 |
 | [Wall Switch H1 (With Neutral, Single Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Single%20Rocker%29/lumi.switch.n1acn1/15/) | lumi.switch.n1acn1 | 15 | 2024-07-26 |
 | [Wall Switch T1 (No Neutral, Three Rocker)](Wall%20Switch%20T1%20%28No%20Neutral%2C%20Three%20Rocker%29/lumi.switch.b3l01/0.0.0_0033/) | lumi.switch.b3l01 | 0.0.0_0033 | 2020-07-02 |
@@ -684,7 +689,7 @@
 | [Smart door lock A100 (International version)](Smart%20door%20lock%20A100%20%28International%20version%29/aqara.lock.agl002/3.0.0_0046/) | aqara.lock.agl002 | 3.0.0_0046 | 2026-01-26 |
 | [Wireless Mini Switch T1](Wireless%20Mini%20Switch%20T1/lumi.remote.b1acn02/0.0.0_0031/) | lumi.remote.b1acn02 | 0.0.0_0031 | 2022-12-27 |
 
-## us (196 current firmwares)
+## us (199 current firmwares)
 
 | Device | Model | Version | Released |
 | --- | --- | --- | --- |
@@ -695,7 +700,7 @@
 | [Camera G510 (Battery)](Camera%20G510%20%28Battery%29/lumi.models.4447_12324/4.5.60_0068/) | lumi.models.4447_12324 | 4.5.60_0068 | 2026-09-29 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.acn003/4.5.30_0004.0013/) | lumi.camera.acn003 | 4.5.30_0004.0013 | 2026-06-22 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.agl001/4.5.30_0004.0013/) | lumi.camera.agl001 | 4.5.30_0004.0013 | 2026-06-22 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.70_0004.0017/) | lumi.camera.agl010 | 4.5.70_0004.0017 | 2026-09-18 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.80_0002.0017/) | lumi.camera.agl010 | 4.5.80_0002.0017 | 2026-10-08 |
 | [Camera Hub G5 (PoE)](Camera%20Hub%20G5%20%28PoE%29/lumi.camera.acn009/4.3.3_0006.0017/) | lumi.camera.acn009 | 4.3.3_0006.0017 | 2025-02-20 |
 | [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.30_0008.0017/) | lumi.camera.acn010 | 4.5.30_0008.0017 | 2026-06-12 |
 | [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl003/4.5.20_0012.0017/) | lumi.camera.agl003 | 4.5.20_0012.0017 | 2026-05-11 |
@@ -722,7 +727,7 @@
 | [Door and Window Sensor E1](Door%20and%20Window%20Sensor%20E1/lumi.magnet.acn001/0.0.0_0005/) | lumi.magnet.acn001 | 0.0.0_0005 | 2021-10-18 |
 | [Doorbell Camera G400](Doorbell%20Camera%20G400/lumi.camera.agl013/4.5.20_0030/) | lumi.camera.agl013 | 4.5.20_0030 | 2026-06-25 |
 | [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.acn017/4.3.4_0028.0056/) | lumi.camera.acn017 | 4.3.4_0028.0056 | 2025-04-02 |
-| [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.agl006/4.5.70_0018.0108/) | lumi.camera.agl006 | 4.5.70_0018.0108 | 2026-09-21 |
+| [Doorbell Camera Hub G410](Doorbell%20Camera%20Hub%20G410/lumi.camera.agl006/4.5.80_0002.0108/) | lumi.camera.agl006 | 4.5.80_0002.0108 | 2026-10-08 |
 | [Doorbell G4](Doorbell%20G4/lumi.camera.acn005/4.0.6_0018.0068/) | lumi.camera.acn005 | 4.0.6_0018.0068 | 2023-12-25 |
 | [Doorbell G4](Doorbell%20G4/lumi.camera.agl002/4.0.6_0018.0068/) | lumi.camera.agl002 | 4.0.6_0018.0068 | 2023-12-25 |
 | [Down/Spot light T3](Down-Spot%20light%20T3/lumi.light.acn128/0.0.0_0022/) | lumi.light.acn128 | 0.0.0_0022 | 2025-05-19 |
@@ -778,7 +783,7 @@
 | [Nebula H1/Yunxi D1S/Yunyao Z1S Ceiling Light](Nebula%20H1-Yunxi%20D1S-Yunyao%20Z1S%20Ceiling%20Light/lumi.light.acn033/0.0.0_0028/) | lumi.light.acn033 | 0.0.0_0028 | 2025-05-19 |
 | [Outdoor Camera G510](Outdoor%20Camera%20G510/lumi.camera.agl017/4.5.20_0124/) | lumi.camera.agl017 | 4.5.20_0124 | 2026-07-30 |
 | [Panel Hub AX100S](Panel%20Hub%20AX100S/lumi.gateway.agl015/4.5.42_0004/) | lumi.gateway.agl015 | 4.5.42_0004 | 2026-04-27 |
-| [Panel Switch S100](Panel%20Switch%20S100/lumi.switch.acn066/1.2.0_0003/) | lumi.switch.acn066 | 1.2.0_0003 | 2026-08-20 |
+| [Panel Switch S100](Panel%20Switch%20S100/lumi.switch.acn066/1.2.0_0005/) | lumi.switch.acn066 | 1.2.0_0005 | 2026-10-08 |
 | [Pastel Spectrum Downlight Spotlight H1](Pastel%20Spectrum%20Downlight%20Spotlight%20H1/aqara.matter.4447_6179/1.0.0.2/) | aqara.matter.4447_6179 | 1.0.0.2 | 2026-08-03 |
 | [Pastel Spectrum Downlight Spotlight H1](Pastel%20Spectrum%20Downlight%20Spotlight%20H1/lumi.models.4447_6208/0016/) | lumi.models.4447_6208 | 0016 | 2026-08-25 |
 | [Power Plug H2 EU](Power%20Plug%20H2%20EU/aqara.matter.4447_4152/0.0.6.0/) | aqara.matter.4447_4152 | 0.0.6.0 | 2026-03-31 |
@@ -873,7 +878,10 @@
 | [Universal Sky Mirror Ceiling Light V1](Universal%20Sky%20Mirror%20Ceiling%20Light%20V1/lumi.light.acn041/0.0.0_7254/) | lumi.light.acn041 | 0.0.0_7254 | 2026-01-19 |
 | [Valve Controller T1](Valve%20Controller%20T1/lumi.valve.agl001/0.0.0_0054/) | lumi.valve.agl001 | 0.0.0_0054 | 2025-02-05 |
 | [Voice Mate H1](Voice%20Mate%20H1/aqara.matter.4447_16386/1.0.2.6/) | aqara.matter.4447_16386 | 1.0.2.6 | 2025-11-19 |
-| [Wall Outlet H2 UK (Single USB-C)](Wall%20Outlet%20H2%20UK%20%28Single%20USB-C%29/lumi.plug.aeu002/0.0.0_0006/) | lumi.plug.aeu002 | 0.0.0_0006 | 2025-12-15 |
+| [Wall Outlet H2 UK](Wall%20Outlet%20H2%20UK/lumi.plug.aeu002/0.0.0_0006/) | lumi.plug.aeu002 | 0.0.0_0006 | 2025-12-15 |
+| [Wall Switch H1 (No Neutral, Double Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Double%20Rocker%29/lumi.switch.l2acn1/0.0.0_1437/) | lumi.switch.l2acn1 | 0.0.0_1437 | 2026-10-08 |
+| [Wall Switch H1 (No Neutral, Single Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Single%20Rocker%29/lumi.switch.l1acn1/0.0.0_1437/) | lumi.switch.l1acn1 | 0.0.0_1437 | 2026-10-08 |
+| [Wall Switch H1 (No Neutral, Three Rocker)](Wall%20Switch%20H1%20%28No%20Neutral%2C%20Three%20Rocker%29/lumi.switch.l3acn1/0.0.0_1437/) | lumi.switch.l3acn1 | 0.0.0_1437 | 2026-10-08 |
 | [Wall Switch H1 (With Neutral, Double Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Double%20Rocker%29/lumi.switch.n2acn1/15/) | lumi.switch.n2acn1 | 15 | 2024-07-26 |
 | [Wall Switch H1 (With Neutral, Single Rocker)](Wall%20Switch%20H1%20%28With%20Neutral%2C%20Single%20Rocker%29/lumi.switch.n1acn1/15/) | lumi.switch.n1acn1 | 15 | 2024-07-26 |
 | [Wall Switch T1 (No Neutral, Three Rocker)](Wall%20Switch%20T1%20%28No%20Neutral%2C%20Three%20Rocker%29/lumi.switch.b3l01/0.0.0_0033/) | lumi.switch.b3l01 | 0.0.0_0033 | 2020-07-02 |
