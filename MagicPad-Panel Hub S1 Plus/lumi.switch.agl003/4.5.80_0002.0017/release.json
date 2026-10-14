@@ -1,0 +1,12 @@
+{
+  "model": "lumi.switch.agl003",
+  "friendlyName": "MagicPad/Panel Hub S1 Plus",
+  "firmwareVersion": "4.5.80_0002.0017",
+  "firmwareMD5": "32852173d46cc38fa064a349561ae31a",
+  "fileSize": 740309459,
+  "releaseNotes": "1. Hub version iteration update; \n2. Optimize Wireless Mini Switch function.",
+  "regions": [
+    "eu"
+  ],
+  "releaseDate": "2026-10-13"
+}

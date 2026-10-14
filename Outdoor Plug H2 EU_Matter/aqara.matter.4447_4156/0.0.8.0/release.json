@@ -1,0 +1,13 @@
+{
+  "model": "aqara.matter.4447_4156",
+  "friendlyName": "Outdoor Plug H2 EU_Matter",
+  "firmwareVersion": "0.0.8.0",
+  "firmwareMD5": "8967107292c663f46e44534d429a6b2f",
+  "fileSize": 1135567,
+  "releaseNotes": "1. Fix known issues and optimize user experience",
+  "regions": [
+    "au",
+    "eu"
+  ],
+  "releaseDate": "2026-10-10"
+}

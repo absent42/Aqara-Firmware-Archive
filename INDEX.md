@@ -83,6 +83,10 @@
 | [Nebula H1/Yunxi D1S/Yunyao Z1S Ceiling Light](Nebula%20H1-Yunxi%20D1S-Yunyao%20Z1S%20Ceiling%20Light/) | lumi.light.acn033 | au, cn, eu, us |
 | [Organ smart Curtain Controller C4](Organ%20smart%20Curtain%20Controller%20C4/) | lumi.curtain.acn010 | cn |
 | [Outdoor Camera G510](Outdoor%20Camera%20G510/) | lumi.camera.agl017 | au, cn, eu, kr, us |
+| [Outdoor Plug H2 EU (RGB)_Matter](Outdoor%20Plug%20H2%20EU%20%28RGB%29_Matter/) | aqara.matter.4447_4158 | au, eu, us |
+| [Outdoor Plug H2 EU (RGB)_Zigbee](Outdoor%20Plug%20H2%20EU%20%28RGB%29_Zigbee/) | lumi.plug.aeu007 | au, eu, us |
+| [Outdoor Plug H2 EU_Matter](Outdoor%20Plug%20H2%20EU_Matter/) | aqara.matter.4447_4156 | au, eu, us |
+| [Outdoor Plug H2 EU_Zigbee](Outdoor%20Plug%20H2%20EU_Zigbee/) | lumi.plug.aeu006 | au, eu, us |
 | [Panel Hub AX100S](Panel%20Hub%20AX100S/) | lumi.gateway.agl015 | au, cn, eu, us |
 | [Panel Switch S100](Panel%20Switch%20S100/) | lumi.switch.acn066 | au, cn, eu, us |
 | [Pastel Spectrum Downlight Spotlight H1](Pastel%20Spectrum%20Downlight%20Spotlight%20H1/) | aqara.matter.4447_6179, lumi.models.4447_6208 | au, cn, us |
@@ -235,11 +239,7 @@
 | [Wireless Remote Switch T1 (Double Rocker)](Wireless%20Remote%20Switch%20T1%20%28Double%20Rocker%29/) | lumi.remote.b286acn03 | cn |
 | [aqara.camera.acn003](aqara.camera.acn003/) | aqara.camera.acn003 | cn |
 | [aqara.lock.wbzac1](aqara.lock.wbzac1/) | aqara.lock.wbzac1 | cn |
-| [aqara.matter.4447_4156](aqara.matter.4447_4156/) | aqara.matter.4447_4156 | au, eu, us |
-| [aqara.matter.4447_4158](aqara.matter.4447_4158/) | aqara.matter.4447_4158 | au, eu, us |
 | [eigenstone.test.test0516](eigenstone.test.test0516/) | eigenstone.test.test0516 | cn |
 | [lumi.lock.acn04](lumi.lock.acn04/) | lumi.lock.acn04 | cn |
-| [lumi.plug.aeu006](lumi.plug.aeu006/) | lumi.plug.aeu006 | au, eu, us |
-| [lumi.plug.aeu007](lumi.plug.aeu007/) | lumi.plug.aeu007 | au, eu, us |
 | [lumi.switch.jcn001](lumi.switch.jcn001/) | lumi.switch.jcn001 | cn |
 | [lumi.switch.jcn002](lumi.switch.jcn002/) | lumi.switch.jcn002 | cn |

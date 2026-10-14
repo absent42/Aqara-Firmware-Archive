@@ -1,0 +1,16 @@
+{
+  "model": "lumi.models.4447_12324",
+  "friendlyName": "Camera G510 (Battery)",
+  "firmwareVersion": "4.5.60_0072",
+  "firmwareMD5": "b582b2baef0bdf8f3899d780a3339361",
+  "fileSize": 29153384,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-10-13"
+}

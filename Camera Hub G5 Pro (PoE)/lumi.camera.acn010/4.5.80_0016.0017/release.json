@@ -1,0 +1,15 @@
+{
+  "model": "lumi.camera.acn010",
+  "friendlyName": "Camera Hub G5 Pro (PoE)",
+  "firmwareVersion": "4.5.80_0016.0017",
+  "firmwareMD5": "445b34237472fdf7a69eaa9aa0b9d06f",
+  "fileSize": 35492814,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-10-13"
+}

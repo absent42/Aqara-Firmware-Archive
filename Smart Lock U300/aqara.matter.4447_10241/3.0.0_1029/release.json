@@ -1,0 +1,15 @@
+{
+  "model": "aqara.matter.4447_10241",
+  "friendlyName": "Smart Lock U300",
+  "firmwareVersion": "3.0.0_1029",
+  "firmwareMD5": "d975d5e2a38b33d112d9a975b8d4ba25",
+  "fileSize": 1351393,
+  "releaseNotes": "Fix known issues and optimize user experience",
+  "regions": [
+    "au",
+    "cn",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-10-14"
+}
