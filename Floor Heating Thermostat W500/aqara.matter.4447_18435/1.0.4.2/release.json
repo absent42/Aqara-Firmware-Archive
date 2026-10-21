@@ -1,0 +1,13 @@
+{
+  "model": "aqara.matter.4447_18435",
+  "friendlyName": "Floor Heating Thermostat W500",
+  "firmwareVersion": "1.0.4.2",
+  "firmwareMD5": "2688d67c4969a8850d94e23676559c08",
+  "fileSize": 1137964,
+  "releaseNotes": "1. Fix known issues and optimize user experience",
+  "regions": [
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-10-15"
+}

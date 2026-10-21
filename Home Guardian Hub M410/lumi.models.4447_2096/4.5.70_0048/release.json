@@ -4,10 +4,13 @@
   "firmwareVersion": "4.5.70_0048",
   "firmwareMD5": "4a86b8560300afd8f0648ee91fd12a65",
   "fileSize": 31867158,
-  "releaseNotes": "Fix known issues",
+  "releaseNotes": "Fixed known issues",
   "regions": [
+    "au",
     "cn",
-    "eu"
+    "eu",
+    "kr",
+    "us"
   ],
-  "releaseDate": "2026-10-12"
+  "releaseDate": "2026-10-19"
 }

@@ -6,7 +6,10 @@
   "fileSize": 740309459,
   "releaseNotes": "1. Hub version iteration update; \n2. Optimize Wireless Mini Switch function.",
   "regions": [
-    "eu"
+    "au",
+    "eu",
+    "kr",
+    "us"
   ],
-  "releaseDate": "2026-10-13"
+  "releaseDate": "2026-10-19"
 }

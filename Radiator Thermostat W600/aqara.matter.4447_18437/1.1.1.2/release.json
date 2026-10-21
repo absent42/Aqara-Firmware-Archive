@@ -1,0 +1,13 @@
+{
+  "model": "aqara.matter.4447_18437",
+  "friendlyName": "Radiator Thermostat W600",
+  "firmwareVersion": "1.1.1.2",
+  "firmwareMD5": "30f328768ce3fab5615b74605da7f5ce",
+  "fileSize": 1071404,
+  "releaseNotes": "1. Fix known issues and optimize user experience",
+  "regions": [
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-10-15"
+}

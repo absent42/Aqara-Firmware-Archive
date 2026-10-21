@@ -1,0 +1,16 @@
+{
+  "model": "aqara.matter.4447_8201",
+  "friendlyName": "Spatial Multi-Sensor FP400",
+  "firmwareVersion": "1.2.0.0",
+  "firmwareMD5": "6d55f58b2863639cb5339e8467c37c23",
+  "fileSize": 2479708,
+  "releaseNotes": "1. Optimized long-distance and wide-angle human tracking to reduce target loss<br>2. Improved recognition of sitting and sleeping scenarios to enhance state detection accuracy<br>3. Enhanced false target filtering to reduce false triggers<br>4. Fixed abnormal coordinate display issue when installed in reverse<br>5. Optimized high-precision sleep detection; after setting the bed zone, reduces frequent false switching",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-10-19"
+}

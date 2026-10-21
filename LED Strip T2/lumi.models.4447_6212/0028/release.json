@@ -1,0 +1,15 @@
+{
+  "model": "lumi.models.4447_6212",
+  "friendlyName": "LED Strip T2",
+  "firmwareVersion": "0028",
+  "firmwareMD5": "141ad12090a257128b6a45c32716d325",
+  "fileSize": 761198,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-08-13"
+}

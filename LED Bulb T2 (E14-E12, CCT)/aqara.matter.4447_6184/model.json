@@ -1,0 +1,9 @@
+{
+  "model": "aqara.matter.4447_6184",
+  "pid": "6184",
+  "matterPid": "",
+  "friendlyNames": [
+    "LED Bulb T2 (E14/E12, CCT)",
+    "aqara.matter.4447_6184"
+  ]
+}

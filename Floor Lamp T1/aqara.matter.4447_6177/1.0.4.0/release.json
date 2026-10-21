@@ -1,0 +1,15 @@
+{
+  "model": "aqara.matter.4447_6177",
+  "friendlyName": "Floor Lamp T1",
+  "firmwareVersion": "1.0.4.0",
+  "firmwareMD5": "94b2c7157906a271dea6c73724269658",
+  "fileSize": 1337808,
+  "releaseNotes": "Fixed known issues",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-08-13"
+}

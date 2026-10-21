@@ -1,0 +1,12 @@
+{
+  "model": "lumi.light.agl007",
+  "friendlyName": "Dual Color Temperature Driver T3",
+  "firmwareVersion": "0.0.0_0025",
+  "firmwareMD5": "5083619f354d72e7f4a96c9eefb45d6e",
+  "fileSize": 669822,
+  "releaseNotes": "",
+  "regions": [
+    "kr"
+  ],
+  "releaseDate": "2026-09-07"
+}

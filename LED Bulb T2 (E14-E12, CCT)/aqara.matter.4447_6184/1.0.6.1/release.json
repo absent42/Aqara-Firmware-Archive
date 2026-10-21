@@ -1,0 +1,14 @@
+{
+  "model": "aqara.matter.4447_6184",
+  "friendlyName": "LED Bulb T2 (E14/E12, CCT)",
+  "firmwareVersion": "1.0.6.1",
+  "firmwareMD5": "036e302692284bd167e0a4fa2320ccb3",
+  "fileSize": 1179792,
+  "releaseNotes": "",
+  "regions": [
+    "cn",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-08-20"
+}

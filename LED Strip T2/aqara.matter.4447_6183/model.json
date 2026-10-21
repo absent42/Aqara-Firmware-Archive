@@ -1,0 +1,9 @@
+{
+  "model": "aqara.matter.4447_6183",
+  "pid": "6183",
+  "matterPid": "",
+  "friendlyNames": [
+    "LED Strip T2",
+    "aqara.matter.4447_6183"
+  ]
+}

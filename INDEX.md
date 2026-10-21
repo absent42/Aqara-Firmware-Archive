@@ -1,6 +1,6 @@
 # Firmware Archive Index
 
-239 device names, 283 models.
+245 device names, 293 models.
 
 | Device | Models | Regions |
 | --- | --- | --- |
@@ -38,8 +38,10 @@
 | [Down/Spot light T3](Down-Spot%20light%20T3/) | lumi.light.acn128 | au, cn, eu, us |
 | [Downlight T2 (60°)](Downlight%20T2%20%2860%C2%B0%29/) | lumi.light.acn026 | au, cn, eu, kr, us |
 | [Downlight T2 Pro](Downlight%20T2%20Pro/) | lumi.light.acn040 | au, cn, eu, kr, us |
+| [Dual Color Temperature Driver T3](Dual%20Color%20Temperature%20Driver%20T3/) | aqara.matter.4447_6152, lumi.light.agl007 | kr |
 | [Dual Relay Module T2](Dual%20Relay%20Module%20T2/) | lumi.switch.acn047 | au, cn, eu, kr, us |
 | [Floor Heating Thermostat W500](Floor%20Heating%20Thermostat%20W500/) | aqara.matter.4447_18435, lumi.airrtc.aeu001 | cn, eu, us |
+| [Floor Lamp T1](Floor%20Lamp%20T1/) | aqara.matter.4447_6177, lumi.models.4447_6207 | au, cn, eu, us |
 | [Fully Automatic Smart Door Lock with Camera](Fully%20Automatic%20Smart%20Door%20Lock%20with%20Camera/) | aqara.lock.acn002 | cn |
 | [High Precision Motion Sensor](High%20Precision%20Motion%20Sensor/) | lumi.motion.agl04 | cn |
 | [Home Guardian Hub M410](Home%20Guardian%20Hub%20M410/) | lumi.models.4447_2096 | au, cn, eu, kr, us |
@@ -53,6 +55,9 @@
 | [Hub M3](Hub%20M3/) | lumi.gateway.acn012, lumi.gateway.agl004 | au, cn, eu, kr, us |
 | [Intelligent Bathroom Heater T1](Intelligent%20Bathroom%20Heater%20T1/) | lumi.bhf_light.acn001 | cn, kr, us |
 | [LED Bulb T1 (Tunable White)](LED%20Bulb%20T1%20%28Tunable%20White%29/) | lumi.light.acn014 | au, cn, eu, kr, us |
+| [LED Bulb T2 (E14, RGB CCT)](LED%20Bulb%20T2%20%28E14%2C%20RGB%20CCT%29/) | lumi.models.4447_6218 | cn, eu, us |
+| [LED Bulb T2 (E14/E12, CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20CCT%29/) | aqara.matter.4447_6184, lumi.models.4447_6219 | cn, eu, us |
+| [LED Bulb T2 (E14/E12, RGB CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20RGB%20CCT%29/) | aqara.matter.4447_6182 | cn, eu, us |
 | [LED Bulb T2 (E26, CCT)](LED%20Bulb%20T2%20%28E26%2C%20CCT%29/) | aqara.matter.4447_6146, lumi.light.agl002 | au, cn, kr, us |
 | [LED Bulb T2 (E26, RGB CCT)](LED%20Bulb%20T2%20%28E26%2C%20RGB%20CCT%29/) | aqara.matter.4447_6145, lumi.light.agl001 | au, cn, kr, us |
 | [LED Bulb T2 (E27, CCT)](LED%20Bulb%20T2%20%28E27%2C%20CCT%29/) | aqara.matter.4447_6148, lumi.light.agl004 | au, cn, eu, us |
@@ -61,6 +66,7 @@
 | [LED Bulb T2 (GU10, RGB CCT)](LED%20Bulb%20T2%20%28GU10%2C%20RGB%20CCT%29/) | aqara.matter.4447_6149, lumi.light.agl005 | au, cn, eu, us |
 | [LED Strip Controller H1 (RGB Spectrum)](LED%20Strip%20Controller%20H1%20%28RGB%20Spectrum%29/) | aqara.matter.4447_6180 | au, cn, us |
 | [LED Strip T1](LED%20Strip%20T1/) | lumi.light.acn132 | au, cn, eu, kr, us |
+| [LED Strip T2](LED%20Strip%20T2/) | aqara.matter.4447_6183, lumi.models.4447_6212 | au, cn, eu, us |
 | [Light Art Skylight H1](Light%20Art%20Skylight%20H1/) | lumi.light.acn015 | cn |
 | [Light Detection Sensor T1](Light%20Detection%20Sensor%20T1/) | lumi.sen_ill.agl01 | cn |
 | [Light Switch H2 EU (2 Buttons, 1 Channel)](Light%20Switch%20H2%20EU%20%282%20Buttons%2C%201%20Channel%29/) | lumi.switch.agl009 | au, eu, us |

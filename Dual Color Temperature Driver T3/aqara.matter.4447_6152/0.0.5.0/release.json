@@ -1,0 +1,12 @@
+{
+  "model": "aqara.matter.4447_6152",
+  "friendlyName": "Dual Color Temperature Driver T3",
+  "firmwareVersion": "0.0.5.0",
+  "firmwareMD5": "06463f25bfaf4355694dafc64b34ce72",
+  "fileSize": 1127359,
+  "releaseNotes": "",
+  "regions": [
+    "kr"
+  ],
+  "releaseDate": "2026-09-07"
+}
