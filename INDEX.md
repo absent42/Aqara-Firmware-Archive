@@ -1,6 +1,6 @@
 # Firmware Archive Index
 
-245 device names, 293 models.
+246 device names, 294 models.
 
 | Device | Models | Regions |
 | --- | --- | --- |
@@ -144,6 +144,7 @@
 | [Smart Door Lock U200 Lite](Smart%20Door%20Lock%20U200%20Lite/) | aqara.matter.4447_10247 | au, cn, eu, us |
 | [Smart Door Lock U200 US](Smart%20Door%20Lock%20U200%20US/) | aqara.matter.4447_10346 | us |
 | [Smart Door Lock U50](Smart%20Door%20Lock%20U50/) | aqara.lock.aus001 | au, eu, us |
+| [Smart Door Lock U600](Smart%20Door%20Lock%20U600/) | aqara.matter.4447_10314 | au, eu |
 | [Smart Door V100](Smart%20Door%20V100/) | lumi.lock.acn006 | cn |
 | [Smart Flood Light (60cm)](Smart%20Flood%20Light%20%2860cm%29/) | lumi.light.acn010 | cn |
 | [Smart Foldable Grille Light (6-Lamp)](Smart%20Foldable%20Grille%20Light%20%286-Lamp%29/) | lumi.light.acn012 | cn |

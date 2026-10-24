@@ -1,7 +1,7 @@
 {
   "model": "aqara.matter.4447_6152",
   "pid": "6157",
-  "matterPid": null,
+  "matterPid": "",
   "friendlyNames": [
     "Dual Color Temperature Driver T3"
   ]

@@ -1,6 +1,6 @@
 # Firmware by Region
 
-## au (172 current firmwares)
+## au (173 current firmwares)
 
 | Device | Model | Version | Released |
 | --- | --- | --- | --- |
@@ -8,9 +8,9 @@
 | [Camera G100](Camera%20G100/lumi.camera.agl005/4.5.45_0004/) | lumi.camera.agl005 | 4.5.45_0004 | 2026-05-29 |
 | [Camera G510 (Battery)](Camera%20G510%20%28Battery%29/lumi.models.4447_12324/4.5.60_0074/) | lumi.models.4447_12324 | 4.5.60_0074 | 2026-10-20 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.agl001/4.5.30_0004.0013/) | lumi.camera.agl001 | 4.5.30_0004.0013 | 2026-06-22 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.70_0004.0017/) | lumi.camera.agl010 | 4.5.70_0004.0017 | 2026-09-23 |
-| [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.80_0016.0017/) | lumi.camera.acn010 | 4.5.80_0016.0017 | 2026-10-13 |
-| [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl004/4.5.80_0016.0017/) | lumi.camera.agl004 | 4.5.80_0016.0017 | 2026-10-13 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.80_0010.0017/) | lumi.camera.agl010 | 4.5.80_0010.0017 | 2026-10-22 |
+| [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.80_0018.0017/) | lumi.camera.acn010 | 4.5.80_0018.0017 | 2026-10-23 |
+| [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl004/4.5.80_0018.0017/) | lumi.camera.agl004 | 4.5.80_0018.0017 | 2026-10-23 |
 | [Canon Smart Wall Switch Z1(Double Rocker)](Canon%20Smart%20Wall%20Switch%20Z1%28Double%20Rocker%29/lumi.switch.acn049/0.0.0_0031/) | lumi.switch.acn049 | 0.0.0_0031 | 2024-01-23 |
 | [Canon Smart Wall Switch Z1(Quadruple Rocker)](Canon%20Smart%20Wall%20Switch%20Z1%28Quadruple%20Rocker%29/lumi.switch.acn055/0.0.0_0031/) | lumi.switch.acn055 | 0.0.0_0031 | 2024-01-23 |
 | [Canon Smart Wall Switch Z1(Single Rocker)](Canon%20Smart%20Wall%20Switch%20Z1%28Single%20Rocker%29/lumi.switch.acn048/0.0.0_0031/) | lumi.switch.acn048 | 0.0.0_0031 | 2024-01-23 |
@@ -128,6 +128,7 @@
 | [Smart Door Lock U100](Smart%20Door%20Lock%20U100/aqara.lock.acn10/3.0.0_0032/) | aqara.lock.acn10 | 3.0.0_0032 | 2025-10-09 |
 | [Smart Door Lock U200 Lite](Smart%20Door%20Lock%20U200%20Lite/aqara.matter.4447_10247/3.1.0.5/) | aqara.matter.4447_10247 | 3.1.0.5 | 2025-06-27 |
 | [Smart Door Lock U50](Smart%20Door%20Lock%20U50/aqara.lock.aus001/3.0.0_0008/) | aqara.lock.aus001 | 3.0.0_0008 | 2025-11-24 |
+| [Smart Door Lock U600](Smart%20Door%20Lock%20U600/aqara.matter.4447_10314/3.1.0.5/) | aqara.matter.4447_10314 | 3.1.0.5 | 2026-10-23 |
 | [Smart Lightstrip Driver](Smart%20Lightstrip%20Driver/lumi.dimmer.rcbac1/0.0.0_0037/) | lumi.dimmer.rcbac1 | 0.0.0_0037 | 2024-09-20 |
 | [Smart Lock D200i](Smart%20Lock%20D200i/aqara.lock.acn005/3.0.0_0028/) | aqara.lock.acn005 | 3.0.0_0028 | 2026-04-15 |
 | [Smart Lock J200](Smart%20Lock%20J200/aqara.matter.4447_10253/3.1.0.5/) | aqara.matter.4447_10253 | 3.1.0.5 | 2026-08-13 |
@@ -153,7 +154,7 @@
 | [Smart wall switch Z1 Pro (three-button version)](Smart%20wall%20switch%20Z1%20Pro%20%28three-button%20version%29/lumi.switch.acn058/0.0.0_0040/) | lumi.switch.acn058 | 0.0.0_0040 | 2025-08-29 |
 | [Smoke Detector](Smoke%20Detector/lumi.sensor_smoke.acn03/0.0.0_0017/) | lumi.sensor_smoke.acn03 | 0.0.0_0017 | 2023-03-09 |
 | [Spatial Multi-Sensor FP400](Spatial%20Multi-Sensor%20FP400/aqara.matter.4447_8201/1.2.0.0/) | aqara.matter.4447_8201 | 1.2.0.0 | 2026-10-19 |
-| [Spatial Multi-Sensor FP400](Spatial%20Multi-Sensor%20FP400/lumi.models.4447_8295/0062/) | lumi.models.4447_8295 | 0062 | 2026-10-19 |
+| [Spatial Multi-Sensor FP400](Spatial%20Multi-Sensor%20FP400/lumi.models.4447_8295/0051/) | lumi.models.4447_8295 | 0051 | 2026-07-30 |
 | [Spotlight T2 (15°)](Spotlight%20T2%20%2815%C2%B0%29/lumi.light.acn023/0.0.0_0041/) | lumi.light.acn023 | 0.0.0_0041 | 2024-01-03 |
 | [Spotlight T2 (24°)](Spotlight%20T2%20%2824%C2%B0%29/lumi.light.acn024/0.0.0_0041/) | lumi.light.acn024 | 0.0.0_0041 | 2024-01-03 |
 | [Spotlight T2 (36°)](Spotlight%20T2%20%2836%C2%B0%29/lumi.light.acn025/0.0.0_0041/) | lumi.light.acn025 | 0.0.0_0041 | 2024-01-03 |
@@ -189,10 +190,10 @@
 | [Camera G510 (Battery)](Camera%20G510%20%28Battery%29/lumi.models.4447_12324/4.5.60_0074/) | lumi.models.4447_12324 | 4.5.60_0074 | 2026-10-20 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.acn003/4.5.30_0004.0013/) | lumi.camera.acn003 | 4.5.30_0004.0013 | 2026-06-22 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.agl001/4.5.30_0004.0013/) | lumi.camera.agl001 | 4.5.30_0004.0013 | 2026-06-22 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.70_0004.0017/) | lumi.camera.agl010 | 4.5.70_0004.0017 | 2026-09-23 |
-| [Camera Hub G5 (PoE)](Camera%20Hub%20G5%20%28PoE%29/lumi.camera.acn009/4.5.80_0016.0017/) | lumi.camera.acn009 | 4.5.80_0016.0017 | 2026-10-13 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.80_0010.0017/) | lumi.camera.agl010 | 4.5.80_0010.0017 | 2026-10-22 |
+| [Camera Hub G5 (PoE)](Camera%20Hub%20G5%20%28PoE%29/lumi.camera.acn009/4.5.80_0018.0017/) | lumi.camera.acn009 | 4.5.80_0018.0017 | 2026-10-23 |
 | [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.30_0008.0017/) | lumi.camera.acn010 | 4.5.30_0008.0017 | 2026-06-12 |
-| [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl003/4.5.80_0016.0017/) | lumi.camera.agl003 | 4.5.80_0016.0017 | 2026-10-13 |
+| [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl003/4.5.80_0018.0017/) | lumi.camera.agl003 | 4.5.80_0018.0017 | 2026-10-23 |
 | [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl004/4.5.30_0008.0017/) | lumi.camera.agl004 | 4.5.30_0008.0017 | 2026-06-12 |
 | [Camera T1](Camera%20T1/aqara.camera.acn002/5.3.2_230106/) | aqara.camera.acn002 | 5.3.2_230106 | 2023-03-23 |
 | [Canon Smart Wall Switch Z1(Double Rocker)](Canon%20Smart%20Wall%20Switch%20Z1%28Double%20Rocker%29/lumi.switch.acn049/0.0.0_0040/) | lumi.switch.acn049 | 0.0.0_0040 | 2025-08-29 |
@@ -226,7 +227,7 @@
 | [Floor Heating Thermostat W500](Floor%20Heating%20Thermostat%20W500/aqara.matter.4447_18435/1.0.3.0/) | aqara.matter.4447_18435 | 1.0.3.0 | 2025-07-28 |
 | [Floor Heating Thermostat W500](Floor%20Heating%20Thermostat%20W500/lumi.airrtc.aeu001/0.0.0_1030/) | lumi.airrtc.aeu001 | 0.0.0_1030 | 2026-01-13 |
 | [Floor Lamp T1](Floor%20Lamp%20T1/aqara.matter.4447_6177/1.0.4.0/) | aqara.matter.4447_6177 | 1.0.4.0 | 2026-08-13 |
-| [Floor Lamp T1](Floor%20Lamp%20T1/lumi.models.4447_6207/0030/) | lumi.models.4447_6207 | 0030 | 2026-08-13 |
+| [Floor Lamp T1](Floor%20Lamp%20T1/lumi.models.4447_6207/0034/) | lumi.models.4447_6207 | 0034 | 2026-10-21 |
 | [Fully Automatic Smart Door Lock with Camera](Fully%20Automatic%20Smart%20Door%20Lock%20with%20Camera/aqara.lock.acn002/2.3.1_0029/) | aqara.lock.acn002 | 2.3.1_0029 | 2026-05-06 |
 | [High Precision Motion Sensor](High%20Precision%20Motion%20Sensor/lumi.motion.agl04/0.0.0_0026/) | lumi.motion.agl04 | 0.0.0_0026 | 2021-01-15 |
 | [Home Guardian Hub M410](Home%20Guardian%20Hub%20M410/lumi.models.4447_2096/4.5.70_0048/) | lumi.models.4447_2096 | 4.5.70_0048 | 2026-10-19 |
@@ -260,7 +261,7 @@
 | [LED Strip Controller H1 (RGB Spectrum)](LED%20Strip%20Controller%20H1%20%28RGB%20Spectrum%29/aqara.matter.4447_6180/1.0.0.2/) | aqara.matter.4447_6180 | 1.0.0.2 | 2026-07-13 |
 | [LED Strip T1](LED%20Strip%20T1/lumi.light.acn132/0.0.0_2627/) | lumi.light.acn132 | 0.0.0_2627 | 2023-06-16 |
 | [LED Strip T2](LED%20Strip%20T2/aqara.matter.4447_6183/1.0.1.0/) | aqara.matter.4447_6183 | 1.0.1.0 | 2026-08-13 |
-| [LED Strip T2](LED%20Strip%20T2/lumi.models.4447_6212/0028/) | lumi.models.4447_6212 | 0028 | 2026-08-13 |
+| [LED Strip T2](LED%20Strip%20T2/lumi.models.4447_6212/0034/) | lumi.models.4447_6212 | 0034 | 2026-10-21 |
 | [Light Art Skylight H1](Light%20Art%20Skylight%20H1/lumi.light.acn015/0.0.0_0024/) | lumi.light.acn015 | 0.0.0_0024 | 2023-03-13 |
 | [Light Detection Sensor T1](Light%20Detection%20Sensor%20T1/lumi.sen_ill.agl01/0.0.0_0027/) | lumi.sen_ill.agl01 | 0.0.0_0027 | 2023-01-31 |
 | [Magic Switch S1E](Magic%20Switch%20S1E/lumi.switch.acn032/2.2.2_0006.0000/) | lumi.switch.acn032 | 2.2.2_0006.0000 | 2026-06-15 |
@@ -372,7 +373,7 @@
 | [Smoke Detector L](Smoke%20Detector%20L/lumi.sensor_smoke.jcn01/0.0.0_0017/) | lumi.sensor_smoke.jcn01 | 0.0.0_0017 | 2022-07-21 |
 | [Smoke Detector X1](Smoke%20Detector%20X1/lumi.sensor_smoke.acn05/0.0.0_0017/) | lumi.sensor_smoke.acn05 | 0.0.0_0017 | 2022-07-21 |
 | [Spatial Multi-Sensor FP400](Spatial%20Multi-Sensor%20FP400/aqara.matter.4447_8201/1.2.0.0/) | aqara.matter.4447_8201 | 1.2.0.0 | 2026-10-19 |
-| [Spatial Multi-Sensor FP400](Spatial%20Multi-Sensor%20FP400/lumi.models.4447_8295/0062/) | lumi.models.4447_8295 | 0062 | 2026-10-19 |
+| [Spatial Multi-Sensor FP400](Spatial%20Multi-Sensor%20FP400/lumi.models.4447_8295/0051/) | lumi.models.4447_8295 | 0051 | 2026-07-30 |
 | [Spotlight T2 (15°)](Spotlight%20T2%20%2815%C2%B0%29/lumi.light.acn023/0.0.0_0041/) | lumi.light.acn023 | 0.0.0_0041 | 2024-01-03 |
 | [Spotlight T2 (24°)](Spotlight%20T2%20%2824%C2%B0%29/lumi.light.acn024/0.0.0_0024/) | lumi.light.acn024 | 0.0.0_0024 | 2022-08-05 |
 | [Spotlight T2 (36°)](Spotlight%20T2%20%2836%C2%B0%29/lumi.light.acn025/0.0.0_0041/) | lumi.light.acn025 | 0.0.0_0041 | 2024-01-03 |
@@ -410,7 +411,7 @@
 | [lumi.switch.jcn001](lumi.switch.jcn001/lumi.switch.jcn001/0.0.0_0065/) | lumi.switch.jcn001 | 0.0.0_0065 | 2022-01-06 |
 | [lumi.switch.jcn002](lumi.switch.jcn002/lumi.switch.jcn002/0.0.0_0066/) | lumi.switch.jcn002 | 0.0.0_0066 | 2022-01-06 |
 
-## eu (166 current firmwares)
+## eu (167 current firmwares)
 
 | Device | Model | Version | Released |
 | --- | --- | --- | --- |
@@ -419,9 +420,9 @@
 | [Camera G100](Camera%20G100/lumi.camera.agl005/4.5.45_0004/) | lumi.camera.agl005 | 4.5.45_0004 | 2026-05-29 |
 | [Camera G510 (Battery)](Camera%20G510%20%28Battery%29/lumi.models.4447_12324/4.5.60_0074/) | lumi.models.4447_12324 | 4.5.60_0074 | 2026-10-20 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.agl001/4.5.30_0004.0013/) | lumi.camera.agl001 | 4.5.30_0004.0013 | 2026-06-22 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.70_0004.0017/) | lumi.camera.agl010 | 4.5.70_0004.0017 | 2026-09-23 |
-| [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.80_0016.0017/) | lumi.camera.acn010 | 4.5.80_0016.0017 | 2026-10-13 |
-| [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl004/4.5.80_0016.0017/) | lumi.camera.agl004 | 4.5.80_0016.0017 | 2026-10-13 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.80_0010.0017/) | lumi.camera.agl010 | 4.5.80_0010.0017 | 2026-10-22 |
+| [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.80_0018.0017/) | lumi.camera.acn010 | 4.5.80_0018.0017 | 2026-10-23 |
+| [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl004/4.5.80_0018.0017/) | lumi.camera.agl004 | 4.5.80_0018.0017 | 2026-10-23 |
 | [Canon Smart Wall Switch Z1(Double Rocker)](Canon%20Smart%20Wall%20Switch%20Z1%28Double%20Rocker%29/lumi.switch.acn049/0.0.0_0031/) | lumi.switch.acn049 | 0.0.0_0031 | 2024-01-23 |
 | [Canon Smart Wall Switch Z1(Quadruple Rocker)](Canon%20Smart%20Wall%20Switch%20Z1%28Quadruple%20Rocker%29/lumi.switch.acn055/0.0.0_0031/) | lumi.switch.acn055 | 0.0.0_0031 | 2024-01-23 |
 | [Canon Smart Wall Switch Z1(Single Rocker)](Canon%20Smart%20Wall%20Switch%20Z1%28Single%20Rocker%29/lumi.switch.acn048/0.0.0_0031/) | lumi.switch.acn048 | 0.0.0_0031 | 2024-01-23 |
@@ -446,7 +447,7 @@
 | [Doorbell G4](Doorbell%20G4/lumi.camera.agl002/4.0.6_0018.0068/) | lumi.camera.agl002 | 4.0.6_0018.0068 | 2023-12-25 |
 | [Down/Spot light T3](Down-Spot%20light%20T3/lumi.light.acn128/0.0.0_0022/) | lumi.light.acn128 | 0.0.0_0022 | 2025-05-19 |
 | [Downlight T2 (60°)](Downlight%20T2%20%2860%C2%B0%29/lumi.light.acn026/0.0.0_0041/) | lumi.light.acn026 | 0.0.0_0041 | 2024-01-03 |
-| [Downlight T2 Pro](Downlight%20T2%20Pro/lumi.light.acn040/0.0.0_0025/) | lumi.light.acn040 | 0.0.0_0025 | 2026-06-25 |
+| [Downlight T2 Pro](Downlight%20T2%20Pro/lumi.light.acn040/0.0.0_0026/) | lumi.light.acn040 | 0.0.0_0026 | 2026-10-12 |
 | [Dual Relay Module T2](Dual%20Relay%20Module%20T2/lumi.switch.acn047/0.0.0_0035/) | lumi.switch.acn047 | 0.0.0_0035 | 2026-03-09 |
 | [Floor Heating Thermostat W500](Floor%20Heating%20Thermostat%20W500/aqara.matter.4447_18435/1.0.4.2/) | aqara.matter.4447_18435 | 1.0.4.2 | 2026-10-15 |
 | [Floor Heating Thermostat W500](Floor%20Heating%20Thermostat%20W500/lumi.airrtc.aeu001/0.0.0_1030/) | lumi.airrtc.aeu001 | 0.0.0_1030 | 2026-01-13 |
@@ -536,6 +537,7 @@
 | [Smart Door Lock U100](Smart%20Door%20Lock%20U100/aqara.lock.acn10/3.0.0_0032/) | aqara.lock.acn10 | 3.0.0_0032 | 2025-10-09 |
 | [Smart Door Lock U200 Lite](Smart%20Door%20Lock%20U200%20Lite/aqara.matter.4447_10247/3.1.0.5/) | aqara.matter.4447_10247 | 3.1.0.5 | 2025-06-27 |
 | [Smart Door Lock U50](Smart%20Door%20Lock%20U50/aqara.lock.aus001/3.0.0_0008/) | aqara.lock.aus001 | 3.0.0_0008 | 2025-11-24 |
+| [Smart Door Lock U600](Smart%20Door%20Lock%20U600/aqara.matter.4447_10314/3.1.0.5/) | aqara.matter.4447_10314 | 3.1.0.5 | 2026-10-23 |
 | [Smart Lightstrip Driver](Smart%20Lightstrip%20Driver/lumi.dimmer.rcbac1/0.0.0_0032/) | lumi.dimmer.rcbac1 | 0.0.0_0032 | 2024-05-28 |
 | [Smart Lock U200](Smart%20Lock%20U200/aqara.matter.4447_10242/3.0.0_0085/) | aqara.matter.4447_10242 | 3.0.0_0085 | 2026-04-17 |
 | [Smart Lock U300](Smart%20Lock%20U300/aqara.matter.4447_10241/3.0.0_1025/) | aqara.matter.4447_10241 | 3.0.0_1025 | 2025-01-17 |
@@ -561,7 +563,7 @@
 | [Smart wall switch Z1 Pro (three-button version)](Smart%20wall%20switch%20Z1%20Pro%20%28three-button%20version%29/lumi.switch.acn058/0.0.0_0031/) | lumi.switch.acn058 | 0.0.0_0031 | 2024-01-23 |
 | [Smoke Detector](Smoke%20Detector/lumi.sensor_smoke.acn03/0.0.0_0017/) | lumi.sensor_smoke.acn03 | 0.0.0_0017 | 2023-03-09 |
 | [Spatial Multi-Sensor FP400](Spatial%20Multi-Sensor%20FP400/aqara.matter.4447_8201/1.2.0.0/) | aqara.matter.4447_8201 | 1.2.0.0 | 2026-10-19 |
-| [Spatial Multi-Sensor FP400](Spatial%20Multi-Sensor%20FP400/lumi.models.4447_8295/0062/) | lumi.models.4447_8295 | 0062 | 2026-10-19 |
+| [Spatial Multi-Sensor FP400](Spatial%20Multi-Sensor%20FP400/lumi.models.4447_8295/0051/) | lumi.models.4447_8295 | 0051 | 2026-07-30 |
 | [Spotlight T2 (15°)](Spotlight%20T2%20%2815%C2%B0%29/lumi.light.acn023/0.0.0_0041/) | lumi.light.acn023 | 0.0.0_0041 | 2024-01-03 |
 | [Spotlight T2 (24°)](Spotlight%20T2%20%2824%C2%B0%29/lumi.light.acn024/0.0.0_0041/) | lumi.light.acn024 | 0.0.0_0041 | 2024-01-03 |
 | [Spotlight T2 (36°)](Spotlight%20T2%20%2836%C2%B0%29/lumi.light.acn025/0.0.0_0041/) | lumi.light.acn025 | 0.0.0_0041 | 2024-01-03 |
@@ -589,9 +591,9 @@
 | [Camera G100](Camera%20G100/lumi.camera.agl005/4.5.45_0004/) | lumi.camera.agl005 | 4.5.45_0004 | 2026-05-29 |
 | [Camera G510 (Battery)](Camera%20G510%20%28Battery%29/lumi.models.4447_12324/4.5.60_0074/) | lumi.models.4447_12324 | 4.5.60_0074 | 2026-10-20 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.agl001/4.5.30_0004.0013/) | lumi.camera.agl001 | 4.5.30_0004.0013 | 2026-06-22 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.70_0004.0017/) | lumi.camera.agl010 | 4.5.70_0004.0017 | 2026-09-23 |
-| [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.80_0016.0017/) | lumi.camera.acn010 | 4.5.80_0016.0017 | 2026-10-13 |
-| [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl004/4.5.80_0016.0017/) | lumi.camera.agl004 | 4.5.80_0016.0017 | 2026-10-13 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.80_0010.0017/) | lumi.camera.agl010 | 4.5.80_0010.0017 | 2026-10-22 |
+| [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.80_0018.0017/) | lumi.camera.acn010 | 4.5.80_0018.0017 | 2026-10-23 |
+| [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl004/4.5.80_0018.0017/) | lumi.camera.agl004 | 4.5.80_0018.0017 | 2026-10-23 |
 | [Canon Smart Wall Switch Z1(Triple Rocker)](Canon%20Smart%20Wall%20Switch%20Z1%28Triple%20Rocker%29/lumi.switch.acn054/0.0.0_0031/) | lumi.switch.acn054 | 0.0.0_0031 | 2024-01-23 |
 | [Ceiling Light L1-350](Ceiling%20Light%20L1-350/lumi.light.acn003/0.0.0_0029/) | lumi.light.acn003 | 0.0.0_0029 | 2023-09-11 |
 | [Ceiling Light T1M](Ceiling%20Light%20T1M/lumi.light.acn032/0.0.0_0026/) | lumi.light.acn032 | 0.0.0_0026 | 2024-01-05 |
@@ -676,7 +678,7 @@
 | [Smart socket T1](Smart%20socket%20T1/lumi.plug.macn01/0.0.0_0031/) | lumi.plug.macn01 | 0.0.0_0031 | 2020-10-30 |
 | [Smoke Detector](Smoke%20Detector/lumi.sensor_smoke.acn03/0.0.0_0017/) | lumi.sensor_smoke.acn03 | 0.0.0_0017 | 2023-03-09 |
 | [Spatial Multi-Sensor FP400](Spatial%20Multi-Sensor%20FP400/aqara.matter.4447_8201/1.2.0.0/) | aqara.matter.4447_8201 | 1.2.0.0 | 2026-10-19 |
-| [Spatial Multi-Sensor FP400](Spatial%20Multi-Sensor%20FP400/lumi.models.4447_8295/0062/) | lumi.models.4447_8295 | 0062 | 2026-10-19 |
+| [Spatial Multi-Sensor FP400](Spatial%20Multi-Sensor%20FP400/lumi.models.4447_8295/0051/) | lumi.models.4447_8295 | 0051 | 2026-07-30 |
 | [Spotlight T2 (15°)](Spotlight%20T2%20%2815%C2%B0%29/lumi.light.acn023/0.0.0_0041/) | lumi.light.acn023 | 0.0.0_0041 | 2024-01-03 |
 | [Spotlight T2 (24°)](Spotlight%20T2%20%2824%C2%B0%29/lumi.light.acn024/0.0.0_0041/) | lumi.light.acn024 | 0.0.0_0041 | 2024-01-03 |
 | [Spotlight T2 (36°)](Spotlight%20T2%20%2836%C2%B0%29/lumi.light.acn025/0.0.0_0041/) | lumi.light.acn025 | 0.0.0_0041 | 2024-01-03 |
@@ -722,11 +724,11 @@
 | [Camera G510 (Battery)](Camera%20G510%20%28Battery%29/lumi.models.4447_12324/4.5.60_0074/) | lumi.models.4447_12324 | 4.5.60_0074 | 2026-10-20 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.acn003/4.5.30_0004.0013/) | lumi.camera.acn003 | 4.5.30_0004.0013 | 2026-06-22 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.agl001/4.5.30_0004.0013/) | lumi.camera.agl001 | 4.5.30_0004.0013 | 2026-06-22 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.70_0004.0017/) | lumi.camera.agl010 | 4.5.70_0004.0017 | 2026-09-23 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.80_0010.0017/) | lumi.camera.agl010 | 4.5.80_0010.0017 | 2026-10-22 |
 | [Camera Hub G5 (PoE)](Camera%20Hub%20G5%20%28PoE%29/lumi.camera.acn009/4.3.3_0006.0017/) | lumi.camera.acn009 | 4.3.3_0006.0017 | 2025-02-20 |
-| [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.80_0016.0017/) | lumi.camera.acn010 | 4.5.80_0016.0017 | 2026-10-13 |
+| [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.80_0018.0017/) | lumi.camera.acn010 | 4.5.80_0018.0017 | 2026-10-23 |
 | [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl003/4.5.20_0012.0017/) | lumi.camera.agl003 | 4.5.20_0012.0017 | 2026-05-11 |
-| [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl004/4.5.80_0016.0017/) | lumi.camera.agl004 | 4.5.80_0016.0017 | 2026-10-13 |
+| [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl004/4.5.80_0018.0017/) | lumi.camera.agl004 | 4.5.80_0018.0017 | 2026-10-23 |
 | [Canon Smart Wall Switch Z1(Double Rocker)](Canon%20Smart%20Wall%20Switch%20Z1%28Double%20Rocker%29/lumi.switch.acn049/0.0.0_0031/) | lumi.switch.acn049 | 0.0.0_0031 | 2024-01-23 |
 | [Canon Smart Wall Switch Z1(Quadruple Rocker)](Canon%20Smart%20Wall%20Switch%20Z1%28Quadruple%20Rocker%29/lumi.switch.acn055/0.0.0_0031/) | lumi.switch.acn055 | 0.0.0_0031 | 2024-01-23 |
 | [Canon Smart Wall Switch Z1(Single Rocker)](Canon%20Smart%20Wall%20Switch%20Z1%28Single%20Rocker%29/lumi.switch.acn048/0.0.0_0031/) | lumi.switch.acn048 | 0.0.0_0031 | 2024-01-23 |
@@ -759,7 +761,7 @@
 | [Floor Heating Thermostat W500](Floor%20Heating%20Thermostat%20W500/aqara.matter.4447_18435/1.0.4.2/) | aqara.matter.4447_18435 | 1.0.4.2 | 2026-10-15 |
 | [Floor Heating Thermostat W500](Floor%20Heating%20Thermostat%20W500/lumi.airrtc.aeu001/0.0.0_1030/) | lumi.airrtc.aeu001 | 0.0.0_1030 | 2026-01-13 |
 | [Floor Lamp T1](Floor%20Lamp%20T1/aqara.matter.4447_6177/1.0.4.0/) | aqara.matter.4447_6177 | 1.0.4.0 | 2026-08-13 |
-| [Floor Lamp T1](Floor%20Lamp%20T1/lumi.models.4447_6207/0030/) | lumi.models.4447_6207 | 0030 | 2026-08-13 |
+| [Floor Lamp T1](Floor%20Lamp%20T1/lumi.models.4447_6207/0034/) | lumi.models.4447_6207 | 0034 | 2026-10-21 |
 | [Home Guardian Hub M410](Home%20Guardian%20Hub%20M410/lumi.models.4447_2096/4.5.70_0048/) | lumi.models.4447_2096 | 4.5.70_0048 | 2026-10-19 |
 | [Hub M100](Hub%20M100/lumi.gateway.agl008/4.5.80_0007.0017/) | lumi.gateway.agl008 | 4.5.80_0007.0017 | 2026-09-28 |
 | [Hub M1S Gen 2](Hub%20M1S%20Gen%202/lumi.gateway.agl002/4.5.30_0013.0013/) | lumi.gateway.agl002 | 4.5.30_0013.0013 | 2026-03-03 |
@@ -790,7 +792,7 @@
 | [LED Strip Controller H1 (RGB Spectrum)](LED%20Strip%20Controller%20H1%20%28RGB%20Spectrum%29/aqara.matter.4447_6180/1.0.0.2/) | aqara.matter.4447_6180 | 1.0.0.2 | 2026-07-13 |
 | [LED Strip T1](LED%20Strip%20T1/lumi.light.acn132/0.0.0_2627/) | lumi.light.acn132 | 0.0.0_2627 | 2023-06-16 |
 | [LED Strip T2](LED%20Strip%20T2/aqara.matter.4447_6183/1.0.1.0/) | aqara.matter.4447_6183 | 1.0.1.0 | 2026-08-13 |
-| [LED Strip T2](LED%20Strip%20T2/lumi.models.4447_6212/0028/) | lumi.models.4447_6212 | 0028 | 2026-08-13 |
+| [LED Strip T2](LED%20Strip%20T2/lumi.models.4447_6212/0034/) | lumi.models.4447_6212 | 0034 | 2026-10-21 |
 | [Light Switch H2 EU (2 Buttons, 1 Channel)](Light%20Switch%20H2%20EU%20%282%20Buttons%2C%201%20Channel%29/lumi.switch.agl009/0.0.0_2226/) | lumi.switch.agl009 | 0.0.0_2226 | 2025-11-18 |
 | [Light Switch H2 EU (4 Buttons, 2 Channels)](Light%20Switch%20H2%20EU%20%284%20Buttons%2C%202%20Channels%29/aqara.matter.4447_4105/1.0.1.0/) | aqara.matter.4447_4105 | 1.0.1.0 | 2025-06-03 |
 | [Light Switch H2 EU (4 Buttons, 2 Channels)](Light%20Switch%20H2%20EU%20%284%20Buttons%2C%202%20Channels%29/lumi.switch.agl010/0.0.0_2226/) | lumi.switch.agl010 | 0.0.0_2226 | 2025-11-18 |
@@ -899,7 +901,7 @@
 | [Smart wall switch Z1 Pro (three-button version)](Smart%20wall%20switch%20Z1%20Pro%20%28three-button%20version%29/lumi.switch.acn058/0.0.0_0040/) | lumi.switch.acn058 | 0.0.0_0040 | 2025-08-29 |
 | [Smoke Detector](Smoke%20Detector/lumi.sensor_smoke.acn03/0.0.0_0017/) | lumi.sensor_smoke.acn03 | 0.0.0_0017 | 2023-03-09 |
 | [Spatial Multi-Sensor FP400](Spatial%20Multi-Sensor%20FP400/aqara.matter.4447_8201/1.2.0.0/) | aqara.matter.4447_8201 | 1.2.0.0 | 2026-10-19 |
-| [Spatial Multi-Sensor FP400](Spatial%20Multi-Sensor%20FP400/lumi.models.4447_8295/0062/) | lumi.models.4447_8295 | 0062 | 2026-10-19 |
+| [Spatial Multi-Sensor FP400](Spatial%20Multi-Sensor%20FP400/lumi.models.4447_8295/0051/) | lumi.models.4447_8295 | 0051 | 2026-07-30 |
 | [Spotlight T2 (15°)](Spotlight%20T2%20%2815%C2%B0%29/lumi.light.acn023/0.0.0_0041/) | lumi.light.acn023 | 0.0.0_0041 | 2024-01-03 |
 | [Spotlight T2 (24°)](Spotlight%20T2%20%2824%C2%B0%29/lumi.light.acn024/0.0.0_0041/) | lumi.light.acn024 | 0.0.0_0041 | 2024-01-03 |
 | [Spotlight T2 (36°)](Spotlight%20T2%20%2836%C2%B0%29/lumi.light.acn025/0.0.0_0041/) | lumi.light.acn025 | 0.0.0_0041 | 2024-01-03 |

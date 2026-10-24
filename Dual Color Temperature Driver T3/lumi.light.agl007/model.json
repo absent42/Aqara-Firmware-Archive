@@ -1,7 +1,7 @@
 {
   "model": "lumi.light.agl007",
   "pid": "6156",
-  "matterPid": null,
+  "matterPid": "",
   "friendlyNames": [
     "Dual Color Temperature Driver T3"
   ]

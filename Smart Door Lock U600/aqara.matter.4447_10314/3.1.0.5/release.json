@@ -1,0 +1,13 @@
+{
+  "model": "aqara.matter.4447_10314",
+  "friendlyName": "Smart Door Lock U600",
+  "firmwareVersion": "3.1.0.5",
+  "firmwareMD5": "833ecc350b8347e92ef006512f52970e",
+  "fileSize": 2963022,
+  "releaseNotes": "1. Firmware V3.1.0.5, fixes known issues.",
+  "regions": [
+    "au",
+    "eu"
+  ],
+  "releaseDate": "2026-10-23"
+}

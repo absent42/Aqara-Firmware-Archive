@@ -1,0 +1,16 @@
+{
+  "model": "lumi.camera.agl010",
+  "friendlyName": "Camera Hub G350",
+  "firmwareVersion": "4.5.80_0010.0017",
+  "firmwareMD5": "ad559e1f7e89897f1adb61387547e9b6",
+  "fileSize": 33495144,
+  "releaseNotes": "Fix known issues",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-10-22"
+}

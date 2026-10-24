@@ -11,5 +11,5 @@ This product name covers more than one hardware model (region or revision varian
 ## [lumi.models.4447_6207](lumi.models.4447_6207/)
 
 - Regions: au, cn, eu, us
-- Latest: au: [0030](lumi.models.4447_6207/0030/), cn: [0030](lumi.models.4447_6207/0030/), eu: [0030](lumi.models.4447_6207/0030/), us: [0030](lumi.models.4447_6207/0030/)
-- Versions: [0030](lumi.models.4447_6207/0030/) (2026-08-13)
+- Latest: au: [0030](lumi.models.4447_6207/0030/), cn: [0034](lumi.models.4447_6207/0034/), eu: [0030](lumi.models.4447_6207/0030/), us: [0034](lumi.models.4447_6207/0034/)
+- Versions: [0030](lumi.models.4447_6207/0030/) (2026-08-13), [0034](lumi.models.4447_6207/0034/) (2026-10-21)
