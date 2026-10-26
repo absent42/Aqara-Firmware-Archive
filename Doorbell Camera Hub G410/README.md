@@ -10,6 +10,6 @@ This product name covers more than one hardware model (region or revision varian
 
 ## [lumi.camera.agl006](lumi.camera.agl006/)
 
-- Regions: au, cn, eu, kr, us
-- Latest: au: [4.5.80_0002.0108](lumi.camera.agl006/4.5.80_0002.0108/), cn: [4.5.20_0052.0108](lumi.camera.agl006/4.5.20_0052.0108/), eu: [4.5.80_0002.0108](lumi.camera.agl006/4.5.80_0002.0108/), kr: [4.5.80_0002.0108](lumi.camera.agl006/4.5.80_0002.0108/), us: [4.5.80_0002.0108](lumi.camera.agl006/4.5.80_0002.0108/)
+- Regions: au, cn, eu, kr, ru, us
+- Latest: au: [4.5.80_0002.0108](lumi.camera.agl006/4.5.80_0002.0108/), cn: [4.5.20_0052.0108](lumi.camera.agl006/4.5.20_0052.0108/), eu: [4.5.80_0002.0108](lumi.camera.agl006/4.5.80_0002.0108/), kr: [4.5.80_0002.0108](lumi.camera.agl006/4.5.80_0002.0108/), ru: [4.5.80_0002.0108](lumi.camera.agl006/4.5.80_0002.0108/), us: [4.5.80_0002.0108](lumi.camera.agl006/4.5.80_0002.0108/)
 - Versions: [4.5.20_0052.0108](lumi.camera.agl006/4.5.20_0052.0108/) (2026-05-08), [4.5.70_0016.0112](lumi.camera.agl006/4.5.70_0016.0112/) (2026-08-07), [4.5.70_0018.0114](lumi.camera.agl006/4.5.70_0018.0114/) (2026-09-02), [4.5.70_0018.0108](lumi.camera.agl006/4.5.70_0018.0108/) (2026-09-21), [4.5.80_0002.0108](lumi.camera.agl006/4.5.80_0002.0108/) (2026-10-08)

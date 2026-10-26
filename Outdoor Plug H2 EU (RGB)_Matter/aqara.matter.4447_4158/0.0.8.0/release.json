@@ -7,7 +7,8 @@
   "releaseNotes": "1. Fix known issues and optimize user experience",
   "regions": [
     "au",
-    "eu"
+    "eu",
+    "us"
   ],
   "releaseDate": "2026-10-10"
 }

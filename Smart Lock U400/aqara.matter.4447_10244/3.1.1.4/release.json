@@ -1,0 +1,13 @@
+{
+  "model": "aqara.matter.4447_10244",
+  "friendlyName": "Smart Lock U400",
+  "firmwareVersion": "3.1.1.4",
+  "firmwareMD5": "4cb4581fb97b2d8beac60342f515ae5b",
+  "fileSize": 3438154,
+  "releaseNotes": "1. Aqara Home app adds touchpad lock feature, disabled by default\n2. Reduced power consumption after successful NFC recognition\n3. Optimized door lock motor actuator algorithm\n4. Improved local menu calibration interaction: press local button 5 to trigger calibration, confirmation button blinks to prevent accidental press; plugin calibration does not support this blinking alert\n5. Fixed known bugs",
+  "regions": [
+    "au",
+    "us"
+  ],
+  "releaseDate": "2026-10-26"
+}

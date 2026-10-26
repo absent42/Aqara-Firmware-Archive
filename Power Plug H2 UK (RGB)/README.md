@@ -6,7 +6,7 @@ This product name covers more than one hardware model (region or revision varian
 
 - Regions: au, eu, us
 - Latest: au: [0.0.6.0](aqara.matter.4447_4162/0.0.6.0/), eu: [0.0.6.0](aqara.matter.4447_4162/0.0.6.0/), us: [0.0.6.0](aqara.matter.4447_4162/0.0.6.0/)
-- Versions: [0.0.6.0](aqara.matter.4447_4162/0.0.6.0/) (2026-03-06)
+- Versions: [0.0.6.0](aqara.matter.4447_4162/0.0.6.0/) (2026-03-25)
 
 ## [lumi.plug.aeu009](lumi.plug.aeu009/)
 

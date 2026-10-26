@@ -10,6 +10,6 @@ This product name covers more than one hardware model (region or revision varian
 
 ## [lumi.curtain.agl001](lumi.curtain.agl001/)
 
-- Regions: au, cn, eu, kr, us
-- Latest: au: [0.0.0_2424](lumi.curtain.agl001/0.0.0_2424/), cn: [0.0.0_2424](lumi.curtain.agl001/0.0.0_2424/), eu: [0.0.0_2424](lumi.curtain.agl001/0.0.0_2424/), kr: [0.0.0_2424](lumi.curtain.agl001/0.0.0_2424/), us: [0.0.0_2424](lumi.curtain.agl001/0.0.0_2424/)
+- Regions: au, cn, eu, kr, ru, us
+- Latest: au: [0.0.0_2424](lumi.curtain.agl001/0.0.0_2424/), cn: [0.0.0_2424](lumi.curtain.agl001/0.0.0_2424/), eu: [0.0.0_2424](lumi.curtain.agl001/0.0.0_2424/), kr: [0.0.0_2424](lumi.curtain.agl001/0.0.0_2424/), ru: [0.0.0_2424](lumi.curtain.agl001/0.0.0_2424/), us: [0.0.0_2424](lumi.curtain.agl001/0.0.0_2424/)
 - Versions: [0.0.0_2424](lumi.curtain.agl001/0.0.0_2424/) (2022-05-09)
