@@ -5,7 +5,7 @@ This product name covers more than one hardware model (region or revision varian
 ## [aqara.matter.4447_18435](aqara.matter.4447_18435/)
 
 - Regions: cn, eu, ru, us
-- Latest: cn: [1.0.3.0](aqara.matter.4447_18435/1.0.3.0/), eu: [1.0.4.2](aqara.matter.4447_18435/1.0.4.2/), ru: [1.0.4.2](aqara.matter.4447_18435/1.0.4.2/), us: [1.0.4.2](aqara.matter.4447_18435/1.0.4.2/)
+- Latest: cn: [1.0.3.0](aqara.matter.4447_18435/1.0.3.0/), eu: [1.0.3.0](aqara.matter.4447_18435/1.0.3.0/), ru: [1.0.4.2](aqara.matter.4447_18435/1.0.4.2/), us: [1.0.3.0](aqara.matter.4447_18435/1.0.3.0/)
 - Versions: [1.0.3.0](aqara.matter.4447_18435/1.0.3.0/) (2025-07-28), [1.0.4.2](aqara.matter.4447_18435/1.0.4.2/) (2026-10-15)
 
 ## [lumi.airrtc.aeu001](lumi.airrtc.aeu001/)

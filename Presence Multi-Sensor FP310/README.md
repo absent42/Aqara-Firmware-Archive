@@ -11,5 +11,5 @@ This product name covers more than one hardware model (region or revision varian
 ## [lumi.sensor_occupy.acn1](lumi.sensor_occupy.acn1/)
 
 - Regions: cn
-- Latest: cn: [0.0.0_0027](lumi.sensor_occupy.acn1/0.0.0_0027/)
-- Versions: [0.0.0_0027](lumi.sensor_occupy.acn1/0.0.0_0027/) (2026-05-06)
+- Latest: cn: [0.0.0_0028](lumi.sensor_occupy.acn1/0.0.0_0028/)
+- Versions: [0.0.0_0027](lumi.sensor_occupy.acn1/0.0.0_0027/) (2026-05-06), [0.0.0_0028](lumi.sensor_occupy.acn1/0.0.0_0028/) (2026-10-26)

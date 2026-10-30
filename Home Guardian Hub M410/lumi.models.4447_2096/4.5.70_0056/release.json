@@ -1,0 +1,15 @@
+{
+  "model": "lumi.models.4447_2096",
+  "friendlyName": "Home Guardian Hub M410",
+  "firmwareVersion": "4.5.70_0056",
+  "firmwareMD5": "e5fabd5e84b0b85433b60ef6fc98fe22",
+  "fileSize": 31303958,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-10-30"
+}

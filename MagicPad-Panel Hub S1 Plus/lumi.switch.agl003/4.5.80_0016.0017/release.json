@@ -1,0 +1,13 @@
+{
+  "model": "lumi.switch.agl003",
+  "friendlyName": "MagicPad/Panel Hub S1 Plus",
+  "firmwareVersion": "4.5.80_0016.0017",
+  "firmwareMD5": "53f97641b7cb3cd042e380dbf7380e00",
+  "fileSize": 739269940,
+  "releaseNotes": "1. Added Japanese localization support; interface text is adapted for Japanese display;\n2. Fixed known bugs and optimized product stability.",
+  "regions": [
+    "au",
+    "us"
+  ],
+  "releaseDate": "2026-10-30"
+}

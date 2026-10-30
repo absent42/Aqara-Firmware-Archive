@@ -6,7 +6,11 @@
   "fileSize": 904732,
   "releaseNotes": "1. Screen display optimization\n2. Battery power reporting optimization",
   "regions": [
-    "kr"
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
   ],
   "releaseDate": "2024-12-20"
 }

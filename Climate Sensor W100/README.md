@@ -5,7 +5,7 @@ This product name covers more than one hardware model (region or revision varian
 ## [aqara.matter.4447_8196](aqara.matter.4447_8196/)
 
 - Regions: au, cn, eu, kr, ru, us
-- Latest: au: [1.0.5.1](aqara.matter.4447_8196/1.0.5.1/), cn: [1.0.5.1](aqara.matter.4447_8196/1.0.5.1/), eu: [1.0.5.1](aqara.matter.4447_8196/1.0.5.1/), kr: [1.0.1.0](aqara.matter.4447_8196/1.0.1.0/), ru: [1.0.5.1](aqara.matter.4447_8196/1.0.5.1/), us: [1.0.5.1](aqara.matter.4447_8196/1.0.5.1/)
+- Latest: au: [1.0.1.0](aqara.matter.4447_8196/1.0.1.0/), cn: [1.0.1.0](aqara.matter.4447_8196/1.0.1.0/), eu: [1.0.1.0](aqara.matter.4447_8196/1.0.1.0/), kr: [1.0.1.0](aqara.matter.4447_8196/1.0.1.0/), ru: [1.0.5.1](aqara.matter.4447_8196/1.0.5.1/), us: [1.0.1.0](aqara.matter.4447_8196/1.0.1.0/)
 - Versions: [1.0.1.0](aqara.matter.4447_8196/1.0.1.0/) (2024-12-20), [1.0.5.1](aqara.matter.4447_8196/1.0.5.1/) (2026-02-06)
 
 ## [lumi.sensor_ht.agl001](lumi.sensor_ht.agl001/)

@@ -1,0 +1,12 @@
+{
+  "model": "lumi.sensor_occupy.acn1",
+  "friendlyName": "Presence Multi-Sensor FP310",
+  "firmwareVersion": "0.0.0_0028",
+  "firmwareMD5": "33446e61b7ced6c9a9e8ddc1058895ac",
+  "fileSize": 609774,
+  "releaseNotes": "",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-10-26"
+}
