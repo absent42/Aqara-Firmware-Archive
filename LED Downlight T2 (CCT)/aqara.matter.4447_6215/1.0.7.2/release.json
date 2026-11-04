@@ -1,0 +1,14 @@
+{
+  "model": "aqara.matter.4447_6215",
+  "friendlyName": "LED Downlight T2 (CCT)",
+  "firmwareVersion": "1.0.7.2",
+  "firmwareMD5": "ab491bd3f5f51c38011ce9c62b87851f",
+  "fileSize": 1177344,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-11-04"
+}

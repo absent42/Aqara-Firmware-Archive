@@ -1,6 +1,6 @@
 # Firmware by Region
 
-## au (175 current firmwares)
+## au (177 current firmwares)
 
 | Device | Model | Version | Released |
 | --- | --- | --- | --- |
@@ -58,6 +58,8 @@
 | [LED Bulb T2 (GU10, CCT)](LED%20Bulb%20T2%20%28GU10%2C%20CCT%29/lumi.light.agl006/0.0.0_0031/) | lumi.light.agl006 | 0.0.0_0031 | 2026-05-18 |
 | [LED Bulb T2 (GU10, RGB CCT)](LED%20Bulb%20T2%20%28GU10%2C%20RGB%20CCT%29/aqara.matter.4447_6149/1.0.2.0/) | aqara.matter.4447_6149 | 1.0.2.0 | 2024-11-27 |
 | [LED Bulb T2 (GU10, RGB CCT)](LED%20Bulb%20T2%20%28GU10%2C%20RGB%20CCT%29/lumi.light.agl005/0.0.0_0031/) | lumi.light.agl005 | 0.0.0_0031 | 2026-07-07 |
+| [LED Downlight T2 (CCT)](LED%20Downlight%20T2%20%28CCT%29/aqara.matter.4447_6215/1.0.7.2/) | aqara.matter.4447_6215 | 1.0.7.2 | 2026-11-04 |
+| [LED Downlight T2 (RGB CCT)](LED%20Downlight%20T2%20%28RGB%20CCT%29/aqara.matter.4447_6185/1.0.7.0/) | aqara.matter.4447_6185 | 1.0.7.0 | 2026-11-04 |
 | [LED Strip Controller H1 (RGB Spectrum)](LED%20Strip%20Controller%20H1%20%28RGB%20Spectrum%29/aqara.matter.4447_6180/1.0.0.2/) | aqara.matter.4447_6180 | 1.0.0.2 | 2026-07-13 |
 | [LED Strip T1](LED%20Strip%20T1/lumi.light.acn132/0.0.0_2627/) | lumi.light.acn132 | 0.0.0_2627 | 2023-06-16 |
 | [LED Strip T2](LED%20Strip%20T2/aqara.matter.4447_6183/1.0.1.0/) | aqara.matter.4447_6183 | 1.0.1.0 | 2026-08-13 |
@@ -413,7 +415,7 @@
 | [lumi.switch.jcn001](lumi.switch.jcn001/lumi.switch.jcn001/0.0.0_0065/) | lumi.switch.jcn001 | 0.0.0_0065 | 2022-01-06 |
 | [lumi.switch.jcn002](lumi.switch.jcn002/lumi.switch.jcn002/0.0.0_0066/) | lumi.switch.jcn002 | 0.0.0_0066 | 2022-01-06 |
 
-## eu (167 current firmwares)
+## eu (169 current firmwares)
 
 | Device | Model | Version | Released |
 | --- | --- | --- | --- |
@@ -474,6 +476,8 @@
 | [LED Bulb T2 (GU10, CCT)](LED%20Bulb%20T2%20%28GU10%2C%20CCT%29/lumi.light.agl006/0.0.0_0031/) | lumi.light.agl006 | 0.0.0_0031 | 2026-05-18 |
 | [LED Bulb T2 (GU10, RGB CCT)](LED%20Bulb%20T2%20%28GU10%2C%20RGB%20CCT%29/aqara.matter.4447_6149/1.0.2.0/) | aqara.matter.4447_6149 | 1.0.2.0 | 2024-11-27 |
 | [LED Bulb T2 (GU10, RGB CCT)](LED%20Bulb%20T2%20%28GU10%2C%20RGB%20CCT%29/lumi.light.agl005/0.0.0_0031/) | lumi.light.agl005 | 0.0.0_0031 | 2026-07-07 |
+| [LED Downlight T2 (CCT)](LED%20Downlight%20T2%20%28CCT%29/aqara.matter.4447_6215/1.0.7.2/) | aqara.matter.4447_6215 | 1.0.7.2 | 2026-11-04 |
+| [LED Downlight T2 (RGB CCT)](LED%20Downlight%20T2%20%28RGB%20CCT%29/aqara.matter.4447_6185/1.0.7.0/) | aqara.matter.4447_6185 | 1.0.7.0 | 2026-11-04 |
 | [LED Strip T1](LED%20Strip%20T1/lumi.light.acn132/0.0.0_2627/) | lumi.light.acn132 | 0.0.0_2627 | 2023-06-16 |
 | [LED Strip T2](LED%20Strip%20T2/aqara.matter.4447_6183/1.0.1.0/) | aqara.matter.4447_6183 | 1.0.1.0 | 2026-08-13 |
 | [LED Strip T2](LED%20Strip%20T2/lumi.models.4447_6212/0034/) | lumi.models.4447_6212 | 0034 | 2026-10-21 |
@@ -487,7 +491,7 @@
 | [Light Switch H2 Vertical/Horizontal/US (4 Buttons, 3 Channels)](Light%20Switch%20H2%20Vertical-Horizontal-US%20%284%20Buttons%2C%203%20Channels%29/aqara.matter.4447_4101/1.0.2.0/) | aqara.matter.4447_4101 | 1.0.2.0 | 2025-07-30 |
 | [Light Switch H2 Vertical/Horizontal/US (4 Buttons, 3 Channels)](Light%20Switch%20H2%20Vertical-Horizontal-US%20%284%20Buttons%2C%203%20Channels%29/lumi.switch.agl006/0.0.0_2327/) | lumi.switch.agl006 | 0.0.0_2327 | 2025-10-28 |
 | [Magic Switch S1E](Magic%20Switch%20S1E/lumi.switch.acn032/2.2.2_0006.0000/) | lumi.switch.acn032 | 2.2.2_0006.0000 | 2026-06-15 |
-| [MagicPad/Panel Hub S1 Plus](MagicPad-Panel%20Hub%20S1%20Plus/lumi.switch.agl003/4.5.80_0002.0017/) | lumi.switch.agl003 | 4.5.80_0002.0017 | 2026-10-13 |
+| [MagicPad/Panel Hub S1 Plus](MagicPad-Panel%20Hub%20S1%20Plus/lumi.switch.agl003/4.5.80_0016.0017/) | lumi.switch.agl003 | 4.5.80_0016.0017 | 2026-10-30 |
 | [Motion Sensor P1](Motion%20Sensor%20P1/lumi.motion.ac02/0.0.0_0010/) | lumi.motion.ac02 | 0.0.0_0010 | 2023-02-17 |
 | [Motion Sensor T1](Motion%20Sensor%20T1/lumi.motion.agl02/0.0.0_0035/) | lumi.motion.agl02 | 0.0.0_0035 | 2021-11-22 |
 | [Multi-State Sensor P100](Multi-State%20Sensor%20P100/aqara.matter.4447_8203/1.0.0.4/) | aqara.matter.4447_8203 | 1.0.0.4 | 2026-08-24 |
@@ -640,7 +644,7 @@
 | [Light Switch H2 Vertical/Horizontal/US (2 Buttons, 2 Channels)](Light%20Switch%20H2%20Vertical-Horizontal-US%20%282%20Buttons%2C%202%20Channels%29/lumi.switch.agl005/0.0.0_2327/) | lumi.switch.agl005 | 0.0.0_2327 | 2025-12-04 |
 | [Light Switch H2 Vertical/Horizontal/US (4 Buttons, 3 Channels)](Light%20Switch%20H2%20Vertical-Horizontal-US%20%284%20Buttons%2C%203%20Channels%29/aqara.matter.4447_4101/1.0.3.0/) | aqara.matter.4447_4101 | 1.0.3.0 | 2025-10-13 |
 | [Light Switch H2 Vertical/Horizontal/US (4 Buttons, 3 Channels)](Light%20Switch%20H2%20Vertical-Horizontal-US%20%284%20Buttons%2C%203%20Channels%29/lumi.switch.agl006/0.0.0_2327/) | lumi.switch.agl006 | 0.0.0_2327 | 2025-10-28 |
-| [MagicPad/Panel Hub S1 Plus](MagicPad-Panel%20Hub%20S1%20Plus/lumi.switch.agl003/4.5.80_0002.0017/) | lumi.switch.agl003 | 4.5.80_0002.0017 | 2026-10-13 |
+| [MagicPad/Panel Hub S1 Plus](MagicPad-Panel%20Hub%20S1%20Plus/lumi.switch.agl003/4.5.80_0016.0017/) | lumi.switch.agl003 | 4.5.80_0016.0017 | 2026-10-30 |
 | [Motion Sensor P1](Motion%20Sensor%20P1/lumi.motion.ac02/0.0.0_0010/) | lumi.motion.ac02 | 0.0.0_0010 | 2023-02-17 |
 | [Motion Sensor T1](Motion%20Sensor%20T1/lumi.motion.agl02/0.0.0_0035/) | lumi.motion.agl02 | 0.0.0_0035 | 2021-11-22 |
 | [Multi-State Sensor P100](Multi-State%20Sensor%20P100/aqara.matter.4447_8203/1.0.0.4/) | aqara.matter.4447_8203 | 1.0.0.4 | 2026-08-24 |
@@ -753,7 +757,7 @@
 | [LED Strip T1](LED%20Strip%20T1/lumi.light.acn132/0.0.0_2627/) | lumi.light.acn132 | 0.0.0_2627 | 2023-06-16 |
 | [LED Strip T2](LED%20Strip%20T2/aqara.matter.4447_6183/1.0.1.0/) | aqara.matter.4447_6183 | 1.0.1.0 | 2026-08-13 |
 | [LED Strip T2](LED%20Strip%20T2/lumi.models.4447_6212/0034/) | lumi.models.4447_6212 | 0034 | 2026-10-21 |
-| [MagicPad/Panel Hub S1 Plus](MagicPad-Panel%20Hub%20S1%20Plus/lumi.switch.agl003/4.5.80_0002.0017/) | lumi.switch.agl003 | 4.5.80_0002.0017 | 2026-10-13 |
+| [MagicPad/Panel Hub S1 Plus](MagicPad-Panel%20Hub%20S1%20Plus/lumi.switch.agl003/4.5.80_0002.0017/) | lumi.switch.agl003 | 4.5.80_0002.0017 | 2026-10-19 |
 | [Motion Sensor P1](Motion%20Sensor%20P1/lumi.motion.ac02/0.0.0_0010/) | lumi.motion.ac02 | 0.0.0_0010 | 2023-02-17 |
 | [Motion Sensor T1](Motion%20Sensor%20T1/lumi.motion.agl02/0.0.0_0035/) | lumi.motion.agl02 | 0.0.0_0035 | 2021-11-22 |
 | [Multi-State Sensor P100](Multi-State%20Sensor%20P100/aqara.matter.4447_8203/1.0.0.4/) | aqara.matter.4447_8203 | 1.0.0.4 | 2026-08-24 |
@@ -809,7 +813,7 @@
 | [Wall Switch T1 (With Neutral, Three Rocker)](Wall%20Switch%20T1%20%28With%20Neutral%2C%20Three%20Rocker%29/lumi.switch.b3n01/0.0.0_0028/) | lumi.switch.b3n01 | 0.0.0_0028 | 2024-08-26 |
 | [Wireless Mini Switch T1](Wireless%20Mini%20Switch%20T1/lumi.remote.b1acn02/0.0.0_0031/) | lumi.remote.b1acn02 | 0.0.0_0031 | 2022-12-27 |
 
-## us (208 current firmwares)
+## us (210 current firmwares)
 
 | Device | Model | Version | Released |
 | --- | --- | --- | --- |
@@ -885,6 +889,8 @@
 | [LED Bulb T2 (GU10, CCT)](LED%20Bulb%20T2%20%28GU10%2C%20CCT%29/lumi.light.agl006/0.0.0_0031/) | lumi.light.agl006 | 0.0.0_0031 | 2026-05-18 |
 | [LED Bulb T2 (GU10, RGB CCT)](LED%20Bulb%20T2%20%28GU10%2C%20RGB%20CCT%29/aqara.matter.4447_6149/1.0.2.0/) | aqara.matter.4447_6149 | 1.0.2.0 | 2024-11-27 |
 | [LED Bulb T2 (GU10, RGB CCT)](LED%20Bulb%20T2%20%28GU10%2C%20RGB%20CCT%29/lumi.light.agl005/0.0.0_0031/) | lumi.light.agl005 | 0.0.0_0031 | 2026-07-07 |
+| [LED Downlight T2 (CCT)](LED%20Downlight%20T2%20%28CCT%29/aqara.matter.4447_6215/1.0.7.2/) | aqara.matter.4447_6215 | 1.0.7.2 | 2026-11-04 |
+| [LED Downlight T2 (RGB CCT)](LED%20Downlight%20T2%20%28RGB%20CCT%29/aqara.matter.4447_6185/1.0.7.0/) | aqara.matter.4447_6185 | 1.0.7.0 | 2026-11-04 |
 | [LED Strip Controller H1 (RGB Spectrum)](LED%20Strip%20Controller%20H1%20%28RGB%20Spectrum%29/aqara.matter.4447_6180/1.0.0.2/) | aqara.matter.4447_6180 | 1.0.0.2 | 2026-07-13 |
 | [LED Strip T1](LED%20Strip%20T1/lumi.light.acn132/0.0.0_2627/) | lumi.light.acn132 | 0.0.0_2627 | 2023-06-16 |
 | [LED Strip T2](LED%20Strip%20T2/aqara.matter.4447_6183/1.0.1.0/) | aqara.matter.4447_6183 | 1.0.1.0 | 2026-08-13 |

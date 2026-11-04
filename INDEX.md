@@ -1,6 +1,6 @@
 # Firmware Archive Index
 
-246 device names, 294 models.
+248 device names, 296 models.
 
 | Device | Models | Regions |
 | --- | --- | --- |
@@ -64,6 +64,8 @@
 | [LED Bulb T2 (E27, RGB CCT)](LED%20Bulb%20T2%20%28E27%2C%20RGB%20CCT%29/) | aqara.matter.4447_6147, lumi.light.agl003 | au, cn, eu, us |
 | [LED Bulb T2 (GU10, CCT)](LED%20Bulb%20T2%20%28GU10%2C%20CCT%29/) | aqara.matter.4447_6150, lumi.light.agl006 | au, cn, eu, us |
 | [LED Bulb T2 (GU10, RGB CCT)](LED%20Bulb%20T2%20%28GU10%2C%20RGB%20CCT%29/) | aqara.matter.4447_6149, lumi.light.agl005 | au, cn, eu, us |
+| [LED Downlight T2 (CCT)](LED%20Downlight%20T2%20%28CCT%29/) | aqara.matter.4447_6215 | au, eu, us |
+| [LED Downlight T2 (RGB CCT)](LED%20Downlight%20T2%20%28RGB%20CCT%29/) | aqara.matter.4447_6185 | au, eu, us |
 | [LED Strip Controller H1 (RGB Spectrum)](LED%20Strip%20Controller%20H1%20%28RGB%20Spectrum%29/) | aqara.matter.4447_6180 | au, cn, us |
 | [LED Strip T1](LED%20Strip%20T1/) | lumi.light.acn132 | au, cn, eu, kr, ru, us |
 | [LED Strip T2](LED%20Strip%20T2/) | aqara.matter.4447_6183, lumi.models.4447_6212 | au, cn, eu, kr, ru, us |

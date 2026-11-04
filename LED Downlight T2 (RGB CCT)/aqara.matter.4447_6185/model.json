@@ -1,0 +1,8 @@
+{
+  "model": "aqara.matter.4447_6185",
+  "pid": "6185",
+  "matterPid": null,
+  "friendlyNames": [
+    "LED Downlight T2 (RGB CCT)"
+  ]
+}

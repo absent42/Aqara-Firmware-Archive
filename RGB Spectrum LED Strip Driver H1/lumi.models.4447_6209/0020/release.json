@@ -4,7 +4,7 @@
   "firmwareVersion": "0020",
   "firmwareMD5": "ba2be6ceb1fae3206724561f69fafd4d",
   "fileSize": 676542,
-  "releaseNotes": "",
+  "releaseNotes": "1. Fix known issues",
   "regions": [
     "au",
     "cn",
