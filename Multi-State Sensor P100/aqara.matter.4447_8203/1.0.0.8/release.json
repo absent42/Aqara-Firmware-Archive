@@ -1,0 +1,16 @@
+{
+  "model": "aqara.matter.4447_8203",
+  "friendlyName": "Multi-State Sensor P100",
+  "firmwareVersion": "1.0.0.8",
+  "firmwareMD5": "14af70ec2db1c745f2eb2addf77341f5",
+  "fileSize": 1135088,
+  "releaseNotes": "Fixes an issue where brief disturbances after cabinet door closure could cause incorrect geomagnetic state detection; door-closed status is accurately identified after the device becomes motionless",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-11-05"
+}
