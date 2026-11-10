@@ -4,9 +4,10 @@
   "firmwareVersion": "4.5.84_0004.0017",
   "firmwareMD5": "26c10e03e8372f838e0747632db9c84f",
   "fileSize": 34744424,
-  "releaseNotes": "Fix known issues",
+  "releaseNotes": "Fixed known issues",
   "regions": [
     "au",
+    "cn",
     "eu",
     "kr",
     "ru",

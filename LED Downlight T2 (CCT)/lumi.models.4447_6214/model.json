@@ -1,7 +1,7 @@
 {
   "model": "lumi.models.4447_6214",
   "pid": "6214",
-  "matterPid": null,
+  "matterPid": "",
   "friendlyNames": [
     "LED Downlight T2 (CCT)"
   ]
