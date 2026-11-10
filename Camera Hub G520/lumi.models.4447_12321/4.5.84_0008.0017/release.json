@@ -1,0 +1,15 @@
+{
+  "model": "lumi.models.4447_12321",
+  "friendlyName": "Camera Hub G520",
+  "firmwareVersion": "4.5.84_0008.0017",
+  "firmwareMD5": "369e3fb030ed28ddd04f15d0ebfee5ea",
+  "fileSize": 34672744,
+  "releaseNotes": "Bug fixes",
+  "regions": [
+    "au",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-11-06"
+}

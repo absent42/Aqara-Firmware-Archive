@@ -1,0 +1,14 @@
+{
+  "model": "lumi.models.4447_6213",
+  "friendlyName": "LED Downlight T2 (RGB CCT)",
+  "firmwareVersion": "0011",
+  "firmwareMD5": "2e6d4df74e0298482ac2a018d6b9cb3d",
+  "fileSize": 673694,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-11-10"
+}

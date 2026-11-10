@@ -1,0 +1,14 @@
+{
+  "model": "aqara.matter.4447_6183",
+  "friendlyName": "LED Strip T2",
+  "firmwareVersion": "1.1.1.0",
+  "firmwareMD5": "cae128734d05c3a5a897f3c5c972bc23",
+  "fileSize": 1376896,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-11-10"
+}

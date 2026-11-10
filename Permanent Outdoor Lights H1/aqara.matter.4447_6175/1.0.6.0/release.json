@@ -1,0 +1,15 @@
+{
+  "model": "aqara.matter.4447_6175",
+  "friendlyName": "Permanent Outdoor Lights H1",
+  "firmwareVersion": "1.0.6.0",
+  "firmwareMD5": "477bba173ec5d831bc2b53d123cba4ad",
+  "fileSize": 1341568,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-08-13"
+}

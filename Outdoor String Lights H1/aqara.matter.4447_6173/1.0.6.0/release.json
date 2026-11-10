@@ -1,0 +1,15 @@
+{
+  "model": "aqara.matter.4447_6173",
+  "friendlyName": "Outdoor String Lights H1",
+  "firmwareVersion": "1.0.6.0",
+  "firmwareMD5": "5de6fc36781a9c5a5dd0ca539c26f238",
+  "fileSize": 1341568,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-08-13"
+}

@@ -1,6 +1,6 @@
 # Firmware Archive Index
 
-248 device names, 296 models.
+251 device names, 303 models.
 
 | Device | Models | Regions |
 | --- | --- | --- |
@@ -13,6 +13,7 @@
 | [Camera Hub G5 (PoE)](Camera%20Hub%20G5%20%28PoE%29/) | lumi.camera.acn009 | cn, us |
 | [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/) | lumi.camera.acn010 | au, cn, eu, kr, ru, us |
 | [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/) | lumi.camera.agl003, lumi.camera.agl004 | au, cn, eu, kr, ru, us |
+| [Camera Hub G520](Camera%20Hub%20G520/) | lumi.models.4447_12321 | au, cn, eu, kr, ru, us |
 | [Camera T1](Camera%20T1/) | aqara.camera.acn002 | cn |
 | [Canon Smart Wall Switch Z1(Double Rocker)](Canon%20Smart%20Wall%20Switch%20Z1%28Double%20Rocker%29/) | lumi.switch.acn049 | au, cn, eu, us |
 | [Canon Smart Wall Switch Z1(Quadruple Rocker)](Canon%20Smart%20Wall%20Switch%20Z1%28Quadruple%20Rocker%29/) | lumi.switch.acn055 | au, cn, eu, us |
@@ -64,8 +65,8 @@
 | [LED Bulb T2 (E27, RGB CCT)](LED%20Bulb%20T2%20%28E27%2C%20RGB%20CCT%29/) | aqara.matter.4447_6147, lumi.light.agl003 | au, cn, eu, us |
 | [LED Bulb T2 (GU10, CCT)](LED%20Bulb%20T2%20%28GU10%2C%20CCT%29/) | aqara.matter.4447_6150, lumi.light.agl006 | au, cn, eu, us |
 | [LED Bulb T2 (GU10, RGB CCT)](LED%20Bulb%20T2%20%28GU10%2C%20RGB%20CCT%29/) | aqara.matter.4447_6149, lumi.light.agl005 | au, cn, eu, us |
-| [LED Downlight T2 (CCT)](LED%20Downlight%20T2%20%28CCT%29/) | aqara.matter.4447_6215 | au, eu, us |
-| [LED Downlight T2 (RGB CCT)](LED%20Downlight%20T2%20%28RGB%20CCT%29/) | aqara.matter.4447_6185 | au, eu, us |
+| [LED Downlight T2 (CCT)](LED%20Downlight%20T2%20%28CCT%29/) | aqara.matter.4447_6215, lumi.models.4447_6214 | au, eu, us |
+| [LED Downlight T2 (RGB CCT)](LED%20Downlight%20T2%20%28RGB%20CCT%29/) | aqara.matter.4447_6185, lumi.models.4447_6213 | au, eu, us |
 | [LED Strip Controller H1 (RGB Spectrum)](LED%20Strip%20Controller%20H1%20%28RGB%20Spectrum%29/) | aqara.matter.4447_6180 | au, cn, us |
 | [LED Strip T1](LED%20Strip%20T1/) | lumi.light.acn132 | au, cn, eu, kr, ru, us |
 | [LED Strip T2](LED%20Strip%20T2/) | aqara.matter.4447_6183, lumi.models.4447_6212 | au, cn, eu, kr, ru, us |
@@ -95,9 +96,11 @@
 | [Outdoor Plug H2 EU (RGB)_Zigbee](Outdoor%20Plug%20H2%20EU%20%28RGB%29_Zigbee/) | lumi.plug.aeu007 | au, eu, us |
 | [Outdoor Plug H2 EU_Matter](Outdoor%20Plug%20H2%20EU_Matter/) | aqara.matter.4447_4156 | au, eu, us |
 | [Outdoor Plug H2 EU_Zigbee](Outdoor%20Plug%20H2%20EU_Zigbee/) | lumi.plug.aeu006 | au, eu, us |
+| [Outdoor String Lights H1](Outdoor%20String%20Lights%20H1/) | aqara.matter.4447_6173, lumi.models.4447_6205 | au, cn, eu, us |
 | [Panel Hub AX100S](Panel%20Hub%20AX100S/) | lumi.gateway.agl015 | au, cn, eu, us |
 | [Panel Switch S100](Panel%20Switch%20S100/) | lumi.switch.acn066 | au, cn, eu, us |
 | [Pastel Spectrum Downlight Spotlight H1](Pastel%20Spectrum%20Downlight%20Spotlight%20H1/) | aqara.matter.4447_6179, lumi.models.4447_6208 | au, cn, us |
+| [Permanent Outdoor Lights H1](Permanent%20Outdoor%20Lights%20H1/) | aqara.matter.4447_6175, lumi.models.4447_6206 | au, cn, eu, us |
 | [Power Plug H2 EU](Power%20Plug%20H2%20EU/) | aqara.matter.4447_4152, lumi.plug.aeu004 | au, eu, us |
 | [Power Plug H2 EU (RGB)](Power%20Plug%20H2%20EU%20%28RGB%29/) | aqara.matter.4447_4154, lumi.plug.aeu005 | au, eu, us |
 | [Power Plug H2 UK](Power%20Plug%20H2%20UK/) | aqara.matter.4447_4110, aqara.matter.4447_4160, lumi.plug.aeu008 | au, eu, us |
