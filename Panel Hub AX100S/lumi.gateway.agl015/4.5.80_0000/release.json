@@ -1,0 +1,12 @@
+{
+  "model": "lumi.gateway.agl015",
+  "friendlyName": "Panel Hub AX100S",
+  "firmwareVersion": "4.5.80_0000",
+  "firmwareMD5": "4764114de81f75e3c8b68bdca39ff1f7",
+  "fileSize": 31334504,
+  "releaseNotes": "1. Updated the Hub version;\n2. Fixed known issues and optimized user experience.",
+  "regions": [
+    "cn"
+  ],
+  "releaseDate": "2026-11-11"
+}

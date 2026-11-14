@@ -4,7 +4,7 @@
   "firmwareVersion": "0033",
   "firmwareMD5": "5a29946d7da6997d6c0ef73ccb49c01e",
   "fileSize": 713754,
-  "releaseNotes": "",
+  "releaseNotes": "Fix known issues, optimize user experience",
   "regions": [
     "cn"
   ],

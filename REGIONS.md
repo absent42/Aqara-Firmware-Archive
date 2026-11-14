@@ -43,7 +43,7 @@
 | [Hub M1S Gen 2](Hub%20M1S%20Gen%202/lumi.gateway.agl002/4.5.30_0013.0013/) | lumi.gateway.agl002 | 4.5.30_0013.0013 | 2026-03-03 |
 | [Hub M2](Hub%20M2/lumi.gateway.agl001/4.5.60_0027.0654/) | lumi.gateway.agl001 | 4.5.60_0027.0654 | 2026-09-10 |
 | [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.80_0007/) | lumi.gateway.agl011 | 4.5.80_0007 | 2026-09-28 |
-| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.80_0007/) | lumi.gateway.agl004 | 4.5.80_0007 | 2026-09-07 |
+| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.90_0009/) | lumi.gateway.agl004 | 4.5.90_0009 | 2026-11-12 |
 | [LED Bulb T1 (Tunable White)](LED%20Bulb%20T1%20%28Tunable%20White%29/lumi.light.acn014/0.0.0_0040/) | lumi.light.acn014 | 0.0.0_0040 | 2024-01-03 |
 | [LED Bulb T2 (E14, RGB CCT)](LED%20Bulb%20T2%20%28E14%2C%20RGB%20CCT%29/lumi.models.4447_6218/0015/) | lumi.models.4447_6218 | 0015 | 2026-10-26 |
 | [LED Bulb T2 (E14/E12, CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20CCT%29/lumi.models.4447_6219/0015/) | lumi.models.4447_6219 | 0015 | 2026-10-26 |
@@ -60,9 +60,9 @@
 | [LED Bulb T2 (GU10, RGB CCT)](LED%20Bulb%20T2%20%28GU10%2C%20RGB%20CCT%29/aqara.matter.4447_6149/1.0.2.0/) | aqara.matter.4447_6149 | 1.0.2.0 | 2024-11-27 |
 | [LED Bulb T2 (GU10, RGB CCT)](LED%20Bulb%20T2%20%28GU10%2C%20RGB%20CCT%29/lumi.light.agl005/0.0.0_0031/) | lumi.light.agl005 | 0.0.0_0031 | 2026-07-07 |
 | [LED Downlight T2 (CCT)](LED%20Downlight%20T2%20%28CCT%29/aqara.matter.4447_6215/1.0.7.2/) | aqara.matter.4447_6215 | 1.0.7.2 | 2026-11-04 |
-| [LED Downlight T2 (CCT)](LED%20Downlight%20T2%20%28CCT%29/lumi.models.4447_6214/0011/) | lumi.models.4447_6214 | 0011 | 2026-11-10 |
+| [LED Downlight T2 (CCT)](LED%20Downlight%20T2%20%28CCT%29/lumi.models.4447_6214/0012/) | lumi.models.4447_6214 | 0012 | 2026-11-12 |
 | [LED Downlight T2 (RGB CCT)](LED%20Downlight%20T2%20%28RGB%20CCT%29/aqara.matter.4447_6185/1.0.7.0/) | aqara.matter.4447_6185 | 1.0.7.0 | 2026-11-04 |
-| [LED Downlight T2 (RGB CCT)](LED%20Downlight%20T2%20%28RGB%20CCT%29/lumi.models.4447_6213/0011/) | lumi.models.4447_6213 | 0011 | 2026-11-10 |
+| [LED Downlight T2 (RGB CCT)](LED%20Downlight%20T2%20%28RGB%20CCT%29/lumi.models.4447_6213/0012/) | lumi.models.4447_6213 | 0012 | 2026-11-12 |
 | [LED Strip Controller H1 (RGB Spectrum)](LED%20Strip%20Controller%20H1%20%28RGB%20Spectrum%29/aqara.matter.4447_6180/1.0.0.2/) | aqara.matter.4447_6180 | 1.0.0.2 | 2026-07-13 |
 | [LED Strip T1](LED%20Strip%20T1/lumi.light.acn132/0.0.0_2627/) | lumi.light.acn132 | 0.0.0_2627 | 2023-06-16 |
 | [LED Strip T2](LED%20Strip%20T2/aqara.matter.4447_6183/1.1.1.0/) | aqara.matter.4447_6183 | 1.1.1.0 | 2026-11-10 |
@@ -292,7 +292,7 @@
 | [Outdoor Camera G510](Outdoor%20Camera%20G510/lumi.camera.agl017/4.5.20_0124/) | lumi.camera.agl017 | 4.5.20_0124 | 2026-07-30 |
 | [Outdoor String Lights H1](Outdoor%20String%20Lights%20H1/aqara.matter.4447_6173/1.0.6.0/) | aqara.matter.4447_6173 | 1.0.6.0 | 2026-08-13 |
 | [Outdoor String Lights H1](Outdoor%20String%20Lights%20H1/lumi.models.4447_6205/0028/) | lumi.models.4447_6205 | 0028 | 2026-08-13 |
-| [Panel Hub AX100S](Panel%20Hub%20AX100S/lumi.gateway.agl015/4.5.42_0004/) | lumi.gateway.agl015 | 4.5.42_0004 | 2026-04-27 |
+| [Panel Hub AX100S](Panel%20Hub%20AX100S/lumi.gateway.agl015/4.5.80_0000/) | lumi.gateway.agl015 | 4.5.80_0000 | 2026-11-11 |
 | [Panel Switch S100](Panel%20Switch%20S100/lumi.switch.acn066/1.2.0_0005/) | lumi.switch.acn066 | 1.2.0_0005 | 2026-10-08 |
 | [Pastel Spectrum Downlight Spotlight H1](Pastel%20Spectrum%20Downlight%20Spotlight%20H1/aqara.matter.4447_6179/1.0.0.2/) | aqara.matter.4447_6179 | 1.0.0.2 | 2026-08-03 |
 | [Pastel Spectrum Downlight Spotlight H1](Pastel%20Spectrum%20Downlight%20Spotlight%20H1/lumi.models.4447_6208/0016/) | lumi.models.4447_6208 | 0016 | 2026-08-25 |
@@ -475,7 +475,7 @@
 | [Hub M1S Gen 2](Hub%20M1S%20Gen%202/lumi.gateway.agl002/4.5.30_0013.0013/) | lumi.gateway.agl002 | 4.5.30_0013.0013 | 2026-03-03 |
 | [Hub M2](Hub%20M2/lumi.gateway.agl001/4.5.60_0027.0654/) | lumi.gateway.agl001 | 4.5.60_0027.0654 | 2026-09-10 |
 | [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.80_0007/) | lumi.gateway.agl011 | 4.5.80_0007 | 2026-09-28 |
-| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.90_0009/) | lumi.gateway.agl004 | 4.5.90_0009 | 2026-11-09 |
+| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.90_0009/) | lumi.gateway.agl004 | 4.5.90_0009 | 2026-11-12 |
 | [LED Bulb T1 (Tunable White)](LED%20Bulb%20T1%20%28Tunable%20White%29/lumi.light.acn014/0.0.0_0040/) | lumi.light.acn014 | 0.0.0_0040 | 2024-01-03 |
 | [LED Bulb T2 (E14, RGB CCT)](LED%20Bulb%20T2%20%28E14%2C%20RGB%20CCT%29/lumi.models.4447_6218/0015/) | lumi.models.4447_6218 | 0015 | 2026-10-26 |
 | [LED Bulb T2 (E14/E12, CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20CCT%29/aqara.matter.4447_6184/1.0.6.2/) | aqara.matter.4447_6184 | 1.0.6.2 | 2026-09-01 |
@@ -490,9 +490,9 @@
 | [LED Bulb T2 (GU10, RGB CCT)](LED%20Bulb%20T2%20%28GU10%2C%20RGB%20CCT%29/aqara.matter.4447_6149/1.0.2.0/) | aqara.matter.4447_6149 | 1.0.2.0 | 2024-11-27 |
 | [LED Bulb T2 (GU10, RGB CCT)](LED%20Bulb%20T2%20%28GU10%2C%20RGB%20CCT%29/lumi.light.agl005/0.0.0_0031/) | lumi.light.agl005 | 0.0.0_0031 | 2026-07-07 |
 | [LED Downlight T2 (CCT)](LED%20Downlight%20T2%20%28CCT%29/aqara.matter.4447_6215/1.0.7.2/) | aqara.matter.4447_6215 | 1.0.7.2 | 2026-11-04 |
-| [LED Downlight T2 (CCT)](LED%20Downlight%20T2%20%28CCT%29/lumi.models.4447_6214/0011/) | lumi.models.4447_6214 | 0011 | 2026-11-10 |
+| [LED Downlight T2 (CCT)](LED%20Downlight%20T2%20%28CCT%29/lumi.models.4447_6214/0012/) | lumi.models.4447_6214 | 0012 | 2026-11-12 |
 | [LED Downlight T2 (RGB CCT)](LED%20Downlight%20T2%20%28RGB%20CCT%29/aqara.matter.4447_6185/1.0.7.0/) | aqara.matter.4447_6185 | 1.0.7.0 | 2026-11-04 |
-| [LED Downlight T2 (RGB CCT)](LED%20Downlight%20T2%20%28RGB%20CCT%29/lumi.models.4447_6213/0011/) | lumi.models.4447_6213 | 0011 | 2026-11-10 |
+| [LED Downlight T2 (RGB CCT)](LED%20Downlight%20T2%20%28RGB%20CCT%29/lumi.models.4447_6213/0012/) | lumi.models.4447_6213 | 0012 | 2026-11-12 |
 | [LED Strip T1](LED%20Strip%20T1/lumi.light.acn132/0.0.0_2627/) | lumi.light.acn132 | 0.0.0_2627 | 2023-06-16 |
 | [LED Strip T2](LED%20Strip%20T2/aqara.matter.4447_6183/1.1.1.0/) | aqara.matter.4447_6183 | 1.1.1.0 | 2026-11-10 |
 | [LED Strip T2](LED%20Strip%20T2/lumi.models.4447_6212/0034/) | lumi.models.4447_6212 | 0034 | 2026-10-21 |
@@ -646,7 +646,7 @@
 | [Hub M1S Gen 2](Hub%20M1S%20Gen%202/lumi.gateway.agl002/4.5.30_0013.0013/) | lumi.gateway.agl002 | 4.5.30_0013.0013 | 2026-03-03 |
 | [Hub M2](Hub%20M2/lumi.gateway.agl001/4.5.60_0027.0654/) | lumi.gateway.agl001 | 4.5.60_0027.0654 | 2026-09-10 |
 | [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.80_0007/) | lumi.gateway.agl011 | 4.5.80_0007 | 2026-09-28 |
-| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.80_0007/) | lumi.gateway.agl004 | 4.5.80_0007 | 2026-09-07 |
+| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.90_0009/) | lumi.gateway.agl004 | 4.5.90_0009 | 2026-11-12 |
 | [Intelligent Bathroom Heater T1](Intelligent%20Bathroom%20Heater%20T1/lumi.bhf_light.acn001/0.0.7_0734/) | lumi.bhf_light.acn001 | 0.0.7_0734 | 2026-03-26 |
 | [LED Bulb T1 (Tunable White)](LED%20Bulb%20T1%20%28Tunable%20White%29/lumi.light.acn014/0.0.0_0040/) | lumi.light.acn014 | 0.0.0_0040 | 2024-01-03 |
 | [LED Bulb T2 (E14, RGB CCT)](LED%20Bulb%20T2%20%28E14%2C%20RGB%20CCT%29/lumi.models.4447_6218/0015/) | lumi.models.4447_6218 | 0015 | 2026-10-26 |
@@ -892,7 +892,7 @@
 | [Hub M2 2022](Hub%20M2%202022/lumi.gateway.iragl8/4.5.60_0025.0013/) | lumi.gateway.iragl8 | 4.5.60_0025.0013 | 2026-08-06 |
 | [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.80_0007/) | lumi.gateway.agl011 | 4.5.80_0007 | 2026-09-28 |
 | [Hub M3](Hub%20M3/lumi.gateway.acn012/4.5.80_0007/) | lumi.gateway.acn012 | 4.5.80_0007 | 2026-09-02 |
-| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.90_0009/) | lumi.gateway.agl004 | 4.5.90_0009 | 2026-11-09 |
+| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.90_0009/) | lumi.gateway.agl004 | 4.5.90_0009 | 2026-11-12 |
 | [Intelligent Bathroom Heater T1](Intelligent%20Bathroom%20Heater%20T1/lumi.bhf_light.acn001/0.0.7_0734/) | lumi.bhf_light.acn001 | 0.0.7_0734 | 2026-03-26 |
 | [LED Bulb T1 (Tunable White)](LED%20Bulb%20T1%20%28Tunable%20White%29/lumi.light.acn014/0.0.0_0040/) | lumi.light.acn014 | 0.0.0_0040 | 2024-01-03 |
 | [LED Bulb T2 (E14, RGB CCT)](LED%20Bulb%20T2%20%28E14%2C%20RGB%20CCT%29/lumi.models.4447_6218/0015/) | lumi.models.4447_6218 | 0015 | 2026-10-26 |
@@ -912,9 +912,9 @@
 | [LED Bulb T2 (GU10, RGB CCT)](LED%20Bulb%20T2%20%28GU10%2C%20RGB%20CCT%29/aqara.matter.4447_6149/1.0.2.0/) | aqara.matter.4447_6149 | 1.0.2.0 | 2024-11-27 |
 | [LED Bulb T2 (GU10, RGB CCT)](LED%20Bulb%20T2%20%28GU10%2C%20RGB%20CCT%29/lumi.light.agl005/0.0.0_0031/) | lumi.light.agl005 | 0.0.0_0031 | 2026-07-07 |
 | [LED Downlight T2 (CCT)](LED%20Downlight%20T2%20%28CCT%29/aqara.matter.4447_6215/1.0.7.2/) | aqara.matter.4447_6215 | 1.0.7.2 | 2026-11-04 |
-| [LED Downlight T2 (CCT)](LED%20Downlight%20T2%20%28CCT%29/lumi.models.4447_6214/0011/) | lumi.models.4447_6214 | 0011 | 2026-11-10 |
+| [LED Downlight T2 (CCT)](LED%20Downlight%20T2%20%28CCT%29/lumi.models.4447_6214/0012/) | lumi.models.4447_6214 | 0012 | 2026-11-12 |
 | [LED Downlight T2 (RGB CCT)](LED%20Downlight%20T2%20%28RGB%20CCT%29/aqara.matter.4447_6185/1.0.7.0/) | aqara.matter.4447_6185 | 1.0.7.0 | 2026-11-04 |
-| [LED Downlight T2 (RGB CCT)](LED%20Downlight%20T2%20%28RGB%20CCT%29/lumi.models.4447_6213/0011/) | lumi.models.4447_6213 | 0011 | 2026-11-10 |
+| [LED Downlight T2 (RGB CCT)](LED%20Downlight%20T2%20%28RGB%20CCT%29/lumi.models.4447_6213/0012/) | lumi.models.4447_6213 | 0012 | 2026-11-12 |
 | [LED Strip Controller H1 (RGB Spectrum)](LED%20Strip%20Controller%20H1%20%28RGB%20Spectrum%29/aqara.matter.4447_6180/1.0.0.2/) | aqara.matter.4447_6180 | 1.0.0.2 | 2026-07-13 |
 | [LED Strip T1](LED%20Strip%20T1/lumi.light.acn132/0.0.0_2627/) | lumi.light.acn132 | 0.0.0_2627 | 2023-06-16 |
 | [LED Strip T2](LED%20Strip%20T2/aqara.matter.4447_6183/1.1.1.0/) | aqara.matter.4447_6183 | 1.1.1.0 | 2026-11-10 |
