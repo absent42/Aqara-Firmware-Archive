@@ -1,0 +1,14 @@
+{
+  "model": "lumi.models.4447_6206",
+  "friendlyName": "Permanent Outdoor Lights H1",
+  "firmwareVersion": "0035",
+  "firmwareMD5": "3842c23230ea8f8d77837ac9882ad220",
+  "fileSize": 814078,
+  "releaseNotes": "Fixed known issues",
+  "regions": [
+    "au",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-11-16"
+}

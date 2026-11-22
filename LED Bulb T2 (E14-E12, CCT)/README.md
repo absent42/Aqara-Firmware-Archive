@@ -11,5 +11,5 @@ This product name covers more than one hardware model (region or revision varian
 ## [lumi.models.4447_6219](lumi.models.4447_6219/)
 
 - Regions: au, cn, eu, kr, ru, us
-- Latest: au: [0015](lumi.models.4447_6219/0015/), cn: [0015](lumi.models.4447_6219/0015/), eu: [0015](lumi.models.4447_6219/0015/), kr: [0015](lumi.models.4447_6219/0015/), ru: [0015](lumi.models.4447_6219/0015/), us: [0015](lumi.models.4447_6219/0015/)
-- Versions: [0014](lumi.models.4447_6219/0014/) (2026-08-20), [0015](lumi.models.4447_6219/0015/) (2026-10-26)
+- Latest: au: [0016](lumi.models.4447_6219/0016/), cn: [0016](lumi.models.4447_6219/0016/), eu: [0016](lumi.models.4447_6219/0016/), kr: [0015](lumi.models.4447_6219/0015/), ru: [0015](lumi.models.4447_6219/0015/), us: [0016](lumi.models.4447_6219/0016/)
+- Versions: [0014](lumi.models.4447_6219/0014/) (2026-08-20), [0015](lumi.models.4447_6219/0015/) (2026-10-26), [0016](lumi.models.4447_6219/0016/) (2026-11-17)

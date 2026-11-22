@@ -1,0 +1,15 @@
+{
+  "model": "lumi.models.4447_6218",
+  "friendlyName": "LED Bulb T2 (E14, RGB CCT)",
+  "firmwareVersion": "0016",
+  "firmwareMD5": "d24b3a557f276756d3f041e7f66df76b",
+  "fileSize": 710974,
+  "releaseNotes": "",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "us"
+  ],
+  "releaseDate": "2026-11-17"
+}
