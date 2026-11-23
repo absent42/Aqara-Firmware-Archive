@@ -4,9 +4,9 @@ This product name covers more than one hardware model (region or revision varian
 
 ## [aqara.matter.4447_6184](aqara.matter.4447_6184/)
 
-- Regions: cn, eu, us
-- Latest: cn: [1.0.6.2](aqara.matter.4447_6184/1.0.6.2/), eu: [1.0.6.2](aqara.matter.4447_6184/1.0.6.2/), us: [1.0.6.2](aqara.matter.4447_6184/1.0.6.2/)
-- Versions: [1.0.6.1](aqara.matter.4447_6184/1.0.6.1/) (2026-08-20), [1.0.6.2](aqara.matter.4447_6184/1.0.6.2/) (2026-09-01)
+- Regions: au, cn, eu, us
+- Latest: au: [1.0.6.2](aqara.matter.4447_6184/1.0.6.2/), cn: [1.0.6.2](aqara.matter.4447_6184/1.0.6.2/), eu: [1.0.6.2](aqara.matter.4447_6184/1.0.6.2/), us: [1.0.6.2](aqara.matter.4447_6184/1.0.6.2/)
+- Versions: [1.0.6.1](aqara.matter.4447_6184/1.0.6.1/) (2026-08-20), [1.0.6.2](aqara.matter.4447_6184/1.0.6.2/) (2026-11-23)
 
 ## [lumi.models.4447_6219](lumi.models.4447_6219/)
 

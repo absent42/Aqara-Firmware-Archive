@@ -1,6 +1,6 @@
 # Firmware by Region
 
-## au (184 current firmwares)
+## au (186 current firmwares)
 
 | Device | Model | Version | Released |
 | --- | --- | --- | --- |
@@ -8,7 +8,7 @@
 | [Camera G100](Camera%20G100/lumi.camera.agl005/4.5.45_0004/) | lumi.camera.agl005 | 4.5.45_0004 | 2026-05-29 |
 | [Camera G510 (Battery)](Camera%20G510%20%28Battery%29/lumi.models.4447_12324/4.5.60_0086/) | lumi.models.4447_12324 | 4.5.60_0086 | 2026-11-09 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.agl001/4.5.30_0004.0013/) | lumi.camera.agl001 | 4.5.30_0004.0013 | 2026-06-22 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.80_0010.0017/) | lumi.camera.agl010 | 4.5.80_0010.0017 | 2026-10-22 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.90_0002.0017/) | lumi.camera.agl010 | 4.5.90_0002.0017 | 2026-11-23 |
 | [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.80_0018.0017/) | lumi.camera.acn010 | 4.5.80_0018.0017 | 2026-10-23 |
 | [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl004/4.5.80_0018.0017/) | lumi.camera.agl004 | 4.5.80_0018.0017 | 2026-10-23 |
 | [Camera Hub G520](Camera%20Hub%20G520/lumi.models.4447_12321/4.5.84_0008.0017/) | lumi.models.4447_12321 | 4.5.84_0008.0017 | 2026-11-06 |
@@ -46,7 +46,9 @@
 | [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.80_0007/) | lumi.gateway.agl004 | 4.5.80_0007 | 2026-09-07 |
 | [LED Bulb T1 (Tunable White)](LED%20Bulb%20T1%20%28Tunable%20White%29/lumi.light.acn014/0.0.0_0040/) | lumi.light.acn014 | 0.0.0_0040 | 2024-01-03 |
 | [LED Bulb T2 (E14, RGB CCT)](LED%20Bulb%20T2%20%28E14%2C%20RGB%20CCT%29/lumi.models.4447_6218/0016/) | lumi.models.4447_6218 | 0016 | 2026-11-17 |
+| [LED Bulb T2 (E14/E12, CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20CCT%29/aqara.matter.4447_6184/1.0.6.2/) | aqara.matter.4447_6184 | 1.0.6.2 | 2026-11-23 |
 | [LED Bulb T2 (E14/E12, CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20CCT%29/lumi.models.4447_6219/0016/) | lumi.models.4447_6219 | 0016 | 2026-11-17 |
+| [LED Bulb T2 (E14/E12, RGB CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20RGB%20CCT%29/aqara.matter.4447_6182/1.0.6.3/) | aqara.matter.4447_6182 | 1.0.6.3 | 2026-11-23 |
 | [LED Bulb T2 (E26, CCT)](LED%20Bulb%20T2%20%28E26%2C%20CCT%29/aqara.matter.4447_6146/1.0.2.0/) | aqara.matter.4447_6146 | 1.0.2.0 | 2024-11-27 |
 | [LED Bulb T2 (E26, CCT)](LED%20Bulb%20T2%20%28E26%2C%20CCT%29/lumi.light.agl002/0.0.0_0031/) | lumi.light.agl002 | 0.0.0_0031 | 2026-05-18 |
 | [LED Bulb T2 (E26, RGB CCT)](LED%20Bulb%20T2%20%28E26%2C%20RGB%20CCT%29/aqara.matter.4447_6145/1.0.2.0/) | aqara.matter.4447_6145 | 1.0.2.0 | 2024-11-27 |
@@ -201,7 +203,7 @@
 | [Camera G510 (Battery)](Camera%20G510%20%28Battery%29/lumi.models.4447_12324/4.5.60_0086/) | lumi.models.4447_12324 | 4.5.60_0086 | 2026-11-09 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.acn003/4.5.30_0004.0013/) | lumi.camera.acn003 | 4.5.30_0004.0013 | 2026-06-22 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.agl001/4.5.30_0004.0013/) | lumi.camera.agl001 | 4.5.30_0004.0013 | 2026-06-22 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.80_0010.0017/) | lumi.camera.agl010 | 4.5.80_0010.0017 | 2026-10-22 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.90_0002.0017/) | lumi.camera.agl010 | 4.5.90_0002.0017 | 2026-11-23 |
 | [Camera Hub G5 (PoE)](Camera%20Hub%20G5%20%28PoE%29/lumi.camera.acn009/4.5.80_0018.0017/) | lumi.camera.acn009 | 4.5.80_0018.0017 | 2026-10-23 |
 | [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.30_0008.0017/) | lumi.camera.acn010 | 4.5.30_0008.0017 | 2026-06-12 |
 | [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl003/4.5.80_0018.0017/) | lumi.camera.agl003 | 4.5.80_0018.0017 | 2026-10-23 |
@@ -250,14 +252,14 @@
 | [Hub M2](Hub%20M2/lumi.gateway.agl001/4.5.30_0013.0654/) | lumi.gateway.agl001 | 4.5.30_0013.0654 | 2026-03-03 |
 | [Hub M2 2022](Hub%20M2%202022/lumi.gateway.iragl8/4.5.60_0025.0013/) | lumi.gateway.iragl8 | 4.5.60_0025.0013 | 2026-08-06 |
 | [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.80_0007/) | lumi.gateway.agl011 | 4.5.80_0007 | 2026-09-28 |
-| [Hub M3](Hub%20M3/lumi.gateway.acn012/4.5.80_0007/) | lumi.gateway.acn012 | 4.5.80_0007 | 2026-09-02 |
+| [Hub M3](Hub%20M3/lumi.gateway.acn012/4.5.90_0011/) | lumi.gateway.acn012 | 4.5.90_0011 | 2026-11-23 |
 | [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.60_0017/) | lumi.gateway.agl004 | 4.5.60_0017 | 2026-07-07 |
 | [Intelligent Bathroom Heater T1](Intelligent%20Bathroom%20Heater%20T1/lumi.bhf_light.acn001/0.0.7_0735/) | lumi.bhf_light.acn001 | 0.0.7_0735 | 2026-07-06 |
 | [LED Bulb T1 (Tunable White)](LED%20Bulb%20T1%20%28Tunable%20White%29/lumi.light.acn014/0.0.0_0040/) | lumi.light.acn014 | 0.0.0_0040 | 2024-01-03 |
 | [LED Bulb T2 (E14, RGB CCT)](LED%20Bulb%20T2%20%28E14%2C%20RGB%20CCT%29/lumi.models.4447_6218/0016/) | lumi.models.4447_6218 | 0016 | 2026-11-17 |
-| [LED Bulb T2 (E14/E12, CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20CCT%29/aqara.matter.4447_6184/1.0.6.2/) | aqara.matter.4447_6184 | 1.0.6.2 | 2026-09-01 |
+| [LED Bulb T2 (E14/E12, CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20CCT%29/aqara.matter.4447_6184/1.0.6.2/) | aqara.matter.4447_6184 | 1.0.6.2 | 2026-11-23 |
 | [LED Bulb T2 (E14/E12, CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20CCT%29/lumi.models.4447_6219/0016/) | lumi.models.4447_6219 | 0016 | 2026-11-17 |
-| [LED Bulb T2 (E14/E12, RGB CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20RGB%20CCT%29/aqara.matter.4447_6182/1.0.6.3/) | aqara.matter.4447_6182 | 1.0.6.3 | 2026-09-01 |
+| [LED Bulb T2 (E14/E12, RGB CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20RGB%20CCT%29/aqara.matter.4447_6182/1.0.6.3/) | aqara.matter.4447_6182 | 1.0.6.3 | 2026-11-23 |
 | [LED Bulb T2 (E26, CCT)](LED%20Bulb%20T2%20%28E26%2C%20CCT%29/aqara.matter.4447_6146/1.0.2.0/) | aqara.matter.4447_6146 | 1.0.2.0 | 2024-11-27 |
 | [LED Bulb T2 (E26, CCT)](LED%20Bulb%20T2%20%28E26%2C%20CCT%29/lumi.light.agl002/0.0.0_0031/) | lumi.light.agl002 | 0.0.0_0031 | 2026-05-18 |
 | [LED Bulb T2 (E26, RGB CCT)](LED%20Bulb%20T2%20%28E26%2C%20RGB%20CCT%29/aqara.matter.4447_6145/1.0.2.0/) | aqara.matter.4447_6145 | 1.0.2.0 | 2024-11-27 |
@@ -436,7 +438,7 @@
 | [Camera G100](Camera%20G100/lumi.camera.agl005/4.5.45_0004/) | lumi.camera.agl005 | 4.5.45_0004 | 2026-05-29 |
 | [Camera G510 (Battery)](Camera%20G510%20%28Battery%29/lumi.models.4447_12324/4.5.60_0086/) | lumi.models.4447_12324 | 4.5.60_0086 | 2026-11-09 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.agl001/4.5.30_0004.0013/) | lumi.camera.agl001 | 4.5.30_0004.0013 | 2026-06-22 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.80_0010.0017/) | lumi.camera.agl010 | 4.5.80_0010.0017 | 2026-10-22 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.90_0002.0017/) | lumi.camera.agl010 | 4.5.90_0002.0017 | 2026-11-23 |
 | [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.80_0018.0017/) | lumi.camera.acn010 | 4.5.80_0018.0017 | 2026-10-23 |
 | [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl004/4.5.80_0018.0017/) | lumi.camera.agl004 | 4.5.80_0018.0017 | 2026-10-23 |
 | [Camera Hub G520](Camera%20Hub%20G520/lumi.models.4447_12321/4.5.84_0008.0017/) | lumi.models.4447_12321 | 4.5.84_0008.0017 | 2026-11-06 |
@@ -475,12 +477,12 @@
 | [Hub M1S Gen 2](Hub%20M1S%20Gen%202/lumi.gateway.agl002/4.5.30_0013.0013/) | lumi.gateway.agl002 | 4.5.30_0013.0013 | 2026-03-03 |
 | [Hub M2](Hub%20M2/lumi.gateway.agl001/4.5.60_0027.0654/) | lumi.gateway.agl001 | 4.5.60_0027.0654 | 2026-09-10 |
 | [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.80_0007/) | lumi.gateway.agl011 | 4.5.80_0007 | 2026-09-28 |
-| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.80_0007/) | lumi.gateway.agl004 | 4.5.80_0007 | 2026-09-07 |
+| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.90_0011/) | lumi.gateway.agl004 | 4.5.90_0011 | 2026-11-23 |
 | [LED Bulb T1 (Tunable White)](LED%20Bulb%20T1%20%28Tunable%20White%29/lumi.light.acn014/0.0.0_0040/) | lumi.light.acn014 | 0.0.0_0040 | 2024-01-03 |
 | [LED Bulb T2 (E14, RGB CCT)](LED%20Bulb%20T2%20%28E14%2C%20RGB%20CCT%29/lumi.models.4447_6218/0016/) | lumi.models.4447_6218 | 0016 | 2026-11-17 |
-| [LED Bulb T2 (E14/E12, CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20CCT%29/aqara.matter.4447_6184/1.0.6.2/) | aqara.matter.4447_6184 | 1.0.6.2 | 2026-09-01 |
+| [LED Bulb T2 (E14/E12, CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20CCT%29/aqara.matter.4447_6184/1.0.6.2/) | aqara.matter.4447_6184 | 1.0.6.2 | 2026-11-23 |
 | [LED Bulb T2 (E14/E12, CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20CCT%29/lumi.models.4447_6219/0016/) | lumi.models.4447_6219 | 0016 | 2026-11-17 |
-| [LED Bulb T2 (E14/E12, RGB CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20RGB%20CCT%29/aqara.matter.4447_6182/1.0.6.3/) | aqara.matter.4447_6182 | 1.0.6.3 | 2026-09-01 |
+| [LED Bulb T2 (E14/E12, RGB CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20RGB%20CCT%29/aqara.matter.4447_6182/1.0.6.3/) | aqara.matter.4447_6182 | 1.0.6.3 | 2026-11-23 |
 | [LED Bulb T2 (E27, CCT)](LED%20Bulb%20T2%20%28E27%2C%20CCT%29/aqara.matter.4447_6148/1.0.2.0/) | aqara.matter.4447_6148 | 1.0.2.0 | 2024-11-27 |
 | [LED Bulb T2 (E27, CCT)](LED%20Bulb%20T2%20%28E27%2C%20CCT%29/lumi.light.agl004/0.0.0_0031/) | lumi.light.agl004 | 0.0.0_0031 | 2026-05-18 |
 | [LED Bulb T2 (E27, RGB CCT)](LED%20Bulb%20T2%20%28E27%2C%20RGB%20CCT%29/aqara.matter.4447_6147/1.0.2.0/) | aqara.matter.4447_6147 | 1.0.2.0 | 2024-11-27 |
@@ -616,7 +618,7 @@
 | [Camera G100](Camera%20G100/lumi.camera.agl005/4.5.45_0004/) | lumi.camera.agl005 | 4.5.45_0004 | 2026-05-29 |
 | [Camera G510 (Battery)](Camera%20G510%20%28Battery%29/lumi.models.4447_12324/4.5.60_0086/) | lumi.models.4447_12324 | 4.5.60_0086 | 2026-11-09 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.agl001/4.5.30_0004.0013/) | lumi.camera.agl001 | 4.5.30_0004.0013 | 2026-06-22 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.80_0010.0017/) | lumi.camera.agl010 | 4.5.80_0010.0017 | 2026-10-22 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.90_0002.0017/) | lumi.camera.agl010 | 4.5.90_0002.0017 | 2026-11-23 |
 | [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.80_0018.0017/) | lumi.camera.acn010 | 4.5.80_0018.0017 | 2026-10-23 |
 | [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl004/4.5.80_0018.0017/) | lumi.camera.agl004 | 4.5.80_0018.0017 | 2026-10-23 |
 | [Camera Hub G520](Camera%20Hub%20G520/lumi.models.4447_12321/4.5.84_0008.0017/) | lumi.models.4447_12321 | 4.5.84_0008.0017 | 2026-11-06 |
@@ -646,7 +648,7 @@
 | [Hub M1S Gen 2](Hub%20M1S%20Gen%202/lumi.gateway.agl002/4.5.30_0013.0013/) | lumi.gateway.agl002 | 4.5.30_0013.0013 | 2026-03-03 |
 | [Hub M2](Hub%20M2/lumi.gateway.agl001/4.5.60_0027.0654/) | lumi.gateway.agl001 | 4.5.60_0027.0654 | 2026-09-10 |
 | [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.80_0007/) | lumi.gateway.agl011 | 4.5.80_0007 | 2026-09-28 |
-| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.80_0007/) | lumi.gateway.agl004 | 4.5.80_0007 | 2026-09-07 |
+| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.90_0011/) | lumi.gateway.agl004 | 4.5.90_0011 | 2026-11-23 |
 | [Intelligent Bathroom Heater T1](Intelligent%20Bathroom%20Heater%20T1/lumi.bhf_light.acn001/0.0.7_0734/) | lumi.bhf_light.acn001 | 0.0.7_0734 | 2026-03-26 |
 | [LED Bulb T1 (Tunable White)](LED%20Bulb%20T1%20%28Tunable%20White%29/lumi.light.acn014/0.0.0_0040/) | lumi.light.acn014 | 0.0.0_0040 | 2024-01-03 |
 | [LED Bulb T2 (E14, RGB CCT)](LED%20Bulb%20T2%20%28E14%2C%20RGB%20CCT%29/lumi.models.4447_6218/0015/) | lumi.models.4447_6218 | 0015 | 2026-10-26 |
@@ -845,7 +847,7 @@
 | [Camera G510 (Battery)](Camera%20G510%20%28Battery%29/lumi.models.4447_12324/4.5.60_0086/) | lumi.models.4447_12324 | 4.5.60_0086 | 2026-11-09 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.acn003/4.5.30_0004.0013/) | lumi.camera.acn003 | 4.5.30_0004.0013 | 2026-06-22 |
 | [Camera Hub G2H Pro](Camera%20Hub%20G2H%20Pro/lumi.camera.agl001/4.5.30_0004.0013/) | lumi.camera.agl001 | 4.5.30_0004.0013 | 2026-06-22 |
-| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.80_0010.0017/) | lumi.camera.agl010 | 4.5.80_0010.0017 | 2026-10-22 |
+| [Camera Hub G350](Camera%20Hub%20G350/lumi.camera.agl010/4.5.90_0002.0017/) | lumi.camera.agl010 | 4.5.90_0002.0017 | 2026-11-23 |
 | [Camera Hub G5 (PoE)](Camera%20Hub%20G5%20%28PoE%29/lumi.camera.acn009/4.3.3_0006.0017/) | lumi.camera.acn009 | 4.3.3_0006.0017 | 2025-02-20 |
 | [Camera Hub G5 Pro (PoE)](Camera%20Hub%20G5%20Pro%20%28PoE%29/lumi.camera.acn010/4.5.80_0018.0017/) | lumi.camera.acn010 | 4.5.80_0018.0017 | 2026-10-23 |
 | [Camera Hub G5 Pro (Wi-Fi)](Camera%20Hub%20G5%20Pro%20%28Wi-Fi%29/lumi.camera.agl003/4.5.20_0012.0017/) | lumi.camera.agl003 | 4.5.20_0012.0017 | 2026-05-11 |
@@ -892,13 +894,13 @@
 | [Hub M2 2022](Hub%20M2%202022/lumi.gateway.iragl8/4.5.60_0025.0013/) | lumi.gateway.iragl8 | 4.5.60_0025.0013 | 2026-08-06 |
 | [Hub M200](Hub%20M200/lumi.gateway.agl011/4.5.80_0007/) | lumi.gateway.agl011 | 4.5.80_0007 | 2026-09-28 |
 | [Hub M3](Hub%20M3/lumi.gateway.acn012/4.5.80_0007/) | lumi.gateway.acn012 | 4.5.80_0007 | 2026-09-02 |
-| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.80_0007/) | lumi.gateway.agl004 | 4.5.80_0007 | 2026-09-07 |
+| [Hub M3](Hub%20M3/lumi.gateway.agl004/4.5.90_0011/) | lumi.gateway.agl004 | 4.5.90_0011 | 2026-11-23 |
 | [Intelligent Bathroom Heater T1](Intelligent%20Bathroom%20Heater%20T1/lumi.bhf_light.acn001/0.0.7_0734/) | lumi.bhf_light.acn001 | 0.0.7_0734 | 2026-03-26 |
 | [LED Bulb T1 (Tunable White)](LED%20Bulb%20T1%20%28Tunable%20White%29/lumi.light.acn014/0.0.0_0040/) | lumi.light.acn014 | 0.0.0_0040 | 2024-01-03 |
 | [LED Bulb T2 (E14, RGB CCT)](LED%20Bulb%20T2%20%28E14%2C%20RGB%20CCT%29/lumi.models.4447_6218/0016/) | lumi.models.4447_6218 | 0016 | 2026-11-17 |
-| [LED Bulb T2 (E14/E12, CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20CCT%29/aqara.matter.4447_6184/1.0.6.2/) | aqara.matter.4447_6184 | 1.0.6.2 | 2026-09-01 |
+| [LED Bulb T2 (E14/E12, CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20CCT%29/aqara.matter.4447_6184/1.0.6.2/) | aqara.matter.4447_6184 | 1.0.6.2 | 2026-11-23 |
 | [LED Bulb T2 (E14/E12, CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20CCT%29/lumi.models.4447_6219/0016/) | lumi.models.4447_6219 | 0016 | 2026-11-17 |
-| [LED Bulb T2 (E14/E12, RGB CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20RGB%20CCT%29/aqara.matter.4447_6182/1.0.6.3/) | aqara.matter.4447_6182 | 1.0.6.3 | 2026-09-01 |
+| [LED Bulb T2 (E14/E12, RGB CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20RGB%20CCT%29/aqara.matter.4447_6182/1.0.6.3/) | aqara.matter.4447_6182 | 1.0.6.3 | 2026-11-23 |
 | [LED Bulb T2 (E26, CCT)](LED%20Bulb%20T2%20%28E26%2C%20CCT%29/aqara.matter.4447_6146/1.0.2.0/) | aqara.matter.4447_6146 | 1.0.2.0 | 2024-11-27 |
 | [LED Bulb T2 (E26, CCT)](LED%20Bulb%20T2%20%28E26%2C%20CCT%29/lumi.light.agl002/0.0.0_0031/) | lumi.light.agl002 | 0.0.0_0031 | 2026-05-18 |
 | [LED Bulb T2 (E26, RGB CCT)](LED%20Bulb%20T2%20%28E26%2C%20RGB%20CCT%29/aqara.matter.4447_6145/1.0.2.0/) | aqara.matter.4447_6145 | 1.0.2.0 | 2024-11-27 |

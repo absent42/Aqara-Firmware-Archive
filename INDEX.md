@@ -58,7 +58,7 @@
 | [LED Bulb T1 (Tunable White)](LED%20Bulb%20T1%20%28Tunable%20White%29/) | lumi.light.acn014 | au, cn, eu, kr, ru, us |
 | [LED Bulb T2 (E14, RGB CCT)](LED%20Bulb%20T2%20%28E14%2C%20RGB%20CCT%29/) | lumi.models.4447_6218 | au, cn, eu, kr, ru, us |
 | [LED Bulb T2 (E14/E12, CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20CCT%29/) | aqara.matter.4447_6184, lumi.models.4447_6219 | au, cn, eu, kr, ru, us |
-| [LED Bulb T2 (E14/E12, RGB CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20RGB%20CCT%29/) | aqara.matter.4447_6182 | cn, eu, us |
+| [LED Bulb T2 (E14/E12, RGB CCT)](LED%20Bulb%20T2%20%28E14-E12%2C%20RGB%20CCT%29/) | aqara.matter.4447_6182 | au, cn, eu, us |
 | [LED Bulb T2 (E26, CCT)](LED%20Bulb%20T2%20%28E26%2C%20CCT%29/) | aqara.matter.4447_6146, lumi.light.agl002 | au, cn, kr, ru, us |
 | [LED Bulb T2 (E26, RGB CCT)](LED%20Bulb%20T2%20%28E26%2C%20RGB%20CCT%29/) | aqara.matter.4447_6145, lumi.light.agl001 | au, cn, kr, ru, us |
 | [LED Bulb T2 (E27, CCT)](LED%20Bulb%20T2%20%28E27%2C%20CCT%29/) | aqara.matter.4447_6148, lumi.light.agl004 | au, cn, eu, us |

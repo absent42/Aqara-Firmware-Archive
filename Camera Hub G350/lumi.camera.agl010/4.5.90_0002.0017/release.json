@@ -1,0 +1,16 @@
+{
+  "model": "lumi.camera.agl010",
+  "friendlyName": "Camera Hub G350",
+  "firmwareVersion": "4.5.90_0002.0017",
+  "firmwareMD5": "d3bc2bb2a9cab1baf638d32574e2fbaa",
+  "fileSize": 34058344,
+  "releaseNotes": "1. Fixed an issue with cloud recording functionality when connecting to third-party ecosystems via Matter under certain conditions\n2. Fixed an issue where motion Detection could not be triggered when connecting to third-party Ecosystems via Matter under certain conditions\n3. Updated Hub firmware version to fix known issues\n4. Added support for Onvif protocol",
+  "regions": [
+    "au",
+    "cn",
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-11-23"
+}

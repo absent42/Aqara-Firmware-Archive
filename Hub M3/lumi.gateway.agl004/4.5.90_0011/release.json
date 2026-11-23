@@ -1,0 +1,14 @@
+{
+  "model": "lumi.gateway.agl004",
+  "friendlyName": "Hub M3",
+  "firmwareVersion": "4.5.90_0011",
+  "firmwareMD5": "03cbd711da2e59b1391de63ebb4c1b5d",
+  "fileSize": 33781864,
+  "releaseNotes": "1. Optimized device-related functions\n2. Fixed known issues",
+  "regions": [
+    "eu",
+    "kr",
+    "us"
+  ],
+  "releaseDate": "2026-11-23"
+}
